@@ -15,6 +15,6 @@
 ,.free-gift-popup,.confirm-popup-v2{
     display:none !important;
 }
-.pd21-product-finder__no-result {
+.pd21-product-finder__no-result,.ebt-popup {
     display: none !important;
 }
