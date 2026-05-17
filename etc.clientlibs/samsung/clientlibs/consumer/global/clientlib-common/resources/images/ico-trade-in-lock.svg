@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_26322" data-name="사각형 26322" width="24" height="24" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-PC_service_knox_guard_Ic">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="PC_service_knox_guard_Ic" clip-path="url(#clip-PC_service_knox_guard_Ic)">
+    <g id="service_knox_guard_Ic">
+      <g id="그룹_33659" data-name="그룹 33659" clip-path="url(#clip-path)">
+        <rect id="사각형_26321" data-name="사각형 26321" width="17.03" height="12.653" rx="1" transform="translate(3.485 9.85)" fill="none" stroke="#070203" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="패스_8776" data-name="패스 8776" d="M6.16,9.773V7.34a5.84,5.84,0,1,1,11.68,0V9.773" fill="none" stroke="#070203" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <circle id="타원_2" data-name="타원 2" cx="1.46" cy="1.46" r="1.46" transform="translate(10.54 13.217)" fill="none" stroke="#070203" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="선_566" data-name="선 566" y2="3.895" transform="translate(12 16.135)" fill="none" stroke="#070203" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

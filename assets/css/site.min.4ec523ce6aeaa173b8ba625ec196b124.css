@@ -1,0 +1,100 @@
+.co80-reasons-to-buy{max-width:1920px;margin:0 auto}
+.co80-reasons-to-buy__inner{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;-ms-flex-wrap:wrap;flex-wrap:wrap;margin:0 auto;padding:55px 0 60px;max-width:1440px}
+.co80-reasons-to-buy__inner:not(:has(.co80-reasons-to-buy__headline-wrap)) .co80-reasons-to-buy__learn-more-cta{padding-top:0}
+.co80-reasons-to-buy__headline-wrap{-webkit-box-flex:1;-ms-flex:1;flex:1;width:100%;-webkit-box-ordinal-group:2;-ms-flex-order:1;order:1}
+.co80-reasons-to-buy__headline{padding:0 24px;font-family:'SamsungSharpSans',arial,sans-serif;font-size:40px;line-height:1.2}
+.co80-reasons-to-buy__content{margin-top:46px;width:100%;-webkit-box-ordinal-group:4;-ms-flex-order:3;order:3}
+.co80-reasons-to-buy__list{padding:0 12px}
+.co80-reasons-to-buy__item{padding:0 12px;width:354px}
+.co80-reasons-to-buy__card{border-radius:8px;padding:32px 32px 33px;max-width:330px;height:100%;background-color:#f7f7f7}
+.co80-reasons-to-buy__image{height:40px}
+.co80-reasons-to-buy__image .image{height:40px}
+.co80-reasons-to-buy__image .image img{width:auto;height:100%}
+.co80-reasons-to-buy:not(:has(.co80-reasons-to-buy__image *)) .co80-reasons-to-buy__image{height:0}
+.co80-reasons-to-buy:has(.co80-reasons-to-buy__image *) .co80-reasons-to-buy__name-wrap{margin-top:24px}
+.co80-reasons-to-buy__name{font-size:22px;font-weight:bold;line-height:1.33}
+.co80-reasons-to-buy__desc-wrap{margin-top:7px}
+.co80-reasons-to-buy__desc{font-size:16px;line-height:1.33}
+.co80-reasons-to-buy__cta{margin-top:19px}
+.co80-reasons-to-buy__learn-more-cta{padding-top:9px;-webkit-box-ordinal-group:3;-ms-flex-order:2;order:2;padding-right:24px}
+.co80-reasons-to-buy__learn-more-cta .cta--outlined{border-color:#000;color:#000}
+.co80-reasons-to-buy__learn-more-cta .cta--outlined:hover,.co80-reasons-to-buy__learn-more-cta .cta--outlined:focus{color:#fff !important;background-color:#000 !important}
+.co80-reasons-to-buy .progressbar-indicator{display:none;margin-top:40px}
+.co80-reasons-to-buy .swiper-container-initialized ~ .progressbar-indicator--show{display:block}
+.co80-reasons-to-buy .swiper-container-initialized ~ .progressbar-indicator--show .progressbar-indicator__arrow{display:block !important}
+.co80-reasons-to-buy.co80-reasons-to-buy--headline-center .co80-reasons-to-buy__inner:not(:has(.co80-reasons-to-buy__headline-wrap)) .co80-reasons-to-buy__learn-more-cta{margin-top:0}
+.co80-reasons-to-buy.co80-reasons-to-buy--headline-center .co80-reasons-to-buy__inner:not(:has(.co80-reasons-to-buy__learn-more-cta)) .co80-reasons-to-buy__content{margin-top:46px}
+.co80-reasons-to-buy.co80-reasons-to-buy--headline-center .co80-reasons-to-buy__headline{text-align:center}
+.co80-reasons-to-buy.co80-reasons-to-buy--headline-center .co80-reasons-to-buy__content{margin-top:40px}
+.co80-reasons-to-buy.co80-reasons-to-buy--headline-center .co80-reasons-to-buy__learn-more-cta{margin-top:30px;padding:0 24px;width:100%;text-align:center}
+.co80-reasons-to-buy.co80-reasons-to-buy--theme-white-card .co80-reasons-to-buy__item .co80-reasons-to-buy__image{background-color:#f5f7fe}
+.co80-reasons-to-buy.co80-reasons-to-buy--theme-white-card .co80-reasons-to-buy__item .co80-reasons-to-buy__image svg{-webkit-filter:brightness(0) saturate(100%) invert(59%) sepia(53%) saturate(6266%) hue-rotate(195deg) brightness(98%) contrast(107%);filter:brightness(0) saturate(100%) invert(59%) sepia(53%) saturate(6266%) hue-rotate(195deg) brightness(98%) contrast(107%)}
+.co80-reasons-to-buy.co80-reasons-to-buy--theme-white-card .co80-reasons-to-buy__item .co80-reasons-to-buy__image svg:has([href="#smart-care-regular"]){-webkit-filter:none;filter:none}
+.co80-reasons-to-buy.co80-reasons-to-buy--theme-white-card .co80-reasons-to-buy__card{background-color:#fff;-webkit-box-shadow:0 0 0 1px #ddd inset;box-shadow:0 0 0 1px #ddd inset}
+.co80-reasons-to-buy.co80-reasons-to-buy--theme-white-card .co80-reasons-to-buy__image{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;border-radius:8px;width:64px;height:64px}
+.co80-reasons-to-buy.co80-reasons-to-buy--theme-white-card .co80-reasons-to-buy__image svg,.co80-reasons-to-buy.co80-reasons-to-buy--theme-white-card .co80-reasons-to-buy__image .image{width:36px;height:36px}
+.co80-reasons-to-buy.co80-reasons-to-buy--theme-white-card .co80-reasons-to-buy__name{font-family:'SamsungSharpSans',arial,sans-serif;font-weight:bold}
+.co80-reasons-to-buy.co80-reasons-to-buy--theme-white-card .co80-reasons-to-buy__desc-wrap{margin-top:13px}
+.co80-reasons-to-buy.co80-reasons-to-buy--theme-white-card:has(.co80-reasons-to-buy__image *) .co80-reasons-to-buy__name-wrap{margin-top:20px}
+.co80-reasons-to-buy.co80-reasons-to-buy--bg-black{background-color:#000}
+.co80-reasons-to-buy.co80-reasons-to-buy--bg-black .progressbar-indicator__bar{background-color:rgba(255,255,255,0.1)}
+.co80-reasons-to-buy.co80-reasons-to-buy--bg-black .progressbar-indicator__bar-fill{background-color:#fff}
+.co80-reasons-to-buy.co80-reasons-to-buy--bg-black .progressbar-indicator__arrow{border-color:#757575;background-color:transparent}
+.co80-reasons-to-buy.co80-reasons-to-buy--bg-black .progressbar-indicator__arrow .icon{fill:#fff}
+.co80-reasons-to-buy.co80-reasons-to-buy--bg-black .co80-reasons-to-buy__learn-more-cta .cta--outlined{color:#fff;border-color:#fff}
+.co80-reasons-to-buy.co80-reasons-to-buy--bg-black .co80-reasons-to-buy__learn-more-cta .cta--outlined:hover,.co80-reasons-to-buy.co80-reasons-to-buy--bg-black .co80-reasons-to-buy__learn-more-cta .cta--outlined:focus{color:#000 !important;background-color:#fff !important}
+.co80-reasons-to-buy.co80-reasons-to-buy--text-white .co80-reasons-to-buy__headline{color:#fff}
+@media only screen and (min-width:768px) and (max-width:1440px){.co80-reasons-to-buy{max-width:100vw}
+.co80-reasons-to-buy__inner{padding:3.81944444vw 0vw 4.16666667vw 0vw}
+.co80-reasons-to-buy__headline{padding:0vw 1.66666667vw;font-size:2.77777778vw}
+.co80-reasons-to-buy__content{margin-top:3.19444444vw}
+.co80-reasons-to-buy__list{padding:0vw .83333333vw}
+.co80-reasons-to-buy__item{padding:0vw .83333333vw;width:24.58333333vw}
+.co80-reasons-to-buy__card{border-radius:.55555556vw;padding:2.22222222vw 2.22222222vw 2.29166667vw 2.22222222vw;max-width:22.91666667vw}
+.co80-reasons-to-buy__image{height:2.77777778vw}
+.co80-reasons-to-buy__image .image{height:2.77777778vw}
+.co80-reasons-to-buy:has(.co80-reasons-to-buy__image *) .co80-reasons-to-buy__name-wrap{margin-top:1.66666667vw}
+.co80-reasons-to-buy__name{font-size:1.52777778vw}
+.co80-reasons-to-buy__desc-wrap{margin-top:.48611111vw}
+.co80-reasons-to-buy__desc{font-size:1.11111111vw}
+.co80-reasons-to-buy__cta{margin-top:1.31944444vw}
+.co80-reasons-to-buy .progressbar-indicator{margin-top:2.77777778vw}
+.co80-reasons-to-buy.co80-reasons-to-buy--headline-center .co80-reasons-to-buy__inner:not(:has(.co80-reasons-to-buy__learn-more-cta)) .co80-reasons-to-buy__content{margin-top:3.19444444vw}
+.co80-reasons-to-buy.co80-reasons-to-buy--headline-center .co80-reasons-to-buy__content{margin-top:2.77777778vw}
+.co80-reasons-to-buy.co80-reasons-to-buy--headline-center .co80-reasons-to-buy__learn-more-cta{margin-top:1.66666667vw;padding:0vw 1.66666667vw}
+.co80-reasons-to-buy.co80-reasons-to-buy--theme-white-card .co80-reasons-to-buy__image{border-radius:.55555556vw;width:4.44444444vw;height:4.44444444vw}
+.co80-reasons-to-buy.co80-reasons-to-buy--theme-white-card .co80-reasons-to-buy__image svg,.co80-reasons-to-buy.co80-reasons-to-buy--theme-white-card .co80-reasons-to-buy__image .image{width:2.5vw;height:2.5vw}
+.co80-reasons-to-buy.co80-reasons-to-buy--theme-white-card .co80-reasons-to-buy__desc-wrap{margin-top:.90277778vw}
+.co80-reasons-to-buy.co80-reasons-to-buy--theme-white-card:has(.co80-reasons-to-buy__image *) .co80-reasons-to-buy__name-wrap{margin-top:1.38888889vw}
+}
+@media only screen and (max-width:767px){.co80-reasons-to-buy__inner{display:block;padding:10vw 0vw 11.11111111vw 0vw}
+.co80-reasons-to-buy__headline{padding:0vw 6.66666667vw;font-size:6.66666667vw;line-height:1.33}
+.co80-reasons-to-buy__content{margin-top:7.77777778vw}
+.co80-reasons-to-buy__list{padding:0vw 5.55555556vw;width:100%}
+.co80-reasons-to-buy__item{padding:0vw 1.11111111vw;width:80vw !important;height:auto}
+.co80-reasons-to-buy__card{padding:8.88888889vw 8.88888889vw 9.16666667vw 8.88888889vw;border-radius:1.11111111vw;max-width:100%}
+.co80-reasons-to-buy__image{height:11.11111111vw}
+.co80-reasons-to-buy__image .image{height:11.11111111vw}
+.co80-reasons-to-buy:has(.co80-reasons-to-buy__image *) .co80-reasons-to-buy__name-wrap{margin-top:6.66666667vw}
+.co80-reasons-to-buy__name{font-size:5vw}
+.co80-reasons-to-buy__desc-wrap{margin-top:2.22222222vw}
+.co80-reasons-to-buy__desc{font-size:3.88888889vw}
+.co80-reasons-to-buy__cta{margin-top:7.77777778vw}
+.co80-reasons-to-buy__cta .cta{font-size:4.44444444vw}
+.co80-reasons-to-buy__learn-more-cta{padding:0;text-align:center;margin-top:6.66666667vw}
+.co80-reasons-to-buy .progressbar-indicator{display:none !important}
+.co80-reasons-to-buy .swiper-container .swiper-wrapper{-webkit-transition:left .2s linear .1s,-webkit-transform;transition:left .2s linear .1s,-webkit-transform;transition:transform,left .2s linear .1s;transition:transform,left .2s linear .1s,-webkit-transform}
+.co80-reasons-to-buy .swiper-container.swiper-slide--end{left:calc(0%)}
+.co80-reasons-to-buy .swiper-container.swiper-slide--end .swiper-wrapper{left:4.44444444%}
+.co80-reasons-to-buy .swiper-container.swiper-slide--beginning{left:calc(0vw)}
+.co80-reasons-to-buy .swiper-container.swiper-slide--beginning .swiper-wrapper{left:-4.44444444%}
+.co80-reasons-to-buy.co80-reasons-to-buy--headline-center .co80-reasons-to-buy__inner:not(:has(.co80-reasons-to-buy__headline-wrap)) .co80-reasons-to-buy__learn-more-cta{margin-top:6.66666667vw}
+.co80-reasons-to-buy.co80-reasons-to-buy--headline-center .co80-reasons-to-buy__headline{text-align:center}
+.co80-reasons-to-buy.co80-reasons-to-buy--headline-center .co80-reasons-to-buy__content{margin-top:8.05555556vw}
+.co80-reasons-to-buy.co80-reasons-to-buy--headline-center .co80-reasons-to-buy__learn-more-cta{margin-bottom:0;margin-top:6.66666667vw}
+.co80-reasons-to-buy.co80-reasons-to-buy--theme-white-card .co80-reasons-to-buy__image{border-radius:2.22222222vw;width:13.33333333vw;height:13.33333333vw}
+.co80-reasons-to-buy.co80-reasons-to-buy--theme-white-card .co80-reasons-to-buy__image svg,.co80-reasons-to-buy.co80-reasons-to-buy--theme-white-card .co80-reasons-to-buy__image .image{width:6.66666667vw;height:6.66666667vw}
+.co80-reasons-to-buy.co80-reasons-to-buy--theme-white-card .co80-reasons-to-buy__desc-wrap{margin-top:3.05555556vw}
+.co80-reasons-to-buy.co80-reasons-to-buy--theme-white-card .co80-reasons-to-buy__cta{margin-top:2.5vw}
+.co80-reasons-to-buy.co80-reasons-to-buy--theme-white-card:has(.co80-reasons-to-buy__image *) .co80-reasons-to-buy__name-wrap{margin-top:5.83333333vw}
+}

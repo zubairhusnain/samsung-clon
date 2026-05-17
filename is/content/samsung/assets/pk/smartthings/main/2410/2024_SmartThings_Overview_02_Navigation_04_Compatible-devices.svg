@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 101 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #595959;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #99e88f;
+      }
+    </style>
+  </defs>
+  <g id="_01_Overview_ST-Icon_05" data-name=" 01 Overview ST-Icon 05">
+    <rect class="cls-2" x=".5" y="0" width="100" height="100"/>
+  </g>
+  <g id="ic_multipurpose_sensor_2_live" data-name="ic multipurpose sensor 2 live">
+    <path id="Fill_1" data-name="Fill 1" class="cls-1" d="M28.4,50.2h4.9c2.7,0,4.9,2.2,4.9,4.9h0v25.9c0,2.7-2.2,4.9-4.9,4.9h-4.9c-2.7,0-4.9-2.2-4.9-4.9h0v-25.9c0-2.7,2.2-4.9,4.9-4.9h0"/>
+    <path id="Fill_3" data-name="Fill 3" class="cls-1" d="M59.1,47h12.9c3.6,0,6.5,2.9,6.5,6.5v29.1c0,3.6-2.9,6.5-6.5,6.5h-12.9c-3.6,0-6.5-2.9-6.5-6.5h0v-29.1c0-3.6,2.9-6.5,6.5-6.5"/>
+    <path id="Shape" class="cls-3" d="M48.6,69.6c-.9,0-1.6-.7-1.6-1.6s.7-1.6,1.6-1.6,1.6.7,1.6,1.6-.7,1.6-1.6,1.6ZM42.1,69.6c-.9,0-1.6-.7-1.6-1.6s.7-1.6,1.6-1.6,1.6.7,1.6,1.6-.7,1.6-1.6,1.6h0Z"/>
+    <path id="Path" class="cls-3" d="M59.1,71.2v-6.5c0-.9-.8-1.6-1.7-1.6s-1.5.7-1.6,1.6v6.5c0,.9.8,1.6,1.7,1.6s1.5-.7,1.6-1.6"/>
+    <path id="Path-2" class="cls-3" d="M33.2,72.9h0c-.9,0-1.6-.7-1.6-1.6h0v-6.5c0-.9.8-1.6,1.7-1.6s1.5.7,1.6,1.6v6.5c0,.9-.7,1.6-1.6,1.6h0"/>
+  </g>
+</svg>

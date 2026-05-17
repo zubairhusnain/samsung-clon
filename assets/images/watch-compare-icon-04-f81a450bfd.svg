@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Spec_Icons_Library_96x96_size__Common" data-name="Spec Icons Library(96x96 size)_Common">
+    <g id="common_storage_external">
+      <rect id="Image_container" data-name="Image container" class="cls-1" width="96" height="96"/>
+      <g id="Icon">
+        <path id="Path" class="cls-2" d="M20.5,44c-.03.64-.25,1.26-.62,1.78l-6.75,8.44c-.38.52-.59,1.14-.62,1.78v32c0,.55.45,1,1,1h64c.55,0,1-.45,1-1V8c0-.55-.45-1-1-1H21.5c-.55,0-1,.45-1,1v36Z"/>
+        <line id="Path-2" data-name="Path" class="cls-3" x1="31.5" y1="20" x2="31.5" y2="36"/>
+        <line id="Path-3" data-name="Path" class="cls-3" x1="43.5" y1="20" x2="43.5" y2="36"/>
+        <line id="Path-4" data-name="Path" class="cls-3" x1="55.5" y1="20" x2="55.5" y2="36"/>
+        <line id="Path-5" data-name="Path" class="cls-3" x1="67.5" y1="20" x2="67.5" y2="36"/>
+      </g>
+    </g>
+  </g>
+</svg>

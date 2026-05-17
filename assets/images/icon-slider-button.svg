@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Isolation_Mode" data-name="Isolation Mode" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49 49">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        opacity: .1;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M24.5.5c13.25,0,24,10.75,24,24s-10.75,24-24,24S.5,37.75.5,24.5,11.25.5,24.5.5Z"/>
+  <g id="Normal-2">
+    <rect id="container-3" class="cls-1" x="8.5" y="8.5" width="32" height="32"/>
+    <g id="icon">
+      <g id="Next">
+        <rect id="container-4" class="cls-1" x="24.5" y="16.5" width="16" height="16"/>
+        <path id="vector" d="M30.54,30.6l-.92-.96,5.33-5.1-5.33-5.1.92-.96,6.34,6.07-6.34,6.07Z"/>
+      </g>
+    </g>
+    <g id="icon-2">
+      <g id="Previous">
+        <rect id="container-5" class="cls-1" x="8.5" y="16.5" width="16" height="16"/>
+        <path id="vector-2" d="M18.54,30.57l-6.34-6.07,6.34-6.07.92.96-5.33,5.1,5.33,5.1-.92.97Z"/>
+      </g>
+    </g>
+  </g>
+  <g class="cls-3">
+    <path d="M24.5,1.5c12.68,0,23,10.32,23,23s-10.32,23-23,23S1.5,37.18,1.5,24.5,11.82,1.5,24.5,1.5M24.5.5C11.25.5.5,11.25.5,24.5s10.75,24,24,24,24-10.75,24-24S37.75.5,24.5.5h0Z"/>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" data-name=" 레이어 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        fill: #000;
+      }
+    </style>
+  </defs>
+  <rect id="Image_Container" data-name="Image Container" class="cls-1" width="96" height="96"/>
+  <path id="Path" class="cls-2" d="M71.7,61.2c0,13.6-12.6,24.8-26.2,24.8s-26.2-11.2-26.2-24.8S38.5,17.8,44,10.7c.7-.8,1.8-1,2.7-.3.1,0,.2.2.3.3,5.5,7,24.7,32.6,24.7,50.5,0,0,0,0,0,0Z"/>
+  <path id="Path-2" class="cls-3" d="M16.6,35.2c0-1.6-1.3-2.8-2.9-2.8s-2.9,1.3-2.9,2.8,1.3,2.8,2.9,2.8,2.9-1.3,2.9-2.8h0"/>
+  <path id="Path-3" class="cls-3" d="M22.9,25.6c0-1.6-1.3-2.9-2.9-2.9s-2.9,1.3-2.9,2.9,1.3,2.9,2.9,2.9,2.9-1.3,2.9-2.9h0"/>
+  <path id="Path-4" class="cls-3" d="M29.5,16c0-1.6-1.3-2.9-2.9-2.9s-2.9,1.3-2.9,2.9,1.3,2.9,2.9,2.9,2.9-1.3,2.9-2.9h0"/>
+  <path id="Path-5" class="cls-3" d="M5.7,35.2c0-1.6-1.3-2.8-2.8-2.8s-2.8,1.3-2.8,2.8,1.3,2.8,2.8,2.8,2.8-1.3,2.8-2.8h0"/>
+  <path id="Path-6" class="cls-3" d="M12,25.6c0-1.6-1.3-2.9-2.8-2.9s-2.8,1.3-2.8,2.9,1.3,2.9,2.8,2.9,2.9-1.3,2.9-2.9h0"/>
+  <path id="Path-7" class="cls-3" d="M18.6,16c0-1.6-1.3-2.9-2.9-2.9s-2.9,1.3-2.9,2.9,1.3,2.9,2.9,2.9,2.9-1.3,2.9-2.9h0"/>
+</svg>

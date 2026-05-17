@@ -1,0 +1,13 @@
+RewriteEngine On
+
+RewriteRule ^pk/(.*)$ $1 [R=302,L]
+
+RewriteCond %{REQUEST_URI} !/router\.php$ [NC]
+RewriteCond %{REQUEST_URI} \.php$ [NC]
+RewriteRule ^ router.php [L,QSA]
+
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+RewriteRule ^ router.php [L,QSA]

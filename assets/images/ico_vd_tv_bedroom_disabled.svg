@@ -1,0 +1,11 @@
+<svg id="ic_bedroom_24x24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="사각형_11" data-name="사각형 11" width="24" height="24" fill="none"/>
+  <g id="bedroom_24x24" transform="translate(0.016)">
+    <path id="패스_27" data-name="패스 27" d="M19.248,6H4.752a.259.259,0,0,0-.252.265V11.5a.259.259,0,0,0,.252.265h14.5A.259.259,0,0,0,19.5,11.5V6.265A.259.259,0,0,0,19.248,6Z" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_28" data-name="패스 28" d="M21.213,12H2.756a.258.258,0,0,0-.272.242v3.516A.258.258,0,0,0,2.756,16H21.213a.258.258,0,0,0,.272-.242V12.242A.258.258,0,0,0,21.213,12Z" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_29" data-name="패스 29" d="M2.484,15.375v3.032" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_30" data-name="패스 30" d="M21.484,15.375v3.032" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_31" data-name="패스 31" d="M7.243,8.814h4.265a.5.5,0,0,1,.493.5v2.3H6.75v-2.3A.5.5,0,0,1,7.243,8.814Z" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_32" data-name="패스 32" d="M12.493,8.814h4.265a.5.5,0,0,1,.493.5v2.3H12v-2.3A.5.5,0,0,1,12.493,8.814Z" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

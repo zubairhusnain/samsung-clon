@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_26310" data-name="사각형 26310" width="24" height="24" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-PC_common_dura_gorilla-glass-vitus-plus_ic">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="PC_common_dura_gorilla-glass-vitus-plus_ic" clip-path="url(#clip-PC_common_dura_gorilla-glass-vitus-plus_ic)">
+    <g id="common_dura_gorilla-glass-vitus-plus">
+      <g id="그룹_33648" data-name="그룹 33648" clip-path="url(#clip-path)">
+        <path id="패스_8726" data-name="패스 8726" d="M21.475,20.474,2.527,20.5a.988.988,0,0,1-.08-1.975h.077L21.472,18.5a.988.988,0,1,1,.08,1.974A.5.5,0,0,1,21.475,20.474Z" fill="none" stroke="#090707" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="선_558" data-name="선 558" x1="1.96" y2="1.132" transform="translate(18.551 15.683)" fill="none" stroke="#070203" stroke-linecap="round" stroke-width="1"/>
+        <line id="선_559" data-name="선 559" x1="2.438" y2="4.222" transform="translate(17.365 11.306)" fill="none" stroke="#070203" stroke-linecap="round" stroke-width="1"/>
+        <path id="패스_8727" data-name="패스 8727" d="M13.744,16.564,4.05,13.141a.824.824,0,0,1-.546-.855l.521-5.477a.822.822,0,0,1,.4-.633L10.31,2.724a.826.826,0,0,1,.752-.042l5.053,2.247a.826.826,0,0,1,.477.895l-1.762,10.1a.824.824,0,0,1-.955.67C13.83,16.59,13.744,16.564,13.744,16.564Z" fill="none" stroke="#070203" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="패스_8728" data-name="패스 8728" d="M6.174,5.285l1.082,5.424,6.527,5.446a.414.414,0,0,0,.669-.393L12.888,7.406,8.606,3.724" fill="none" stroke="#070203" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="선_560" data-name="선 560" y1="7.261" x2="12.577" transform="translate(3.672 5.456)" fill="none" stroke="#070203" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

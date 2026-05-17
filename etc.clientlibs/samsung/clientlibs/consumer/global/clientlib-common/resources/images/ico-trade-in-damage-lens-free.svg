@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_26319" data-name="사각형 26319" width="24" height="24" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-PC_camera_rear_galaxy_s25ultra_ic">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="PC_camera_rear_galaxy_s25ultra_ic" clip-path="url(#clip-PC_camera_rear_galaxy_s25ultra_ic)">
+    <g id="camera_rear_galaxy_s25ultra_ic">
+      <g id="그룹_33657" data-name="그룹 33657" clip-path="url(#clip-path)">
+        <path id="패스_8766" data-name="패스 8766" d="M10.18,6.208a2.916,2.916,0,1,1,0-.005Z" fill="#070203"/>
+        <path id="패스_8767" data-name="패스 8767" d="M10.18,13.193a2.914,2.914,0,1,1-2.913-2.915,2.912,2.912,0,0,1,2.913,2.915Z" fill="#070203"/>
+        <path id="패스_8768" data-name="패스 8768" d="M10.18,20.085A2.914,2.914,0,1,1,7.267,17.17a2.915,2.915,0,0,1,2.913,2.915Z" fill="#070203"/>
+        <path id="패스_8769" data-name="패스 8769" d="M15.69,13.2a1.233,1.233,0,1,1,0-1.745,1.233,1.233,0,0,1,0,1.745v0" fill="#070203"/>
+        <path id="패스_8770" data-name="패스 8770" d="M15.517,6.075A1.575,1.575,0,1,1,13.943,4.5a1.574,1.574,0,0,1,1.574,1.575Z" fill="none" stroke="#070203" stroke-miterlimit="10" stroke-width="0.25"/>
+        <circle id="타원_1" data-name="타원 1" cx="0.56" cy="0.56" r="0.56" transform="translate(13.32 9.125)" fill="none" stroke="#070203" stroke-miterlimit="10" stroke-width="0.25"/>
+        <path id="패스_8771" data-name="패스 8771" d="M1.5,23V4A2.507,2.507,0,0,1,4,1.5H23" fill="none" stroke="#070203" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

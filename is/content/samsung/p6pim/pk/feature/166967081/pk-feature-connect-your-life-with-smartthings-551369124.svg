@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        fill: #050404;
+      }
+
+      .cls-3 {
+        stroke: #050404;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="3.13" y="10.7" width="53.74" height="38.6"/>
+    </clipPath>
+  </defs>
+  <g class="cls-4">
+    <g id="Group_38" data-name="Group 38">
+      <path id="Path_74" data-name="Path 74" class="cls-2" d="M27.49,48.26c1.38,1.38,3.63,1.38,5.01,0,1.38-1.38,1.38-3.63,0-5.01-1.38-1.38-3.63-1.38-5.01,0-1.38,1.38-1.39,3.62,0,5.01,0,0,0,0,0,0"/>
+      <path id="Path_75" data-name="Path 75" class="cls-3" d="M40.61,38.09c-5.86-5.86-15.36-5.86-21.22,0h0"/>
+      <path id="Path_76" data-name="Path 76" class="cls-3" d="M55.81,22.89c-14.26-14.25-37.37-14.25-51.62,0"/>
+      <path id="Path_77" data-name="Path 77" class="cls-3" d="M48.33,30.37c-10.13-10.12-26.54-10.12-36.67,0"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_26312" data-name="사각형 26312" width="24" height="24" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-PC_common_dura_dust-resistant_ic">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="PC_common_dura_dust-resistant_ic" clip-path="url(#clip-PC_common_dura_dust-resistant_ic)">
+    <g id="common_dura_dust-resistant_ic">
+      <g id="그룹_33650" data-name="그룹 33650" clip-path="url(#clip-path)">
+        <path id="패스_8736" data-name="패스 8736" d="M21.368,19.035,2.632,19.06a1.007,1.007,0,1,1,0-2.014l18.736-.025a1.007,1.007,0,0,1,0,2.014Z" fill="none" stroke="#070203" stroke-miterlimit="10" stroke-width="1.019"/>
+        <path id="패스_8737" data-name="패스 8737" d="M20.675,6.306,10.193,16.788,3.649,10.243" fill="none" stroke="#070203" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+        <path id="패스_8738" data-name="패스 8738" d="M20.675,9.307v-3h-3" fill="none" stroke="#070203" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="패스_8739" data-name="패스 8739" d="M9.566,12.3a.812.812,0,1,1,1.15,0,.812.812,0,0,1-1.15,0h0" fill="#070203"/>
+        <path id="패스_8740" data-name="패스 8740" d="M12.109,9.752a.812.812,0,1,1,1.15,0,.812.812,0,0,1-1.15,0h0" fill="#070203"/>
+        <path id="패스_8741" data-name="패스 8741" d="M7.023,8.6a.812.812,0,1,1,0,1.149.81.81,0,0,1,0-1.149h0" fill="#070203"/>
+        <path id="패스_8742" data-name="패스 8742" d="M9.566,7.209a.812.812,0,1,1,1.15,0,.812.812,0,0,1-1.15,0h0" fill="#070203"/>
+        <path id="패스_8743" data-name="패스 8743" d="M14.652,6.06a.812.812,0,1,1,0,1.15.812.812,0,0,1,0-1.15h0" fill="#070203"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,56 @@
+.barcode-scanner-popup{position:fixed;display:block;top:0;left:0;width:100%;height:100%;z-index:3100;visibility:hidden;opacity:0}
+.barcode-scanner-popup--show{visibility:visible;opacity:1}
+.barcode-scanner-popup__dimmed{position:absolute;top:0;left:0;width:100%;height:100%;background-color:#000;opacity:.75}
+.barcode-scanner-popup__contents{width:100%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;position:relative;background-color:#fff;border-radius:20px;margin:auto 0;overflow:hidden}
+.barcode-scanner-popup__contents-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;position:absolute;width:684px;height:100%;top:0;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%);font-size:0;padding:30px 0}
+.barcode-scanner-popup__inner{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;position:relative;padding-top:56px;padding-left:24px;padding-right:24px;overflow:hidden}
+.barcode-scanner-popup__inner .barcode-scanner{display:block;margin:auto}
+.barcode-scanner-popup__inner .barcode-scanner-wrap{width:100%;min-height:104px;position:relative;margin-top:16px;background:#aaa}
+.barcode-scanner-popup__inner .barcode-scanner video{width:100%}
+.barcode-scanner-popup__inner .barcode-scanner__focus-line{position:absolute;width:20px;height:20px;margin:0 12px}
+.barcode-scanner-popup__inner .barcode-scanner__focus-line-wrap{position:absolute;width:100%;height:80px;top:50%;left:0;-webkit-transform:translateY(-50%);transform:translateY(-50%)}
+.barcode-scanner-popup__inner .barcode-scanner__focus-line.top-left{top:0;left:0;border-top:4px solid #fff;border-left:4px solid #fff}
+.barcode-scanner-popup__inner .barcode-scanner__focus-line.top-right{top:0;right:0;border-top:4px solid #fff;border-right:4px solid #fff}
+.barcode-scanner-popup__inner .barcode-scanner__focus-line.bottom-left{bottom:0;left:0;border-bottom:4px solid #fff;border-left:4px solid #fff}
+.barcode-scanner-popup__inner .barcode-scanner__focus-line.bottom-right{bottom:0;right:0;border-bottom:4px solid #fff;border-right:4px solid #fff}
+.barcode-scanner-popup__inner .barcode-scanner__focus-line.red-line{left:20px;right:20px;top:6px;bottom:4px;width:auto;height:auto;-webkit-animation:2.1s linear infinite alternate anim;animation:2.1s linear infinite alternate anim;-webkit-transform:translateY(-100%);transform:translateY(-100%);will-change:transform}
+.barcode-scanner-popup__inner .barcode-scanner__focus-line.red-line:after{content:'';position:absolute;bottom:0;left:0;right:0;width:auto;height:2px;background:red;-webkit-box-shadow:0 0 8px 2px rgba(255,0,0,0.2);box-shadow:0 0 8px 2px rgba(255,0,0,0.2)}
+.barcode-scanner-popup__inner .barcode-scanner-error{font-size:18px;line-height:1.33;text-align:center}
+.barcode-scanner-popup__btn-wrap{position:relative;padding:24px 36px;text-align:center;z-index:1}
+.barcode-scanner-popup__btn-wrap .cta{width:212px}
+.barcode-scanner-popup__close{position:absolute;top:24px;right:24px;width:24px;height:24px}
+.barcode-scanner-popup__close .icon{width:100%;height:100%}
+@media only screen and (min-width:768px) and (max-width:1440px){.barcode-scanner-popup__contents{border-radius:1.38888889vw}
+.barcode-scanner-popup__contents-wrap{width:47.5vw;padding:2.08333333vw 0vw}
+.barcode-scanner-popup__inner{padding-top:3.88888889vw;padding-left:1.66666667vw;padding-right:1.66666667vw}
+.barcode-scanner-popup__inner .barcode-scanner-wrap{min-height:7.22222222vw;margin-top:1.11111111vw}
+.barcode-scanner-popup__inner .barcode-scanner__focus-line{width:1.38888889vw;height:1.38888889vw;margin:0vw .83333333vw}
+.barcode-scanner-popup__inner .barcode-scanner__focus-line-wrap{height:5.55555556vw}
+.barcode-scanner-popup__inner .barcode-scanner__focus-line.top-left,.barcode-scanner-popup__inner .barcode-scanner__focus-line.top-right,.barcode-scanner-popup__inner .barcode-scanner__focus-line.bottom-left,.barcode-scanner-popup__inner .barcode-scanner__focus-line.bottom-right{border-width:.27777778vw}
+.barcode-scanner-popup__inner .barcode-scanner__focus-line.red-line{left:1.38888889vw;right:1.38888889vw;top:.41666667vw;bottom:.27777778vw}
+.barcode-scanner-popup__inner .barcode-scanner__focus-line.red-line:after{height:.13888889vw}
+.barcode-scanner-popup__inner .barcode-scanner-error{font-size:1.25vw}
+.barcode-scanner-popup__btn-wrap{padding:1.66666667vw 2.5vw}
+.barcode-scanner-popup__btn-wrap .cta{width:14.72222222vw}
+.barcode-scanner-popup__close{top:1.66666667vw;right:1.66666667vw;width:1.66666667vw;height:1.66666667vw}
+}
+@media only screen and (max-width:767px){.barcode-scanner-popup__contents{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;border-radius:0}
+.barcode-scanner-popup__contents-wrap{position:relative;width:100%;left:0;-webkit-transform:none;transform:none;padding:0}
+.barcode-scanner-popup__inner{padding-top:17.77777778vw;padding-left:6.66666667vw;padding-right:6.66666667vw}
+.barcode-scanner-popup__inner .barcode-scanner-wrap{min-height:28.88888889vw;margin:auto 0}
+.barcode-scanner-popup__inner .barcode-scanner__focus-line{width:5.55555556vw;height:5.55555556vw;margin:0vw 3.33333333vw}
+.barcode-scanner-popup__inner .barcode-scanner__focus-line-wrap{height:22.22222222vw}
+.barcode-scanner-popup__inner .barcode-scanner__focus-line.top-left,.barcode-scanner-popup__inner .barcode-scanner__focus-line.top-right,.barcode-scanner-popup__inner .barcode-scanner__focus-line.bottom-left,.barcode-scanner-popup__inner .barcode-scanner__focus-line.bottom-right{border-width:1.11111111vw}
+.barcode-scanner-popup__inner .barcode-scanner__focus-line.red-line{left:5.55555556vw;right:5.55555556vw;top:1.66666667vw;bottom:1.11111111vw}
+.barcode-scanner-popup__inner .barcode-scanner__focus-line.red-line:after{height:.55555556vw}
+.barcode-scanner-popup__inner .barcode-scanner-error{font-size:3.88888889vw;margin:auto 0}
+.barcode-scanner-popup__btn-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;padding:4.44444444vw 6.66666667vw}
+.barcode-scanner-popup__btn-wrap .cta{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;width:auto;font-size:3.88888889vw}
+.barcode-scanner-popup__close{top:6.66666667vw;right:6.66666667vw;width:6.66666667vw;height:6.66666667vw}
+}
+@-webkit-keyframes anim{from{-webkit-transform:translateY(-100%);transform:translateY(-100%)}
+to{-webkit-transform:translateY(0);transform:translateY(0)}
+}
+@keyframes anim{from{-webkit-transform:translateY(-100%);transform:translateY(-100%)}
+to{-webkit-transform:translateY(0);transform:translateY(0)}
+}

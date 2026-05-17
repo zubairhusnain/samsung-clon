@@ -1,0 +1,8 @@
+<svg id="ic_standard-tv_24x24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="box" width="24" height="24" fill="none"/>
+  <g id="standard_24x24" transform="translate(0 0.5)">
+    <path id="패스_137" data-name="패스 137" d="M18.789,6.5H5.211A.213.213,0,0,0,5,6.714v8.72a.213.213,0,0,0,.211.214H18.789A.213.213,0,0,0,19,15.434V6.714A.213.213,0,0,0,18.789,6.5Z" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_138" data-name="패스 138" d="M7.054,15.648l-1.187,2.1" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_139" data-name="패스 139" d="M16.949,15.648l1.187,2.1" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

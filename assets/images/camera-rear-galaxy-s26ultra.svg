@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #000;
+      }
+
+      .cls-3 {
+        stroke-width: 4px;
+      }
+
+      .cls-4 {
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="_레이어_1-2" data-name="레이어 1">
+    <g id="camera_rear_galaxy_M3">
+      <rect id="Image_container" data-name="Image container" class="cls-1" width="96" height="96"/>
+      <g id="Icon">
+        <path id="Path" class="cls-3" d="M6,92V16c.02-5.52,4.48-9.98,10-10h76"/>
+        <g id="Camera">
+          <path id="Path-2" data-name="Path" d="M39,28.02c0,5.52-4.48,10-10,10s-10-4.48-10-10,4.48-10,10-10,10,4.48,10,10"/>
+          <path id="Path-3" data-name="Path" d="M39,51.75c0,5.52-4.48,10-10,10s-10-4.48-10-10,4.48-10,10-10,10,4.48,10,10h0"/>
+          <path id="Path-4" data-name="Path" d="M39,75.45c0,5.52-4.48,10-10,10s-10-4.48-10-10,4.48-10,10-10,10,4.48,10,10h0"/>
+          <rect id="Path-5" data-name="Path" class="cls-4" x="14.03" y="13.09" width="29.94" height="77.42" rx="14.97" ry="14.97"/>
+          <circle id="Circle" class="cls-2" cx="58" cy="28.02" r="6"/>
+          <circle id="Circle-2" data-name="Circle" class="cls-2" cx="58" cy="39.74" r="2.24"/>
+          <circle id="Circle-3" data-name="Circle" cx="58" cy="51.75" r="6"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

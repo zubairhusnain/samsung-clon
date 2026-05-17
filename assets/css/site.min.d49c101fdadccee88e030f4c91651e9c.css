@@ -1,0 +1,47 @@
+.wishlist-popup{display:none}
+.wishlist-popup .layer-popup{overflow-y:auto;position:fixed;left:0;top:0;right:0;bottom:0;letter-spacing:-4px;text-align:center;background:rgba(0,0,0,0.68);z-index:3100}
+.wishlist-popup .layer-popup:before{content:'';display:inline-block;height:100%;vertical-align:middle}
+.wishlist-popup .layer-popup__inner{display:inline-block;position:relative;width:auto;width:468px;border-radius:20px;background:#fff;line-height:1.33;vertical-align:middle;letter-spacing:0}
+.wishlist-popup .layer-popup__contents{padding:20px 24px 0;text-align:start}
+.wishlist-popup .layer-popup__title{position:relative;margin-right:24px;font-size:24px;line-height:1.33;font-family:'SamsungSharpSans',arial,sans-serif;letter-spacing:-0.02em;min-height:16px}
+.wishlist-popup .layer-popup__close{display:block;overflow:hidden;position:absolute;right:12px;top:12px;width:48px;height:48px;color:transparent;text-indent:-9999px}
+.wishlist-popup .layer-popup__close .icon{display:inline-block;position:absolute;left:50%;margin:-12px 0 0 -12px;top:50%;width:24px;height:24px}
+.wishlist-popup__desc{margin:20px 0 24px;font-size:18px;color:#363636}
+.wishlist-popup__desc--only{margin-top:36px}
+.wishlist-popup__cta{width:50%;padding:0 10px}
+.wishlist-popup__cta-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-flex:1;-ms-flex:1;flex:1;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;padding:0 14px 24px;margin:25px 0 0;width:100%}
+.wishlist-popup__cta .cta{display:block;font-size:14px;line-height:1.33;border-radius:50px;margin-top:8px}
+.wishlist-popup__cta.cta--single{width:100%}
+.wishlist-popup__cta.cta--single .cta{margin-top:0}
+.wishlist-popup__selectbox-inner{margin-top:15px}
+.wishlist-popup__selectbox .menu{min-width:auto}
+.wishlist-popup__selectbox .menu .scrollbar__contents{padding:0 !important}
+@media only screen and (min-width:768px) and (max-width:1440px){.wishlist-popup .layer-popup{letter-spacing:-0.27777778vw}
+.wishlist-popup .layer-popup__inner{width:32.5vw}
+.wishlist-popup .layer-popup__contents{padding:1.38888889vw 1.66666667vw 0vw 1.66666667vw}
+.wishlist-popup .layer-popup__title{margin-right:1.66666667vw;font-size:1.66666667vw;min-height:1.11111111vw}
+.wishlist-popup .layer-popup__close{right:.83333333vw;top:.83333333vw;width:3.33333333vw;height:3.33333333vw}
+.wishlist-popup .layer-popup__close .icon{width:1.66666667vw;height:1.66666667vw;margin:-0.83333333vw 0vw 0vw -0.83333333vw}
+.wishlist-popup__desc{margin:1.38888889vw 0vw 1.66666667vw 0vw;font-size:1.25vw}
+.wishlist-popup__desc--only{margin-top:2.5vw}
+.wishlist-popup__cta{padding:0vw .69444444vw}
+.wishlist-popup__cta-wrap{padding:0vw .97222222vw 1.66666667vw .97222222vw;margin:1.73611111vw 0vw 0vw 0vw}
+.wishlist-popup__cta .cta{font-size:.97222222vw;border-radius:3.47222222vw;margin-top:.55555556vw}
+.wishlist-popup__cta.cta--single .cta{margin-top:0}
+}
+@media only screen and (max-width:767px){.wishlist-popup .layer-popup{padding:6.66666667vw}
+.wishlist-popup .layer-popup__inner{width:100%;max-width:100%}
+.wishlist-popup .layer-popup__contents{padding:5.55555556vw 6.66666667vw 0vw 6.66666667vw}
+.wishlist-popup .layer-popup__title{margin-right:6.66666667vw;font-size:6.11111111vw;min-height:4.44444444vw}
+.wishlist-popup .layer-popup__close{right:2.22222222vw;top:2.22222222vw;width:15.55555556vw;height:15.55555556vw}
+.wishlist-popup .layer-popup__close .icon{width:6.66666667vw;height:6.66666667vw;margin:-3.33333333vw 0vw 0vw -3.33333333vw}
+.wishlist-popup__desc{margin:5.27777778vw 0vw 5vw 0vw;font-size:3.88888889vw;color:#363636}
+.wishlist-popup__desc--only{margin-top:9.72222222vw}
+.wishlist-popup__cta{padding:0;width:100%}
+.wishlist-popup__cta-wrap{margin-top:5vw;padding:0vw 6.66666667vw 6.66666667vw 6.66666667vw;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column}
+.wishlist-popup__cta .cta{font-size:3.88888889vw;border-radius:11.11111111vw;margin-top:2.22222222vw}
+.wishlist-popup__cta.cta--single .cta{margin-top:2.22222222vw}
+.wishlist-popup__cta:first-of-type{-webkit-box-ordinal-group:3;-ms-flex-order:2;order:2}
+.wishlist-popup__selectbox-inner{height:10vw;margin-top:1.38888889vw;font-size:2.77777778vw}
+.wishlist-popup__selectbox-inner:first-child{margin-top:3.61111111vw}
+}

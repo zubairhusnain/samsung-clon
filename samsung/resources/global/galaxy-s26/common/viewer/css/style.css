@@ -1,0 +1,157 @@
+body {
+	margin: 0;
+	padding: 0; }
+
+	.v3d-wrap {
+		.sr-only {
+			overflow: hidden;
+			position: absolute;
+			width: 1px;
+			height: 1px;
+			font-size: 12px;
+			clip: rect(1px, 1px, 1px, 1px); }
+	}
+
+  .v3d-loader {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	pointer-events: none; }
+	.v3d-loader__background {
+	  display: block;
+	  -webkit-backdrop-filter: blur(15px);
+			  backdrop-filter: blur(15px);
+	  background-color: rgba(255, 255, 255, 0.5);
+	  position: absolute;
+	  top: 0;
+	  left: 0;
+	  width: 100%;
+	  height: 100%;
+	  opacity: 1;
+	  transition: opacity .3s ease-in-out;
+	  z-index: 80; }
+	  .v3d-loader__background.sr-only + .v3d-loader__background-image {
+		opacity: 0;
+	  }
+	  .v3d-loader__background-image img {
+		display: none !important;
+	  }
+	  .v3d-loader__background-image {
+		display: block;
+		position: relative;
+		padding: 0;
+		margin: 0;
+		width: 100%;
+		height: 100%;
+		opacity: 1;
+		transition: opacity .3s ease-in-out; }
+		.v3d-loader__background-image img {
+		  max-width: 100%;
+		  height: auto; }
+		.v3d-loader-icon {
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			width: 0;
+			height: 0;
+			z-index: 90;
+			animation: fadeInOut 1.7s infinite; }
+		.v3d-loader-text {
+			position: absolute;
+			left: 50%;
+			transform: translateX(-50%);
+			margin-top: 20px;
+			width: 150px;
+			text-align: center;
+			color: #fff;
+		}
+
+  @keyframes fadeInOut {
+	0% {
+	  opacity: 0; }
+	50% {
+	  opacity: 1; }
+	100% {
+	  opacity: 0; } }
+
+  body:fullscreen,
+  body.is-fullscreen {
+	background: #f7f7f7 !important; }
+
+  .v3d {
+	width: 100%;
+	height: 100%; }
+
+  canvas {
+	outline: none; }
+
+  .v3d-wrap {
+	position: absolute;
+	width: 100%;
+	height: 100%; }
+
+  .v3d-viewer {
+	width: 100%;
+	height: 100%; }
+	.v3d-viewer--control .v3d-msg-smaple {
+	  padding-bottom: 40px !important; }
+	.v3d-viewer--compare .v3d-msg-smaple {
+	  padding-top: 40px !important; }
+
+  .v3d-dev-text {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	z-index: 99999;
+	background: #000;
+	color: #fff;
+	font-size: 12px;
+	opacity: 0.5;
+	word-break: break-all;
+	transition: all 0.3s ease;
+	transform: translateY(100%); }
+	.v3d-dev-text.is-active {
+	  transform: translateY(0); }
+
+  @keyframes blink {
+	0% {
+	  opacity: 1; }
+	100% {
+	  opacity: 0.5; } }
+
+  canvas {
+	outline: none; }
+
+  .v3d-wrap {
+	position: absolute;
+	width: 100%;
+	height: 100%; }
+
+  .v3d-modelviewer {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	opacity: 0;
+	transition: opacity 0.3s; }
+	.v3d-modelviewer--active {
+	  opacity: 1; }
+
+  .v3d-viewer--desolve {
+	opacity: 1;
+	transition: opacity .3s ease-in-out; }
+
+	@media screen and (max-width: 767px) {
+		.is-bg-load-complete.v3d-wrap:before {
+			top: 16px;
+			right: 24px;
+			width: 30px;
+			height: 16px;
+		}
+		.v3d-loader__background {
+			-webkit-backdrop-filter: blur(3px);
+					backdrop-filter: blur(3px);
+			background-color: rgba(255, 255, 255, 0.8);
+		}
+	}

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 101.15 52.45">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: .82px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #231f20;
+      }
+
+      .cls-1, .cls-4 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-5 {
+        font-size: 18.42px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #231f20;
+      }
+
+      .cls-5, .cls-6, .cls-3 {
+        font-family: Calibri-Bold, Calibri;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+
+      .cls-2, .cls-3, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        font-size: 10px;
+      }
+
+      .cls-3 {
+        font-size: 12.45px;
+      }
+
+      .cls-8 {
+        fill: #50b848;
+      }
+
+      .cls-8, .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        stroke-width: 1.07px;
+      }
+    </style>
+  </defs>
+  <g id="A_" data-name="A++">
+    <rect class="cls-7" x="69.5" y=".73" width="31.33" height="49"/>
+    <polygon class="cls-8" points="22.62 .77 .29 25.06 22.62 49.35 71.62 49.35 71.62 .77 22.62 .77"/>
+    <path class="cls-1" d="M23.1.41h77.27c.2,0,.36.16.36.36v48.58c0,.2-.16.36-.36.36H23.1c-.1,0-.2-.04-.26-.12L.5,25.3c-.13-.14-.13-.35,0-.48L22.84.52c.07-.07.16-.12.26-.12Z"/>
+  </g>
+  <g id="Layer_11" data-name="Layer 11">
+    <g>
+      <line class="cls-4" x1="81.33" y1="30.37" x2="81.33" y2="20.01"/>
+      <polyline class="cls-4" points="84.08 22.71 81.33 19.96 78.59 22.71"/>
+    </g>
+    <text class="cls-5" transform="translate(75.04 45.94) scale(1 1.01)"><tspan x="0" y="0">D</tspan></text>
+    <text class="cls-5" transform="translate(74.84 15.94) scale(1 1.01)"><tspan x="0" y="0">A</tspan></text>
+    <text class="cls-6" transform="translate(83.5 9.24) scale(1 1.01)"><tspan x="0" y="0">+++</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,46 @@
+.confirm-popup{position:fixed;top:0;left:0;width:100%;height:100%;z-index:3101;font-family:'SamsungOne',arial,sans-serif}
+.confirm-popup__dimmed{position:fixed;top:0;left:0;bottom:0;right:0;background-color:#000;opacity:.75}
+.confirm-popup__content{position:absolute;display:inline-block;top:50%;left:50%;max-width:100%;min-width:560px;max-height:100%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);overflow:hidden}
+.confirm-popup__content-inner{position:relative;padding:55px 60px 30px;border-radius:20px;background-color:#fff}
+.confirm-popup__title{display:block;font-size:24px;line-height:1.33;text-align:center;color:#000;word-wrap:break-word}
+.confirm-popup__desc{display:block;margin-top:32px;text-align:center;font-size:16px;color:#363636;word-wrap:break-word}
+.confirm-popup__cta-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;margin-top:55px;padding:0;-webkit-box-shadow:none;box-shadow:none}
+.confirm-popup__cta-wrap .cta{-webkit-box-flex:0;-ms-flex:0 1 auto;flex:0 1 auto;min-width:200px;height:50px;margin:0 10px;font-size:18px;white-space:normal;text-align:center;border-radius:25px}
+.confirm-popup__cta-wrap .cta.cta--emphasis{border-color:transparent !important;color:#fff !important;background-color:#000 !important}
+.confirm-popup__cta-wrap .cta.cta--emphasis:active{opacity:.7 !important}
+.confirm-popup__cta-wrap .cta.cta--emphasis:not(:has(.icon)):not([target="_blank"]):hover,.confirm-popup__cta-wrap .cta.cta--emphasis:not(:has(.icon)):not([target="_blank"]):focus{border-color:#000 !important;color:#000 !important;background-color:#fff !important}
+.confirm-popup__cta-wrap .cta.cta--emphasis.cta--disabled{color:#fff !important;background-color:#000 !important;cursor:default !important;opacity:.2 !important}
+.confirm-popup__cta-wrap .cta.cta--emphasis.cta--disabled:hover,.confirm-popup__cta-wrap .cta.cta--emphasis.cta--disabled:focus{color:#fff !important;background-color:#000 !important}
+.confirm-popup__cta-wrap .cta.cta--emphasis[target="_blank"]:before{background-image:url('../../../../../../etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-white.svg') !important}
+.confirm-popup__close{display:block;overflow:hidden;position:absolute;right:12px;top:12px;width:48px;height:48px;color:transparent;text-indent:-9999px}
+.confirm-popup__close .icon{display:inline-block;position:absolute;left:50%;top:50%;width:24px;height:24px;margin:-12px 0 0 -12px}
+.confirm-popup.error-popup-style .confirm-popup__content{width:572px}
+.confirm-popup.error-popup-style .confirm-popup__content-inner{padding:60px}
+.confirm-popup.error-popup-style .confirm-popup__disclaimer{font-size:15px;text-align:center;line-height:1.2;word-wrap:break-word;color:#000}
+.confirm-popup.error-popup-style .confirm-popup__cta-wrap .cta{width:auto}
+@media only screen and (min-width:768px) and (max-width:1440px){.confirm-popup__content{min-width:38.88888889vw}
+.confirm-popup__content-inner{padding:3.81944444vw 4.16666667vw 2.08333333vw 4.16666667vw}
+.confirm-popup__title{font-size:1.66666667vw}
+.confirm-popup__desc{margin-top:2.22222222vw;font-size:1.11111111vw}
+.confirm-popup__cta-wrap{margin-top:3.81944444vw}
+.confirm-popup__cta-wrap .cta{min-width:13.88888889vw;height:3.47222222vw;margin:0vw .69444444vw;font-size:1.25vw;border-radius:1.73611111vw}
+.confirm-popup__close{right:.83333333vw;top:.83333333vw;width:3.33333333vw;height:3.33333333vw}
+.confirm-popup__close .icon{width:1.66666667vw;height:1.66666667vw;margin:-0.83333333vw 0vw 0vw -0.83333333vw}
+.confirm-popup.error-popup-style .confirm-popup__content{width:39.72222222vw}
+.confirm-popup.error-popup-style .confirm-popup__content-inner{padding:4.16666667vw}
+.confirm-popup.error-popup-style .confirm-popup__disclaimer{font-size:1.04166667vw}
+.confirm-popup.error-popup-style .confirm-popup__cta-wrap .cta{width:50%}
+}
+@media only screen and (max-width:767px){.confirm-popup__content{min-width:88.88888889vw}
+.confirm-popup__content-inner{padding:12.77777778vw 5.55555556vw 5.55555556vw 5.55555556vw}
+.confirm-popup__title{font-size:6.11111111vw}
+.confirm-popup__desc{margin-top:5.83333333vw;font-size:3.33333333vw}
+.confirm-popup__cta-wrap{margin-top:7.22222222vw}
+.confirm-popup__cta-wrap .cta{width:100%;height:9.72222222vw;min-width:22.22222222vw;margin:0vw .83333333vw;font-size:3.33333333vw;border-radius:6.94444444vw}
+.confirm-popup__close{right:0vw;top:0vw;width:15.55555556vw;height:15.55555556vw}
+.confirm-popup__close .icon{width:6.66666667vw;height:6.66666667vw;margin:-3.33333333vw 0vw 0vw -3.33333333vw}
+.confirm-popup.error-popup-style .confirm-popup__content{width:88.88888889vw}
+.confirm-popup.error-popup-style .confirm-popup__content-inner{padding:12.77777778vw 5.55555556vw 5.55555556vw 5.55555556vw}
+.confirm-popup.error-popup-style .confirm-popup__disclaimer{font-size:3.33333333vw}
+.confirm-popup.error-popup-style .confirm-popup__cta-wrap .cta{width:50%}
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 44 44">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .st1 {
+        fill: #313131;
+      }
+    </style>
+  </defs>
+  <circle class="st1" cx="22" cy="22" r="22" transform="translate(-6.744 10.094) rotate(-22.5)"/>
+  <path class="st0" d="M16.231,20.5c.956,0,1.731.775,1.731,1.731s-.775,1.731-1.731,1.731-1.731-.775-1.731-1.731.775-1.731,1.731-1.731Z"/>
+  <path class="st0" d="M22,20.5c.956,0,1.731.775,1.731,1.731s-.775,1.731-1.731,1.731-1.731-.775-1.731-1.731.775-1.731,1.731-1.731Z"/>
+  <path class="st0" d="M27.769,20.5c.956,0,1.731.775,1.731,1.731s-.775,1.731-1.731,1.731-1.731-.775-1.731-1.731.775-1.731,1.731-1.731Z"/>
+</svg>

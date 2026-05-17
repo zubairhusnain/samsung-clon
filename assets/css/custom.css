@@ -1,0 +1,20 @@
+#spr-live-chat-app{
+    display:none !important;
+}
+.co78-recommended-product-carousel{
+    display:none !important;
+}
+.pd-g-product-recommendation-with-reason{
+    display: none !important;
+}
+.ins-preview-wrapper, .component-area,.trade-in-learn-more-popup,.tariff-info-popup,.trade-in-popup,.upgrade-popup
+,.samsung-flex-popup-container
+,.confirm-popup-upgrade,.upgrade-learn-more-popup,.cancel-return-policy-popup,.warranty-policy-popup
+,.hubble-careinfo-popup,.sc-learn-more-popup,.hubble-care-popup,.hubble-care-popup__alert,.hubble-care-popup__alert
+,.extended-warranty-popup,.extended-warranty-popup__alert,.extended-warranty-popup__alert,.extended-warranty-popup-vd,.warranty-info-popup,.shop-combo-popup
+,.free-gift-popup,.confirm-popup-v2{
+    display:none !important;
+}
+.pd21-product-finder__no-result {
+    display: none !important;
+}

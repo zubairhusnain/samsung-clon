@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Spec_Icons_Library_96x96_size__Common" data-name="Spec Icons Library(96x96 size)_Common">
+    <g id="common_location_pin">
+      <circle id="path1" class="cls-3" cx="48" cy="39" r="17"/>
+      <path id="path2" class="cls-2" d="M74.32,60.12h0c4.95-5.76,7.68-13.1,7.68-20.7,0-18.46-15.22-33.42-34-33.42S14,20.96,14,39.42c0,7.6,2.72,14.94,7.68,20.7l25.56,29.53c.37.42,1,.46,1.42.1.03-.03.07-.06.1-.1l25.56-29.54Z"/>
+      <rect id="Image_container" data-name="Image container" class="cls-1" width="96" height="96"/>
+    </g>
+  </g>
+</svg>

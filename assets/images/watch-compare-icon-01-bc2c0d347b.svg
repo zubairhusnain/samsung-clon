@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="_레이어_2" data-name="레이어 2" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linecap: round;
+        stroke-width: 4px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #000;
+      }
+
+      .cls-4 {
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="Spec_Icons_Library_96x96_size__Display" data-name="Spec Icons Library(96x96 size)_Display">
+    <g id="display_material_general_watch-cusion">
+      <rect id="Image_container" data-name="Image container" class="cls-1" width="96" height="96"/>
+      <g id="Icon">
+        <path id="Path" class="cls-2" d="M31.56,75.61c1.18,1.93,1.83,4.14,1.88,6.4v2.55c-.03,2.98,2.36,5.41,5.33,5.44.07,0,.14,0,.2,0h18.46c2.98.08,5.45-2.26,5.54-5.24,0-.07,0-.13,0-.2v-2.55c0-1.75.79-3.87,2.27-6.38M31.75,20.06c1.07-1.84,1.66-3.93,1.7-6.06v-2.55c-.03-2.98,2.36-5.41,5.33-5.44.07,0,.13,0,.2,0h18.46c2.97-.08,5.45,2.26,5.54,5.23,0,.07,0,.14,0,.2v2.55c0,1.76.8,3.88,2.28,6.39"/>
+        <path id="Path-2" data-name="Path" class="cls-3" d="M48,18c-9.22,0-17.47,1.12-22.97,6.67-4.39,4.42-7.03,11.63-7.03,23.33s2.64,18.92,7.03,23.33c5.5,5.54,13.75,6.67,22.97,6.67s17.47-1.12,22.97-6.67c4.39-4.42,7.03-11.64,7.03-23.33s-2.64-18.92-7.03-23.33c-5.5-5.54-13.75-6.67-22.97-6.67"/>
+        <g id="Path-3" data-name="Path">
+          <circle id="Path-4" data-name="Path" class="cls-1" cx="48" cy="48" r="26"/>
+          <circle id="Path-5" data-name="Path" class="cls-4" cx="48" cy="48" r="24.5"/>
+        </g>
+        <path id="Path-6" data-name="Path" class="cls-3" d="M31,47.94c0-.94.08-1.87.23-2.8,1.13-6.64,6.06-11.99,12.59-13.66"/>
+      </g>
+    </g>
+  </g>
+</svg>

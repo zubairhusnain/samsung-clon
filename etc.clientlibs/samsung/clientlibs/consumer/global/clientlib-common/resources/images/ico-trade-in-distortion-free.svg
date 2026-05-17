@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_26306" data-name="사각형 26306" width="24" height="24" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-PC_Wear_and_Tear_ic">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="PC_Wear_and_Tear_ic" data-name="PC_Wear and Tear_ic" clip-path="url(#clip-PC_Wear_and_Tear_ic)">
+    <g id="Wear_and_Tear_ic" data-name="Wear and Tear_ic">
+      <g id="그룹_33644" data-name="그룹 33644" clip-path="url(#clip-path)">
+        <path id="패스_8722" data-name="패스 8722" d="M6.122,21.37a.623.623,0,0,1,0-.88l0,0L20.5,6.105a.625.625,0,0,1,.883.883L7,21.37a.622.622,0,0,1-.441.186.61.61,0,0,1-.44-.186m6.427-.232a.629.629,0,0,1,.132-.68l7.791-7.793a.625.625,0,0,1,.882.883l-7.79,7.79a.613.613,0,0,1-.441.187.626.626,0,0,1-.574-.387M3.141,18.133A.625.625,0,0,1,2.7,17.065L17.081,2.683a.626.626,0,1,1,.885.885L3.583,17.95a.622.622,0,0,1-.439.183Zm-.457-6.695a.621.621,0,0,1,0-.88l0,0,7.887-7.888a.625.625,0,0,1,.883.882L3.566,11.438a.627.627,0,0,1-.442.183h0a.611.611,0,0,1-.436-.183" fill="#070203"/>
+      </g>
+    </g>
+  </g>
+</svg>

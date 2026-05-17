@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <rect id="Image_Container" data-name="Image Container" class="cls-1" width="96" height="96"/>
+  <g>
+    <rect id="Rectangle" class="cls-3" x="2.02" y="21" width="76" height="54" rx="5" ry="5"/>
+    <line id="Path" class="cls-2" x1="63.27" y1="6" x2="63.27" y2="13"/>
+    <line id="Path-2" class="cls-2" x1="47.77" y1="6" x2="47.77" y2="13"/>
+    <line id="Path-3" class="cls-2" x1="32.27" y1="6" x2="32.27" y2="13"/>
+    <line id="Path-4" class="cls-2" x1="16.77" y1="6" x2="16.77" y2="13"/>
+    <line id="Path-5" class="cls-2" x1="63.27" y1="83" x2="63.27" y2="90"/>
+    <line id="Path-6" class="cls-2" x1="47.77" y1="83" x2="47.77" y2="90"/>
+    <line id="Path-7" class="cls-2" x1="32.27" y1="83" x2="32.27" y2="90"/>
+    <line id="Path-8" class="cls-2" x1="16.77" y1="83" x2="16.77" y2="90"/>
+  </g>
+</svg>

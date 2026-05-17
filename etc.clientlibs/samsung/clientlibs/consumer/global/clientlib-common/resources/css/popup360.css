@@ -1,0 +1,376 @@
+.seq-viewer-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+}
+
+.seq-viewer-container .top-container {
+    position: absolute;
+    padding: 24px 24px 0;
+    z-index: 10;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.seq-viewer-container .top-container .model-name {
+    font-family: 'SamsungSharpSans';
+    font-weight: bold;
+    font-size: 16px;
+    max-width: 264px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    line-height: 1.5em;
+    max-height: 3em;
+}
+
+.seq-viewer-container .top-container .dimension-info {
+    display: none;
+    font-size: 12px;
+    padding-top: 16px;
+}
+
+.seq-viewer-container .top-container .dimension-info.show {
+    display: block;
+}
+
+.seq-viewer-container .top-container .dimension-info span {
+    font-weight: bold;
+}
+
+.seq-viewer-container .top-container .btn-close-popup {
+    position: absolute;
+    top: 24px;
+    right: 24px;
+    display: inherit;
+    border: 0;
+    background: none;
+    cursor: pointer;
+}
+
+.seq-viewer-container .top-container .btn-close-popup svg {
+    width: 24px;
+    height: 24px;
+}
+
+@media (min-width: 768px) {
+    .seq-viewer-container .top-container .model-name {
+        font-size: 24px;
+        max-width: 95%;
+    }
+
+    .seq-viewer-container .top-container .dimension-info {
+        font-size: 16px;
+    }
+}
+
+.imgseq-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    touch-action: manipulation;
+    background: #ffffff;
+}
+
+.imgseq-container .loading-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+    visibility: visible;
+    opacity: 1;
+    transition: all 0.3s;
+}
+
+.imgseq-container .loading-container.hide {
+    visibility: hidden;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.imgseq-container .loading-container .loading {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #ffffff;
+    border-radius: 60px;
+    border: 1px solid rgba(0, 0, 0, 0.16);
+}
+
+.imgseq-container .loading-container .loading .progress {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.imgseq-container .interaction-container {
+    width: 110px;
+    height: 110px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 110px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    background-color: #ffffff;
+    z-index: 11;
+    visibility: visible;
+    opacity: 1;
+    transition: all 0.3s;
+    visibility: hidden;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.imgseq-container .interaction-container.show {
+    visibility: visible;
+    opacity: 1;
+}
+
+.imgseq-container .interaction-icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.imgseq-container .ui-container {
+    display: flex;
+    position: absolute;
+    bottom: 32px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 12px;
+    z-index: 12;
+}
+
+.imgseq-container .ui-container .ui-wrap {
+    display: flex;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 0px 9px;
+    border: 1px solid #dddddd;
+}
+
+.imgseq-container .ui-container .ui-wrap button {
+    display: inherit;
+    border: 0;
+    background: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    padding: 8px 10px;
+}
+
+.imgseq-container .ui-container .btn-changetype .ico-change {
+    display: none;
+}
+
+.imgseq-container .ui-container .btn-changetype .ico-change.show {
+    display: block;
+}
+
+.imgseq-container .ui-container .ui-wrap svg {
+    width: 16px;
+    height: 16px;
+}
+
+.imgseq-container .ui-container .ui-wrap .divide {
+    width: 1px;
+    height: 14px;
+    background-color: #dddddd;
+    margin: 0 6px;
+}
+
+.imgseq-container .ui-container .last {
+    margin-right: 0;
+}
+
+.imgseq-container .ui-container .btn-ar {
+    border: 0;
+    background: none;
+    border-radius: 32px;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: #000000;
+    background-color: #fff;
+    padding: 8px 7px;
+    border: 1px solid #dddddd;
+    font-size: 11px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.imgseq-container .pos-container {
+    display: none;
+    position: absolute;
+    bottom: 45px;
+    left: 50%;
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 0px 16px;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2);
+    font-size: 12px;
+    transform-style: preserve-3d;
+    transform: translate(-50%, 0px);
+}
+
+.imgseq-container .pos-container.show {
+    display: block;
+}
+
+.imgseq-container .pos-container .divide {
+    width: 1px;
+    height: 12px;
+    background-color: #aaaaaa;
+    margin-right: 0px;
+}
+
+.imgseq-container .pos-container .hr {
+    width: 100%;
+    height: 1px;
+    background-color: #dddddd;
+}
+
+.imgseq-container .pos-container .btn-close-pos {
+    position: absolute;
+    display: flex;
+    top: 16px;
+    right: 16px;
+    width: 16px;
+    height: 16px;
+    justify-content: center;
+    align-items: center;
+    border: 0;
+    background: none;
+    cursor: pointer;
+}
+
+.imgseq-container .pos-container .btn-close-pos svg {
+    width: 14px;
+    height: 14px;
+}
+
+.imgseq-container .toggle-container {
+    display: flex;
+    padding: 16px 0px 12px;
+    justify-content: flex-start;
+}
+
+.imgseq-container .toggle-container input[type='checkbox'] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+}
+
+.imgseq-container .toggle-container input[type='checkbox']:focus {
+    outline: 0;
+}
+
+.imgseq-container .toggle-wrap {
+    height: 24px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgseq-container .toggle-wrap:first-child {
+    margin-right: 24px;
+}
+
+.imgseq-container .toggle-wrap label {
+    font-size: 12px;
+    font-weight: 700;
+    margin-right: 4px;
+}
+
+.imgseq-container .toggle-container .toggle {
+    height: 12px;
+    width: 30px;
+    border-radius: 16px;
+    display: inline-block;
+    position: relative;
+    margin: 0;
+    border: 1px solid #dddddd;
+    background: #dddddd;
+    transition: all 0.2s ease;
+}
+
+.imgseq-container .toggle-container .toggle:after {
+    content: '';
+    position: absolute;
+    top: -5px;
+    left: -1px;
+    width: 18px;
+    height: 18px;
+    border: 1px solid #dddddd;
+    border-radius: 50%;
+    background: #ffffff;
+    transition: all 0.2s;
+}
+
+.imgseq-container .toggle-container .toggle:checked {
+    border-color: #2189ff;
+    background: #2189ff;
+}
+
+.imgseq-container .toggle-container .toggle:checked:after {
+    transform: translatex(11px);
+    border-color: #2189ff;
+    background: #ffffff;
+}
+
+.imgseq-container .angle-text {
+    font-size: 12px;
+    font-weight: 700;
+    margin-right: 16px;
+}
+
+.imgseq-container .angle-container {
+    display: flex;
+    padding: 12px 0px 16px;
+    width: 238px;
+    height: 32px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.imgseq-container .angle-container button {
+    display: inherit;
+    border: 0;
+    background: none;
+    cursor: pointer;
+    display: flex;
+    width: 32px;
+    height: 32px;
+    border: 1px solid #dddddd;
+    border-radius: 32px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 16px;
+}
+
+.imgseq-container .angle-container button:last-child {
+    margin-right: 0;
+}
+
+.imgseq-container .angle-container button svg {
+    width: 24px;
+    height: 24px;
+}

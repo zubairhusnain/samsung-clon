@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <rect id="Image_Container" data-name="Image Container" class="cls-1" width="96" height="96"/>
+  <g id="Icon">
+    <path id="Path" class="cls-2" d="M10,24v-9.2c0-.44.36-.8.8-.8h9.2"/>
+    <rect id="Rectangle" class="cls-3" x="2" y="6" width="44" height="84" rx="6" ry="6"/>
+  </g>
+</svg>

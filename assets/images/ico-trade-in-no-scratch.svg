@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_26320" data-name="사각형 26320" width="24" height="24" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-PC_service_knox_mobile-enrollment_ic">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="PC_service_knox_mobile-enrollment_ic" clip-path="url(#clip-PC_service_knox_mobile-enrollment_ic)">
+    <g id="service_knox_mobile-enrollment_ic">
+      <g id="그룹_33658" data-name="그룹 33658" clip-path="url(#clip-path)">
+        <path id="패스_8772" data-name="패스 8772" d="M11.5,22.5H7.249a1.5,1.5,0,0,1-1.5-1.5V3a1.5,1.5,0,0,1,1.5-1.5h8A1.5,1.5,0,0,1,16.75,3V8.52" fill="none" stroke="#070203" stroke-linecap="round" stroke-width="1"/>
+        <path id="패스_8773" data-name="패스 8773" d="M11.25,3a.749.749,0,1,1-.53.22A.751.751,0,0,1,11.25,3" fill="#070203"/>
+        <path id="패스_8774" data-name="패스 8774" d="M16.5,22.5a6,6,0,1,0-6-6A6,6,0,0,0,16.5,22.5Z" fill="none" stroke="#070203" stroke-width="1"/>
+        <path id="패스_8775" data-name="패스 8775" d="M13.05,16.039l2.45,2.667,4.45-4.83" fill="none" stroke="#070203" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

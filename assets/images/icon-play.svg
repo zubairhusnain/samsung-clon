@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ontlined" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 36 36">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: none;
+      }
+
+      .st1 {
+        stroke: #000;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="Oval">
+    <circle class="st0" cx="18" cy="18" r="18"/>
+    <circle class="st1" cx="18" cy="18" r="17.25"/>
+  </g>
+  <g id="Icon">
+    <path id="Icon_Bold_Media_Play" d="M13.24,9.01c.37-.17.81-.14,1.16.08l.05.03,11.45,7.85c.57.38.72,1.14.34,1.71-.08.12-.18.23-.3.31l-.05.03-11.45,7.85c-.21.14-.45.22-.71.22-.19,0-.38-.05-.55-.14-.38-.2-.63-.6-.64-1.03v-15.81c0-.43.22-.84.59-1.06l.05-.03.05-.03Z"/>
+  </g>
+</svg>

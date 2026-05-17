@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_26311" data-name="사각형 26311" width="24" height="24" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-PC_common_dura__water-dust-resistant_ic">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="PC_common_dura__water-dust-resistant_ic" data-name="PC_common_dura_ water-dust-resistant_ic" clip-path="url(#clip-PC_common_dura__water-dust-resistant_ic)">
+    <g id="common_dura__water-dust-resistant_ic" data-name="common_dura_ water-dust-resistant_ic">
+      <g id="그룹_33649" data-name="그룹 33649" clip-path="url(#clip-path)">
+        <path id="패스_8729" data-name="패스 8729" d="M20.963,15.309a6.558,6.558,0,0,1-13.1,0c0-4.473,4.785-10.866,6.174-12.627a.476.476,0,0,1,.667-.081.517.517,0,0,1,.081.081C16.177,4.443,20.963,10.836,20.963,15.309Z" fill="none" stroke="#070203" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="패스_8730" data-name="패스 8730" d="M7.186,8.8a.713.713,0,1,0-.713.713A.713.713,0,0,0,7.186,8.8h0" fill="#070203"/>
+        <path id="패스_8731" data-name="패스 8731" d="M8.75,6.4a.713.713,0,1,0-.713.713A.713.713,0,0,0,8.75,6.4Z" fill="#070203"/>
+        <path id="패스_8732" data-name="패스 8732" d="M10.413,4a.713.713,0,1,0-.713.713A.712.712,0,0,0,10.413,4h0" fill="#070203"/>
+        <path id="패스_8733" data-name="패스 8733" d="M4.462,8.8a.713.713,0,1,0-.712.713A.713.713,0,0,0,4.462,8.8h0" fill="#070203"/>
+        <path id="패스_8734" data-name="패스 8734" d="M6.027,6.4a.713.713,0,1,0-.713.713A.713.713,0,0,0,6.027,6.4Z" fill="#070203"/>
+        <path id="패스_8735" data-name="패스 8735" d="M7.689,4a.713.713,0,1,0-.713.713A.712.712,0,0,0,7.689,4Z" fill="#070203"/>
+      </g>
+    </g>
+  </g>
+</svg>

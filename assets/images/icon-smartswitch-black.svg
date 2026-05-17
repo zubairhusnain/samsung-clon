@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #010101;
+      }
+
+      .cls-3 {
+        isolation: isolate;
+        opacity: .55;
+      }
+    </style>
+  </defs>
+  <rect id="container" class="cls-1" width="96" height="96"/>
+  <g id="Page-1">
+    <g id="OneUI7_Icon_Utility_SmartSwitch" data-name="OneUI7/Icon/Utility/SmartSwitch">
+      <g id="Group">
+        <path id="Combined-Shape" class="cls-3" d="M47.75,54.77c-14.91,0-27-12.04-27-26.89S32.84,1,47.75,1h.17c13.24,0,24.27,9.43,26.68,21.91h3.75c.56-.02.86.69.49,1.14l-10.19,12.72c-.52.65-1.46.66-1.98,0l-10.1-12.64c-.36-.45-.06-1.16.5-1.16h3.43c-2.02-4.95-6.89-8.43-12.58-8.43h-.17c-7.4,0-13.4,5.97-13.4,13.34s6,13.34,13.4,13.34h.22v13.54h-.22,0Z"/>
+        <path id="Combined-Shape1" class="cls-2" d="M47.92,95c-13.26,0-24.31-9.46-26.69-21.98h-3.58c-.56.01-.86-.69-.49-1.15l10.19-12.72c.52-.65,1.46-.66,1.98,0l10.1,12.64c.36.45.06,1.16-.5,1.16h-3.62c2,4.99,6.89,8.5,12.6,8.5h.17c7.4,0,13.4-5.97,13.4-13.34s-6-13.34-13.4-13.34h-.22v-13.54h.22c14.91,0,27,12.04,27,26.89s-12.09,26.89-27,26.89h-.17,0Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

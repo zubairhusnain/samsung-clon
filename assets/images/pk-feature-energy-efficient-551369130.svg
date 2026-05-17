@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000124873222373145611150000013136913173659825794_);}
+	.st1{fill:#1A1311;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="2.39" y="5.79" width="55.93" height="48.34"/>
+	</defs>
+	<clipPath id="SVGID_00000146495804066941924270000001532206512340492947_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="Group_75" transform="translate(0 0)" style="clip-path:url(#SVGID_00000146495804066941924270000001532206512340492947_);">
+		<path id="Path_84" class="st1" d="M13.88,31.03C7.54,31.02,2.4,25.88,2.39,19.54v-8.76h22.97v8.76
+			C25.35,25.88,20.21,31.02,13.88,31.03 M5.37,13.76v5.78c0,4.7,3.81,8.51,8.51,8.51s8.51-3.81,8.51-8.51v-5.78H5.37z"/>
+		<rect id="Rectangle_11" x="7.41" y="5.79" class="st1" width="2.98" height="6.48"/>
+		<rect id="Rectangle_12" x="17.21" y="5.79" class="st1" width="2.98" height="6.48"/>
+		<path id="Path_85" class="st1" d="M22.75,54.13c-5.72-0.01-10.36-4.65-10.36-10.37V29.54h2.98v14.22
+			c-0.05,4.08,3.22,7.43,7.31,7.48s7.43-3.22,7.48-7.31c0-0.06,0-0.11,0-0.17V28.2c0-5.73,4.64-10.37,10.37-10.37
+			s10.37,4.64,10.37,10.37v19.48h-2.98V28.2c0-4.08-3.31-7.39-7.39-7.39s-7.39,3.31-7.39,7.39l0,0v15.56
+			C33.12,49.49,28.48,54.13,22.75,54.13"/>
+		<path id="Path_86" class="st1" d="M49.4,49.77l-8.92-8.92l2.1-2.11l6.82,6.82l6.82-6.82l2.1,2.11L49.4,49.77z"/>
+	</g>
+</g>
+</svg>

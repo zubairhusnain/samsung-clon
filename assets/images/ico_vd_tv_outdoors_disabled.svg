@@ -1,0 +1,12 @@
+<svg id="ic_outdoors_24x24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="사각형_13" data-name="사각형 13" width="24" height="24" fill="none"/>
+  <g id="outdoor_24x24" transform="translate(-0.25 -0.5)">
+    <path id="패스_20" data-name="패스 20" d="M4.25,17.387h15a.25.25,0,0,0,.233-.16l1.667-4.35" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_21" data-name="패스 21" d="M7.575,17.388,5.883,19.71" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_22" data-name="패스 22" d="M16.627,17.388l1.692,2.323" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_23" data-name="패스 23" d="M12.893,15.357H15.67a.251.251,0,0,1,.25.25v1.777" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_24" data-name="패스 24" d="M10.367,17.387V10.38" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_25" data-name="패스 25" d="M15.992,10.38a.248.248,0,0,0,.25-.257,5.881,5.881,0,0,0-11.75,0,.251.251,0,0,0,.25.257H15.99Z" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_26" data-name="패스 26" d="M8.213,10.38c0-3.247.965-5.88,2.155-5.88s2.155,2.633,2.155,5.88" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

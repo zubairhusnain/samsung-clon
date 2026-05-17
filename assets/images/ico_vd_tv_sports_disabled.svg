@@ -1,0 +1,11 @@
+<svg id="ic_sports_24x24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="사각형_22" data-name="사각형 22" width="24" height="24" fill="none"/>
+  <g id="realistic-sports_24x24" transform="translate(-0.05 0.109)">
+    <path id="패스_50" data-name="패스 50" d="M15.4,18.914a3.944,3.944,0,1,0-3.944-3.944A3.944,3.944,0,0,0,15.4,18.914Z" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_51" data-name="패스 51" d="M11.777,16.536c-2.4,1.665-5.192,2.032-6.08,1.4-.968-.691-1.793-5.555.7-9.047s7.151-4.44,8.33-3.6c.762.544,1.339,3.071.745,5.738" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_52" data-name="패스 52" d="M18.014,17.925a3.806,3.806,0,0,1-1.27-2.944,3.8,3.8,0,0,1,1.248-2.924" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_53" data-name="패스 53" d="M12.748,12a3.787,3.787,0,0,1,1.322,2.985,3.754,3.754,0,0,1-1.248,2.924" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_54" data-name="패스 54" d="M9.623,6.062a12.41,12.41,0,0,0,5.946,4.311" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_55" data-name="패스 55" d="M4.854,12.893a12.045,12.045,0,0,1,6,4.209" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>
