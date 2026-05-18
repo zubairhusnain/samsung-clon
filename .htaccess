@@ -1,16 +1,14 @@
 RewriteEngine On
 
-# Legacy URLs generated when CW_BASE_URL incorrectly included /public_html
+# Legacy URLs when CW_BASE_URL incorrectly included /public_html
 RewriteRule ^public_html/(.*)$ /$1 [R=301,L]
 
-RewriteRule ^pk/(.*)$ $1 [R=302,L]
+RewriteRule ^pk/(.*)$ /$1 [R=302,L]
 
-RewriteCond %{REQUEST_URI} !/router\.php$ [NC]
-RewriteCond %{REQUEST_URI} \.php$ [NC]
-RewriteRule ^ router.php [L,QSA]
-
+# Serve real files and folders (index.php, assets, pages/, etc.)
 RewriteCond %{REQUEST_FILENAME} -f [OR]
 RewriteCond %{REQUEST_FILENAME} -d
 RewriteRule ^ - [L]
 
+# Everything else → front controller
 RewriteRule ^ router.php [L,QSA]

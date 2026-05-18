@@ -1,6 +1,7 @@
 <?php
 declare(strict_types=1);
 
+require_once __DIR__ . '/includes/cw-php-polyfill.php';
 require_once __DIR__ . '/includes/cw-asset-resolve.php';
 require_once __DIR__ . '/includes/cw-sanitize-html.php';
 

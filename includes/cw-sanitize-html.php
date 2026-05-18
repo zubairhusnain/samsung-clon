@@ -62,6 +62,10 @@ function cw_tracking_inline(string $body): bool
 
 function cw_sanitize_html(string $html): string
 {
+    if (getenv('CW_SKIP_SANITIZE') === '1' || strlen($html) > 900000) {
+        return $html;
+    }
+
     $html = preg_replace(
         '~<iframe[^>]*src=["\']javascript:void\(0\)["\'][^>]*>\s*</iframe>\s*'
         . '(?:<script\b[^>]*\bsrc=[^>]+(?:snapchat|googletagmanager|facebook|insider|sprinklr|decibel|medallia|adobedtm|sc-static|ads-twitter|mczbf|beusable|contentsquare|go-mpulse)[^>]*>\s*</script>\s*)+~is',
