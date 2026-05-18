@@ -4,6 +4,70 @@ declare(strict_types=1);
 require_once __DIR__ . '/includes/cw-asset-resolve.php';
 require_once __DIR__ . '/includes/cw-sanitize-html.php';
 
+/**
+ * URL path prefix for this install (e.g. "/samsung-clon" locally, "" at domain docroot).
+ */
+function cw_install_base_path(): string
+{
+    static $path = null;
+    if ($path !== null) {
+        return $path;
+    }
+
+    $override = getenv('CW_BASE_PATH');
+    if (is_string($override)) {
+        if ($override === '' || $override === '/') {
+            $path = '';
+        } else {
+            $path = str_starts_with($override, '/') ? $override : '/' . $override;
+        }
+        return $path;
+    }
+
+    $docRoot = $_SERVER['DOCUMENT_ROOT'] ?? '';
+    if ($docRoot !== '') {
+        $root = realpath($docRoot);
+        $here = realpath(__DIR__);
+        if ($root !== false && $here !== false && $root === $here) {
+            $path = '';
+            return $path;
+        }
+    }
+
+    $folder = basename(__DIR__);
+    if (in_array($folder, ['public_html', 'www', 'httpdocs', 'htdocs', 'html', 'web'], true)) {
+        $path = '';
+        return $path;
+    }
+
+    $path = '/' . $folder;
+    return $path;
+}
+
+/** Strip install prefix and legacy /public_html from a request path. */
+function cw_normalize_request_path(string $path): string
+{
+    $base = cw_install_base_path();
+    if ($base !== '') {
+        if ($path === $base) {
+            $path = '/';
+        } elseif (str_starts_with($path, $base . '/')) {
+            $path = substr($path, strlen($base));
+        }
+    }
+
+    if ($path === '/public_html') {
+        $path = '/';
+    } elseif (str_starts_with($path, '/public_html/')) {
+        $path = substr($path, strlen('/public_html'));
+        if ($path === '') {
+            $path = '/';
+        }
+    }
+
+    return $path;
+}
+
 $baseUrl = 'http://localhost/samsung-clon';
 if (!defined('CW_BASE_URL')) {
     $override = getenv('CW_BASE_URL');
@@ -13,8 +77,7 @@ if (!defined('CW_BASE_URL')) {
         $isHttps = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') || (($_SERVER['SERVER_PORT'] ?? '') === '443');
         $scheme = $isHttps ? 'https' : 'http';
         $host = (string)$_SERVER['HTTP_HOST'];
-        $basePath = '/' . basename(__DIR__);
-        $base = $scheme . '://' . $host . $basePath;
+        $base = $scheme . '://' . $host . cw_install_base_path();
     } else {
         $base = $baseUrl;
     }
@@ -46,12 +109,7 @@ function cw_rewrite_asset_urls_in_html(string $html): string
     if (!is_string($path) || $path === '') {
         $path = '/';
     }
-    $baseDir = '/' . basename(__DIR__);
-    if (str_starts_with($path, $baseDir . '/')) {
-        $path = substr($path, strlen($baseDir));
-    } elseif ($path === $baseDir) {
-        $path = '/';
-    }
+    $path = cw_normalize_request_path($path);
     if (str_starts_with($path, '/pk/')) {
         $path = substr($path, 3);
     } elseif ($path === '/pk' || $path === '/pk/') {

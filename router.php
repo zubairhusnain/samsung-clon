@@ -11,12 +11,7 @@ if (!is_string($path) || $path === '') {
     $path = '/';
 }
 
-$base = '/' . basename(__DIR__);
-if ($path === $base) {
-    $path = '/';
-} elseif (str_starts_with($path, $base . '/')) {
-    $path = substr($path, strlen($base));
-}
+$path = cw_normalize_request_path($path);
 
 $query = parse_url($uri, PHP_URL_QUERY);
 if (!is_string($query)) {
