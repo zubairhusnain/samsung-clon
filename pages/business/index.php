@@ -527,12 +527,7 @@ var digitalData = {
 					
 					
 					<div class="gnb__mobile-menu">
-						<a class="gnb__search-btn gnb__search-btn-js" href="javascript:void(0)" aria-haspopup="true" role="button" an-tr="nv00_gnb-home-l0-navigation2" an-ca="navigation" an-ac="gnb" an-la="search">
-							<span class="hidden">Search</span>
-							<svg class="icon" xmlns="" viewBox="0 0 96 96" focusable="false">
-								<path d="M40.581 4.09c20.126 0 36.5 16.374 36.5 36.5a36.325 36.325 0 01-7.963 22.733l22.8 22.948-5.674 5.639-22.767-22.913a36.327 36.327 0 01-22.896 8.093c-20.126 0-36.5-16.374-36.5-36.5s16.374-36.5 36.5-36.5zm0 8c-15.715 0-28.5 12.785-28.5 28.5s12.785 28.5 28.5 28.5 28.5-12.785 28.5-28.5-12.785-28.5-28.5-28.5z"></path>
-							</svg>
-						</a>
+						
 						
 						
 						<a class="gnb__menu-btn js-gnb-menu-btn" href="javascript:void(0)" aria-haspopup="true" role="button" an-tr="nv00_gnb--image-action" an-ca="navigation" an-ac="gnb" an-la="gnb:open" aria-expanded="false"><span>Open Menu</span>
@@ -574,183 +569,29 @@ var digitalData = {
 							<strong class="gnb__depth2-title">
 								
 								
-									<a class="gnb__depth2-title-link" href="<?php echo CW_BASE_URL; ?>/business/mobile/" an-tr="nv00_gnb--click-depth1" an-ca="navigation" an-ac="gnb" an-la="mobile:mobile">Mobile</a>
+									
 									
 								
 							</strong>
 						</div>
 						<ul class="gnb__depth2" role="menu">
 							
-							<li class="gnb__depth2-menu has-depth-menu" role="presentation">
-								<a class="gnb__depth2-link" href="javascript:void(0)" role="menuitem" data-engname="mobile:products" aria-expanded="false" aria-haspopup="true">
-									<span class="gnb__depth2-link-text">
-										Products
-										
-									</span>
-									<svg class="icon icon--next" xmlns="" viewBox="0 0 96 96" focusable="false">
-										<path d="M31.828 16.306l3.457-3.612L72.172 48 35.285 83.306l-3.457-3.612L64.941 48z"></path>
-									</svg>
-									<svg class="icon icon--dropdown" xmlns="" viewBox="0 0 96 96" focusable="false">
-										<path d="M48 73.254L11.651 36.361l5.698-5.614L48 61.855l30.651-31.108 5.698 5.614z"></path>
-									</svg>
-								</a>
-								<div class="gnb__depth3-wrap">
-									<div class="gnb__depth3-inner">
-										<ul class="gnb__depth3" role="menu">
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/smartphones/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="mobile:products:smartphones" data-engname="mobile:products:smartphones">
-														<span class="gnb__depth3-link-text">
-															Smartphones
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/tablets/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="mobile:products:tablets" data-engname="mobile:products:tablets">
-														<span class="gnb__depth3-link-text">
-															Tablets
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/mobile/rugged/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="mobile:products:rugged" data-engname="mobile:products:rugged">
-														<span class="gnb__depth3-link-text">
-															Rugged
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										</ul>
-									</div>
-								</div>
-							</li>
+							
 							
 							
 						
 							
-							<li class="gnb__depth2-menu has-depth-menu" role="presentation">
-								<a class="gnb__depth2-link" href="javascript:void(0)" role="menuitem" data-engname="mobile:solutions" aria-expanded="false" aria-haspopup="true">
-									<span class="gnb__depth2-link-text">
-										Solutions
-										
-									</span>
-									<svg class="icon icon--next" xmlns="" viewBox="0 0 96 96" focusable="false">
-										<path d="M31.828 16.306l3.457-3.612L72.172 48 35.285 83.306l-3.457-3.612L64.941 48z"></path>
-									</svg>
-									<svg class="icon icon--dropdown" xmlns="" viewBox="0 0 96 96" focusable="false">
-										<path d="M48 73.254L11.651 36.361l5.698-5.614L48 61.855l30.651-31.108 5.698 5.614z"></path>
-									</svg>
-								</a>
-								<div class="gnb__depth3-wrap">
-									<div class="gnb__depth3-inner">
-										<ul class="gnb__depth3" role="menu">
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/mobile-solutions/samsung-knox/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="mobile:solutions:samsung knox" data-engname="mobile:solutions:samsung knox">
-														<span class="gnb__depth3-link-text">
-															Samsung Knox
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/mobile-solutions/samsung-dex/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="mobile:solutions:samsung dex" data-engname="mobile:solutions:samsung dex">
-														<span class="gnb__depth3-link-text">
-															Samsung DeX
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/partners/mobile/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="mobile:solutions:partnership" data-engname="mobile:solutions:partnership">
-														<span class="gnb__depth3-link-text">
-															Partnership
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										</ul>
-									</div>
-								</div>
-							</li>
+							
 							
 							
 						
 							
-							<li class="gnb__depth2-menu has-depth-menu" role="presentation">
-								<a class="gnb__depth2-link" href="javascript:void(0)" role="menuitem" data-engname="mobile:business" aria-expanded="false" aria-haspopup="true">
-									<span class="gnb__depth2-link-text">
-										Business
-										
-									</span>
-									<svg class="icon icon--next" xmlns="" viewBox="0 0 96 96" focusable="false">
-										<path d="M31.828 16.306l3.457-3.612L72.172 48 35.285 83.306l-3.457-3.612L64.941 48z"></path>
-									</svg>
-									<svg class="icon icon--dropdown" xmlns="" viewBox="0 0 96 96" focusable="false">
-										<path d="M48 73.254L11.651 36.361l5.698-5.614L48 61.855l30.651-31.108 5.698 5.614z"></path>
-									</svg>
-								</a>
-								<div class="gnb__depth3-wrap">
-									<div class="gnb__depth3-inner">
-										<ul class="gnb__depth3" role="menu">
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/why-samsung/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="mobile:business:why samsung for mobile" data-engname="mobile:business:why samsung for mobile">
-														<span class="gnb__depth3-link-text">
-															Why Samsung for Mobile
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										</ul>
-									</div>
-								</div>
-							</li>
+							
 							
 							
 						</ul>
 						<div class="gnb__feature-container">
-							<a class="gnb__feature-container-link" href="<?php echo CW_BASE_URL; ?>/business/smartphones/" an-tr="nv00_gnb--cta-feature" an-ca="navigation" an-ac="gnb" an-la="feature image:mobile:Galaxy S26 Ultra">
-								<div class="image">
-									<img class="image__preview responsive-img lazy-load-man" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/business/GNB_PC_Galaxy_S26_Ultra_624X624.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/business/GNB_PC_Galaxy_S26_Ultra_624X624.png" alt="Galaxy S26 Ultra" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/business/GNB_PC_Galaxy_S26_Ultra_624X624.png">
-									<img class="image__main responsive-img lazy-load-man" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/business/GNB_PC_Galaxy_S26_Ultra_624X624.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/business/GNB_PC_Galaxy_S26_Ultra_624X624.png" alt="Galaxy S26 Ultra" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/business/GNB_PC_Galaxy_S26_Ultra_624X624.png">
-								</div>
-								<div class="gnb__feature-container-contents">
-									<p class="gnb__feature-container-description">Galaxy S26 Ultra</p>
-									<span class="cta cta--underline cta--black">Learn more</span>
-								</div>
-							</a>
+							
 							
 						</div>
 						<a class="gnb__depth2-close" href="javascript:void(0)" role="button" an-tr="nv00_gnb--image-action" an-ca="navigation" an-ac="gnb" an-la="gnb:close" style="visibility: hidden;">
@@ -787,160 +628,24 @@ var digitalData = {
 							<strong class="gnb__depth2-title">
 								
 								
-									<a class="gnb__depth2-title-link" href="<?php echo CW_BASE_URL; ?>/business/displays/" an-tr="nv00_gnb--click-depth1" an-ca="navigation" an-ac="gnb" an-la="displays:displays">Displays</a>
+									
 									
 								
 							</strong>
 						</div>
 						<ul class="gnb__depth2" role="menu">
 							
-							<li class="gnb__depth2-menu has-depth-menu" role="presentation">
-								<a class="gnb__depth2-link" href="javascript:void(0)" role="menuitem" data-engname="displays:products" aria-expanded="false" aria-haspopup="true">
-									<span class="gnb__depth2-link-text">
-										Products
-										
-									</span>
-									<svg class="icon icon--next" xmlns="" viewBox="0 0 96 96" focusable="false">
-										<path d="M31.828 16.306l3.457-3.612L72.172 48 35.285 83.306l-3.457-3.612L64.941 48z"></path>
-									</svg>
-									<svg class="icon icon--dropdown" xmlns="" viewBox="0 0 96 96" focusable="false">
-										<path d="M48 73.254L11.651 36.361l5.698-5.614L48 61.855l30.651-31.108 5.698 5.614z"></path>
-									</svg>
-								</a>
-								<div class="gnb__depth3-wrap">
-									<div class="gnb__depth3-inner">
-										<ul class="gnb__depth3" role="menu">
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/smart-signage/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="displays:products:smart signage" data-engname="displays:products:smart signage">
-														<span class="gnb__depth3-link-text">
-															Smart Signage
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/led-signage/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="displays:products:led signage" data-engname="displays:products:led signage">
-														<span class="gnb__depth3-link-text">
-															LED Signage
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/commercial-tvs/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="displays:products:commercial tvs" data-engname="displays:products:commercial tvs">
-														<span class="gnb__depth3-link-text">
-															Commercial TVs
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/monitors/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="displays:products:monitors" data-engname="displays:products:monitors">
-														<span class="gnb__depth3-link-text">
-															Monitors
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										</ul>
-									</div>
-								</div>
-							</li>
+							
 							
 							
 						
 							
-							<li class="gnb__depth2-menu has-depth-menu" role="presentation">
-								<a class="gnb__depth2-link" href="javascript:void(0)" role="menuitem" data-engname="displays:solutions" aria-expanded="false" aria-haspopup="true">
-									<span class="gnb__depth2-link-text">
-										Solutions
-										
-									</span>
-									<svg class="icon icon--next" xmlns="" viewBox="0 0 96 96" focusable="false">
-										<path d="M31.828 16.306l3.457-3.612L72.172 48 35.285 83.306l-3.457-3.612L64.941 48z"></path>
-									</svg>
-									<svg class="icon icon--dropdown" xmlns="" viewBox="0 0 96 96" focusable="false">
-										<path d="M48 73.254L11.651 36.361l5.698-5.614L48 61.855l30.651-31.108 5.698 5.614z"></path>
-									</svg>
-								</a>
-								<div class="gnb__depth3-wrap">
-									<div class="gnb__depth3-inner">
-										<ul class="gnb__depth3" role="menu">
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/display-solutions/magicinfo/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="displays:solutions:smart signage solutions" data-engname="displays:solutions:smart signage solutions">
-														<span class="gnb__depth3-link-text">
-															Smart Signage Solutions
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/display-solutions/color-expert-led/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="displays:solutions:led signage solutions" data-engname="displays:solutions:led signage solutions">
-														<span class="gnb__depth3-link-text">
-															LED signage Solutions
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/display-solutions/lynk-reach-4-0/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="displays:solutions:commercial tv solutions" data-engname="displays:solutions:commercial tv solutions">
-														<span class="gnb__depth3-link-text">
-															Commercial TV Solutions
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										</ul>
-									</div>
-								</div>
-							</li>
+							
 							
 							
 						</ul>
 						<div class="gnb__feature-container">
-							<a class="gnb__feature-container-link" href="<?php echo CW_BASE_URL; ?>/business/monitors/all-monitors/?high-resolution" an-tr="nv00_gnb--cta-feature" an-ca="navigation" an-ac="gnb" an-la="feature image:displays:High Resolution Monitors">
-								<div class="image">
-									<img class="image__preview responsive-img lazy-load-man" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/global/p6-b2b/gro2-2/gnb/VD-EBT_GNB_Feature_Image_mo.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/global/p6-b2b/gro2-2/gnb/VD-EBT_GNB_Feature_Image_mo.jpg" alt="three high resolution monitors on the desk" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/global/p6-b2b/gro2-2/gnb/VD-EBT_GNB_Feature_Image_mo.jpg">
-									<img class="image__main responsive-img lazy-load-man" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/global/p6-b2b/gro2-2/gnb/VD-EBT_GNB_Feature_Image_mo.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/global/p6-b2b/gro2-2/gnb/VD-EBT_GNB_Feature_Image_mo.jpg" alt="three high resolution monitors on the desk" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/global/p6-b2b/gro2-2/gnb/VD-EBT_GNB_Feature_Image_mo.jpg">
-								</div>
-								<div class="gnb__feature-container-contents">
-									<p class="gnb__feature-container-description">High Resolution Monitors</p>
-									<span class="cta cta--underline cta--black">Learn more</span>
-								</div>
-							</a>
+							
 							
 						</div>
 						<a class="gnb__depth2-close" href="javascript:void(0)" role="button" an-tr="nv00_gnb--image-action" an-ca="navigation" an-ac="gnb" an-la="gnb:close" style="visibility: hidden;">
@@ -977,7 +682,7 @@ var digitalData = {
 							<strong class="gnb__depth2-title">
 								
 								
-									<a class="gnb__depth2-title-link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioners/" an-tr="nv00_gnb--click-depth1" an-ca="navigation" an-ac="gnb" an-la="climate:climate">Climate</a>
+									
 									
 								
 							</strong>
@@ -986,343 +691,30 @@ var digitalData = {
 							
 							
 							
-							<li class="gnb__depth2-menu" role="presentation">
-								<a class="gnb__depth2-link" href="<?php echo CW_BASE_URL; ?>/business/air-conditioners/about-us/" role="menuitem" an-tr="nv00_gnb--click-depth2" an-ca="navigation" an-ac="gnb" an-la="climate:about us" data-engname="climate:about us" aria-expanded="false">
-									<span class="gnb__depth2-link-text">
-										About&nbsp;Us
-										
-									</span>
-								</a>
-								
-							</li>
-						
-							
-							<li class="gnb__depth2-menu has-depth-menu" role="presentation">
-								<a class="gnb__depth2-link" href="javascript:void(0)" role="menuitem" data-engname="climate:products" aria-expanded="false" aria-haspopup="true">
-									<span class="gnb__depth2-link-text">
-										Products
-										
-									</span>
-									<svg class="icon icon--next" xmlns="" viewBox="0 0 96 96" focusable="false">
-										<path d="M31.828 16.306l3.457-3.612L72.172 48 35.285 83.306l-3.457-3.612L64.941 48z"></path>
-									</svg>
-									<svg class="icon icon--dropdown" xmlns="" viewBox="0 0 96 96" focusable="false">
-										<path d="M48 73.254L11.651 36.361l5.698-5.614L48 61.855l30.651-31.108 5.698 5.614z"></path>
-									</svg>
-								</a>
-								<div class="gnb__depth3-wrap">
-									<div class="gnb__depth3-inner">
-										<ul class="gnb__depth3" role="menu">
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioners/residential/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="climate:products:residential" data-engname="climate:products:residential">
-														<span class="gnb__depth3-link-text">
-															Residential
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioners/multi-split-fjm/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="climate:products:multi split" data-engname="climate:products:multi split">
-														<span class="gnb__depth3-link-text">
-															Multi Split
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioners/single-split-cac/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="climate:products:commercial" data-engname="climate:products:commercial">
-														<span class="gnb__depth3-link-text">
-															Commercial
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioners/vrf-dvm/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="climate:products:vrf" data-engname="climate:products:vrf">
-														<span class="gnb__depth3-link-text">
-															VRF
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioners/air-to-water-heating-ehs/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="climate:products:heating" data-engname="climate:products:heating">
-														<span class="gnb__depth3-link-text">
-															Heating
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioners/ventilation-erv/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="climate:products:ventilation" data-engname="climate:products:ventilation">
-														<span class="gnb__depth3-link-text">
-															Ventilation
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioners/controls/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="climate:products:controls" data-engname="climate:products:controls">
-														<span class="gnb__depth3-link-text">
-															Controls
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										</ul>
-									</div>
-								</div>
-							</li>
-							
 							
 						
 							
-							<li class="gnb__depth2-menu has-depth-menu" role="presentation">
-								<a class="gnb__depth2-link" href="javascript:void(0)" role="menuitem" data-engname="climate:solutions" aria-expanded="false" aria-haspopup="true">
-									<span class="gnb__depth2-link-text">
-										Solutions
-										
-									</span>
-									<svg class="icon icon--next" xmlns="" viewBox="0 0 96 96" focusable="false">
-										<path d="M31.828 16.306l3.457-3.612L72.172 48 35.285 83.306l-3.457-3.612L64.941 48z"></path>
-									</svg>
-									<svg class="icon icon--dropdown" xmlns="" viewBox="0 0 96 96" focusable="false">
-										<path d="M48 73.254L11.651 36.361l5.698-5.614L48 61.855l30.651-31.108 5.698 5.614z"></path>
-									</svg>
-								</a>
-								<div class="gnb__depth3-wrap">
-									<div class="gnb__depth3-inner">
-										<ul class="gnb__depth3" role="menu">
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioner-solutions/windfree/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="climate:solutions:windfree" data-engname="climate:solutions:windfree">
-														<span class="gnb__depth3-link-text">
-															WindFree™
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioner-solutions/ahu/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="climate:solutions:ahu" data-engname="climate:solutions:ahu">
-														<span class="gnb__depth3-link-text">
-															AHU
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioner-solutions/air-quality/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="climate:solutions:air quality" data-engname="climate:solutions:air quality">
-														<span class="gnb__depth3-link-text">
-															Air Quality
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioner-solutions/integrated-control/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="climate:solutions:integrated control" data-engname="climate:solutions:integrated control">
-														<span class="gnb__depth3-link-text">
-															Integrated control
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										</ul>
-									</div>
-								</div>
-							</li>
 							
-							
-						
-							
-							<li class="gnb__depth2-menu has-depth-menu" role="presentation">
-								<a class="gnb__depth2-link" href="javascript:void(0)" role="menuitem" data-engname="climate:industries" aria-expanded="false" aria-haspopup="true">
-									<span class="gnb__depth2-link-text">
-										Industries
-										
-									</span>
-									<svg class="icon icon--next" xmlns="" viewBox="0 0 96 96" focusable="false">
-										<path d="M31.828 16.306l3.457-3.612L72.172 48 35.285 83.306l-3.457-3.612L64.941 48z"></path>
-									</svg>
-									<svg class="icon icon--dropdown" xmlns="" viewBox="0 0 96 96" focusable="false">
-										<path d="M48 73.254L11.651 36.361l5.698-5.614L48 61.855l30.651-31.108 5.698 5.614z"></path>
-									</svg>
-								</a>
-								<div class="gnb__depth3-wrap">
-									<div class="gnb__depth3-inner">
-										<ul class="gnb__depth3" role="menu">
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioner-solutions/home/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="climate:industries:home" data-engname="climate:industries:home">
-														<span class="gnb__depth3-link-text">
-															Home
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioner-solutions/hotel/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="climate:industries:hotel" data-engname="climate:industries:hotel">
-														<span class="gnb__depth3-link-text">
-															Hotel
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioner-solutions/office/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="climate:industries:office" data-engname="climate:industries:office">
-														<span class="gnb__depth3-link-text">
-															Office
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioner-solutions/healthcare/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="climate:industries:healthcare" data-engname="climate:industries:healthcare">
-														<span class="gnb__depth3-link-text">
-															Healthcare
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioner-solutions/retail/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="climate:industries:retail" data-engname="climate:industries:retail">
-														<span class="gnb__depth3-link-text">
-															Retail
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioner-solutions/restaurant/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="climate:industries:restaurant" data-engname="climate:industries:restaurant">
-														<span class="gnb__depth3-link-text">
-															Restaurant
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										
-											<li class="gnb__depth3-menu" role="presentation">
-											    
-												
-													<a class="gnb__depth3-link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioner-solutions/education/" role="menuitem" an-tr="nv00_gnb--text-depth3" an-ca="navigation" an-ac="gnb" an-la="climate:industries:education" data-engname="climate:industries:education">
-														<span class="gnb__depth3-link-text">
-															Education
-															
-														</span>
-													</a>
-												
-												
-											</li>
-										</ul>
-									</div>
-								</div>
-							</li>
 							
 							
 						
 							
 							
 							
-							<li class="gnb__depth2-menu" role="presentation">
-								<a class="gnb__depth2-link" href="<?php echo CW_BASE_URL; ?>/business/air-conditioners/case-study/" role="menuitem" an-tr="nv00_gnb--click-depth2" an-ca="navigation" an-ac="gnb" an-la="climate:case study" data-engname="climate:case study" aria-expanded="false">
-									<span class="gnb__depth2-link-text">
-										Case&nbsp;Study
-										
-									</span>
-								</a>
-								
-							</li>
+							
+						
+							
+							
+							
+							
+						
+							
+							
+							
+							
 						</ul>
 						<div class="gnb__feature-container">
-							<a class="gnb__feature-container-link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioner-solutions/windfree/" an-tr="nv00_gnb--cta-feature" an-ca="navigation" an-ac="gnb" an-la="feature image:climate:Cool. WindFree™">
-								<div class="image">
-									<img class="image__preview responsive-img lazy-load-man" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/global/p6-b2b/gro2-2/gnb/DA_Climate_GNB_Feature_Image_pc_resized.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/global/p6-b2b/gro2-2/gnb/DA_Climate_GNB_Feature_Image_pc_resized.png" alt="Samsung wall mounted air conditioner is hanging on a wall with white dots on a yellow, blue, and red color background. Samsung wall mounted AC is operating in WindFree™ mode for energy saving." data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/global/p6-b2b/gro2-2/gnb/DA_Climate_GNB_Feature_Image_pc_resized.png">
-									<img class="image__main responsive-img lazy-load-man" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/global/p6-b2b/gro2-2/gnb/DA_Climate_GNB_Feature_Image_pc_resized.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/global/p6-b2b/gro2-2/gnb/DA_Climate_GNB_Feature_Image_pc_resized.png" alt="Samsung wall mounted air conditioner is hanging on a wall with white dots on a yellow, blue, and red color background. Samsung wall mounted AC is operating in WindFree™ mode for energy saving." data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/global/p6-b2b/gro2-2/gnb/DA_Climate_GNB_Feature_Image_pc_resized.png">
-								</div>
-								<div class="gnb__feature-container-contents">
-									<p class="gnb__feature-container-description">Cool. WindFree™</p>
-									<span class="cta cta--underline cta--black">Learn more</span>
-								</div>
-							</a>
+							
 							
 						</div>
 						<a class="gnb__depth2-close" href="javascript:void(0)" role="button" an-tr="nv00_gnb--image-action" an-ca="navigation" an-ac="gnb" an-la="gnb:close" style="visibility: hidden;">
@@ -1365,7 +757,7 @@ var digitalData = {
 						<strong class="gnb__depth2-title">
 							
 							
-								<a class="gnb__depth2-title-link" href="<?php echo CW_BASE_URL; ?>/business/support/" an-tr="nv00_gnb--click-depth1" an-ca="navigation" an-ac="gnb" an-la="support:support">Support</a>
+								
 								
 							
 						</strong>
@@ -1374,15 +766,7 @@ var digitalData = {
 						
 						
 						
-						<li class="gnb__depth2-menu" role="presentation">
-							<a class="gnb__depth2-link" href="<?php echo CW_BASE_URL; ?>/support/enterprise-service/" role="menuitem" an-tr="nv00_gnb--click-depth2" an-ca="navigation" an-ac="gnb" an-la="support:enterprise service" data-engname="support:enterprise service" aria-expanded="false">
-								<span class="gnb__depth2-link-text">
-									Enterprise&nbsp;service									
-									
-								</span>
-							</a>
-							
-						</li>
+						
 					</ul>
 					
 					<a class="gnb__depth2-close" href="javascript:void(0)" role="button" an-tr="nv00_gnb--image-action" an-ca="navigation" an-ac="gnb" an-la="gnb:close" style="visibility: hidden;">
@@ -1427,41 +811,17 @@ var digitalData = {
 						
 						
 						
-						<li class="gnb__depth2-menu" role="presentation">
-							<a class="gnb__depth2-link" href="<?php echo CW_BASE_URL; ?>/business/partners/mobile/" role="menuitem" an-tr="nv00_gnb--click-depth2" an-ca="navigation" an-ac="gnb" an-la="partners:mobile partners" data-engname="partners:mobile partners" aria-expanded="false">
-								<span class="gnb__depth2-link-text">
-									Mobile									
-									
-								</span>
-							</a>
-							
-						</li>
+						
 					
 						
 						
 						
-						<li class="gnb__depth2-menu" role="presentation">
-							<a class="gnb__depth2-link" href="<?php echo CW_BASE_URL; ?>/business/partners/displays/" role="menuitem" an-tr="nv00_gnb--click-depth2" an-ca="navigation" an-ac="gnb" an-la="partners:display partners" data-engname="partners:display partners" aria-expanded="false">
-								<span class="gnb__depth2-link-text">
-									Display									
-									
-								</span>
-							</a>
-							
-						</li>
+						
 					
 						
 						
 						
-						<li class="gnb__depth2-menu" role="presentation">
-							<a class="gnb__depth2-link" href="<?php echo CW_BASE_URL; ?>/business/partners/system-air-conditioners/" role="menuitem" an-tr="nv00_gnb--click-depth2" an-ca="navigation" an-ac="gnb" an-la="partners:climate partners" data-engname="partners:climate partners" aria-expanded="false">
-								<span class="gnb__depth2-link-text">
-									Climate									
-									
-								</span>
-							</a>
-							
-						</li>
+						
 					</ul>
 					
 					<a class="gnb__depth2-close" href="javascript:void(0)" role="button" an-tr="nv00_gnb--image-action" an-ca="navigation" an-ac="gnb" an-la="gnb:close" style="visibility: hidden;">
@@ -1506,70 +866,32 @@ var digitalData = {
 						
 						
 						
-						<li class="gnb__depth2-menu" role="presentation">
-							
-							
-							</span>
-						</li>
+						
 					
 						
 						
 						
-						<li class="gnb__depth2-menu" role="presentation">
-							
-							
-							</span>
-						</li>
+						
 					
 						
 						
 						
-						<li class="gnb__depth2-menu" role="presentation">
-							
-							<a class="gnb__depth2-link" href="/global/business/led/" target="_blank" aria-label="Open in a New Window" role="menuitem" an-tr="nv00_gnb--click-depth2" an-ca="navigation" an-ac="gnb" an-la="global sites:led" data-engname="global sites:led" aria-expanded="false">
-								<span class="gnb__depth2-link-text">
-									LED
-									<svg class="icon" xmlns="" viewBox="0 0 96 96" focusable="false">
-										<path d="M81.436 14.564v54.285h-8V28.221L18.22 83.436l-5.656-5.656L67.78 22.563l-40.629.001v-8z"></path>
-									</svg>
-									
-								</span>
-							</a>
-						</li>
+						
 					
 						
 						
 						
-						<li class="gnb__depth2-menu" role="presentation">
-							
-							
-							</span>
-						</li>
+						
 					
 						
 						
 						
-						<li class="gnb__depth2-menu" role="presentation">
-							
-							
-							</span>
-						</li>
+						
 					
 						
 						
 						
-						<li class="gnb__depth2-menu" role="presentation">
-							
-							<a class="gnb__depth2-link" href="/global/business/networks/" target="_blank" aria-label="Open in a New Window" role="menuitem" an-tr="nv00_gnb--click-depth2" an-ca="navigation" an-ac="gnb" an-la="global sites:networks" data-engname="global sites:networks" aria-expanded="false">
-								<span class="gnb__depth2-link-text">
-									Networks
-									<svg class="icon" xmlns="" viewBox="0 0 96 96" focusable="false">
-										<path d="M81.436 14.564v54.285h-8V28.221L18.22 83.436l-5.656-5.656L67.78 22.563l-40.629.001v-8z"></path>
-									</svg>
-									
-								</span>
-							</a>
-						</li>
+						
 					</ul>
 					
 					<a class="gnb__depth2-close" href="javascript:void(0)" role="button" an-tr="nv00_gnb--image-action" an-ca="navigation" an-ac="gnb" an-la="gnb:close" style="visibility: hidden;">
@@ -1593,79 +915,20 @@ var digitalData = {
 
 								
 								<ul class="gnb__utility">
-									<li class="gnb__search">
-										<a class="gnb__search-btn gnb__search-btn-js" href="javascript:void(0)" role="button" an-tr="nv00_gnb-home-l0-navigation2" an-ca="navigation" an-ac="gnb" an-la="search">
-											<span class="hidden">Search</span>
-											<svg class="icon" xmlns="" viewBox="0 0 96 96" focusable="false">
-												<path d="M40.581 4.09c20.126 0 36.5 16.374 36.5 36.5a36.325 36.325 0 01-7.963 22.733l22.8 22.948-5.674 5.639-22.767-22.913a36.327 36.327 0 01-22.896 8.093c-20.126 0-36.5-16.374-36.5-36.5s16.374-36.5 36.5-36.5zm0 8c-15.715 0-28.5 12.785-28.5 28.5s12.785 28.5 28.5 28.5 28.5-12.785 28.5-28.5-12.785-28.5-28.5-28.5z"></path>
-											</svg>
-										</a>
-									</li>
+									
 									
 									
 										
 	
 	
-	<li class="gnb__login before-login-context">
-		<a class="gnb__login-btn" href="javascript:void(0)" role="button" aria-label="Log-In" aria-expanded="false">
-			<span class="hidden">Log-In</span>
-			<svg class="icon" xmlns="" viewBox="0 0 96 96" focusable="false">
-				<path d="M48 50c17.346 0 32 14.221 32 31.054V89c0 2.757-2.243 5-5 5H21c-2.757 0-5-2.243-5-5v-7.946C16 64.221 30.654 50 48 50zm0 8c-12.785 0-24 10.773-24 23.054V86h48v-4.946C72 68.773 60.785 58 48 58zm-.002-56c12.133 0 22.003 9.87 22.003 22.001C70 36.131 60.13 46 47.998 46c-12.13 0-21.997-9.869-21.997-21.999C26 11.87 35.867 2 47.998 2zm0 8c-7.718 0-13.997 6.281-13.997 14.001C34 31.72 40.28 38 47.998 38 55.718 38 62 31.72 62 24.001 62 16.281 55.719 10 47.998 10z"></path>
-			</svg>
-		</a>
-		<div class="gnb__login-layer">
-			<ul class="gnb__utility-menu">
-				
-				
-				
-					<li>
-						<a href="<?php echo CW_BASE_URL; ?>/business/mypage/" class="gnb__utility-link" an-tr="nv00_gnb--text-depth2" an-ca="account" an-ac="gnb" an-la="my page">
-							My&nbsp;page
-						</a>
-					</li>
+	
 				
 			</ul>
 		</div>
 	</li>
 	
 	
-	<li class="gnb__logout after-login-context" style="display:none;">
-		<a class="gnb__logout-btn" href="javascript:void(0)" role="button" aria-label="Log Out" aria-expanded="false">
-			<span class="hidden">Open My Menu</span>
-			<div class="image js-gnb-afterlogin-image" style="display:none;">
-				<img class="image__preview lazy-load-man" data-src="" alt="">
-				<img class="image__main lazy-load-man" data-src="" alt="">
-			</div>
-			<svg class="icon js-gnb-afterlogin-no-image" xmlns="" viewBox="0 0 36 36" focusable="false">
-				<g fill="none" fill-rule="evenodd">
-					<g>
-						<g transform="translate(-1380 -22) translate(1380 22)">
-							<circle cx="18" cy="18" r="18" fill="#EEE"></circle>
-							<g fill="#000" fill-rule="nonzero">
-								<path d="M8 8.333c2.891 0 5.333 2.37 5.333 5.176v1.324c0 .46-.373.834-.833.834h-9c-.46 0-.833-.374-.833-.834V13.51c0-2.806 2.442-5.176 5.333-5.176zm0 1.334c-2.13 0-4 1.795-4 3.842v.824h8v-.824c0-2.047-1.87-3.842-4-3.842zM8 .333c2.022 0 3.667 1.645 3.667 3.667S10.022 7.667 8 7.667 4.333 6.022 4.333 4 5.978.333 8 .333zm0 1.334C6.713 1.667 5.667 2.713 5.667 4c0 1.287 1.046 2.333 2.333 2.333 1.286 0 2.333-1.046 2.333-2.333 0-1.287-1.047-2.333-2.333-2.333z" transform="translate(10 10)"></path>
-							</g>
-						</g>
-					</g>
-				</g>
-			</svg>
-		</a>
-		<div class="gnb__login-layer">
-			<span class="gnb__user-image">
-					<div class="image js-gnb-afterlogin-image" style="display:none;">
-						<img class="image__preview lazy-load-man" data-src="" alt="">
-						<img class="image__main lazy-load-man" data-src="" alt="">
-					</div>
-			</span>
-
-			
-			<ul class="gnb__utility-menu">
-				
-				
-					<li>
-						<a href="<?php echo CW_BASE_URL; ?>/business/mypage/" class="gnb__utility-link" an-tr="nv00_gnb--text-depth2" an-ca="account" an-ac="gnb" an-la="my page">
-							My&nbsp;page
-						</a>
-					</li>
+	
 				
 			
 				<li>
@@ -1690,9 +953,7 @@ var digitalData = {
 		
 		
 			<li>
-				<a href="<?php echo CW_BASE_URL; ?>/business/mypage/" class="gnb__utility-link" an-tr="nv00_gnb--text-depth2" an-ca="account" an-ac="gnb" an-la="my page">
-					My&nbsp;page
-				</a>
+				
 			</li>
 		
 	</ul>
@@ -1708,9 +969,7 @@ var digitalData = {
 	<ul class="gnb__utility-menu after-login-context" style="display:none;">
 		
 			<li>
-				<a href="<?php echo CW_BASE_URL; ?>/business/mypage/" class="gnb__utility-link" an-tr="nv00_gnb--text-depth2" an-ca="account" an-ac="gnb" an-la="my page">
-					My&nbsp;page
-				</a>
+				
 			</li>
 		
 		
@@ -5389,87 +4648,24 @@ var digitalData = {
 					<div class="footer-category__list-wrap">
 						<ul class="footer-category__list" role="list">
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/tablets/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="products:tablets" aria-label="Tablets Tablets" an-as="">Tablets</a>
-									
-									
-								</li>
+								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/mobile/rugged/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="products:rugged" aria-label="Rugged Rugged" an-as="">Rugged</a>
-									
-									
-								</li>
+								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/smart-signage/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="products:smart signage" aria-label="Smart Signage Smart Signage" an-as="">Smart Signage</a>
-									
-									
-								</li>
+								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/led-signage/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="products:led signage" aria-label="LED signage LED signage" an-as="">LED signage</a>
-									
-									
-								</li>
+								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/commercial-tvs/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="products:commercial tvs" aria-label="Commercial TVs Commercial TVs" an-as="">Commercial TVs</a>
-									
-									
-								</li>
+								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/monitors/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="products:business monitors" aria-label="Business Monitors Business Monitors" an-as="">Business Monitors</a>
-									
-									
-								</li>
+								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioners/residential/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="products:residential" aria-label="Residential Residential" an-as="">Residential</a>
-									
-									
-								</li>
+								
 							
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioners/single-split-cac/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="products:commercial" aria-label="Commercial Commercial" an-as="">Commercial</a>
-									
-									
-								</li>
+								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioners/vrf-dvm/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="products:vrf" aria-label="VRF VRF" an-as="">VRF</a>
-									
-									
-								</li>
+								
 							
 						</ul>
 					</div>
@@ -5491,68 +4687,19 @@ var digitalData = {
 					<div class="footer-category__list-wrap">
 						<ul class="footer-category__list" role="list">
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/mobile-solutions/samsung-knox/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="solutions:samsung knox" aria-label="Samsung Knox Samsung Knox" an-as="">Samsung Knox</a>
-									
-									
-								</li>
+								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/mobile-solutions/samsung-dex/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="solutions:samsung dex" aria-label="Samsung DeX Samsung DeX" an-as="">Samsung DeX</a>
-									
-									
-								</li>
+								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/display-solutions/magicinfo/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="solutions:smart signage solutions" aria-label="Smart Signage Solutions Smart Signage Solutions" an-as="">Smart Signage Solutions</a>
-									
-									
-								</li>
+								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/display-solutions/color-expert-led/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="solutions:led signage solutions" aria-label="LED signage Solutions LED signage Solutions" an-as="">LED signage Solutions</a>
-									
-									
-								</li>
+								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/display-solutions/lynk-reach-4-0/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="solutions:commercial tv solutions" aria-label="Commercial  TV Solutions Commercial  TV Solutions" an-as="">Commercial  TV Solutions</a>
-									
-									
-								</li>
+								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioner-solutions/windfree/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="solutions:windfree" aria-label="WindFree™ WindFree™" an-as="">WindFree™</a>
-									
-									
-								</li>
+								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/system-air-conditioner-solutions/ahu/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="solutions:ahu" aria-label="AHU AHU" an-as="">AHU</a>
-									
-									
-								</li>
+								
 							
 							
 						</ul>
@@ -5579,33 +4726,13 @@ var digitalData = {
 							
 								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									
-									<a class="footer-category__link new-window" href="/global/business/led/" target="_blank" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="global sites:led" aria-label="LED LED : Open in a New Window" an-as="">
-										LED
-										
-									</a>
-									
-								</li>
+								
 							
 								
 							
 								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									
-									<a class="footer-category__link new-window" href="/global/business/networks/" target="_blank" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="global sites:networks" aria-label="Networks Networks : Open in a New Window" an-as="">
-										Networks
-										
-									</a>
-									
-								</li>
+								
 							
 							
 						</ul>
@@ -5628,41 +4755,13 @@ var digitalData = {
 					<div class="footer-category__list-wrap">
 						<ul class="footer-category__list" role="list">
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/sustainability/environment/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="sustainability:environment" aria-label="Environment Environment" an-as="">Environment</a>
-									
-									
-								</li>
+								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/sustainability/security-and-privacy/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="sustainability:security and privacy" aria-label="Security &amp; Privacy Security &amp; Privacy" an-as="">Security &amp; Privacy</a>
-									
-									
-								</li>
+								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/sustainability/accessibility/overview/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="sustainability:accessibility" aria-label="Accessibility Accessibility" an-as="">Accessibility</a>
-									
-									
-								</li>
+								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/sustainability/inclusive-workplace/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="sustainability:inclusive workplace" aria-label="Inclusive Workplace Inclusive Workplace" an-as="">Inclusive Workplace</a>
-									
-									
-								</li>
+								
 							
 								
 							
@@ -5683,74 +4782,19 @@ var digitalData = {
 					<div class="footer-category__list-wrap">
 						<ul class="footer-category__list" role="list">
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/about-us/company-info/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="about us:company info" aria-label="Company Info Company Info" an-as="">
-										Company Info
-									</a>
-									
-									
-								</li>
-							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/about-us/business-area/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="about us:business area" aria-label="Business Area Business Area" an-as="">
-										Business Area
-									</a>
-									
-									
-								</li>
-							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/about-us/brand-identity/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="about us:brand identity" aria-label="Brand Identity Brand Identity" an-as="">
-										Brand Identity
-									</a>
-									
-									
-								</li>
-							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/about-us/careers/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="about us:careers" aria-label="Careers Careers" an-as="">
-										Careers
-									</a>
-									
-									
-								</li>
+								
 							
 								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									
-									<a class="footer-category__link new-window" href="//www.samsung.com/pk/news/" target="_blank" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="about us:newsroom" aria-label="Newsroom Newsroom : Open in a New Window" an-as="">
-										Newsroom
-										
-									</a>
-									
-								</li>
+								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/business/about-us/ethics/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="about us:ethics" aria-label="Ethics Ethics" an-as="">
-										Ethics
-									</a>
-									
-									
-								</li>
+								
+							
+								
+							
+								
+							
+								
 							
 								
 							
@@ -5804,19 +4848,19 @@ var digitalData = {
 					
 					
 						<li class="footer-terms__item" role="listitem">
-							<a class="footer-terms__link" href="<?php echo CW_BASE_URL; ?>/business/contact-us/" an-tr="nv02_footer bottom--cta-bottom" an-ca="navigation" an-ac="footer" an-la="bottom:legal menu:contact" aria-label="Contact" an-as="">Contact</a>
 							
-							
-						</li>
-					
-						<li class="footer-terms__item" role="listitem">
-							<a class="footer-terms__link" href="<?php echo CW_BASE_URL; ?>/accessibility/overview/" an-tr="nv02_footer bottom--cta-bottom" an-ca="navigation" an-ac="footer" an-la="bottom:legal menu:accessibility" aria-label="Accessibility" an-as="">Accessibility</a>
 							
 							
 						</li>
 					
 						<li class="footer-terms__item" role="listitem">
-							<a class="footer-terms__link" href="<?php echo CW_BASE_URL; ?>/business/info/legal/" an-tr="nv02_footer bottom--cta-bottom" an-ca="navigation" an-ac="footer" an-la="bottom:legal menu:legal" aria-label="Legal" an-as="">Legal</a>
+							
+							
+							
+						</li>
+					
+						<li class="footer-terms__item" role="listitem">
+							
 							
 							
 						</li>
@@ -5828,7 +4872,7 @@ var digitalData = {
 						</li>
 					
 						<li class="footer-terms__item" role="listitem">
-							<a class="footer-terms__link" href="<?php echo CW_BASE_URL; ?>/business/info/sitemap/" an-tr="nv02_footer bottom--cta-bottom" an-ca="navigation" an-ac="footer" an-la="bottom:legal menu:sitemap" aria-label="Sitemap" an-as="">Sitemap</a>
+							
 							
 							
 						</li>

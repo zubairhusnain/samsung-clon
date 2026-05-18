@@ -545,22 +545,8 @@ var digitalData = {
           
     
     <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
-        <button class="nv00-gnb-v4__utility nv00-gnb-v4__utility-search gnb__search-btn-js" data-js-action="search" an-tr="nv00_gnb-static page-l0-navigation2" an-ca="navigation" an-ac="gnb" an-la="search" data-di-id="di-id-d95e4607-5db9b52f">
-            <span class="hidden">Search</span>
-            <svg class="icon" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="1d3208fb-aa7c90d5" data-di-rand="1778923050595">
-                <path d="M85.732,89.269v0L60.479,64.018A36.5,36.5,0,1,1,22.295,2.869,36.5,36.5,0,0,1,64.02,60.483L89.268,85.732l-3.535,3.535ZM36.5,5A31.508,31.508,0,0,0,24.238,65.525,31.508,31.508,0,0,0,48.762,7.476,31.316,31.316,0,0,0,36.5,5Z" transform="translate(3.366 3.366)"></path>
-            </svg>
-            <span class="nv00-gnb-v4__search-text" aria-hidden="true">Search</span>
-        </button>
-<a class="nv00-gnb-v4__utility nv00-gnb-v4__utility-user after-login js-user-name js-account" data-js-action="user" data-di-id="di-id-e806260d-aafdb76e">
-                <span class="hidden">Open My Menu</span>
-                
-                
-                
-                <svg class="icon nv00-gnb-v4__user-icon js-gnb-afterlogin-no-image" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="f87a715-180d7d8" data-di-rand="1778923050596">
-                    <path d="M48,51.5c16.521,0,30.5,13.82,30.5,29.555h0V89A3.5,3.5,0,0,1,75,92.5H21A3.5,3.5,0,0,1,17.5,89h0V81.055C17.5,65.32,31.479,51.5,48,51.5Zm0,5c-13.772,0-25.5,11.595-25.5,24.555h0V87.5h51V81.055c0-12.831-11.494-24.323-25.087-24.552h0Zm0-53A20.5,20.5,0,1,1,27.5,24,20.5,20.5,0,0,1,48,3.5Zm0,5A15.5,15.5,0,1,0,63.5,24,15.5,15.5,0,0,0,48,8.5Z" transform="translate(-0.5 0.5)"></path>
-                </svg>
-            </a>
+        
+
         
         <button class="nv00-gnb-v4__utility nv00-gnb-v4__utility-hamburger" data-js-action="hamburger" aria-expanded="false" aria-haspopup="true" an-tr="nv00_gnb-static page-gnb open / close-navigation2" an-ca="navigation" an-ac="gnb" an-la="gnb:open" data-di-id="di-id-9735b5de-de34d8f3">
             <span class="hidden">Navigation</span>
@@ -583,12 +569,7 @@ var digitalData = {
                 <use xlink:href="#previous-regular" href="#previous-regular"></use>
             </svg>
         </button>
-        <button class="nv00-gnb-v4__search gnb__search-btn-js" aria-haspopup="true" aria-expanded="false" data-js-action="search" an-tr="nv00_gnb-static page-l0-navigation5" an-ca="navigation" an-ac="gnb" an-la="search" data-di-id="di-id-b1984e5f-adb36e00">
-            <svg class="icon" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="f87a715-1a24bf5c" data-di-rand="1778923050596">
-                <path d="M85.732,89.269v0L60.479,64.018A36.5,36.5,0,1,1,22.295,2.869,36.5,36.5,0,0,1,64.02,60.483L89.268,85.732l-3.535,3.535ZM36.5,5A31.508,31.508,0,0,0,24.238,65.525,31.508,31.508,0,0,0,48.762,7.476,31.316,31.316,0,0,0,36.5,5Z" transform="translate(3.366 3.366)"></path>
-            </svg>
-            <span class="nv00-gnb-v4__search-text">Search</span>
-        </button>
+        
     </div>
 
           
@@ -662,17 +643,7 @@ var digitalData = {
 						
                         <!-- TV&AV Do Not Contain L2 Start -->
                         
-                            <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-static page-l1-navigation2" an-ca="navigation" an-ac="gnb" an-la="L0_2_shop:L1_1_galaxy s26 ultra" role="menuitem" href="<?php echo CW_BASE_URL; ?>/smartphones/galaxy-s26-ultra/" data-di-id="di-id-75fb74c6-a863ca3f">
-                                
-                                <div class="nv00-gnb-v4__l1-menu-image">
-                                    <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/s2602/gnb/GNB-L1_Menu_Galaxy-Smartphone_88x88.png" alt="Galaxy S26 Ultra" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/s2602/gnb/GNB-L1_Menu_Galaxy-Smartphone_88x88.png" alt="Galaxy S26 Ultra" role="img" data-comp-name="image">
-                                    </div>
-                                </div>
-                                <span class="nv00-gnb-v4__l1-menu-text">Galaxy S26 Ultra</span>
-                                
-                            </a>
+                            
                         
                         <!-- TV&AV Do Not Contain L2 End -->
 
@@ -725,17 +696,7 @@ var digitalData = {
 						
                         <!-- TV&AV Do Not Contain L2 Start -->
                         
-                            <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-static page-l1-navigation2" an-ca="navigation" an-ac="gnb" an-la="L0_2_shop:L1_4_Galaxy A17" role="menuitem" href="<?php echo CW_BASE_URL; ?>/smartphones/galaxy-a/galaxy-a17-light-blue-128gb-sm-a175flbcpkd/buy/" data-di-id="di-id-f3e34573-ee295c57">
-                                
-                                <div class="nv00-gnb-v4__l1-menu-image">
-                                    <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/revamp/gnb/shop/GNB_88x88_05.png" alt="Galaxy A17&nbsp;" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/revamp/gnb/shop/GNB_88x88_05.png" alt="Galaxy A17&nbsp;" role="img" data-comp-name="image">
-                                    </div>
-                                </div>
-                                <span class="nv00-gnb-v4__l1-menu-text">Galaxy A17&nbsp;</span>
-                                
-                            </a>
+                            
                         
                         <!-- TV&AV Do Not Contain L2 End -->
 
@@ -767,17 +728,7 @@ var digitalData = {
 						
                         <!-- TV&AV Do Not Contain L2 Start -->
                         
-                            <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-static page-l1-navigation2" an-ca="navigation" an-ac="gnb" an-la="L0_2_shop:L1_6_galaxy buds4 pro" role="menuitem" href="<?php echo CW_BASE_URL; ?>/audio-sound/galaxy-buds/galaxy-buds4-pro-white-sm-r640nzwamea/" data-di-id="di-id-d621bfff-50365710">
-                                
-                                <div class="nv00-gnb-v4__l1-menu-image">
-                                    <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/s2602/gnb/GNB_Buds4-Pro_88x88.png" alt="Galaxy Buds4 Pro" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/s2602/gnb/GNB_Buds4-Pro_88x88.png" alt="Galaxy Buds4 Pro" role="img" data-comp-name="image">
-                                    </div>
-                                </div>
-                                <span class="nv00-gnb-v4__l1-menu-text">Galaxy Buds4 Pro</span>
-                                
-                            </a>
+                            
                         
                         <!-- TV&AV Do Not Contain L2 End -->
 
@@ -788,17 +739,7 @@ var digitalData = {
 						
                         <!-- TV&AV Do Not Contain L2 Start -->
                         
-                            <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-static page-l1-navigation2" an-ca="navigation" an-ac="gnb" an-la="L0_2_shop:L1_7_QLED Q8F 4K TV" role="menuitem" href="<?php echo CW_BASE_URL; ?>/tvs/qled-tv/q8f-75-inch-qled-4k-smart-tv-qa75q8faausmm/" data-di-id="di-id-ad7fca00-d073cc08">
-                                
-                                <div class="nv00-gnb-v4__l1-menu-image">
-                                    <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/revamp/gnb/shop/GNB_88x88_03.png" alt="QLED Q8F 4K TV" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/revamp/gnb/shop/GNB_88x88_03.png" alt="QLED Q8F 4K TV" role="img" data-comp-name="image">
-                                    </div>
-                                </div>
-                                <span class="nv00-gnb-v4__l1-menu-text">QLED Q8F 4K TV </span>
-                                
-                            </a>
+                            
                         
                         <!-- TV&AV Do Not Contain L2 End -->
 
@@ -2275,10 +2216,10 @@ var digitalData = {
                                         <a class="nv00-gnb-v4__l2-menu-link" href="<?php echo CW_BASE_URL; ?>/support/service-center/" role="menuitem" an-tr="nv00_gnb-static page-text l2-navigation2" an-ca="navigation" an-ac="gnb" an-la="support:repairs and warranty:service locator" data-di-id="di-id-50d560c1-197f42d1">Service Center</a>
                                     
 								        
-                                        <a class="nv00-gnb-v4__l2-menu-link" href="<?php echo CW_BASE_URL; ?>/mypage/myproducts/" role="menuitem" an-tr="nv00_gnb-static page-text l2-navigation2" an-ca="navigation" an-ac="gnb" an-la="support:repairs and warranty:book a repair" data-di-id="di-id-6ed954c-b65ed0c3">Book a Repair</a>
+                                        
                                     
 								        
-                                        <a class="nv00-gnb-v4__l2-menu-link" href="<?php echo CW_BASE_URL; ?>/mypage/myrepair/track-repair/" role="menuitem" an-tr="nv00_gnb-static page-text l2-navigation2" an-ca="navigation" an-ac="gnb" an-la="support:repairs and warranty:track my repair" data-di-id="di-id-f1da5976-6b389f25">Track my repair</a>
+                                        
                                     
 								        
                                         <a class="nv00-gnb-v4__l2-menu-link" href="<?php echo CW_BASE_URL; ?>/support/repair-price/" role="menuitem" an-tr="nv00_gnb-static page-text l2-navigation2" an-ca="navigation" an-ac="gnb" an-la="support:repairs and warranty:repair cost" data-di-id="di-id-df7b8d68-7b783cf0">Repair Cost</a>
@@ -2394,187 +2335,8 @@ var digitalData = {
     
     
         
-        <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-            
-            
-            	
-	
-		
-	
-		
-	
-	
-		
-		
-	
-
-            
         </div>
-        <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only after-login">
-            <a class="nv00-gnb-v4__user-menu js-user-name js-account" role="menuitem" href="javascript:;" aria-label="Go to the another page" an-tr="nv00_gnb-static page-account-account" an-ca="account" an-ac="gnb" an-la="user name" data-di-id="di-id-d0965d07-4327ab8a">
-                
-                
-                
-                <svg class="icon nv00-gnb-v4__user-icon js-gnb-afterlogin-no-image" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="ae0298-1027e4ec" data-di-rand="1778923050600">
-                    <path d="M48,51.5c16.521,0,30.5,13.82,30.5,29.555h0V89A3.5,3.5,0,0,1,75,92.5H21A3.5,3.5,0,0,1,17.5,89h0V81.055C17.5,65.32,31.479,51.5,48,51.5Zm0,5c-13.772,0-25.5,11.595-25.5,24.555h0V87.5h51V81.055c0-12.831-11.494-24.323-25.087-24.552h0Zm0-53A20.5,20.5,0,1,1,27.5,24,20.5,20.5,0,0,1,48,3.5Zm0,5A15.5,15.5,0,1,0,63.5,24,15.5,15.5,0,0,0,48,8.5Z" transform="translate(-0.5 0.5)"></path>
-                </svg>
-                <p class="user-name"></p>
-                <p class="hidden">Open My Menu</p>
-            </a>
             
-				
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-	
-		
-		
-	
-
-			
-        </div>
-    
-
-            
-
-            
-            
-    
-    <div class="nv00-gnb-v4__utility-list">
-        <button class="nv00-gnb-v4__utility nv00-gnb-v4__utility-search gnb__search-btn-js" data-js-action="search" an-tr="nv00_gnb-static page-navigation2" an-ca="navigation" an-ac="gnb" an-la="L0_11_search" aria-haspopup="true" aria-expanded="false" data-di-id="di-id-1d4b7d1d-8c471170">
-            <span class="hidden">Search</span>
-            <svg class="icon" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="a168e816-f4b3441" data-di-rand="1778923050601">
-                <path d="M85.732,89.269v0L60.479,64.018A36.5,36.5,0,1,1,22.295,2.869,36.5,36.5,0,0,1,64.02,60.483L89.268,85.732l-3.535,3.535ZM36.5,5A31.508,31.508,0,0,0,24.238,65.525,31.508,31.508,0,0,0,48.762,7.476,31.316,31.316,0,0,0,36.5,5Z" transform="translate(3.366 3.366)"></path>
-            </svg>
-            <span class="nv00-gnb-v4__search-text" aria-hidden="true">Search</span>
-        </button>
-        
-            
-            
-                
-                
-                    
-                    
-	
-    
-        
-            <div class="nv00-gnb-v4__utility-wrap before-login">
-                <button class="nv00-gnb-v4__utility nv00-gnb-v4__utility-user" data-js-action="user" aria-expanded="false" an-tr="nv00_gnb-static page-l0-navigation2" an-ca="navigation" an-ac="gnb" an-la="L0_13_login" aria-label="Manage Account" data-di-id="di-id-781a6edc-b0dea4a9">
-                    <span class="hidden">Log-In/Sign-Up</span>
-                    <svg class="icon" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="19d48f73-d72b2385" data-di-rand="1778923050601">
-                        <path d="M48,51.5c16.521,0,30.5,13.82,30.5,29.555h0V89A3.5,3.5,0,0,1,75,92.5H21A3.5,3.5,0,0,1,17.5,89h0V81.055C17.5,65.32,31.479,51.5,48,51.5Zm0,5c-13.772,0-25.5,11.595-25.5,24.555h0V87.5h51V81.055c0-12.831-11.494-24.323-25.087-24.552h0Zm0-53A20.5,20.5,0,1,1,27.5,24,20.5,20.5,0,0,1,48,3.5Zm0,5A15.5,15.5,0,1,0,63.5,24,15.5,15.5,0,0,0,48,8.5Z" transform="translate(-0.5 0.5)"></path>
-                    </svg>
-                </button>
-                <div class="nv00-gnb-v4__utility-menu-list" role="menu" aria-label="account" aria-hidden="true">
-                    <div class="nv00-gnb-v4__utility-menu-wrap">
-                        
-                        
-                        	
-	
-		
-	
-		
-	
-	
-		
-		
-	
-
-                        
-                        
-							
-                            	
-	                        
-                        
-							
-                            	<a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="<?php echo CW_BASE_URL; ?>/mypage/myproducts/" aria-label="myproducts" an-tr="nv00_gnb-static page-account-account" an-ca="account" an-ac="gnb" an-la="myproducts" role="menuitem" data-di-id="di-id-b5076ca4-4e2dc6fc">
-                                	My&nbsp;Products
-                            	</a>
-	                        
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="nv00-gnb-v4__utility-wrap after-login">
-                <button class="nv00-gnb-v4__utility nv00-gnb-v4__utility-user" data-js-action="user" aria-label="Go to the another page" an-tr="gnb-account, cart-static page-account-account" an-ca="account" an-ac="gnb" an-la="user name" role="button" aria-expanded="false" data-di-id="di-id-12cd0e07-9b204cc7">
-                    <span class="hidden">Open My Menu</span>
-                    
-                    
-                    
-                    <svg class="icon nv00-gnb-v4__user-icon js-gnb-afterlogin-no-image" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="19d48f73-c70a91" data-di-rand="1778923050601">
-                        <path d="M48,51.5c16.521,0,30.5,13.82,30.5,29.555h0V89A3.5,3.5,0,0,1,75,92.5H21A3.5,3.5,0,0,1,17.5,89h0V81.055C17.5,65.32,31.479,51.5,48,51.5Zm0,5c-13.772,0-25.5,11.595-25.5,24.555h0V87.5h51V81.055c0-12.831-11.494-24.323-25.087-24.552h0Zm0-53A20.5,20.5,0,1,1,27.5,24,20.5,20.5,0,0,1,48,3.5Zm0,5A15.5,15.5,0,1,0,63.5,24,15.5,15.5,0,0,0,48,8.5Z" transform="translate(-0.5 0.5)"></path>
-                    </svg>
-                </button>
-                <div class="nv00-gnb-v4__utility-menu-list" role="menu" aria-label="account" aria-hidden="true">
-                    <div class="nv00-gnb-v4__utility-menu-wrap">
-                        <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--user-profile nv00-gnb-v4--pc-only js-user-name js-account" href="javascript:;" role="menuitem" aria-label="" an-tr="nv00_gnb-static page-account-account" an-ca="account" an-ac="gnb" an-la="user name">
-                            
-                            
-                            
-                            <svg class="icon nv00-gnb-v4__user-icon js-gnb-afterlogin-no-image" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="19d48f73-2f20ff7f" data-di-rand="1778923050601">
-                                <path d="M48,51.5c16.521,0,30.5,13.82,30.5,29.555h0V89A3.5,3.5,0,0,1,75,92.5H21A3.5,3.5,0,0,1,17.5,89h0V81.055C17.5,65.32,31.479,51.5,48,51.5Zm0,5c-13.772,0-25.5,11.595-25.5,24.555h0V87.5h51V81.055c0-12.831-11.494-24.323-25.087-24.552h0Zm0-53A20.5,20.5,0,1,1,27.5,24,20.5,20.5,0,0,1,48,3.5Zm0,5A15.5,15.5,0,1,0,63.5,24,15.5,15.5,0,0,0,48,8.5Z" transform="translate(-0.5 0.5)"></path>
-                            </svg>
-                            <p class="user-name"></p>
-                        </a>
-                        
-                        	
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-	
-		
-		
-	
-
-                        
-                        
-							
-                            	<a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" role="menuitem" href="<?php echo CW_BASE_URL; ?>/mypage/" an-tr="nv00_gnb-static page-account-account" an-ca="account" an-ac="gnb" an-la="mypage" aria-label="mypage" data-di-id="di-id-f68b45b3-e8dd1afe">
-                                	My&nbsp;Page
-                            	</a>
-                        	
-                        
-							
-                            	
-                        	
-                        
-							
-                            	
-                        	
-                        
-							
-                            	
-                        	
-                        
-							
-                            	<a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" role="menuitem" href="<?php echo CW_BASE_URL; ?>/mypage/myproducts/" an-tr="nv00_gnb-static page-account-account" an-ca="account" an-ac="gnb" an-la="myproducts" aria-label="myproducts" data-di-id="di-id-b5076ca4-4e2dc6fc">
-                                	My&nbsp;Products
-                            	</a>
-                        	
-                        
-                        
-                            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu logoutBtn" an-tr="nv00_gnb-static page-account-account" href="javascript:;" an-ca="account" an-ac="gnb" an-la="logout" aria-label="logout" role="menuitem" data-di-id="di-id-781a6edc-136123c0">
-                                Log Out
-                            </a>
-                            
-                        
-                    </div>
                 </div>
             </div>
         
@@ -8899,132 +8661,34 @@ var propositions=event.propositions?event.propositions:event.detail?event.detail
                     <div class="footer-category__list-wrap">
                         <ul class="footer-category__list" role="list">
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/smartphones/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="product and service:smartphones " aria-label="Smartphones Smartphones" an-as="" data-di-id="di-id-24491792-7d5447cd" data-media-group="interest" data-media-details="product and service:smartphones " data-media-action="postClick">Smartphones</a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/tablets/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="product and service:tablets" aria-label="Tablets Tablets" an-as="" data-di-id="di-id-b32e8f55-cc0fd7b1" data-media-group="interest" data-media-details="product and service:tablets" data-media-action="postClick">Tablets</a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/audio-sound/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="product and service:audio sound" aria-label="Audio Sound Audio Sound" an-as="" data-di-id="di-id-24491792-af75a308" data-media-group="interest" data-media-details="product and service:audio sound" data-media-action="postClick">Audio Sound</a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/watches/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="product and service:watches" aria-label="Watches Watches" an-as="" data-di-id="di-id-b32e8f55-8aba891b" data-media-group="interest" data-media-details="product and service:watches" data-media-action="postClick">Watches</a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/apps/smart-switch/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="product and service:smart switch" aria-label="Smart Switch Smart Switch" an-as="" data-di-id="di-id-e58c61d-b9dae1c0" data-media-group="interest" data-media-details="product and service:smart switch" data-media-action="postClick">Smart Switch</a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/mobile-accessories/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="product and service:mobile accessories" aria-label="Mobile Accessories Mobile Accessories" an-as="" data-di-id="di-id-706bc639-a19c909a" data-media-group="interest" data-media-details="product and service:mobile accessories" data-media-action="postClick">Mobile Accessories</a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/tvs/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="product and service:tvs" aria-label="TVs TVs" an-as="" data-di-id="di-id-22aeefe8-d68ae4f7" data-media-group="interest" data-media-details="product and service:tvs" data-media-action="postClick">TVs</a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/audio-devices/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="product and service:sound devices" aria-label="Sound Devices Sound Devices" an-as="" data-di-id="di-id-f8498d0e-75641edb" data-media-group="interest" data-media-details="product and service:sound devices" data-media-action="postClick">Sound Devices</a>
-                                    
-                                    
-                                </li>
+                                
                             
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/refrigerators/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="product and service:refrigerators " aria-label="Refrigerators Refrigerators" an-as="" data-di-id="di-id-f8498d0e-658538f4" data-media-group="interest" data-media-details="product and service:refrigerators " data-media-action="postClick">Refrigerators</a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/washers-and-dryers/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="product and service:laundry" aria-label="Laundry Laundry" an-as="" data-di-id="di-id-706bc639-7b301dcb" data-media-group="interest" data-media-details="product and service:laundry" data-media-action="postClick">Laundry</a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/air-conditioners/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="product and service:air solutions" aria-label="Air Solutions Air Solutions" an-as="" data-di-id="di-id-e58c61d-c09930ea" data-media-group="interest" data-media-details="product and service:air solutions" data-media-action="postClick">Air Solutions</a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/cooking-appliances/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="product and service:cooking appliances " aria-label="Cooking Appliances  Cooking Appliances" an-as="" data-di-id="di-id-706bc639-173ef7ba" data-media-group="interest" data-media-details="product and service:cooking appliances " data-media-action="postClick">Cooking Appliances </a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/dishwashers/all-dishwashers/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="product and service:dishwasher" aria-label="Dishwasher Dishwasher" an-as="" data-di-id="di-id-dfc89b0-5381ed32" data-media-group="interest" data-media-details="product and service:dishwasher" data-media-action="postClick">Dishwasher</a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/monitors/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="product and service:monitor" aria-label="Monitor Monitor" an-as="" data-di-id="di-id-f2de44b1-ba7108e9" data-media-group="interest" data-media-details="product and service:monitor" data-media-action="postClick">Monitor</a>
-                                    
-                                    
-                                </li>
+                                
                             
                         </ul>
                     </div>
@@ -9046,115 +8710,31 @@ var propositions=event.propositions?event.propositions:event.detail?event.detail
                     <div class="footer-category__list-wrap">
                         <ul class="footer-category__list" role="list">
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/offer/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="shop:offers" aria-label="Offers Offers" an-as="" data-di-id="di-id-479f0be0-9705fa72" data-media-group="interest" data-media-details="shop:offers" data-media-action="postClick">Offers</a>
-                                    
-                                    
-                                </li>
-                            
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/samsung-experience-store/about/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="shop:samsung experience store" aria-label="Samsung Experience Store Samsung Experience Store" an-as="" data-di-id="di-id-659db336-be1c4f6a" data-media-group="interest" data-media-details="shop:samsung experience store" data-media-action="postClick">Samsung Experience Store</a>
-                                    
-                                    
-                                </li>
-                            
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/galaxy-experience-space/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="shop:galaxy experience space" aria-label="Galaxy Experience Space Galaxy Experience Space" an-as="" data-di-id="di-id-e2010948-fa7867dc" data-media-group="interest" data-media-details="shop:galaxy experience space" data-media-action="postClick">Galaxy Experience Space</a>
-                                    
-                                    
-                                </li>
-                            
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/offer/samsung-care-plus/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="shop:samsung care" aria-label="Samsung Care+ Samsung Care+" an-as="" data-di-id="di-id-e2010948-c3937de5" data-media-group="interest" data-media-details="shop:samsung care" data-media-action="postClick">Samsung Care+</a>
-                                    
-                                    
-                                </li>
-                            
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/storelocator/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="shop:store locator" aria-label="Store Locator Store Locator" an-as="" data-di-id="di-id-f8498d0e-382f5916" data-media-group="interest" data-media-details="shop:store locator" data-media-action="postClick">Store Locator</a>
-                                    
-                                    
-                                </li>
+                                
                             
                                 
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/shop-faq/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="shop:shop faqs" aria-label="Online Shop FAQs Online Shop FAQs" an-as="" data-di-id="di-id-f2de44b1-cca91a6b" data-media-group="interest" data-media-details="shop:shop faqs" data-media-action="postClick">Online Shop FAQs</a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/rewards/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="shop:samsung rewards" aria-label="Samsung Rewards" an-as="" data-di-id="di-id-b32e8f55-b7420dd4" data-media-group="interest" data-media-details="shop:samsung rewards" data-media-action="postClick">Samsung Rewards</a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/business/offers/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="shop:business shop" aria-label="Business Shop Business Shop" an-as="" data-di-id="di-id-8c245f0e-ae4cc36" data-media-group="interest" data-media-details="shop:business shop" data-media-action="postClick">Business Shop</a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/offer/student-discounts/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="shop:education discount program" aria-label="Education Discount Program Education Discount Program" an-as="" data-di-id="di-id-e2010948-73583ac" data-media-group="interest" data-media-details="shop:education discount program" data-media-action="postClick">Education Discount Program</a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/offer/corporate-epp/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="shop:corporate employee program" aria-label="Corporate Employee Program Corporate Employee Program" an-as="" data-di-id="di-id-706bc639-30182780" data-media-group="interest" data-media-details="shop:corporate employee program" data-media-action="postClick">Corporate Employee Program</a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/explore/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="shop:explore" aria-label="Explore Explore" an-as="" data-di-id="di-id-b32e8f55-6137219e" data-media-group="interest" data-media-details="shop:explore" data-media-action="postClick">Explore</a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/shop-faq/service-and-warranty/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="shop:service and warranty" aria-label="Service &amp; Warranty Service &amp; Warranty" an-as="" data-di-id="di-id-22008040-7e59b373" data-media-group="interest" data-media-details="shop:service and warranty" data-media-action="postClick">Service &amp; Warranty</a>
-                                    
-                                    
-                                </li>
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
                             
                             
                         </ul>
@@ -9179,23 +8759,13 @@ var propositions=event.propositions?event.propositions:event.detail?event.detail
                             
                                 
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/mypage/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="support:email support" aria-label="Email Support Email Support" an-as="" data-di-id="di-id-b32e8f55-6dffb2ec" data-media-group="interest" data-media-details="support:email support" data-media-action="postClick">Email Support</a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/info/contactus/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="support:contact us" aria-label="Contact Us Contact Us" an-as="" data-di-id="di-id-8c245f0e-a586cf59" data-media-group="interest" data-media-details="support:contact us" data-media-action="postClick">Contact Us</a>
-                                    
-                                    
-                                </li>
+                                
+                            
+                                
+                            
+                                
                             
                                 
                             
@@ -9205,45 +8775,13 @@ var propositions=event.propositions?event.propositions:event.detail?event.detail
                             
                                 
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/support/service-center/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="support:service location " aria-label="Service Location  Service Location" an-as="" data-di-id="di-id-e2010948-e85d975b" data-media-group="interest" data-media-details="support:service location " data-media-action="postClick">Service Location </a>
-                                    
-                                    
-                                </li>
-                            
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/mypage/myrepair/track-repair/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="support:track your repair" aria-label="Track Your Repair Track Your Repair" an-as="" data-di-id="di-id-22008040-5b587c1b" data-media-group="interest" data-media-details="support:track your repair" data-media-action="postClick">Track Your Repair</a>
-                                    
-                                    
-                                </li>
-                            
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/mypage/myproducts/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="support:product registration" aria-label="Product Registration Product Registration" an-as="" data-di-id="di-id-e58c61d-acbb3292" data-media-group="interest" data-media-details="support:product registration" data-media-action="postClick">Product Registration</a>
-                                    
-                                    
-                                </li>
+                                
                             
                                 
                             
                                 
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="javascript:void(0);" data-js-action="showForm" data-form-id="30628" aria-label="Give Feedback" role="button" an-as="" data-di-id="di-id-cadef70-db9bbe51">Give Feedback</a>
-                                </li>
+                                
                             
                                 
                             
@@ -9270,63 +8808,21 @@ var propositions=event.propositions?event.propositions:event.detail?event.detail
                     <div class="footer-category__list-wrap">
                         <ul class="footer-category__list" role="list">
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/sustainability/environment/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="sustainability:environment" aria-label="Environment Environment" an-as="" data-di-id="di-id-dfc89b0-efecedd6" data-media-group="interest" data-media-details="sustainability:environment" data-media-action="postClick">Environment</a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/sustainability/security-and-privacy/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="sustainability:security and privacy" aria-label="Security &amp; Privacy Security &amp; Privacy" an-as="" data-di-id="di-id-2f46a530-9d401fc0" data-media-group="interest" data-media-details="sustainability:security and privacy" data-media-action="postClick">Security &amp; Privacy</a>
-                                    
-                                    
-                                </li>
-                            
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/sustainability/accessibility/overview/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="sustainability:accessibility" aria-label="Accessibility Accessibility" an-as="" data-di-id="di-id-b0f0b4f7-c20f9843" data-media-group="interest" data-media-details="sustainability:accessibility" data-media-action="postClick">Accessibility</a>
-                                    
-                                    
-                                </li>
-                            
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/sustainability/diversity-and-inclusion/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="sustainability:diversity, equity, and inclusion" aria-label="Diversity · Equity · Inclusion Diversity, Equity, and Inclusion" an-as="" data-di-id="di-id-ca05584e-a479c8d3" data-media-group="interest" data-media-details="sustainability:diversity, equity, and inclusion" data-media-action="postClick">Diversity · Equity · Inclusion</a>
-                                    
-                                    
-                                </li>
+                                
                             
                                 
                             
                                 
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/innovation-campus/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="sustainability:samsung innovation campus" aria-label="Samsung Innovation Campus Samsung Innovation Campus" an-as="" data-di-id="di-id-e58c61d-b244834f" data-media-group="interest" data-media-details="sustainability:samsung innovation campus" data-media-action="postClick">Samsung Innovation Campus</a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/galaxy-ai-pioneers-program/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="sustainability:ai pioneer" aria-label="AI Pioneer AI Pioneer" an-as="" data-di-id="di-id-dfc89b0-45d73f09" data-media-group="interest" data-media-details="sustainability:ai pioneer" data-media-action="postClick">AI Pioneer</a>
-                                    
-                                    
-                                </li>
+                                
+                            
+                                
+                            
+                                
                             
                             
                         </ul>
@@ -9343,64 +8839,19 @@ var propositions=event.propositions?event.propositions:event.detail?event.detail
                     <div class="footer-category__list-wrap">
                         <ul class="footer-category__list" role="list">
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/about-us/company-info/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="about us:company info" aria-label="Company Info Company Info" an-as="" data-di-id="di-id-b6192c8b-b1ae17ff" data-media-group="interest" data-media-details="about us:company info" data-media-action="postClick">
-                                        Company Info
-                                    </a>
-                                    
-                                    
-                                </li>
+                                
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/about-us/business-area/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="about us:business area" aria-label="Business Area Business Area" an-as="" data-di-id="di-id-e2010948-811b0904" data-media-group="interest" data-media-details="about us:business area" data-media-action="postClick">
-                                        Business Area
-                                    </a>
-                                    
-                                    
-                                </li>
-                            
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/about-us/brand-identity/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="about us:brand identity" aria-label="Brand Identity Brand Identity" an-as="" data-di-id="di-id-e2010948-7f9e385d" data-media-group="interest" data-media-details="about us:brand identity" data-media-action="postClick">
-                                        Brand Identity
-                                    </a>
-                                    
-                                    
-                                </li>
-                            
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/about-us/careers/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="about us:careers" aria-label="Careers Careers" an-as="" data-di-id="di-id-e58c61d-72ff0be6" data-media-group="interest" data-media-details="about us:careers" data-media-action="postClick">
-                                        Careers
-                                    </a>
-                                    
-                                    
-                                </li>
+                                
                             
                                 
                             
                                 
                             
-                                <li class="footer-category__item" role="listitem">
-                                    
-                                    
-                                    
-                                    <a class="footer-category__link" href="/ae/about-us/ethics/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="about us:ethics" aria-label="Ethics Ethics" an-as="" data-di-id="di-id-8c245f0e-fac89792" data-media-group="interest" data-media-details="about us:ethics" data-media-action="postClick">
-                                        Ethics
-                                    </a>
-                                    
-                                    
-                                </li>
+                                
+                            
+                                
+                            
+                                
                             
                                 
                             
@@ -13282,23 +12733,9 @@ push_tti_to_eddl(eddlDataLayer)
 									
 								</li>
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/mypage/myproducts/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="support:book a repair" aria-label="Book a Repair Book a Repair" an-as="" data-di-id="di-id-3f543d-2037f34e">Book a Repair</a>
-									
-									
-								</li>
+								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/mypage/myrepair/track-repair/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="support:track my repair" aria-label="Track my repair Track my repair" an-as="" data-di-id="di-id-b51af37f-9b79f1f7">Track my repair</a>
-									
-									
-								</li>
+								
 							
 								<li class="footer-category__item" role="listitem">
 									
@@ -13354,23 +12791,9 @@ push_tti_to_eddl(eddlDataLayer)
 							
 								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/mypage/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="account:my page" aria-label="My Page My Page" an-as="" data-di-id="di-id-5cb8dd64-a82e9934">My Page</a>
-									
-									
-								</li>
+								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/mypage/myproducts/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="account:my products" aria-label="My Products My Products" an-as="" data-di-id="di-id-3f543d-2037f34e">My Products</a>
-									
-									
-								</li>
+								
 							
 								
 							

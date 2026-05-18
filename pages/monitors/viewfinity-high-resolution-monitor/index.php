@@ -565,22 +565,8 @@ var digitalData = {
           
     
     <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
-        <button class="nv00-gnb-v4__utility nv00-gnb-v4__utility-search gnb__search-btn-js" data-js-action="search" an-tr="nv00_gnb-vd marketing page-l0-navigation2" an-ca="navigation" an-ac="gnb" an-la="search" data-di-id="di-id-d95e4607-5db9b52f">
-            <span class="hidden">Search</span>
-            <svg class="icon" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="3b7472a-3ee1da26" data-di-rand="1778922483192">
-                <path d="M85.732,89.269v0L60.479,64.018A36.5,36.5,0,1,1,22.295,2.869,36.5,36.5,0,0,1,64.02,60.483L89.268,85.732l-3.535,3.535ZM36.5,5A31.508,31.508,0,0,0,24.238,65.525,31.508,31.508,0,0,0,48.762,7.476,31.316,31.316,0,0,0,36.5,5Z" transform="translate(3.366 3.366)"></path>
-            </svg>
-            <span class="nv00-gnb-v4__search-text" aria-hidden="true">Search</span>
-        </button>
-<a class="nv00-gnb-v4__utility nv00-gnb-v4__utility-user after-login js-user-name js-account" data-js-action="user" data-di-id="di-id-e806260d-aafdb76e">
-                <span class="hidden">Open My Menu</span>
-                
-                
-                
-                <svg class="icon nv00-gnb-v4__user-icon js-gnb-afterlogin-no-image" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="bb0b204f-afb88839" data-di-rand="1778922483193">
-                    <path d="M48,51.5c16.521,0,30.5,13.82,30.5,29.555h0V89A3.5,3.5,0,0,1,75,92.5H21A3.5,3.5,0,0,1,17.5,89h0V81.055C17.5,65.32,31.479,51.5,48,51.5Zm0,5c-13.772,0-25.5,11.595-25.5,24.555h0V87.5h51V81.055c0-12.831-11.494-24.323-25.087-24.552h0Zm0-53A20.5,20.5,0,1,1,27.5,24,20.5,20.5,0,0,1,48,3.5Zm0,5A15.5,15.5,0,1,0,63.5,24,15.5,15.5,0,0,0,48,8.5Z" transform="translate(-0.5 0.5)"></path>
-                </svg>
-            </a>
+        
+
         
         <button class="nv00-gnb-v4__utility nv00-gnb-v4__utility-hamburger" data-js-action="hamburger" aria-expanded="false" aria-haspopup="true" an-tr="nv00_gnb-vd marketing page-gnb open / close-navigation2" an-ca="navigation" an-ac="gnb" an-la="gnb:open" data-di-id="di-id-9735b5de-de34d8f3">
             <span class="hidden">Navigation</span>
@@ -603,12 +589,7 @@ var digitalData = {
                 <use xlink:href="#previous-regular" href="#previous-regular"></use>
             </svg>
         </button>
-        <button class="nv00-gnb-v4__search gnb__search-btn-js" aria-haspopup="true" aria-expanded="false" data-js-action="search" an-tr="nv00_gnb-vd marketing page-l0-navigation5" an-ca="navigation" an-ac="gnb" an-la="search" data-di-id="di-id-b1984e5f-adb36e00">
-            <svg class="icon" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="bb0b204f-dbb64d4d" data-di-rand="1778922483193">
-                <path d="M85.732,89.269v0L60.479,64.018A36.5,36.5,0,1,1,22.295,2.869,36.5,36.5,0,0,1,64.02,60.483L89.268,85.732l-3.535,3.535ZM36.5,5A31.508,31.508,0,0,0,24.238,65.525,31.508,31.508,0,0,0,48.762,7.476,31.316,31.316,0,0,0,36.5,5Z" transform="translate(3.366 3.366)"></path>
-            </svg>
-            <span class="nv00-gnb-v4__search-text">Search</span>
-        </button>
+        
     </div>
 
           
@@ -2414,187 +2395,9 @@ var digitalData = {
     
     
         
-        <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-            
-            
-            	
-	
-		
-	
-		
-	
-	
-		
-		
-	
-
-            
-        </div>
-        <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only after-login">
-            <a class="nv00-gnb-v4__user-menu js-user-name js-account" role="menuitem" href="javascript:;" aria-label="Go to the another page" an-tr="nv00_gnb-vd marketing page-account-account" an-ca="account" an-ac="gnb" an-la="user name" data-di-id="di-id-d0965d07-4327ab8a">
-                
-                
-                
-                <svg class="icon nv00-gnb-v4__user-icon js-gnb-afterlogin-no-image" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="358d35c-664b5e03" data-di-rand="1778922483198">
-                    <path d="M48,51.5c16.521,0,30.5,13.82,30.5,29.555h0V89A3.5,3.5,0,0,1,75,92.5H21A3.5,3.5,0,0,1,17.5,89h0V81.055C17.5,65.32,31.479,51.5,48,51.5Zm0,5c-13.772,0-25.5,11.595-25.5,24.555h0V87.5h51V81.055c0-12.831-11.494-24.323-25.087-24.552h0Zm0-53A20.5,20.5,0,1,1,27.5,24,20.5,20.5,0,0,1,48,3.5Zm0,5A15.5,15.5,0,1,0,63.5,24,15.5,15.5,0,0,0,48,8.5Z" transform="translate(-0.5 0.5)"></path>
-                </svg>
-                <p class="user-name"></p>
-                <p class="hidden">Open My Menu</p>
-            </a>
-            
-				
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-	
-		
-		
-	
-
-			
-        </div>
-    
-
-            
-
-            
-            
-    
-    <div class="nv00-gnb-v4__utility-list">
-        <button class="nv00-gnb-v4__utility nv00-gnb-v4__utility-search gnb__search-btn-js" data-js-action="search" an-tr="nv00_gnb-vd marketing page-navigation2" an-ca="navigation" an-ac="gnb" an-la="L0_11_search" aria-haspopup="true" aria-expanded="false" data-di-id="di-id-1d4b7d1d-8c471170">
-            <span class="hidden">Search</span>
-            <svg class="icon" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="6c0aa74e-7dc62e74" data-di-rand="1778922483198">
-                <path d="M85.732,89.269v0L60.479,64.018A36.5,36.5,0,1,1,22.295,2.869,36.5,36.5,0,0,1,64.02,60.483L89.268,85.732l-3.535,3.535ZM36.5,5A31.508,31.508,0,0,0,24.238,65.525,31.508,31.508,0,0,0,48.762,7.476,31.316,31.316,0,0,0,36.5,5Z" transform="translate(3.366 3.366)"></path>
-            </svg>
-            <span class="nv00-gnb-v4__search-text" aria-hidden="true">Search</span>
-        </button>
         
-            
-            
-                
-                
-                    
-                    
-	
-    
-        
-            <div class="nv00-gnb-v4__utility-wrap before-login">
-                <button class="nv00-gnb-v4__utility nv00-gnb-v4__utility-user" data-js-action="user" aria-expanded="false" an-tr="nv00_gnb-vd marketing page-l0-navigation2" an-ca="navigation" an-ac="gnb" an-la="L0_13_login" aria-label="Manage Account" data-di-id="di-id-781a6edc-b0dea4a9">
-                    <span class="hidden">Log-In/Sign-Up</span>
-                    <svg class="icon" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="6c0aa74e-a5da3e7f" data-di-rand="1778922483198">
-                        <path d="M48,51.5c16.521,0,30.5,13.82,30.5,29.555h0V89A3.5,3.5,0,0,1,75,92.5H21A3.5,3.5,0,0,1,17.5,89h0V81.055C17.5,65.32,31.479,51.5,48,51.5Zm0,5c-13.772,0-25.5,11.595-25.5,24.555h0V87.5h51V81.055c0-12.831-11.494-24.323-25.087-24.552h0Zm0-53A20.5,20.5,0,1,1,27.5,24,20.5,20.5,0,0,1,48,3.5Zm0,5A15.5,15.5,0,1,0,63.5,24,15.5,15.5,0,0,0,48,8.5Z" transform="translate(-0.5 0.5)"></path>
-                    </svg>
-                </button>
-                <div class="nv00-gnb-v4__utility-menu-list" role="menu" aria-label="account" aria-hidden="true">
-                    <div class="nv00-gnb-v4__utility-menu-wrap">
-                        
-                        
-                        	
-	
-		
-	
-		
-	
-	
-		
-		
-	
-
-                        
-                        
-							
-                            	
-	                        
-                        
-							
-                            	<a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="<?php echo CW_BASE_URL; ?>/mypage/myproducts/" aria-label="myproducts" an-tr="nv00_gnb-vd marketing page-account-account" an-ca="account" an-ac="gnb" an-la="myproducts" role="menuitem" data-di-id="di-id-b5076ca4-4e2dc6fc">
-                                	My&nbsp;Products
-                            	</a>
-	                        
-                        
-                    </div>
-                </div>
             </div>
-            <div class="nv00-gnb-v4__utility-wrap after-login">
-                <button class="nv00-gnb-v4__utility nv00-gnb-v4__utility-user" data-js-action="user" aria-label="Go to the another page" an-tr="gnb-account, cart-vd marketing page-account-account" an-ca="account" an-ac="gnb" an-la="user name" role="button" aria-expanded="false" data-di-id="di-id-12cd0e07-9b204cc7">
-                    <span class="hidden">Open My Menu</span>
-                    
-                    
-                    
-                    <svg class="icon nv00-gnb-v4__user-icon js-gnb-afterlogin-no-image" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="6c0aa74e-5abdb798" data-di-rand="1778922483198">
-                        <path d="M48,51.5c16.521,0,30.5,13.82,30.5,29.555h0V89A3.5,3.5,0,0,1,75,92.5H21A3.5,3.5,0,0,1,17.5,89h0V81.055C17.5,65.32,31.479,51.5,48,51.5Zm0,5c-13.772,0-25.5,11.595-25.5,24.555h0V87.5h51V81.055c0-12.831-11.494-24.323-25.087-24.552h0Zm0-53A20.5,20.5,0,1,1,27.5,24,20.5,20.5,0,0,1,48,3.5Zm0,5A15.5,15.5,0,1,0,63.5,24,15.5,15.5,0,0,0,48,8.5Z" transform="translate(-0.5 0.5)"></path>
-                    </svg>
-                </button>
-                <div class="nv00-gnb-v4__utility-menu-list" role="menu" aria-label="account" aria-hidden="true">
-                    <div class="nv00-gnb-v4__utility-menu-wrap">
-                        <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--user-profile nv00-gnb-v4--pc-only js-user-name js-account" href="javascript:;" role="menuitem" aria-label="" an-tr="nv00_gnb-vd marketing page-account-account" an-ca="account" an-ac="gnb" an-la="user name">
-                            
-                            
-                            
-                            <svg class="icon nv00-gnb-v4__user-icon js-gnb-afterlogin-no-image" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="6c0aa74e-b2df65f8" data-di-rand="1778922483198">
-                                <path d="M48,51.5c16.521,0,30.5,13.82,30.5,29.555h0V89A3.5,3.5,0,0,1,75,92.5H21A3.5,3.5,0,0,1,17.5,89h0V81.055C17.5,65.32,31.479,51.5,48,51.5Zm0,5c-13.772,0-25.5,11.595-25.5,24.555h0V87.5h51V81.055c0-12.831-11.494-24.323-25.087-24.552h0Zm0-53A20.5,20.5,0,1,1,27.5,24,20.5,20.5,0,0,1,48,3.5Zm0,5A15.5,15.5,0,1,0,63.5,24,15.5,15.5,0,0,0,48,8.5Z" transform="translate(-0.5 0.5)"></path>
-                            </svg>
-                            <p class="user-name"></p>
-                        </a>
-                        
-                        	
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-	
-		
-		
-	
-
-                        
-                        
-							
-                            	<a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" role="menuitem" href="<?php echo CW_BASE_URL; ?>/mypage/" an-tr="nv00_gnb-vd marketing page-account-account" an-ca="account" an-ac="gnb" an-la="mypage" aria-label="mypage" data-di-id="di-id-f68b45b3-e8dd1afe">
-                                	My&nbsp;Page
-                            	</a>
-                        	
-                        
-							
-                            	
-                        	
-                        
-							
-                            	
-                        	
-                        
-							
-                            	
-                        	
-                        
-							
-                            	<a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" role="menuitem" href="<?php echo CW_BASE_URL; ?>/mypage/myproducts/" an-tr="nv00_gnb-vd marketing page-account-account" an-ca="account" an-ac="gnb" an-la="myproducts" aria-label="myproducts" data-di-id="di-id-b5076ca4-4e2dc6fc">
-                                	My&nbsp;Products
-                            	</a>
-                        	
-                        
-                        
-                            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu logoutBtn" an-tr="nv00_gnb-vd marketing page-account-account" href="javascript:;" an-ca="account" an-ac="gnb" an-la="logout" aria-label="logout" role="menuitem" data-di-id="di-id-781a6edc-136123c0">
-                                Log Out
-                            </a>
-                            
-                        
-                    </div>
+            
                 </div>
             </div>
         
