@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+    <path style="fill:none" d="M0 0h96v96H0z"/>
+    <g data-name="*PC_Icon_Play_Hover">
+        <g transform="translate(1 1)">
+            <circle data-name="Ellipse 25" cx="43.1" cy="43.1" r="43.1" transform="translate(3.9 3.9)" style="fill:#fff"/>
+            <path d="M46.9 3.9a43 43 0 1 1-43 43 43 43 0 0 1 43-43M47 0a47 47 0 1 0 47 47A46.946 46.946 0 0 0 47 0z" style="fill:rgba(143,143,143,.4)"/>
+        </g>
+        <path data-name="Container" transform="translate(25 20)" style="fill:none" d="M0 0h56v56H0z"/>
+        <path data-name="Icon-/-Bold-/-Media-/-Play" d="M11.307 4.038a3.214 3.214 0 0 1 3.086.219l.128.084 30.538 20.924a3.283 3.283 0 0 1 .123 5.383l-.123.088L14.521 51.66a3.337 3.337 0 0 1-1.885.6 3.133 3.133 0 0 1-1.463-.362 3.209 3.209 0 0 1-1.695-2.748V7a3.227 3.227 0 0 1 1.573-2.826l.126-.07z" style="fill:#555" transform="translate(25 20)"/>
+    </g>
+</svg>

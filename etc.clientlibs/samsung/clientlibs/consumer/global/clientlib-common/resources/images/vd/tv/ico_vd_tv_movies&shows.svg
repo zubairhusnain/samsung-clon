@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M20.13,5H3.75c-.14,0-.25.11-.25.25v13.03c0,.14.11.25.25.25h16.38c.14,0,.25-.11.25-.25V5.25c0-.14-.11-.25-.25-.25Z"/>
+  <path class="cls-1" d="M5.45,5v13.58"/>
+  <path class="cls-1" d="M18.44,5v13.58"/>
+  <path class="cls-1" d="M14.27,11.49l-4.13-2.39c-.17-.1-.38.03-.38.22v4.77c0,.2.21.32.38.22l4.13-2.39c.17-.1.17-.34,0-.44Z"/>
+  <path class="cls-1" d="M18.44,7.71h1.94"/>
+  <path class="cls-1" d="M3.5,7.71h1.94"/>
+  <path class="cls-1" d="M18.44,10.41h1.94"/>
+  <path class="cls-1" d="M3.5,10.41h1.94"/>
+  <path class="cls-1" d="M18.44,13.12h1.94"/>
+  <path class="cls-1" d="M3.5,13.12h1.94"/>
+  <path class="cls-1" d="M18.44,15.83h1.94"/>
+  <path class="cls-1" d="M3.5,15.83h1.94"/>
+</svg>

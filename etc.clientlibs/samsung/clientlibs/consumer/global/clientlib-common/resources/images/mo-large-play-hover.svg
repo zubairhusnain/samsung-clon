@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+    <defs>
+        <clipPath id="3z5l53n46a">
+            <path data-name="Rectangle 82" style="fill:none" d="M0 0h54v54H0z"/>
+        </clipPath>
+    </defs>
+    <path style="fill:none" d="M0 0h56v56H0z"/>
+    <g data-name="*Mobile_Icon_Play_Hover" transform="translate(1 1)" style="clip-path:url(#3z5l53n46a)">
+        <g data-name="Group 787">
+            <g data-name="Group 786" style="clip-path:url(#3z5l53n46a)">
+                <path data-name="Path 160" d="M27 2.241A24.76 24.76 0 1 1 2.24 27 24.76 24.76 0 0 1 27 2.241" style="fill:#fff"/>
+                <g data-name="Group 785" style="opacity:.4">
+                    <g data-name="Group 784">
+                        <g data-name="Group 783" style="clip-path:url(#3z5l53n46a)">
+                            <path data-name="Path 161" d="M26.942 2.241a24.7 24.7 0 1 1-24.7 24.7 24.705 24.705 0 0 1 24.7-24.7M27 0a27 27 0 1 0 27 27A26.969 26.969 0 0 0 27 0" style="fill:#8f8f8f"/>
+                        </g>
+                    </g>
+                </g>
+                <path data-name="Path 162" d="M20.285 13.236a1.845 1.845 0 0 1 1.773.126l.074.048 17.542 12.02a1.886 1.886 0 0 1 .071 3.092l-.071.051-17.543 12.02a1.915 1.915 0 0 1-1.083.343 1.792 1.792 0 0 1-.84-.208 1.844 1.844 0 0 1-.974-1.579V14.938a1.856 1.856 0 0 1 .9-1.624l.072-.04z" transform="translate(-.003 -.002)" style="fill:#555"/>
+            </g>
+        </g>
+    </g>
+</svg>

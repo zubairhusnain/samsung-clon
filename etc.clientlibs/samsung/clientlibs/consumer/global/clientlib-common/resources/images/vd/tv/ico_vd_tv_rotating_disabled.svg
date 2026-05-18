@@ -1,0 +1,10 @@
+<svg id="ic_rotating_24x24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="box" width="24" height="24" fill="none"/>
+  <g id="rotating_24x24" transform="translate(-0.1 0.25)">
+    <path id="패스_131" data-name="패스 131" d="M15.746,3.75H8.5V19.58h7.246Z" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_132" data-name="패스 132" d="M8.584,20.006l-.084.239v-.426h.084Z" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_133" data-name="패스 133" d="M15.746,20.245l-.084-.239v-.187h.084Z" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_134" data-name="패스 134" d="M14.957,19.533h-1.2v.717h1.2Z" fill="#757575"/>
+    <path id="패스_136" data-name="패스 136" d="M8.5,16.515h7.246" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

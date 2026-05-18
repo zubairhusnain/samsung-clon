@@ -380,7 +380,7 @@ a:focus,button:focus,input:focus,select:focus,textarea:focus{-webkit-box-shadow:
 .chip__selected--light:hover,.chip__selected--light:focus{background-color:#555;color:#eee}
 .chip__selected--light:hover:after,.chip__selected--light:focus:after{background-image:url('../images/style-guide-icon-close-bold-white-hover-4f19dfd987.svg')}
 .chip__selected--light-disabled:hover,.chip__selected--light-disabled:focus{background-color:#ddd;color:#aaa;pointer-events:none}
-.chip__selected--light-disabled:hover:after,.chip__selected--light-disabled:focus:after{background-image:url('https://www.samsung.com/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-white-hover-disabled.svg')}
+.chip__selected--light-disabled:hover:after,.chip__selected--light-disabled:focus:after{background-image:url('https://www.samsung.com/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-white-hover-disabled.svg')}
 .chip__selected--dark:hover,.chip__selected--dark:focus{background-color:#ddd;color:#313131}
 .chip__selected--dark:hover:after,.chip__selected--dark:focus:after{background-image:url('../images/style-guide-icon-close-bold-black-hover-adcfac5ab2.svg')}
 .chip__selected--dark-disabled:hover,.chip__selected--dark-disabled:focus{background-color:#555;color:#8f8f8f;pointer-events:none}
@@ -398,7 +398,7 @@ a:focus,button:focus,input:focus,select:focus,textarea:focus{-webkit-box-shadow:
 .chip__selected--light:hover,.chip__selected--light:focus{background-color:#555;color:#eee}
 .chip__selected--light:hover:after,.chip__selected--light:focus:after{background-image:url('../images/style-guide-icon-close-bold-white-hover-4f19dfd987.svg')}
 .chip__selected--light-disabled:hover,.chip__selected--light-disabled:focus{background-color:#ddd;color:#aaa;pointer-events:none}
-.chip__selected--light-disabled:hover:after,.chip__selected--light-disabled:focus:after{background-image:url('https://www.samsung.com/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-white-hover-disabled.svg')}
+.chip__selected--light-disabled:hover:after,.chip__selected--light-disabled:focus:after{background-image:url('https://www.samsung.com/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-white-hover-disabled.svg')}
 .chip__selected--dark:hover,.chip__selected--dark:focus{background-color:#ddd;color:#313131}
 .chip__selected--dark:hover:after,.chip__selected--dark:focus:after{background-image:url('../images/style-guide-icon-close-bold-black-hover-adcfac5ab2.svg')}
 .chip__selected--dark-disabled:hover,.chip__selected--dark-disabled:focus{background-color:#555;color:#8f8f8f;pointer-events:none}

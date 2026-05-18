@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+    <defs>
+        <clipPath id="ro7mzbodza">
+            <path data-name="Rectangle 86" style="fill:none" d="M0 0h54v54H0z"/>
+        </clipPath>
+        <clipPath id="mg7cexyq5b">
+            <path data-name="Rectangle 83" style="fill:none" d="M0 0h49.519v49.519H0z"/>
+        </clipPath>
+    </defs>
+    <path style="fill:none" d="M0 0h56v56H0z"/>
+    <g data-name="*Mobile_Icon_Play_Normal" transform="translate(1 1)" style="clip-path:url(#ro7mzbodza)">
+        <g data-name="Group 797">
+            <g data-name="Group 796" style="clip-path:url(#ro7mzbodza)">
+                <g data-name="Group 792" style="opacity:.95">
+                    <g data-name="Group 791">
+                        <g data-name="Group 790" style="clip-path:url(#mg7cexyq5b)" transform="translate(2.24 2.241)">
+                            <path data-name="Path 163" d="M27 2.242A24.76 24.76 0 1 1 2.242 27 24.759 24.759 0 0 1 27 2.242" transform="translate(-2.242 -2.242)" style="fill:#fff"/>
+                        </g>
+                    </g>
+                </g>
+                <g data-name="Group 795" style="opacity:.4">
+                    <g data-name="Group 794">
+                        <g data-name="Group 793" style="clip-path:url(#ro7mzbodza)">
+                            <path data-name="Path 164" d="M27 2.3A24.7 24.7 0 1 1 2.3 27 24.7 24.7 0 0 1 27 2.3M27 0a27 27 0 1 0 27 27A26.968 26.968 0 0 0 27 0" style="fill:#8f8f8f"/>
+                        </g>
+                    </g>
+                </g>
+                <path data-name="Path 165" d="M20.3 13.246a1.846 1.846 0 0 1 1.772.127l.074.048L39.69 25.44a1.885 1.885 0 0 1 .07 3.092l-.07.051L22.146 40.6a1.92 1.92 0 0 1-1.083.344 1.792 1.792 0 0 1-.84-.209 1.844 1.844 0 0 1-.974-1.579V14.948a1.855 1.855 0 0 1 .9-1.624l.072-.04z" transform="translate(-.017 -.011)" style="fill:#757575"/>
+            </g>
+        </g>
+    </g>
+</svg>

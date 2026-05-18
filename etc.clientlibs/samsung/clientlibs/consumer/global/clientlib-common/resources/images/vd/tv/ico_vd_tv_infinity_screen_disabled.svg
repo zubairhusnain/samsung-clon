@@ -1,0 +1,7 @@
+<svg id="ic_infinity-screen_24x24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="box" width="24" height="24" fill="none"/>
+  <g id="infinity-screen_24x24" transform="translate(0.05 0.25)">
+    <path id="패스_126" data-name="패스 126" d="M19.872,5.25H4A.245.245,0,0,0,3.75,5.5V16.33A.245.245,0,0,0,4,16.575H19.872a.245.245,0,0,0,.245-.246V5.5A.245.245,0,0,0,19.872,5.25Z" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_127" data-name="패스 127" d="M10.039,18.014l-.4.736H14.3l-.4-.736Z" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="ic_smart-features_24x24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_473" data-name="사각형 473" width="16" height="15.911" transform="translate(0.339 0.411)" fill="none" stroke="#757575" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_487" data-name="그룹 487" transform="translate(3.661 3.59)" clip-path="url(#clip-path)">
+    <g id="그룹_489" data-name="그룹 489" transform="translate(0.961 1.032)">
+      <rect id="사각형_472" data-name="사각형 472" width="14.755" height="14.669" transform="translate(0)" fill="none" stroke="#757575" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="패스_197" data-name="패스 197" d="M19.211,16.445a1.578,1.578,0,1,1-1.578-1.578A1.578,1.578,0,0,1,19.211,16.445Z" transform="translate(-13.528 -12.553)" fill="none" stroke="#757575" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="패스_198" data-name="패스 198" d="M2,39.092l4.758-4.473,2.19,2.19,3.981-3.981,3.826,3.759" transform="translate(-2 -27.282)" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+  <rect id="사각형_474" data-name="사각형 474" width="24" height="24" fill="none"/>
+</svg>

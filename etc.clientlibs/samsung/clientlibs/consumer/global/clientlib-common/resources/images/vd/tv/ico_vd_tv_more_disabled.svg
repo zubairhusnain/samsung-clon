@@ -1,0 +1,7 @@
+<svg id="ic_more-than-one_24x24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="사각형_24" data-name="사각형 24" width="24" height="24" fill="none"/>
+  <g id="i-want-all_24x24">
+    <path id="패스_48" data-name="패스 48" d="M12,19.5A7.5,7.5,0,1,0,4.5,12,7.5,7.5,0,0,0,12,19.5Z" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_49" data-name="패스 49" d="M10.63,8.71l1.41-1.8L13.42,8.73l2.27-.275-.311,2.263,1.8,1.41L15.356,13.51l.275,2.267-2.263-.311-1.41,1.8-1.382-1.819-2.267.275.311-2.263-1.8-1.41L8.64,10.667,8.365,8.4Z" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>
