@@ -1,0 +1,7 @@
+pages/business/index.php	103
+pages/support/repair-price/index.php	85
+
+# Earlier nv00-gnb-v4 / footer pass (consumer pages, ~94 files)
+# Removed broken links such as mypage/*, galaxy-s26-ultra PDP, missing product cards with images
+
+TOTAL=219

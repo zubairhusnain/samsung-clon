@@ -579,22 +579,8 @@ var digitalData = {
           
     
     <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
-        <button class="nv00-gnb-v4__utility nv00-gnb-v4__utility-search gnb__search-btn-js" data-js-action="search" an-tr="nv00_gnb-vd marketing page-l0-navigation2" an-ca="navigation" an-ac="gnb" an-la="search" data-di-id="di-id-d95e4607-5db9b52f">
-            <span class="hidden">Search</span>
-            <svg class="icon" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="b49ce24-44182b1d" data-di-rand="1778922468324">
-                <path d="M85.732,89.269v0L60.479,64.018A36.5,36.5,0,1,1,22.295,2.869,36.5,36.5,0,0,1,64.02,60.483L89.268,85.732l-3.535,3.535ZM36.5,5A31.508,31.508,0,0,0,24.238,65.525,31.508,31.508,0,0,0,48.762,7.476,31.316,31.316,0,0,0,36.5,5Z" transform="translate(3.366 3.366)"></path>
-            </svg>
-            <span class="nv00-gnb-v4__search-text" aria-hidden="true">Search</span>
-        </button>
-<a class="nv00-gnb-v4__utility nv00-gnb-v4__utility-user after-login js-user-name js-account" data-js-action="user" data-di-id="di-id-e806260d-aafdb76e">
-                <span class="hidden">Open My Menu</span>
-                
-                
-                
-                <svg class="icon nv00-gnb-v4__user-icon js-gnb-afterlogin-no-image" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="9d7b75c7-92fde03a" data-di-rand="1778922468324">
-                    <path d="M48,51.5c16.521,0,30.5,13.82,30.5,29.555h0V89A3.5,3.5,0,0,1,75,92.5H21A3.5,3.5,0,0,1,17.5,89h0V81.055C17.5,65.32,31.479,51.5,48,51.5Zm0,5c-13.772,0-25.5,11.595-25.5,24.555h0V87.5h51V81.055c0-12.831-11.494-24.323-25.087-24.552h0Zm0-53A20.5,20.5,0,1,1,27.5,24,20.5,20.5,0,0,1,48,3.5Zm0,5A15.5,15.5,0,1,0,63.5,24,15.5,15.5,0,0,0,48,8.5Z" transform="translate(-0.5 0.5)"></path>
-                </svg>
-            </a>
+        
+
         
         <button class="nv00-gnb-v4__utility nv00-gnb-v4__utility-hamburger" data-js-action="hamburger" aria-expanded="false" aria-haspopup="true" an-tr="nv00_gnb-vd marketing page-gnb open / close-navigation2" an-ca="navigation" an-ac="gnb" an-la="gnb:open" data-di-id="di-id-9735b5de-de34d8f3">
             <span class="hidden">Navigation</span>
@@ -617,12 +603,7 @@ var digitalData = {
                 <use xlink:href="#previous-regular" href="#previous-regular"></use>
             </svg>
         </button>
-        <button class="nv00-gnb-v4__search gnb__search-btn-js" aria-haspopup="true" aria-expanded="false" data-js-action="search" an-tr="nv00_gnb-vd marketing page-l0-navigation5" an-ca="navigation" an-ac="gnb" an-la="search" data-di-id="di-id-b1984e5f-adb36e00">
-            <svg class="icon" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="b49ce24-bc015284" data-di-rand="1778922468324">
-                <path d="M85.732,89.269v0L60.479,64.018A36.5,36.5,0,1,1,22.295,2.869,36.5,36.5,0,0,1,64.02,60.483L89.268,85.732l-3.535,3.535ZM36.5,5A31.508,31.508,0,0,0,24.238,65.525,31.508,31.508,0,0,0,48.762,7.476,31.316,31.316,0,0,0,36.5,5Z" transform="translate(3.366 3.366)"></path>
-            </svg>
-            <span class="nv00-gnb-v4__search-text">Search</span>
-        </button>
+        
     </div>
 
           
@@ -696,17 +677,7 @@ var digitalData = {
 						
                         <!-- TV&AV Do Not Contain L2 Start -->
                         
-                            <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-vd marketing page-l1-navigation2" an-ca="navigation" an-ac="gnb" an-la="L0_2_shop:L1_1_galaxy s26 ultra" role="menuitem" href="<?php echo CW_BASE_URL; ?>/smartphones/galaxy-s26-ultra/" data-di-id="di-id-75fb74c6-a863ca3f">
-                                
-                                <div class="nv00-gnb-v4__l1-menu-image">
-                                    <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/s2602/gnb/GNB-L1_Menu_Galaxy-Smartphone_88x88.png" alt="Galaxy S26 Ultra" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/s2602/gnb/GNB-L1_Menu_Galaxy-Smartphone_88x88.png" alt="Galaxy S26 Ultra" role="img" data-comp-name="image">
-                                    </div>
-                                </div>
-                                <span class="nv00-gnb-v4__l1-menu-text">Galaxy S26 Ultra</span>
-                                
-                            </a>
+                            
                         
                         <!-- TV&AV Do Not Contain L2 End -->
 
@@ -759,17 +730,7 @@ var digitalData = {
 						
                         <!-- TV&AV Do Not Contain L2 Start -->
                         
-                            <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-vd marketing page-l1-navigation2" an-ca="navigation" an-ac="gnb" an-la="L0_2_shop:L1_4_Galaxy A17" role="menuitem" href="<?php echo CW_BASE_URL; ?>/smartphones/galaxy-a/galaxy-a17-light-blue-128gb-sm-a175flbcpkd/buy/" data-di-id="di-id-f3e34573-ee295c57">
-                                
-                                <div class="nv00-gnb-v4__l1-menu-image">
-                                    <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/revamp/gnb/shop/GNB_88x88_05.png" alt="Galaxy A17&nbsp;" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/revamp/gnb/shop/GNB_88x88_05.png" alt="Galaxy A17&nbsp;" role="img" data-comp-name="image">
-                                    </div>
-                                </div>
-                                <span class="nv00-gnb-v4__l1-menu-text">Galaxy A17&nbsp;</span>
-                                
-                            </a>
+                            
                         
                         <!-- TV&AV Do Not Contain L2 End -->
 
@@ -801,17 +762,7 @@ var digitalData = {
 						
                         <!-- TV&AV Do Not Contain L2 Start -->
                         
-                            <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-vd marketing page-l1-navigation2" an-ca="navigation" an-ac="gnb" an-la="L0_2_shop:L1_6_galaxy buds4 pro" role="menuitem" href="<?php echo CW_BASE_URL; ?>/audio-sound/galaxy-buds/galaxy-buds4-pro-white-sm-r640nzwamea/" data-di-id="di-id-d621bfff-50365710">
-                                
-                                <div class="nv00-gnb-v4__l1-menu-image">
-                                    <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/s2602/gnb/GNB_Buds4-Pro_88x88.png" alt="Galaxy Buds4 Pro" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/s2602/gnb/GNB_Buds4-Pro_88x88.png" alt="Galaxy Buds4 Pro" role="img" data-comp-name="image">
-                                    </div>
-                                </div>
-                                <span class="nv00-gnb-v4__l1-menu-text">Galaxy Buds4 Pro</span>
-                                
-                            </a>
+                            
                         
                         <!-- TV&AV Do Not Contain L2 End -->
 
@@ -822,17 +773,7 @@ var digitalData = {
 						
                         <!-- TV&AV Do Not Contain L2 Start -->
                         
-                            <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-vd marketing page-l1-navigation2" an-ca="navigation" an-ac="gnb" an-la="L0_2_shop:L1_7_QLED Q8F 4K TV" role="menuitem" href="<?php echo CW_BASE_URL; ?>/tvs/qled-tv/q8f-75-inch-qled-4k-smart-tv-qa75q8faausmm/" data-di-id="di-id-ad7fca00-d073cc08">
-                                
-                                <div class="nv00-gnb-v4__l1-menu-image">
-                                    <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/revamp/gnb/shop/GNB_88x88_03.png" alt="QLED Q8F 4K TV" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/revamp/gnb/shop/GNB_88x88_03.png" alt="QLED Q8F 4K TV" role="img" data-comp-name="image">
-                                    </div>
-                                </div>
-                                <span class="nv00-gnb-v4__l1-menu-text">QLED Q8F 4K TV </span>
-                                
-                            </a>
+                            
                         
                         <!-- TV&AV Do Not Contain L2 End -->
 
@@ -2309,10 +2250,10 @@ var digitalData = {
                                         <a class="nv00-gnb-v4__l2-menu-link" href="<?php echo CW_BASE_URL; ?>/support/service-center/" role="menuitem" an-tr="nv00_gnb-vd marketing page-text l2-navigation2" an-ca="navigation" an-ac="gnb" an-la="support:repairs and warranty:service locator" data-di-id="di-id-50d560c1-197f42d1">Service Center</a>
                                     
 								        
-                                        <a class="nv00-gnb-v4__l2-menu-link" href="<?php echo CW_BASE_URL; ?>/mypage/myproducts/" role="menuitem" an-tr="nv00_gnb-vd marketing page-text l2-navigation2" an-ca="navigation" an-ac="gnb" an-la="support:repairs and warranty:book a repair" data-di-id="di-id-6ed954c-b65ed0c3">Book a Repair</a>
+                                        
                                     
 								        
-                                        <a class="nv00-gnb-v4__l2-menu-link" href="<?php echo CW_BASE_URL; ?>/mypage/myrepair/track-repair/" role="menuitem" an-tr="nv00_gnb-vd marketing page-text l2-navigation2" an-ca="navigation" an-ac="gnb" an-la="support:repairs and warranty:track my repair" data-di-id="di-id-f1da5976-6b389f25">Track my repair</a>
+                                        
                                     
 								        
                                         <a class="nv00-gnb-v4__l2-menu-link" href="<?php echo CW_BASE_URL; ?>/support/repair-price/" role="menuitem" an-tr="nv00_gnb-vd marketing page-text l2-navigation2" an-ca="navigation" an-ac="gnb" an-la="support:repairs and warranty:repair cost" data-di-id="di-id-df7b8d68-7b783cf0">Repair Cost</a>
@@ -2428,187 +2369,8 @@ var digitalData = {
     
     
         
-        <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-            
-            
-            	
-	
-		
-	
-		
-	
-	
-		
-		
-	
-
-            
         </div>
-        <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only after-login">
-            <a class="nv00-gnb-v4__user-menu js-user-name js-account" role="menuitem" href="javascript:;" aria-label="Go to the another page" an-tr="nv00_gnb-vd marketing page-account-account" an-ca="account" an-ac="gnb" an-la="user name" data-di-id="di-id-d0965d07-4327ab8a">
-                
-                
-                
-                <svg class="icon nv00-gnb-v4__user-icon js-gnb-afterlogin-no-image" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="1f717a6-c85790a7" data-di-rand="1778922468331">
-                    <path d="M48,51.5c16.521,0,30.5,13.82,30.5,29.555h0V89A3.5,3.5,0,0,1,75,92.5H21A3.5,3.5,0,0,1,17.5,89h0V81.055C17.5,65.32,31.479,51.5,48,51.5Zm0,5c-13.772,0-25.5,11.595-25.5,24.555h0V87.5h51V81.055c0-12.831-11.494-24.323-25.087-24.552h0Zm0-53A20.5,20.5,0,1,1,27.5,24,20.5,20.5,0,0,1,48,3.5Zm0,5A15.5,15.5,0,1,0,63.5,24,15.5,15.5,0,0,0,48,8.5Z" transform="translate(-0.5 0.5)"></path>
-                </svg>
-                <p class="user-name"></p>
-                <p class="hidden">Open My Menu</p>
-            </a>
             
-				
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-	
-		
-		
-	
-
-			
-        </div>
-    
-
-            
-
-            
-            
-    
-    <div class="nv00-gnb-v4__utility-list">
-        <button class="nv00-gnb-v4__utility nv00-gnb-v4__utility-search gnb__search-btn-js" data-js-action="search" an-tr="nv00_gnb-vd marketing page-navigation2" an-ca="navigation" an-ac="gnb" an-la="L0_11_search" aria-haspopup="true" aria-expanded="false" data-di-id="di-id-1d4b7d1d-8c471170">
-            <span class="hidden">Search</span>
-            <svg class="icon" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="1f717a6-26986b2c" data-di-rand="1778922468331">
-                <path d="M85.732,89.269v0L60.479,64.018A36.5,36.5,0,1,1,22.295,2.869,36.5,36.5,0,0,1,64.02,60.483L89.268,85.732l-3.535,3.535ZM36.5,5A31.508,31.508,0,0,0,24.238,65.525,31.508,31.508,0,0,0,48.762,7.476,31.316,31.316,0,0,0,36.5,5Z" transform="translate(3.366 3.366)"></path>
-            </svg>
-            <span class="nv00-gnb-v4__search-text" aria-hidden="true">Search</span>
-        </button>
-        
-            
-            
-                
-                
-                    
-                    
-	
-    
-        
-            <div class="nv00-gnb-v4__utility-wrap before-login">
-                <button class="nv00-gnb-v4__utility nv00-gnb-v4__utility-user" data-js-action="user" aria-expanded="false" an-tr="nv00_gnb-vd marketing page-l0-navigation2" an-ca="navigation" an-ac="gnb" an-la="L0_13_login" aria-label="Manage Account" data-di-id="di-id-781a6edc-b0dea4a9">
-                    <span class="hidden">Log-In/Sign-Up</span>
-                    <svg class="icon" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="1342b848-bedf4d05" data-di-rand="1778922468332">
-                        <path d="M48,51.5c16.521,0,30.5,13.82,30.5,29.555h0V89A3.5,3.5,0,0,1,75,92.5H21A3.5,3.5,0,0,1,17.5,89h0V81.055C17.5,65.32,31.479,51.5,48,51.5Zm0,5c-13.772,0-25.5,11.595-25.5,24.555h0V87.5h51V81.055c0-12.831-11.494-24.323-25.087-24.552h0Zm0-53A20.5,20.5,0,1,1,27.5,24,20.5,20.5,0,0,1,48,3.5Zm0,5A15.5,15.5,0,1,0,63.5,24,15.5,15.5,0,0,0,48,8.5Z" transform="translate(-0.5 0.5)"></path>
-                    </svg>
-                </button>
-                <div class="nv00-gnb-v4__utility-menu-list" role="menu" aria-label="account" aria-hidden="true">
-                    <div class="nv00-gnb-v4__utility-menu-wrap">
-                        
-                        
-                        	
-	
-		
-	
-		
-	
-	
-		
-		
-	
-
-                        
-                        
-							
-                            	
-	                        
-                        
-							
-                            	<a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="<?php echo CW_BASE_URL; ?>/mypage/myproducts/" aria-label="myproducts" an-tr="nv00_gnb-vd marketing page-account-account" an-ca="account" an-ac="gnb" an-la="myproducts" role="menuitem" data-di-id="di-id-b5076ca4-4e2dc6fc">
-                                	My&nbsp;Products
-                            	</a>
-	                        
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="nv00-gnb-v4__utility-wrap after-login">
-                <button class="nv00-gnb-v4__utility nv00-gnb-v4__utility-user" data-js-action="user" aria-label="Go to the another page" an-tr="gnb-account, cart-vd marketing page-account-account" an-ca="account" an-ac="gnb" an-la="user name" role="button" aria-expanded="false" data-di-id="di-id-12cd0e07-9b204cc7">
-                    <span class="hidden">Open My Menu</span>
-                    
-                    
-                    
-                    <svg class="icon nv00-gnb-v4__user-icon js-gnb-afterlogin-no-image" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="1342b848-a856a055" data-di-rand="1778922468332">
-                        <path d="M48,51.5c16.521,0,30.5,13.82,30.5,29.555h0V89A3.5,3.5,0,0,1,75,92.5H21A3.5,3.5,0,0,1,17.5,89h0V81.055C17.5,65.32,31.479,51.5,48,51.5Zm0,5c-13.772,0-25.5,11.595-25.5,24.555h0V87.5h51V81.055c0-12.831-11.494-24.323-25.087-24.552h0Zm0-53A20.5,20.5,0,1,1,27.5,24,20.5,20.5,0,0,1,48,3.5Zm0,5A15.5,15.5,0,1,0,63.5,24,15.5,15.5,0,0,0,48,8.5Z" transform="translate(-0.5 0.5)"></path>
-                    </svg>
-                </button>
-                <div class="nv00-gnb-v4__utility-menu-list" role="menu" aria-label="account" aria-hidden="true">
-                    <div class="nv00-gnb-v4__utility-menu-wrap">
-                        <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--user-profile nv00-gnb-v4--pc-only js-user-name js-account" href="javascript:;" role="menuitem" aria-label="" an-tr="nv00_gnb-vd marketing page-account-account" an-ca="account" an-ac="gnb" an-la="user name">
-                            
-                            
-                            
-                            <svg class="icon nv00-gnb-v4__user-icon js-gnb-afterlogin-no-image" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96" data-di-res-id="1342b848-36bb0595" data-di-rand="1778922468332">
-                                <path d="M48,51.5c16.521,0,30.5,13.82,30.5,29.555h0V89A3.5,3.5,0,0,1,75,92.5H21A3.5,3.5,0,0,1,17.5,89h0V81.055C17.5,65.32,31.479,51.5,48,51.5Zm0,5c-13.772,0-25.5,11.595-25.5,24.555h0V87.5h51V81.055c0-12.831-11.494-24.323-25.087-24.552h0Zm0-53A20.5,20.5,0,1,1,27.5,24,20.5,20.5,0,0,1,48,3.5Zm0,5A15.5,15.5,0,1,0,63.5,24,15.5,15.5,0,0,0,48,8.5Z" transform="translate(-0.5 0.5)"></path>
-                            </svg>
-                            <p class="user-name"></p>
-                        </a>
-                        
-                        	
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-	
-		
-		
-	
-
-                        
-                        
-							
-                            	<a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" role="menuitem" href="<?php echo CW_BASE_URL; ?>/mypage/" an-tr="nv00_gnb-vd marketing page-account-account" an-ca="account" an-ac="gnb" an-la="mypage" aria-label="mypage" data-di-id="di-id-f68b45b3-e8dd1afe">
-                                	My&nbsp;Page
-                            	</a>
-                        	
-                        
-							
-                            	
-                        	
-                        
-							
-                            	
-                        	
-                        
-							
-                            	
-                        	
-                        
-							
-                            	<a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" role="menuitem" href="<?php echo CW_BASE_URL; ?>/mypage/myproducts/" an-tr="nv00_gnb-vd marketing page-account-account" an-ca="account" an-ac="gnb" an-la="myproducts" aria-label="myproducts" data-di-id="di-id-b5076ca4-4e2dc6fc">
-                                	My&nbsp;Products
-                            	</a>
-                        	
-                        
-                        
-                            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu logoutBtn" an-tr="nv00_gnb-vd marketing page-account-account" href="javascript:;" an-ca="account" an-ac="gnb" an-la="logout" aria-label="logout" role="menuitem" data-di-id="di-id-781a6edc-136123c0">
-                                Log Out
-                            </a>
-                            
-                        
-                    </div>
                 </div>
             </div>
         
@@ -5839,23 +5601,9 @@ var digitalData = {
 									
 								</li>
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/mypage/myproducts/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="support:book a repair" aria-label="Book a Repair Book a Repair" an-as="" data-di-id="di-id-d8508be0-2037f34e">Book a Repair</a>
-									
-									
-								</li>
+								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/mypage/myrepair/track-repair/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="support:track my repair" aria-label="Track my repair Track my repair" an-as="" data-di-id="di-id-c06eefd3-728392f3">Track my repair</a>
-									
-									
-								</li>
+								
 							
 								<li class="footer-category__item" role="listitem">
 									
@@ -5911,23 +5659,9 @@ var digitalData = {
 							
 								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/mypage/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="account:my page" aria-label="My Page My Page" an-as="" data-di-id="di-id-b55ff437-97f012c1">My Page</a>
-									
-									
-								</li>
+								
 							
-								<li class="footer-category__item" role="listitem">
-									
-									
-									
-									<a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/mypage/myproducts/" an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="account:my products" aria-label="My Products My Products" an-as="" data-di-id="di-id-d8508be0-2037f34e">My Products</a>
-									
-									
-								</li>
+								
 							
 								
 							
