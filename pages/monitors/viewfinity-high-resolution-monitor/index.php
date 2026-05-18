@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-PK" class="isNotIosDevice dotcom webkit chrome isNotTouchDevice desktop mac Chrome" data-di-loaded="1"><head>
 	<!-- PWA - manifest
-	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
+	<link rel="manifest" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
 	 -->
 	<!-- PWA - Browser Compatible
 	<script async src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
@@ -15540,9 +15540,9 @@ var digitalData = {
     <!-- KV -->
     <div class="vd-kv" id="KV">
       <h1 class="blind">ViewFinity</h1>
-      <div class="vd-kv__player video__container js-res-video loaded playing" data-src-pc="<?php echo CW_BASE_URL; ?>/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/viewfinity-kv.mp4" data-src-mobile="<?php echo CW_BASE_URL; ?>/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/viewfinity-kv-mo.mp4" data-auto-play="true">
+      <div class="vd-kv__player video__container js-res-video loaded playing" data-src-pc="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/viewfinity-kv.mp4" data-src-mobile="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/viewfinity-kv-mo.mp4" data-auto-play="true">
         <video playsinline="" muted="" preload="auto" loop="">
-          <source src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/viewfinity-kv.mp4" type="video/mp4">
+          <source src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/viewfinity-kv.mp4" type="video/mp4">
         </video>
         <div class="vd-kv__image video__start-frame">
           <img src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/vd-kv-startframe.jpg" class="js-res-img load-complete" data-src-pc="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/vd-kv-startframe.jpg" data-src-tablet="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/vd-kv-startframe.jpg" data-src-mobile="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/vd-kv-startframe-mo.jpg" alt="There are three monitors on platforms with 'Expand Your Creative Realm' message above them.">
@@ -15886,7 +15886,7 @@ var digitalData = {
         <div class="vd-feature__details">
           <div class="vd-feature__details-wrap">
             <div class="vd-feature__details-cont">
-              <div class="vd-feature__video video__container js-video-src js-res-video" data-src-pc="<?php echo CW_BASE_URL; ?>/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/vd-feature-video01.mp4" data-src-mobile="<?php echo CW_BASE_URL; ?>/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/vd-feature-video01.mp4" data-auto-play="true">
+              <div class="vd-feature__video video__container js-video-src js-res-video" data-src-pc="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/vd-feature-video01.mp4" data-src-mobile="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/vd-feature-video01.mp4" data-auto-play="true">
                 <video playsinline="" muted="" preload="auto" loop="">
                   <source src="" type="video/mp4">
                 </video>
@@ -15912,7 +15912,7 @@ var digitalData = {
             </div>
             <div class="vd-feature__details-cont">
               <h4 class="vd-feature__details-title" data-subtitle="ergonomic design">Ergonomic Design</h4>
-              <div class="vd-feature__video video__container js-video-src js-res-video" data-src-pc="<?php echo CW_BASE_URL; ?>/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/vd-feature-video02.mp4" data-src-mobile="<?php echo CW_BASE_URL; ?>/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/vd-feature-video02.mp4" data-auto-play="true">
+              <div class="vd-feature__video video__container js-video-src js-res-video" data-src-pc="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/vd-feature-video02.mp4" data-src-mobile="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/vd-feature-video02.mp4" data-auto-play="true">
                 <video playsinline="" muted="" preload="auto" loop="">
                   <source src="" type="video/mp4">
                 </video>
@@ -15980,7 +15980,7 @@ var digitalData = {
           <div class="vd-feature__details-mo-wrap">
             <div class="vd-feature__details-mo-inner swiper-container swiper-container-initialized swiper-container-horizontal">
               <div class="vd-feature__details-mo-cont swiper-wrapper" style="transition-duration: 0ms;">
-                <div class="vd-feature__details-mo-slide swiper-slide video__container js-video-src js-res-video" data-src-pc="<?php echo CW_BASE_URL; ?>/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/vd-feature-video01.mp4" data-src-mobile="<?php echo CW_BASE_URL; ?>/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/vd-feature-video01.mp4" data-auto-play="true">
+                <div class="vd-feature__details-mo-slide swiper-slide video__container js-video-src js-res-video" data-src-pc="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/vd-feature-video01.mp4" data-src-mobile="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/vd-feature-video01.mp4" data-auto-play="true">
                   <video playsinline="" muted="" preload="auto" loop="">
                     <source src="" type="video/mp4">
                   </video>
@@ -16019,7 +16019,7 @@ var digitalData = {
           <div class="vd-feature__details-mo-wrap">
             <div class="vd-feature__details-mo-inner swiper-container swiper-container-initialized swiper-container-horizontal">
               <div class="vd-feature__details-mo-cont swiper-wrapper" style="transition-duration: 0ms;">
-                <div class="vd-feature__details-mo-slide video__container js-video-src js-res-video swiper-slide" data-src-pc="<?php echo CW_BASE_URL; ?>/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/vd-feature-video02.mp4" data-src-mobile="<?php echo CW_BASE_URL; ?>/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/vd-feature-video02.mp4" data-auto-play="true">
+                <div class="vd-feature__details-mo-slide video__container js-video-src js-res-video swiper-slide" data-src-pc="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/vd-feature-video02.mp4" data-src-mobile="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/consumer/global/vd/monitors/viewfinity-high-resolution-monitor/vd-feature-video02.mp4" data-auto-play="true">
                   <video playsinline="" muted="" preload="auto" loop="">
                     <source src="" type="video/mp4">
                   </video>
@@ -17366,7 +17366,7 @@ var digitalData = {
 	</sly> -->
 	
 	<!--[if lt IE 9]>
-	<script src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
+	<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
 	<![endif]-->
 	<!--[if lte IE 9]>
 	<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>
@@ -18188,7 +18188,7 @@ var digitalData = {
 
 
 	
-		<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/common/cm-g-static-content/clientlibs/site.min.d41d8cd98f00b204e9800998ecf8427e.js" async=""></script>
+		<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/function/fn-g-personalization/clientlibs/site.min.d41d8cd98f00b204e9800998ecf8427e.css" async=""></script>
 	
 	
     

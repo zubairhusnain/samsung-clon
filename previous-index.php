@@ -632,27 +632,27 @@
           content="Samsung, Samsung Electronics, Samsung Smartphones, Samsung TVs, Samsung Home Appliances"
         />
 
-        <link rel="icon" type="image/png" href="assets/images/Favicon-a70e251974.png" sizes="96x96" />
-        <link rel="shortcut icon" href="assets/images/Favicon-a70e251974.png" />
-        <link rel="apple-touch-icon" href="assets/images/app_ico-1bcacbf674.png" sizes="144x144" />
+        <link rel="icon" type="image/png" href="<?php echo CW_BASE_URL; ?>/assets/images/Favicon-a70e251974.png" sizes="96x96" />
+        <link rel="shortcut icon" href="<?php echo CW_BASE_URL; ?>/assets/images/Favicon-a70e251974.png" />
+        <link rel="apple-touch-icon" href="<?php echo CW_BASE_URL; ?>/assets/images/app_ico-1bcacbf674.png" sizes="144x144" />
 
         <link
           rel="stylesheet"
-          href="assets/css/fonts.min.b044099f83e7f412097f7d677f78166c-5fc4aaa519.css"
+          href="<?php echo CW_BASE_URL; ?>/assets/css/fonts.min.b044099f83e7f412097f7d677f78166c-5fc4aaa519.css"
           type="text/css"
         />
 
         <link
           type="text/css"
           rel="stylesheet"
-          href="assets/css/clientlib-dependencies.min.1dd1d47f040029bab499de380db9b346-2f196b4db1.css"
+          href="<?php echo CW_BASE_URL; ?>/assets/css/clientlib-dependencies.min.1dd1d47f040029bab499de380db9b346-2f196b4db1.css"
           as="style"
           onload="this.onload=null;this.rel='stylesheet'"
         />
         <link
           type="text/css"
           rel="stylesheet"
-          href="assets/css/clientlib-base-ux25.min.e6a951def9419a5699483a55807d80c3-64f2fe0bb2.css"
+          href="<?php echo CW_BASE_URL; ?>/assets/css/clientlib-base-ux25.min.e6a951def9419a5699483a55807d80c3-64f2fe0bb2.css"
           as="style"
           onload="this.onload=null;this.rel='stylesheet'"
         />
@@ -660,27 +660,27 @@
         <link
           rel="preload"
           as="image"
-          href="assets/images/MainKV_720x1248_mobile-9ebba58731.jpg"
+          href="<?php echo CW_BASE_URL; ?>/assets/images/MainKV_720x1248_mobile-9ebba58731.jpg"
           media="(max-width:767px)"
         />
         <link
           rel="preload"
           as="image"
-          href="assets/images/MainKV_1920x1080_desktop_en-77f36dddbf.jpg"
+          href="<?php echo CW_BASE_URL; ?>/assets/images/MainKV_1920x1080_desktop_en-77f36dddbf.jpg"
           media="(min-width:768px)"
         />
 
         <link
           type="text/css"
           rel="stylesheet"
-          href="assets/css/compact.min.6464e52d5824a3b3500e00538e5eaad5-389bf89335.css"
+          href="<?php echo CW_BASE_URL; ?>/assets/css/compact.min.6464e52d5824a3b3500e00538e5eaad5-389bf89335.css"
           as="style"
           onload="this.onload=null;this.rel='stylesheet'"
         />
         <link
           type="text/css"
           rel="stylesheet"
-          href="assets/css/compact.min.6464e52d5824a3b3500e00538e5eaad5-21513bc33c.css"
+          href="<?php echo CW_BASE_URL; ?>/assets/css/compact.min.6464e52d5824a3b3500e00538e5eaad5-21513bc33c.css"
           as="style"
           onload="this.onload=null;this.rel='stylesheet'"
         />
@@ -691,21 +691,21 @@
           role="presentation"
           style="width: 0px; height: 0px; border: 0px; display: none;"
         ></iframe>
-        <link rel="stylesheet" href="assets/css/custom.css" />
-        <script src="assets/js/custom.js"></script>
+        <link rel="stylesheet" href="<?php echo CW_BASE_URL; ?>/assets/css/custom.css" />
+        <script src="<?php echo CW_BASE_URL; ?>/assets/js/custom.js"></script>
         <script
           async="true"
-          src="assets/js/545d6e93-a700-41dd-9ae4-69f812f462c9-275b62e8bf.js"
+          src="<?php echo CW_BASE_URL; ?>/assets/js/545d6e93-a700-41dd-9ae4-69f812f462c9-275b62e8bf.js"
           crossorigin="anonymous"
         ></script>
-        <script type="text/javascript" async="" src="assets/js/js-a01977d265.js"></script>
-        <script async="" src="assets/js/uwt-91a5a80239.js"></script>
-        <script async="" src="assets/js/js-b96b6a8045.js"></script>
-        <script async="" src="assets/js/scevent.min-7a9fc21bde.js"></script>
-        <script async="" src="assets/js/ins-36fbacd8fe.js"></script>
-        <script type="text/javascript" async="" src="assets/js/sdk.prd-3c81b3b304.js"></script>
-        <script src="assets/js/tag-eec6089277.js" type="text/javascript" async="" id="cjapitag"></script>
-        <script async="" src="assets/js/di-3aa046a117.js"></script>
+        <script type="text/javascript" async="" src="<?php echo CW_BASE_URL; ?>/assets/js/js-a01977d265.js"></script>
+        <script async="" src="<?php echo CW_BASE_URL; ?>/assets/js/uwt-91a5a80239.js"></script>
+        <script async="" src="<?php echo CW_BASE_URL; ?>/assets/js/js-b96b6a8045.js"></script>
+        <script async="" src="<?php echo CW_BASE_URL; ?>/assets/js/scevent.min-7a9fc21bde.js"></script>
+        <script async="" src="<?php echo CW_BASE_URL; ?>/assets/js/ins-36fbacd8fe.js"></script>
+        <script type="text/javascript" async="" src="<?php echo CW_BASE_URL; ?>/assets/js/sdk.prd-3c81b3b304.js"></script>
+        <script src="<?php echo CW_BASE_URL; ?>/assets/js/tag-eec6089277.js" type="text/javascript" async="" id="cjapitag"></script>
+        <script async="" src="<?php echo CW_BASE_URL; ?>/assets/js/di-3aa046a117.js"></script>
         <script type="application/ld+json">
           {
             "@context": "https://schema.org",
@@ -719,7 +719,7 @@
         <link
           type="text/css"
           rel="stylesheet"
-          href="assets/css/site.min.172f408f8929c1d8bc757ced1e7b72c0-661abf991f.css"
+          href="<?php echo CW_BASE_URL; ?>/assets/css/site.min.172f408f8929c1d8bc757ced1e7b72c0-661abf991f.css"
           as="style"
           onload="this.onload=null;this.rel='stylesheet'"
         />
@@ -735,7 +735,7 @@
         <link
           type="text/css"
           rel="stylesheet"
-          href="assets/css/site.min.e4937076924cda72e594926a375b62aa-6f6ef0803f.css"
+          href="<?php echo CW_BASE_URL; ?>/assets/css/site.min.e4937076924cda72e594926a375b62aa-6f6ef0803f.css"
           as="style"
           onload="this.onload=null;this.rel='stylesheet'"
         />
@@ -743,7 +743,7 @@
         <link
           type="text/css"
           rel="stylesheet"
-          href="assets/css/site.min.80ca88cacd90bd8aa8da9ee8cd25be59-5403e18c69.css"
+          href="<?php echo CW_BASE_URL; ?>/assets/css/site.min.80ca88cacd90bd8aa8da9ee8cd25be59-5403e18c69.css"
           as="style"
           onload="this.onload=null;this.rel='stylesheet'"
         />
@@ -751,7 +751,7 @@
         <link
           type="text/css"
           rel="stylesheet"
-          href="assets/css/site.min.bb9fc7ffd36e0804118701044f0b9fb9-5a3afa027d.css"
+          href="<?php echo CW_BASE_URL; ?>/assets/css/site.min.bb9fc7ffd36e0804118701044f0b9fb9-5a3afa027d.css"
           as="style"
           onload="this.onload=null;this.rel='stylesheet'"
         />
@@ -759,7 +759,7 @@
         <link
           type="text/css"
           rel="stylesheet"
-          href="assets/css/site.min.2f3f72667d6f73781369fcf3508bb4b3-fe46889f4e.css"
+          href="<?php echo CW_BASE_URL; ?>/assets/css/site.min.2f3f72667d6f73781369fcf3508bb4b3-fe46889f4e.css"
           as="style"
           onload="this.onload=null;this.rel='stylesheet'"
         />
@@ -767,7 +767,7 @@
         <link
           type="text/css"
           rel="stylesheet"
-          href="assets/css/site.min.e3b5808df4236015b90cd59d0dbe152f-2f9f9d9165.css"
+          href="<?php echo CW_BASE_URL; ?>/assets/css/site.min.e3b5808df4236015b90cd59d0dbe152f-2f9f9d9165.css"
           as="style"
           onload="this.onload=null;this.rel='stylesheet'"
         />
@@ -782,7 +782,7 @@
         <script>
           !function (a) { var e="", t = "addEventListener"; if ("False" == "True") a.BOOMR_config = a.BOOMR_config || {}, a.BOOMR_config.PageParams = a.BOOMR_config.PageParams || {}, a.BOOMR_config.PageParams.pci = !0, e=""; if (window.BOOMR_API_key = "VRZKC-5BSTD-4EWS3-R2J59-B8GYB", function () { function n(e) { a.BOOMR_onload = e && e.timeStamp || (new Date).getTime() } if (!a.BOOMR || !a.BOOMR.version && !a.BOOMR.snippetExecuted) { a.BOOMR = a.BOOMR || {}, a.BOOMR.snippetExecuted = !0; var i, _, o, r = document.createElement("iframe"); if (a[t]) a[t]("load", n, !1); else if (a.attachEvent) a.attachEvent("onload", n); r.src = "javascript:void(0)", r.title = "", r.role = "presentation", (r.frameElement || r).style.cssText = "width:0;height:0;border:0;display:none;", o = document.getElementsByTagName("script")[0], o.parentNode.insertBefore(r, o); try { _ = r.contentWindow.document } catch (O) { i = document.domain, r.src = "javascript:var d=document.open();d.domain='" + i + "';void(0);", _ = r.contentWindow.document } _.open()._l = function () { var a = this.createElement("script"); if (i) this.domain = i; a.id = "boomr-if-as", a.src = e + "VRZKC-5BSTD-4EWS3-R2J59-B8GYB", BOOMR_lstart = (new Date).getTime(), this.body.appendChild(a) }, _.write("<bo" + 'dy onload="document._l();">'), _.close() } }(), "".length > 0) if (a && "performance" in a && a.performance && "function" == typeof a.performance.setResourceTimingBufferSize) a.performance.setResourceTimingBufferSize(); !function () { if (BOOMR = a.BOOMR || {}, BOOMR.plugins = BOOMR.plugins || {}, !BOOMR.plugins.AK) { var e = "true" == "true" ? 1 : 0, t = "cookiepresent", n = "w2yv6fyxjpkdm2qf4l4a-f-f75714015-clientnsv4-s.akamaihd.net", i = "false" == "true" ? 2 : 1, _ = { "ak.v": "41", "ak.cp": "154960", "ak.ai": parseInt("293013", 10), "ak.ol": "0", "ak.cr": 98, "ak.ipv": 4, "ak.proto": "h3", "ak.rid": "8f37bf9e", "ak.r": 42017, "ak.a2": e, "ak.m": "x", "ak.n": "essl", "ak.cport": 59216, "ak.gh": "184.28.235.21", "ak.quicv": "0x00000001", "ak.tlsv": "tls1.3", "ak.0rtt": "", "ak.0rtt.ed": "", "ak.csrc": "-", "ak.acc": "", "ak.t": "1778770680", "ak.ak": "hOBiQwZUYzCg5VSAfCLimQ==98jM19gWPADiSt5DKsXaTFp4qXBPwJIyyPhMap/jJWxe3bdIYW0rwKvl+RBhnUolSHnKY/d4pEmNFlMuQf7+HdEHzYB+s+YWNhQ0XZ00B4l6iIbFSMRaFhtUPEMTEGeIMl5InkumobGeAEIALMj6siokHBwODebn35RNMC/M9hEh+8CO6Eu83m2XXO0u+LABAi2NGN+8JzgXzszBMehopb6apn+507H8yf7m+AjPnWTtL7hR2yPX8/4BjVcvyDogvr+BDPRMiuPCcxyavAr9siFt2MyoGw51AamwRbJg4FFEE9qnLQMviQI0vVX7/CwakVBj/s73MeaZCKruDcvrSkWCr/xy8xwZfVwKIRWadMF93jVliFn9vijerL25mvOr70ArnG7lZyEZqpAlLcVPNu/mM8k7BZSBvmETRqZEoNI=", "ak.pv": "4313", "ak.dpoabenc": "", "ak.tf": i }; if ("" !== t) _["ak.ruds"] = t; var o = { i: !1, av: function (e) { var t = "http.initiator"; if (e && (!e[t] || "spa_hard" === e[t])) _["ak.feo"] = void 0 !== a.aFeoApplied ? 1 : 0, BOOMR.addVar(_) }, rv: function () { var a = ["ak.cport", "ak.cr", "ak.csrc", "ak.gh", "ak.ipv", "ak.m", "ak.n", "ak.ol", "ak.proto", "ak.quicv", "ak.tlsv", "ak.0rtt", "ak.0rtt.ed", "ak.r", "ak.acc", "ak.t", "ak.tf"]; BOOMR.removeVar(a) } }; BOOMR.plugins.AK = { akVars: _, akDNSPreFetchDomain: n, init: function () { if (!o.i) { var a = BOOMR.subscribe; a("before_beacon", o.av, null, null), a("onbeacon", o.rv, null, null), o.i = !0 } return this }, is_complete: function () { return !0 } } } }() }(window);
         </script>
-        <script type="text/javascript" async="" src="assets/js/977f9a82566fb-862f04ea24.js"></script>
+        <script type="text/javascript" async="" src="<?php echo CW_BASE_URL; ?>/assets/js/977f9a82566fb-862f04ea24.js"></script>
         <style data-emotion="css-global"></style>
         <style data-emotion="css-global"></style>
         <style data-emotion="css-global"></style>
@@ -5020,9 +5020,9 @@
             </div>
           </section>
 
-          <script src="assets/js/crypto-js.min.6fa2276cf659f30cabde72a6fc452171-de042a6b7d.js"></script>
+          <script src="<?php echo CW_BASE_URL; ?>/assets/js/crypto-js.min.6fa2276cf659f30cabde72a6fc452171-de042a6b7d.js"></script>
 
-          <script type="text/javascript" src="assets/js/account-internal.min-252f1a16ef.js"></script>
+          <script type="text/javascript" src="<?php echo CW_BASE_URL; ?>/assets/js/account-internal.min-252f1a16ef.js"></script>
 
           <header id="header" role="banner">
             <div class="skip-bar">
@@ -5329,14 +5329,14 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB-L1_Menu_Galaxy-Smartphone_88x88-4cb3dbb865.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB-L1_Menu_Galaxy-Smartphone_88x88-4cb3dbb865.png"
                                       alt="Galaxy S26 Ultra"
                                       role="img"
                                       data-comp-name="image"
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB-L1_Menu_Galaxy-Smartphone_88x88-c112bc3330.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB-L1_Menu_Galaxy-Smartphone_88x88-c112bc3330.png"
                                       alt="Galaxy S26 Ultra"
                                       role="img"
                                       data-comp-name="image"
@@ -5360,13 +5360,13 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_Shop_L1_02_88x88-82b619fa7f.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Shop_L1_02_88x88-82b619fa7f.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_Shop_L1_02_88x88-d45d797b78.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Shop_L1_02_88x88-d45d797b78.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
@@ -5389,14 +5389,14 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/gnb-s25-fe-88x88px-c293064db6.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/gnb-s25-fe-88x88px-c293064db6.png"
                                       alt="Galaxy S25 FE"
                                       role="img"
                                       data-comp-name="image"
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/gnb-s25-fe-88x88px-bf022ef37c.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/gnb-s25-fe-88x88px-bf022ef37c.png"
                                       alt="Galaxy S25 FE"
                                       role="img"
                                       data-comp-name="image"
@@ -5420,14 +5420,14 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_88x88_05-7d1081f590.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_05-7d1081f590.png"
                                       alt="Galaxy A17&nbsp;"
                                       role="img"
                                       data-comp-name="image"
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_88x88_05-d87cea2149.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_05-d87cea2149.png"
                                       alt="Galaxy A17&nbsp;"
                                       role="img"
                                       data-comp-name="image"
@@ -5451,14 +5451,14 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_88x88_06-f5c2a2e07a.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_06-f5c2a2e07a.png"
                                       alt="Galaxy A56"
                                       role="img"
                                       data-comp-name="image"
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_88x88_06-df97040ec0.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_06-df97040ec0.png"
                                       alt="Galaxy A56"
                                       role="img"
                                       data-comp-name="image"
@@ -5482,14 +5482,14 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_Buds4-Pro_88x88-753b1a4e0a.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Buds4-Pro_88x88-753b1a4e0a.png"
                                       alt="Galaxy Buds4 Pro"
                                       role="img"
                                       data-comp-name="image"
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_Buds4-Pro_88x88-faba927791.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Buds4-Pro_88x88-faba927791.png"
                                       alt="Galaxy Buds4 Pro"
                                       role="img"
                                       data-comp-name="image"
@@ -5513,14 +5513,14 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_88x88_03-2752b6b3c4.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_03-2752b6b3c4.png"
                                       alt="QLED Q8F 4K TV"
                                       role="img"
                                       data-comp-name="image"
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_88x88_03-ecf2be849c.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_03-ecf2be849c.png"
                                       alt="QLED Q8F 4K TV"
                                       role="img"
                                       data-comp-name="image"
@@ -5544,14 +5544,14 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_88x88-1-d7424acfe6.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88-1-d7424acfe6.png"
                                       alt=" QLED Q7F 4K TV"
                                       role="img"
                                       data-comp-name="image"
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_88x88-1-fa41a47b86.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88-1-fa41a47b86.png"
                                       alt=" QLED Q7F 4K TV"
                                       role="img"
                                       data-comp-name="image"
@@ -5575,14 +5575,14 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_88x88-039c57203d.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88-039c57203d.png"
                                       alt="The Frame"
                                       role="img"
                                       data-comp-name="image"
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_88x88-6efb0dae43.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88-6efb0dae43.png"
                                       alt="The Frame"
                                       role="img"
                                       data-comp-name="image"
@@ -5606,14 +5606,14 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_88x88_14-63c134aa14.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_14-63c134aa14.png"
                                       alt="Curved Gaming Monitor"
                                       role="img"
                                       data-comp-name="image"
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_88x88_14-5051e312d6.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_14-5051e312d6.png"
                                       alt="Curved Gaming Monitor"
                                       role="img"
                                       data-comp-name="image"
@@ -5637,14 +5637,14 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_88x88_09-e69765f89c.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_09-e69765f89c.png"
                                       alt="Side-by-Side Refrigerator"
                                       role="img"
                                       data-comp-name="image"
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_88x88_09-b8cd8fadcc.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_09-b8cd8fadcc.png"
                                       alt="Side-by-Side Refrigerator"
                                       role="img"
                                       data-comp-name="image"
@@ -5668,14 +5668,14 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_88x88_13-1-90444b173d.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_13-1-90444b173d.png"
                                       alt="9KG&nbsp;Laundry"
                                       role="img"
                                       data-comp-name="image"
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_88x88_13-1-81dcbbfed9.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_13-1-81dcbbfed9.png"
                                       alt="9KG&nbsp;Laundry"
                                       role="img"
                                       data-comp-name="image"
@@ -5699,14 +5699,14 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_88x88_14-1-13e396b20e.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_14-1-13e396b20e.png"
                                       alt="15KG&nbsp;Laundry"
                                       role="img"
                                       data-comp-name="image"
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_88x88_14-1-f1713d28b3.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_14-1-f1713d28b3.png"
                                       alt="15KG&nbsp;Laundry"
                                       role="img"
                                       data-comp-name="image"
@@ -5730,14 +5730,14 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_88x88_13-6c8a3ceb1f.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_13-6c8a3ceb1f.png"
                                       alt="Air Conditioners"
                                       role="img"
                                       data-comp-name="image"
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_88x88_13-a35540612b.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_13-a35540612b.png"
                                       alt="Air Conditioners"
                                       role="img"
                                       data-comp-name="image"
@@ -5900,13 +5900,13 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB-L1_Menu_Galaxy-Smartphone_88x88-4cb3dbb865.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB-L1_Menu_Galaxy-Smartphone_88x88-4cb3dbb865.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB-L1_Menu_Galaxy-Smartphone_88x88-c112bc3330.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB-L1_Menu_Galaxy-Smartphone_88x88-c112bc3330.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
@@ -5929,13 +5929,13 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_Mobile_L1_02_88x88-59fc1a5722.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Mobile_L1_02_88x88-59fc1a5722.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_Mobile_L1_02_88x88-ef725f15e3.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Mobile_L1_02_88x88-ef725f15e3.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
@@ -5958,13 +5958,13 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_Mobile_L1_04_88x88_0522-9225cd8459.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Mobile_L1_04_88x88_0522-9225cd8459.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_Mobile_L1_04_88x88_0522-0a7b8e596e.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Mobile_L1_04_88x88_0522-0a7b8e596e.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
@@ -5987,13 +5987,13 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_Buds4-Pro_88x88-753b1a4e0a.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Buds4-Pro_88x88-753b1a4e0a.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_Buds4-Pro_88x88-faba927791.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Buds4-Pro_88x88-faba927791.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
@@ -6016,13 +6016,13 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB-L1_Menu_Galaxy-Accessories_88x88-4fcd82479d.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB-L1_Menu_Galaxy-Accessories_88x88-4fcd82479d.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB-L1_Menu_Galaxy-Accessories_88x88-bf3e412c4e.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB-L1_Menu_Galaxy-Accessories_88x88-bf3e412c4e.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
@@ -6197,13 +6197,13 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_TV-AV_L1_02_88x88-b6e3950c14.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_02_88x88-b6e3950c14.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_TV-AV_L1_02_88x88-c8e036c84d.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_02_88x88-c8e036c84d.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
@@ -6226,13 +6226,13 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_TV-AV_L1_03_88x88-e3c0d75fde.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_03_88x88-e3c0d75fde.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_TV-AV_L1_03_88x88-3cb81d5e69.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_03_88x88-3cb81d5e69.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
@@ -6255,13 +6255,13 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_TV-AV_L1_04_88x88-cf18f49549.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_04_88x88-cf18f49549.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_TV-AV_L1_04_88x88-1a54a930bc.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_04_88x88-1a54a930bc.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
@@ -6284,13 +6284,13 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_TV-AV_L1_05_88x88-7b59f60468.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_05_88x88-7b59f60468.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_TV-AV_L1_05_88x88-f630f9ab48.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_05_88x88-f630f9ab48.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
@@ -6313,13 +6313,13 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_TV-AV_L1_06_88x88-3251c2fc01.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_06_88x88-3251c2fc01.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_TV-AV_L1_06_88x88-455f39e5a3.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_06_88x88-455f39e5a3.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
@@ -6342,13 +6342,13 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_TV-AV_L1_11_88x88-efcbecf98e.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_11_88x88-efcbecf98e.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_TV-AV_L1_11_88x88-60ea144f2d.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_11_88x88-60ea144f2d.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
@@ -6371,13 +6371,13 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_TV-AV_L1_12_88x88_0522-af512a1c42.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_12_88x88_0522-af512a1c42.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_TV-AV_L1_12_88x88_0522-7e539c8b3a.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_12_88x88_0522-7e539c8b3a.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
@@ -6675,13 +6675,13 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/ref-gnb-88x88px-8b682786ca.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/ref-gnb-88x88px-8b682786ca.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/ref-gnb-88x88px-d9645ed121.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/ref-gnb-88x88px-d9645ed121.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
@@ -6704,13 +6704,13 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_88x88-17658a9841.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88-17658a9841.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_88x88-e7dcf76059.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88-e7dcf76059.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
@@ -6735,13 +6735,13 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/wm-gnb-88x88px-142025891b.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/wm-gnb-88x88px-142025891b.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/wm-gnb-88x88px-6f46e9767a.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/wm-gnb-88x88px-6f46e9767a.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
@@ -6764,13 +6764,13 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/ac-gnb-88x88px-f6aba22be4.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/ac-gnb-88x88px-f6aba22be4.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/ac-gnb-88x88px-c0162ce3a5.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/ac-gnb-88x88px-c0162ce3a5.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
@@ -6879,14 +6879,14 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/L1_Product_1-1_Odyssey_Gaming-78cf49c8ba.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/L1_Product_1-1_Odyssey_Gaming-78cf49c8ba.png"
                                       alt="Odyssey Gaming "
                                       role="img"
                                       data-comp-name="image"
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/L1_Product_1-1_Odyssey_Gaming-70d9e41203.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/L1_Product_1-1_Odyssey_Gaming-70d9e41203.png"
                                       alt="Odyssey Gaming "
                                       role="img"
                                       data-comp-name="image"
@@ -6910,14 +6910,14 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/L1_Product_1-2_ViewFinity_High_Resolution-f4b9370208.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/L1_Product_1-2_ViewFinity_High_Resolution-f4b9370208.png"
                                       alt="ViewFinity High Resolution"
                                       role="img"
                                       data-comp-name="image"
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/L1_Product_1-2_ViewFinity_High_Resolution-e2db986a80.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/L1_Product_1-2_ViewFinity_High_Resolution-e2db986a80.png"
                                       alt="ViewFinity High Resolution"
                                       role="img"
                                       data-comp-name="image"
@@ -6941,14 +6941,14 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/L1_Product_1-3_Smart_Monitor-07c4554b6a.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/L1_Product_1-3_Smart_Monitor-07c4554b6a.png"
                                       alt="Smart Monitor"
                                       role="img"
                                       data-comp-name="image"
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/L1_Product_1-3_Smart_Monitor-ce0a0aa03a.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/L1_Product_1-3_Smart_Monitor-ce0a0aa03a.png"
                                       alt="Smart Monitor"
                                       role="img"
                                       data-comp-name="image"
@@ -6972,14 +6972,14 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/L1_Product_1-4_Essential_Monitor-9ffdff2c1d.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/L1_Product_1-4_Essential_Monitor-9ffdff2c1d.png"
                                       alt="Essential Monitor "
                                       role="img"
                                       data-comp-name="image"
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/L1_Product_1-4_Essential_Monitor-d3157c55ad.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/L1_Product_1-4_Essential_Monitor-d3157c55ad.png"
                                       alt="Essential Monitor "
                                       role="img"
                                       data-comp-name="image"
@@ -7103,13 +7103,13 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_Mobile_L1_04_88x88_0522-9225cd8459.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Mobile_L1_04_88x88_0522-9225cd8459.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_Mobile_L1_04_88x88_0522-0a7b8e596e.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Mobile_L1_04_88x88_0522-0a7b8e596e.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
@@ -7132,13 +7132,13 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_Buds4-Pro_88x88-753b1a4e0a.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Buds4-Pro_88x88-753b1a4e0a.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_Buds4-Pro_88x88-faba927791.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Buds4-Pro_88x88-faba927791.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
@@ -7161,13 +7161,13 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_L1_Wearables_Watch-Accessories_88x88-2c71a32fc2.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_L1_Wearables_Watch-Accessories_88x88-2c71a32fc2.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_L1_Wearables_Watch-Accessories_88x88-07234ac87b.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_L1_Wearables_Watch-Accessories_88x88-07234ac87b.png"
                                       data-comp-name="image"
                                       alt=""
                                     />
@@ -7470,14 +7470,14 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_Support_Banner_02_88x88-785889a066.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Support_Banner_02_88x88-785889a066.png"
                                       alt="Manual Download"
                                       role="img"
                                       data-comp-name="image"
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_Support_Banner_02_88x88-bd532aae4b.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Support_Banner_02_88x88-bd532aae4b.png"
                                       alt="Manual Download"
                                       role="img"
                                       data-comp-name="image"
@@ -7501,14 +7501,14 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_Support_Banner_03_88x88-bbea179476.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Support_Banner_03_88x88-bbea179476.png"
                                       alt="Service Center"
                                       role="img"
                                       data-comp-name="image"
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_Support_Banner_03_88x88-e0919cd129.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Support_Banner_03_88x88-e0919cd129.png"
                                       alt="Service Center"
                                       role="img"
                                       data-comp-name="image"
@@ -7532,14 +7532,14 @@
                                   <div class="image">
                                     <img
                                       class="image__preview lazy-load-man"
-                                      data-src="assets/images/GNB_Support_Banner_04_88x88-1437969df6.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Support_Banner_04_88x88-1437969df6.png"
                                       alt="Contact Us"
                                       role="img"
                                       data-comp-name="image"
                                     />
                                     <img
                                       class="image__main lazy-load-man"
-                                      data-src="assets/images/GNB_Support_Banner_04_88x88-51a08e7ab5.png"
+                                      data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Support_Banner_04_88x88-51a08e7ab5.png"
                                       alt="Contact Us"
                                       role="img"
                                       data-comp-name="image"
@@ -8675,7 +8675,7 @@
                               srcset="assets/images/MainKV_1920x1080_desktop_en-77f36dddbf.jpg, assets/images/MainKV_1920x1080_desktop_en-1ab9b2f6c1.jpg 1.5x"
                             />
                             <img
-                              src="assets/images/MainKV_1920x1080_desktop_en-77f36dddbf.jpg"
+                              src="<?php echo CW_BASE_URL; ?>/assets/images/MainKV_1920x1080_desktop_en-77f36dddbf.jpg"
                               fetchpriority="high"
                               alt=""
                             />
@@ -8741,11 +8741,11 @@
                       <div class="image co76-feature-kv__logo image--main-loaded">
                         <img
                           class="image__main responsive-img image--loaded"
-                          data-desktop-src="assets/images/26_sw_1h_co76_featurekv_mx_logo_pc_620x64-10ba588a9b.png"
-                          data-mobile-src="assets/images/26_sw_1h_co76_featurekv_mx_logo_mo_624x80-f461535db6.png"
+                          data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co76_featurekv_mx_logo_pc_620x64-10ba588a9b.png"
+                          data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co76_featurekv_mx_logo_mo_624x80-f461535db6.png"
                           data-comp-name="image"
                           alt=""
-                          src="assets/images/26_sw_1h_co76_featurekv_mx_logo_pc_620x64-10ba588a9b.png"
+                          src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co76_featurekv_mx_logo_pc_620x64-10ba588a9b.png"
                           style=""
                         />
                       </div>
@@ -8835,19 +8835,19 @@
                       <div class="image image--dyn-height co76-feature-kv__image">
                         <img
                           class="image__preview responsive-img image--loaded"
-                          data-desktop-src="assets/images/1440x810_MX_desktop_EN-c5b126dd26.jpg"
-                          data-mobile-src="assets/images/720x1120_mobile_MX-750bbeba47.jpg"
+                          data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_MX_desktop_EN-c5b126dd26.jpg"
+                          data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/720x1120_mobile_MX-750bbeba47.jpg"
                           data-comp-name="image"
                           alt=""
-                          src="assets/images/1440x810_MX_desktop_EN-c5b126dd26.jpg"
+                          src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_MX_desktop_EN-c5b126dd26.jpg"
                         />
                         <img
                           class="image__main lazy-load responsive-img"
-                          data-desktop-src="assets/images/1440x810_MX_desktop_EN-f5e39ccbda.jpg"
-                          data-mobile-src="assets/images/720x1120_mobile_MX-acc343ec77.jpg"
+                          data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_MX_desktop_EN-f5e39ccbda.jpg"
+                          data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/720x1120_mobile_MX-acc343ec77.jpg"
                           data-comp-name="image"
                           alt=""
-                          data-src="assets/images/1440x810_MX_desktop_EN-f5e39ccbda.jpg"
+                          data-src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_MX_desktop_EN-f5e39ccbda.jpg"
                         />
                       </div>
                     </div>
@@ -8880,11 +8880,11 @@
                           <div class="image">
                             <img
                               class="image__main lazy-load responsive-img"
-                              data-desktop-src="assets/images/HOME_Feature-Card_Galaxy-S26-S26-plus_560x560_260303-cafa308812.jpg"
-                              data-mobile-src="assets/images/HOME_Feature-Card_Galaxy-S26-S26-plus_560x560_260303-cafa308812.jpg"
+                              data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Feature-Card_Galaxy-S26-S26-plus_560x560_260303-cafa308812.jpg"
+                              data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Feature-Card_Galaxy-S26-S26-plus_560x560_260303-cafa308812.jpg"
                               data-comp-name="image"
                               alt=""
-                              data-src="assets/images/HOME_Feature-Card_Galaxy-S26-S26-plus_560x560_260303-cafa308812.jpg"
+                              data-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Feature-Card_Galaxy-S26-S26-plus_560x560_260303-cafa308812.jpg"
                             />
                           </div>
                         </div>
@@ -8916,11 +8916,11 @@
                           <div class="image">
                             <img
                               class="image__main lazy-load responsive-img"
-                              data-desktop-src="assets/images/A57_featured_cards_560x560-2badbe0de7.jpg"
-                              data-mobile-src="assets/images/A57_featured_cards_560x560-2badbe0de7.jpg"
+                              data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/A57_featured_cards_560x560-2badbe0de7.jpg"
+                              data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/A57_featured_cards_560x560-2badbe0de7.jpg"
                               data-comp-name="image"
                               alt=""
-                              data-src="assets/images/A57_featured_cards_560x560-2badbe0de7.jpg"
+                              data-src="<?php echo CW_BASE_URL; ?>/assets/images/A57_featured_cards_560x560-2badbe0de7.jpg"
                             />
                           </div>
                         </div>
@@ -8952,11 +8952,11 @@
                           <div class="image">
                             <img
                               class="image__main lazy-load responsive-img"
-                              data-desktop-src="assets/images/26_sw_1h_co73_featurecard_mx_03_galaxywatch8_560x560-c563838e30.jpg"
-                              data-mobile-src="assets/images/26_sw_1h_co73_featurecard_mx_03_galaxywatch8_560x560-c563838e30.jpg"
+                              data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co73_featurecard_mx_03_galaxywatch8_560x560-c563838e30.jpg"
+                              data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co73_featurecard_mx_03_galaxywatch8_560x560-c563838e30.jpg"
                               data-comp-name="image"
                               alt=""
-                              data-src="assets/images/26_sw_1h_co73_featurecard_mx_03_galaxywatch8_560x560-c563838e30.jpg"
+                              data-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co73_featurecard_mx_03_galaxywatch8_560x560-c563838e30.jpg"
                             />
                           </div>
                         </div>
@@ -8988,11 +8988,11 @@
                           <div class="image">
                             <img
                               class="image__main lazy-load responsive-img"
-                              data-desktop-src="assets/images/26_sw_1h_co73_featurecard_mx_04_galaxybuds4pro_560x560-21cfbd884d.jpg"
-                              data-mobile-src="assets/images/26_sw_1h_co73_featurecard_mx_04_galaxybuds4pro_560x560-21cfbd884d.jpg"
+                              data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co73_featurecard_mx_04_galaxybuds4pro_560x560-21cfbd884d.jpg"
+                              data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co73_featurecard_mx_04_galaxybuds4pro_560x560-21cfbd884d.jpg"
                               data-comp-name="image"
                               alt=""
-                              data-src="assets/images/26_sw_1h_co73_featurecard_mx_04_galaxybuds4pro_560x560-21cfbd884d.jpg"
+                              data-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co73_featurecard_mx_04_galaxybuds4pro_560x560-21cfbd884d.jpg"
                             />
                           </div>
                         </div>
@@ -9094,11 +9094,11 @@
                       <div class="image co76-feature-kv__logo image--main-loaded">
                         <img
                           class="image__main responsive-img image--loaded"
-                          data-desktop-src="assets/images/26_sw_1h_co76_featurekv_vd_logo_pc_620x64-6bcd083eed.png"
-                          data-mobile-src="assets/images/26_sw_1h_co76_featurekv_vd_logo_mo_624x80-947b3266b4.png"
+                          data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co76_featurekv_vd_logo_pc_620x64-6bcd083eed.png"
+                          data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co76_featurekv_vd_logo_mo_624x80-947b3266b4.png"
                           data-comp-name="image"
                           alt=""
-                          src="assets/images/26_sw_1h_co76_featurekv_vd_logo_pc_620x64-6bcd083eed.png"
+                          src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co76_featurekv_vd_logo_pc_620x64-6bcd083eed.png"
                           style=""
                         />
                       </div>
@@ -9184,19 +9184,19 @@
                       <div class="image image--dyn-height co76-feature-kv__image">
                         <img
                           class="image__preview responsive-img image--loaded"
-                          data-desktop-src="assets/images/1440x810_VD_desktop_EN-617ed71cb6.jpg"
-                          data-mobile-src="assets/images/720x1120_VD_mobile-c6aea5598c.jpg"
+                          data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_VD_desktop_EN-617ed71cb6.jpg"
+                          data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/720x1120_VD_mobile-c6aea5598c.jpg"
                           data-comp-name="image"
                           alt=""
-                          src="assets/images/1440x810_VD_desktop_EN-617ed71cb6.jpg"
+                          src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_VD_desktop_EN-617ed71cb6.jpg"
                         />
                         <img
                           class="image__main lazy-load responsive-img"
-                          data-desktop-src="assets/images/1440x810_VD_desktop_EN-c549a7c188.jpg"
-                          data-mobile-src="assets/images/720x1120_VD_mobile-2039eef416.jpg"
+                          data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_VD_desktop_EN-c549a7c188.jpg"
+                          data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/720x1120_VD_mobile-2039eef416.jpg"
                           data-comp-name="image"
                           alt=""
-                          data-src="assets/images/1440x810_VD_desktop_EN-c549a7c188.jpg"
+                          data-src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_VD_desktop_EN-c549a7c188.jpg"
                         />
                       </div>
                     </div>
@@ -9229,11 +9229,11 @@
                           <div class="image">
                             <img
                               class="image__main lazy-load responsive-img"
-                              data-desktop-src="assets/images/cq5dam.thumbnail.319.319_14-54d25517c9.png"
-                              data-mobile-src="assets/images/cq5dam.thumbnail.319.319_14-54d25517c9.png"
+                              data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/cq5dam.thumbnail.319.319_14-54d25517c9.png"
+                              data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/cq5dam.thumbnail.319.319_14-54d25517c9.png"
                               data-comp-name="image"
                               alt=""
-                              data-src="assets/images/cq5dam.thumbnail.319.319_14-54d25517c9.png"
+                              data-src="<?php echo CW_BASE_URL; ?>/assets/images/cq5dam.thumbnail.319.319_14-54d25517c9.png"
                             />
                           </div>
                         </div>
@@ -9265,11 +9265,11 @@
                           <div class="image">
                             <img
                               class="image__main lazy-load responsive-img"
-                              data-desktop-src="assets/images/cq5dam.thumbnail.319.3191-345810b2d5.png"
-                              data-mobile-src="assets/images/cq5dam.thumbnail.319.3191-345810b2d5.png"
+                              data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/cq5dam.thumbnail.319.3191-345810b2d5.png"
+                              data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/cq5dam.thumbnail.319.3191-345810b2d5.png"
                               data-comp-name="image"
                               alt=""
-                              data-src="assets/images/cq5dam.thumbnail.319.3191-345810b2d5.png"
+                              data-src="<?php echo CW_BASE_URL; ?>/assets/images/cq5dam.thumbnail.319.3191-345810b2d5.png"
                             />
                           </div>
                         </div>
@@ -9301,11 +9301,11 @@
                           <div class="image">
                             <img
                               class="image__main lazy-load responsive-img"
-                              data-desktop-src="assets/images/cq5dam.thumbnail.319.319-2cf3574afb.png"
-                              data-mobile-src="assets/images/cq5dam.thumbnail.319.319-2cf3574afb.png"
+                              data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/cq5dam.thumbnail.319.319-2cf3574afb.png"
+                              data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/cq5dam.thumbnail.319.319-2cf3574afb.png"
                               data-comp-name="image"
                               alt=""
-                              data-src="assets/images/cq5dam.thumbnail.319.319-2cf3574afb.png"
+                              data-src="<?php echo CW_BASE_URL; ?>/assets/images/cq5dam.thumbnail.319.319-2cf3574afb.png"
                             />
                           </div>
                         </div>
@@ -9337,11 +9337,11 @@
                           <div class="image">
                             <img
                               class="image__main lazy-load responsive-img"
-                              data-desktop-src="assets/images/image-2025-12-22-17-26-15-869-3eba9e67d4.png"
-                              data-mobile-src="assets/images/image-2025-12-22-17-26-15-869-3eba9e67d4.png"
+                              data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/image-2025-12-22-17-26-15-869-3eba9e67d4.png"
+                              data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/image-2025-12-22-17-26-15-869-3eba9e67d4.png"
                               data-comp-name="image"
                               alt=""
-                              data-src="assets/images/image-2025-12-22-17-26-15-869-3eba9e67d4.png"
+                              data-src="<?php echo CW_BASE_URL; ?>/assets/images/image-2025-12-22-17-26-15-869-3eba9e67d4.png"
                             />
                           </div>
                         </div>
@@ -9439,11 +9439,11 @@
                       <div class="image co76-feature-kv__logo image--main-loaded">
                         <img
                           class="image__main responsive-img image--loaded"
-                          data-desktop-src="assets/images/26_sw_1h_co76_featurekv_da_logo_pc_620x64-570338f610.png"
-                          data-mobile-src="assets/images/26_sw_1h_co76_featurekv_da_logo_mo_624x80-891ec64e34.png"
+                          data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co76_featurekv_da_logo_pc_620x64-570338f610.png"
+                          data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co76_featurekv_da_logo_mo_624x80-891ec64e34.png"
                           data-comp-name="image"
                           alt=""
-                          src="assets/images/26_sw_1h_co76_featurekv_da_logo_pc_620x64-570338f610.png"
+                          src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co76_featurekv_da_logo_pc_620x64-570338f610.png"
                           style=""
                         />
                       </div>
@@ -9493,19 +9493,19 @@
                       <div class="image image--dyn-height co76-feature-kv__image">
                         <img
                           class="image__preview responsive-img image--loaded"
-                          data-desktop-src="assets/images/1440x810_DA_desktop_EN-1e7cf304e2.jpg"
-                          data-mobile-src="assets/images/720x1120_DA_mobile-c1dd831e02.jpg"
+                          data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_DA_desktop_EN-1e7cf304e2.jpg"
+                          data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/720x1120_DA_mobile-c1dd831e02.jpg"
                           data-comp-name="image"
                           alt=""
-                          src="assets/images/1440x810_DA_desktop_EN-1e7cf304e2.jpg"
+                          src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_DA_desktop_EN-1e7cf304e2.jpg"
                         />
                         <img
                           class="image__main lazy-load responsive-img"
-                          data-desktop-src="assets/images/1440x810_DA_desktop_EN-6197eac6f6.jpg"
-                          data-mobile-src="assets/images/720x1120_DA_mobile-2aab26453d.jpg"
+                          data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_DA_desktop_EN-6197eac6f6.jpg"
+                          data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/720x1120_DA_mobile-2aab26453d.jpg"
                           data-comp-name="image"
                           alt=""
-                          data-src="assets/images/1440x810_DA_desktop_EN-6197eac6f6.jpg"
+                          data-src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_DA_desktop_EN-6197eac6f6.jpg"
                         />
                       </div>
                     </div>
@@ -9538,11 +9538,11 @@
                           <div class="image image--main-loaded">
                             <img
                               class="image__main responsive-img image--loaded"
-                              data-desktop-src="assets/images/image-2025-12-22-17-26-14-477-dc75fbbd5f.png"
-                              data-mobile-src="assets/images/image-2025-12-22-17-26-14-477-dc75fbbd5f.png"
+                              data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/image-2025-12-22-17-26-14-477-dc75fbbd5f.png"
+                              data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/image-2025-12-22-17-26-14-477-dc75fbbd5f.png"
                               data-comp-name="image"
                               alt=""
-                              src="assets/images/image-2025-12-22-17-26-14-477-dc75fbbd5f.png"
+                              src="<?php echo CW_BASE_URL; ?>/assets/images/image-2025-12-22-17-26-14-477-dc75fbbd5f.png"
                               style=""
                             />
                           </div>
@@ -9575,11 +9575,11 @@
                           <div class="image image--main-loaded">
                             <img
                               class="image__main responsive-img image--loaded"
-                              data-desktop-src="assets/images/ProductCard_Single-Line_560x560_Ref2-decbd4c21f.jpg"
-                              data-mobile-src="assets/images/ProductCard_Single-Line_560x560_Ref2-decbd4c21f.jpg"
+                              data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/ProductCard_Single-Line_560x560_Ref2-decbd4c21f.jpg"
+                              data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/ProductCard_Single-Line_560x560_Ref2-decbd4c21f.jpg"
                               data-comp-name="image"
                               alt=""
-                              src="assets/images/ProductCard_Single-Line_560x560_Ref2-decbd4c21f.jpg"
+                              src="<?php echo CW_BASE_URL; ?>/assets/images/ProductCard_Single-Line_560x560_Ref2-decbd4c21f.jpg"
                               style=""
                             />
                           </div>
@@ -9612,11 +9612,11 @@
                           <div class="image image--main-loaded">
                             <img
                               class="image__main responsive-img image--loaded"
-                              data-desktop-src="assets/images/FeatureCard_HA_560x560_DW-0f1500f028.jpg"
-                              data-mobile-src="assets/images/FeatureCard_HA_560x560_DW-0f1500f028.jpg"
+                              data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_HA_560x560_DW-0f1500f028.jpg"
+                              data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_HA_560x560_DW-0f1500f028.jpg"
                               data-comp-name="image"
                               alt=""
-                              src="assets/images/FeatureCard_HA_560x560_DW-0f1500f028.jpg"
+                              src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_HA_560x560_DW-0f1500f028.jpg"
                               style=""
                             />
                           </div>
@@ -9649,11 +9649,11 @@
                           <div class="image image--main-loaded">
                             <img
                               class="image__main responsive-img image--loaded"
-                              data-desktop-src="assets/images/FeatureCard_IM_560x560_AC-2ba0a5a97a.jpg"
-                              data-mobile-src="assets/images/FeatureCard_IM_560x560_AC-2ba0a5a97a.jpg"
+                              data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_IM_560x560_AC-2ba0a5a97a.jpg"
+                              data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_IM_560x560_AC-2ba0a5a97a.jpg"
                               data-comp-name="image"
                               alt=""
-                              src="assets/images/FeatureCard_IM_560x560_AC-2ba0a5a97a.jpg"
+                              src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_IM_560x560_AC-2ba0a5a97a.jpg"
                               style=""
                             />
                           </div>
@@ -9790,22 +9790,22 @@
                               <div class="image image--main-loaded">
                                 <img
                                   class="image__preview responsive-img image--loaded image--hide"
-                                  data-desktop-src="assets/images/pk-galaxy-s26-ultra-s948-sm-s948bzvopkd-thumb-550917052-3d40ee11c5.png"
-                                  data-mobile-src="assets/images/pk-galaxy-s26-ultra-s948-sm-s948bzvopkd-thumb-550917052-3d40ee11c5.png"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-s26-ultra-s948-sm-s948bzvopkd-thumb-550917052-3d40ee11c5.png"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-s26-ultra-s948-sm-s948bzvopkd-thumb-550917052-3d40ee11c5.png"
                                   alt="Galaxy S26 Ultra Front Cobalt Violet "
                                   role="img"
                                   data-comp-name="image"
-                                  src="assets/images/pk-galaxy-s26-ultra-s948-sm-s948bzvopkd-thumb-550917052-3d40ee11c5.png"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-s26-ultra-s948-sm-s948bzvopkd-thumb-550917052-3d40ee11c5.png"
                                   aria-hidden="true"
                                 />
                                 <img
                                   class="image__main responsive-img image--loaded"
-                                  data-desktop-src="assets/images/pk-galaxy-s26-ultra-s948-sm-s948bzvopkd-thumb-550917052-ceac06ba97.png"
-                                  data-mobile-src="assets/images/pk-galaxy-s26-ultra-s948-sm-s948bzvopkd-thumb-550917052-4097dacc4a.png"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-s26-ultra-s948-sm-s948bzvopkd-thumb-550917052-ceac06ba97.png"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-s26-ultra-s948-sm-s948bzvopkd-thumb-550917052-4097dacc4a.png"
                                   alt="Galaxy S26 Ultra Front Cobalt Violet "
                                   role="img"
                                   data-comp-name="image"
-                                  src="assets/images/pk-galaxy-s26-ultra-s948-sm-s948bzvopkd-thumb-550917052-ceac06ba97.png"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-s26-ultra-s948-sm-s948bzvopkd-thumb-550917052-ceac06ba97.png"
                                   style=""
                                 />
                               </div>
@@ -9874,22 +9874,22 @@
                               <div class="image image--main-loaded">
                                 <img
                                   class="image__preview responsive-img image--loaded image--hide"
-                                  data-desktop-src="assets/images/pk-crystal-uhd-du7000-566603-ua65du7000uswk-thumb-549314072-1a2df5c096.png"
-                                  data-mobile-src="assets/images/pk-crystal-uhd-du7000-566603-ua65du7000uswk-thumb-549314072-1a2df5c096.png"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-crystal-uhd-du7000-566603-ua65du7000uswk-thumb-549314072-1a2df5c096.png"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-crystal-uhd-du7000-566603-ua65du7000uswk-thumb-549314072-1a2df5c096.png"
                                   alt="Crystal UHD DU7000 4K Tizen OS Smart TV (2024) Front Black "
                                   role="img"
                                   data-comp-name="image"
-                                  src="assets/images/pk-crystal-uhd-du7000-566603-ua65du7000uswk-thumb-549314072-1a2df5c096.png"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/pk-crystal-uhd-du7000-566603-ua65du7000uswk-thumb-549314072-1a2df5c096.png"
                                   aria-hidden="true"
                                 />
                                 <img
                                   class="image__main responsive-img image--loaded"
-                                  data-desktop-src="assets/images/pk-crystal-uhd-du7000-566603-ua65du7000uswk-thumb-549314072-42cc09b2af.png"
-                                  data-mobile-src="assets/images/pk-crystal-uhd-du7000-566603-ua65du7000uswk-thumb-549314072-eef45385eb.png"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-crystal-uhd-du7000-566603-ua65du7000uswk-thumb-549314072-42cc09b2af.png"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-crystal-uhd-du7000-566603-ua65du7000uswk-thumb-549314072-eef45385eb.png"
                                   alt="Crystal UHD DU7000 4K Tizen OS Smart TV (2024) Front Black "
                                   role="img"
                                   data-comp-name="image"
-                                  src="assets/images/pk-crystal-uhd-du7000-566603-ua65du7000uswk-thumb-549314072-42cc09b2af.png"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/pk-crystal-uhd-du7000-566603-ua65du7000uswk-thumb-549314072-42cc09b2af.png"
                                   style=""
                                 />
                               </div>
@@ -9961,22 +9961,22 @@
                               <div class="image image--main-loaded">
                                 <img
                                   class="image__preview responsive-img image--loaded image--hide"
-                                  data-desktop-src="assets/images/pk-ar9500t-ax-ar18asfzgwk2pm-thumb-521780422-d61339e762.png"
-                                  data-mobile-src="assets/images/pk-ar9500t-ax-ar18asfzgwk2pm-thumb-521780422-d61339e762.png"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-ar9500t-ax-ar18asfzgwk2pm-thumb-521780422-d61339e762.png"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-ar9500t-ax-ar18asfzgwk2pm-thumb-521780422-d61339e762.png"
                                   alt="front White"
                                   role="img"
                                   data-comp-name="image"
-                                  src="assets/images/pk-ar9500t-ax-ar18asfzgwk2pm-thumb-521780422-d61339e762.png"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/pk-ar9500t-ax-ar18asfzgwk2pm-thumb-521780422-d61339e762.png"
                                   aria-hidden="true"
                                 />
                                 <img
                                   class="image__main responsive-img image--loaded"
-                                  data-desktop-src="assets/images/pk-ar9500t-ax-ar18asfzgwk2pm-thumb-521780422-823b6cea01.png"
-                                  data-mobile-src="assets/images/pk-ar9500t-ax-ar18asfzgwk2pm-thumb-521780422-6490687140.png"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-ar9500t-ax-ar18asfzgwk2pm-thumb-521780422-823b6cea01.png"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-ar9500t-ax-ar18asfzgwk2pm-thumb-521780422-6490687140.png"
                                   alt="front White"
                                   role="img"
                                   data-comp-name="image"
-                                  src="assets/images/pk-ar9500t-ax-ar18asfzgwk2pm-thumb-521780422-823b6cea01.png"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/pk-ar9500t-ax-ar18asfzgwk2pm-thumb-521780422-823b6cea01.png"
                                   style=""
                                 />
                               </div>
@@ -10048,22 +10048,22 @@
                               <div class="image image--main-loaded">
                                 <img
                                   class="image__preview responsive-img image--loaded image--hide"
-                                  data-desktop-src="assets/images/pk-the-frame-ls03f-qa65ls03fausmm-thumb-548273096-e22082d187.png"
-                                  data-mobile-src="assets/images/pk-the-frame-ls03f-qa65ls03fausmm-thumb-548273096-e22082d187.png"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-the-frame-ls03f-qa65ls03fausmm-thumb-548273096-e22082d187.png"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-the-frame-ls03f-qa65ls03fausmm-thumb-548273096-e22082d187.png"
                                   alt="front Black"
                                   role="img"
                                   data-comp-name="image"
-                                  src="assets/images/pk-the-frame-ls03f-qa65ls03fausmm-thumb-548273096-e22082d187.png"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/pk-the-frame-ls03f-qa65ls03fausmm-thumb-548273096-e22082d187.png"
                                   aria-hidden="true"
                                 />
                                 <img
                                   class="image__main responsive-img image--loaded"
-                                  data-desktop-src="assets/images/pk-the-frame-ls03f-qa65ls03fausmm-thumb-548273096-c90e5591fc.png"
-                                  data-mobile-src="assets/images/pk-the-frame-ls03f-qa65ls03fausmm-thumb-548273096-4c8d1a09f4.png"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-the-frame-ls03f-qa65ls03fausmm-thumb-548273096-c90e5591fc.png"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-the-frame-ls03f-qa65ls03fausmm-thumb-548273096-4c8d1a09f4.png"
                                   alt="front Black"
                                   role="img"
                                   data-comp-name="image"
-                                  src="assets/images/pk-the-frame-ls03f-qa65ls03fausmm-thumb-548273096-c90e5591fc.png"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/pk-the-frame-ls03f-qa65ls03fausmm-thumb-548273096-c90e5591fc.png"
                                   style=""
                                 />
                               </div>
@@ -10135,22 +10135,22 @@
                               <div class="image image--main-loaded">
                                 <img
                                   class="image__preview responsive-img image--loaded image--hide"
-                                  data-desktop-src="assets/images/pk-dw7700b-dw60dg790i00-dw60dg790fslgu-thumb-551369084-63dc033c7b.png"
-                                  data-mobile-src="assets/images/pk-dw7700b-dw60dg790i00-dw60dg790fslgu-thumb-551369084-63dc033c7b.png"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-dw7700b-dw60dg790i00-dw60dg790fslgu-thumb-551369084-63dc033c7b.png"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-dw7700b-dw60dg790i00-dw60dg790fslgu-thumb-551369084-63dc033c7b.png"
                                   alt="DW7700B Built In Dishwasher Energy Efficiency and WaterJet Clean™ 60 Front Silver "
                                   role="img"
                                   data-comp-name="image"
-                                  src="assets/images/pk-dw7700b-dw60dg790i00-dw60dg790fslgu-thumb-551369084-63dc033c7b.png"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/pk-dw7700b-dw60dg790i00-dw60dg790fslgu-thumb-551369084-63dc033c7b.png"
                                   aria-hidden="true"
                                 />
                                 <img
                                   class="image__main responsive-img image--loaded"
-                                  data-desktop-src="assets/images/pk-dw7700b-dw60dg790i00-dw60dg790fslgu-thumb-551369084-029231a08c.png"
-                                  data-mobile-src="assets/images/pk-dw7700b-dw60dg790i00-dw60dg790fslgu-thumb-551369084-9a386b4a9e.png"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-dw7700b-dw60dg790i00-dw60dg790fslgu-thumb-551369084-029231a08c.png"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-dw7700b-dw60dg790i00-dw60dg790fslgu-thumb-551369084-9a386b4a9e.png"
                                   alt="DW7700B Built In Dishwasher Energy Efficiency and WaterJet Clean™ 60 Front Silver "
                                   role="img"
                                   data-comp-name="image"
-                                  src="assets/images/pk-dw7700b-dw60dg790i00-dw60dg790fslgu-thumb-551369084-029231a08c.png"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/pk-dw7700b-dw60dg790i00-dw60dg790fslgu-thumb-551369084-029231a08c.png"
                                   style=""
                                 />
                               </div>
@@ -10222,22 +10222,22 @@
                               <div class="image image--main-loaded">
                                 <img
                                   class="image__preview responsive-img image--loaded image--hide"
-                                  data-desktop-src="assets/images/pk-galaxy-s25-fe-sm-s731-sm-s731bdbvpkd-thumb-548713584-7ac040ff60.png"
-                                  data-mobile-src="assets/images/pk-galaxy-s25-fe-sm-s731-sm-s731bdbvpkd-thumb-548713584-7ac040ff60.png"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-s25-fe-sm-s731-sm-s731bdbvpkd-thumb-548713584-7ac040ff60.png"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-s25-fe-sm-s731-sm-s731bdbvpkd-thumb-548713584-7ac040ff60.png"
                                   alt="Galaxy S25 FE Front Navy "
                                   role="img"
                                   data-comp-name="image"
-                                  src="assets/images/pk-galaxy-s25-fe-sm-s731-sm-s731bdbvpkd-thumb-548713584-7ac040ff60.png"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-s25-fe-sm-s731-sm-s731bdbvpkd-thumb-548713584-7ac040ff60.png"
                                   aria-hidden="true"
                                 />
                                 <img
                                   class="image__main responsive-img image--loaded"
-                                  data-desktop-src="assets/images/pk-galaxy-s25-fe-sm-s731-sm-s731bdbvpkd-thumb-548713584-2634946388.png"
-                                  data-mobile-src="assets/images/pk-galaxy-s25-fe-sm-s731-sm-s731bdbvpkd-thumb-548713584-4991602112.png"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-s25-fe-sm-s731-sm-s731bdbvpkd-thumb-548713584-2634946388.png"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-s25-fe-sm-s731-sm-s731bdbvpkd-thumb-548713584-4991602112.png"
                                   alt="Galaxy S25 FE Front Navy "
                                   role="img"
                                   data-comp-name="image"
-                                  src="assets/images/pk-galaxy-s25-fe-sm-s731-sm-s731bdbvpkd-thumb-548713584-2634946388.png"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-s25-fe-sm-s731-sm-s731bdbvpkd-thumb-548713584-2634946388.png"
                                   style=""
                                 />
                               </div>
@@ -10306,17 +10306,17 @@
                               <div class="image">
                                 <img
                                   class="image__preview responsive-img image--loaded"
-                                  data-desktop-src="assets/images/pk-galaxy-tab-s9-fe-sm-x516-sm-x516bzaamea-thumb-545803714-f04a940f04.png"
-                                  data-mobile-src="assets/images/pk-galaxy-tab-s9-fe-sm-x516-sm-x516bzaamea-thumb-545803714-f04a940f04.png"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-tab-s9-fe-sm-x516-sm-x516bzaamea-thumb-545803714-f04a940f04.png"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-tab-s9-fe-sm-x516-sm-x516bzaamea-thumb-545803714-f04a940f04.png"
                                   alt="front Gray"
                                   role="img"
                                   data-comp-name="image"
-                                  src="assets/images/pk-galaxy-tab-s9-fe-sm-x516-sm-x516bzaamea-thumb-545803714-f04a940f04.png"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-tab-s9-fe-sm-x516-sm-x516bzaamea-thumb-545803714-f04a940f04.png"
                                 />
                                 <img
                                   class="image__main lazy-load responsive-img"
-                                  data-desktop-src="assets/images/pk-galaxy-tab-s9-fe-sm-x516-sm-x516bzaamea-thumb-545803714-cc66ee2747.png"
-                                  data-mobile-src="assets/images/pk-galaxy-tab-s9-fe-sm-x516-sm-x516bzaamea-thumb-545803714-267e96fe6e.png"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-tab-s9-fe-sm-x516-sm-x516bzaamea-thumb-545803714-cc66ee2747.png"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-tab-s9-fe-sm-x516-sm-x516bzaamea-thumb-545803714-267e96fe6e.png"
                                   alt="front Gray"
                                   role="img"
                                   data-comp-name="image"
@@ -10515,20 +10515,20 @@
                             <div class="image image--main-loaded">
                                 <img
                                   class="image__preview responsive-img image--loaded image--hide"
-                                  data-desktop-src="assets/images/HOME_Explore-Card_Unpacked-Replay_PC_312x312-cbf85f780f.jpg"
-                                  data-mobile-src="assets/images/HOME_Explore-Card_Unpacked-Replay_MO_560x560-6dbae2fe93.jpg"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Unpacked-Replay_PC_312x312-cbf85f780f.jpg"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Unpacked-Replay_MO_560x560-6dbae2fe93.jpg"
                                   data-comp-name="image"
                                   alt=""
-                                  src="assets/images/HOME_Explore-Card_Unpacked-Replay_PC_312x312-cbf85f780f.jpg"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Unpacked-Replay_PC_312x312-cbf85f780f.jpg"
                                   aria-hidden="true"
                                 />
                                 <img
                                   class="image__main responsive-img image--loaded"
-                                  data-desktop-src="assets/images/HOME_Explore-Card_Unpacked-Replay_PC_312x312-4af9151d56.jpg"
-                                  data-mobile-src="assets/images/HOME_Explore-Card_Unpacked-Replay_MO_560x560-521d5803cb.jpg"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Unpacked-Replay_PC_312x312-4af9151d56.jpg"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Unpacked-Replay_MO_560x560-521d5803cb.jpg"
                                   data-comp-name="image"
                                   alt=""
-                                  src="assets/images/HOME_Explore-Card_Unpacked-Replay_PC_312x312-4af9151d56.jpg"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Unpacked-Replay_PC_312x312-4af9151d56.jpg"
                                   style=""
                                 />
                               </div>
@@ -10561,20 +10561,20 @@
                               <div class="image image--main-loaded">
                                 <img
                                   class="image__preview responsive-img image--loaded image--hide"
-                                  data-desktop-src="assets/images/HOME_Explore-Card_Galaxy-AI_PC_312x312_260303-68412c5be8.jpg"
-                                  data-mobile-src="assets/images/HOME_Explore-Card_Galaxy-AI_MO_560x560_260303-7bc8f551d3.jpg"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Galaxy-AI_PC_312x312_260303-68412c5be8.jpg"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Galaxy-AI_MO_560x560_260303-7bc8f551d3.jpg"
                                   data-comp-name="image"
                                   alt=""
-                                  src="assets/images/HOME_Explore-Card_Galaxy-AI_PC_312x312_260303-68412c5be8.jpg"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Galaxy-AI_PC_312x312_260303-68412c5be8.jpg"
                                   aria-hidden="true"
                                 />
                                 <img
                                   class="image__main responsive-img image--loaded"
-                                  data-desktop-src="assets/images/HOME_Explore-Card_Galaxy-AI_PC_312x312_260303-fd44b4c8f6.jpg"
-                                  data-mobile-src="assets/images/HOME_Explore-Card_Galaxy-AI_MO_560x560_260303-4567f36436.jpg"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Galaxy-AI_PC_312x312_260303-fd44b4c8f6.jpg"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Galaxy-AI_MO_560x560_260303-4567f36436.jpg"
                                   data-comp-name="image"
                                   alt=""
-                                  src="assets/images/HOME_Explore-Card_Galaxy-AI_PC_312x312_260303-fd44b4c8f6.jpg"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Galaxy-AI_PC_312x312_260303-fd44b4c8f6.jpg"
                                   style=""
                                 />
                               </div>
@@ -10624,20 +10624,20 @@
                               <div class="image image--main-loaded">
                                 <img
                                   class="image__preview responsive-img image--loaded image--hide"
-                                  data-desktop-src="assets/images/HOME_Explore-Card_One-UI_PC_312x312_260303-3c987279f0.jpg"
-                                  data-mobile-src="assets/images/HOME_Explore-Card_One-UI_MO_560x560_260303-6de69687a8.jpg"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_One-UI_PC_312x312_260303-3c987279f0.jpg"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_One-UI_MO_560x560_260303-6de69687a8.jpg"
                                   data-comp-name="image"
                                   alt=""
-                                  src="assets/images/HOME_Explore-Card_One-UI_PC_312x312_260303-3c987279f0.jpg"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_One-UI_PC_312x312_260303-3c987279f0.jpg"
                                   aria-hidden="true"
                                 />
                                 <img
                                   class="image__main responsive-img image--loaded"
-                                  data-desktop-src="assets/images/HOME_Explore-Card_One-UI_PC_312x312_260303-dbeab92fc2.jpg"
-                                  data-mobile-src="assets/images/HOME_Explore-Card_One-UI_MO_560x560_260303-d997dd2070.jpg"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_One-UI_PC_312x312_260303-dbeab92fc2.jpg"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_One-UI_MO_560x560_260303-d997dd2070.jpg"
                                   data-comp-name="image"
                                   alt=""
-                                  src="assets/images/HOME_Explore-Card_One-UI_PC_312x312_260303-dbeab92fc2.jpg"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_One-UI_PC_312x312_260303-dbeab92fc2.jpg"
                                   style=""
                                 />
                               </div>
@@ -10687,20 +10687,20 @@
                               <div class="image image--main-loaded">
                                 <img
                                   class="image__preview responsive-img image--loaded image--hide"
-                                  data-desktop-src="assets/images/HOME_Explore-Card_Switch-to-Galaxy_PC_312x312_260303-9c90535906.jpg"
-                                  data-mobile-src="assets/images/HOME_Explore-Card_Switch-to-Galaxy_MO_560x560_260303-12115243d3.jpg"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Switch-to-Galaxy_PC_312x312_260303-9c90535906.jpg"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Switch-to-Galaxy_MO_560x560_260303-12115243d3.jpg"
                                   data-comp-name="image"
                                   alt=""
-                                  src="assets/images/HOME_Explore-Card_Switch-to-Galaxy_PC_312x312_260303-9c90535906.jpg"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Switch-to-Galaxy_PC_312x312_260303-9c90535906.jpg"
                                   aria-hidden="true"
                                 />
                                 <img
                                   class="image__main responsive-img image--loaded"
-                                  data-desktop-src="assets/images/HOME_Explore-Card_Switch-to-Galaxy_PC_312x312_260303-928a933027.jpg"
-                                  data-mobile-src="assets/images/HOME_Explore-Card_Switch-to-Galaxy_MO_560x560_260303-2d61ea07ea.jpg"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Switch-to-Galaxy_PC_312x312_260303-928a933027.jpg"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Switch-to-Galaxy_MO_560x560_260303-2d61ea07ea.jpg"
                                   data-comp-name="image"
                                   alt=""
-                                  src="assets/images/HOME_Explore-Card_Switch-to-Galaxy_PC_312x312_260303-928a933027.jpg"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Switch-to-Galaxy_PC_312x312_260303-928a933027.jpg"
                                   style=""
                                 />
                               </div>
@@ -10750,22 +10750,22 @@
                               <div class="image image--main-loaded">
                                 <img
                                   class="image__preview responsive-img image--loaded image--hide"
-                                  data-desktop-src="assets/images/Home_Explore_Thumbnail1_PC_312x312-fc08648583.jpg"
-                                  data-mobile-src="assets/images/Home_Explore_Thumbnail1_MO_560x560-8128975640.jpg"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/Home_Explore_Thumbnail1_PC_312x312-fc08648583.jpg"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/Home_Explore_Thumbnail1_MO_560x560-8128975640.jpg"
                                   alt="buy direct get more icon"
                                   role="img"
                                   data-comp-name="image"
-                                  src="assets/images/Home_Explore_Thumbnail1_PC_312x312-fc08648583.jpg"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/Home_Explore_Thumbnail1_PC_312x312-fc08648583.jpg"
                                   aria-hidden="true"
                                 />
                                 <img
                                   class="image__main responsive-img image--loaded"
-                                  data-desktop-src="assets/images/Home_Explore_Thumbnail1_PC_312x312-22865cfd04.jpg"
-                                  data-mobile-src="assets/images/Home_Explore_Thumbnail1_MO_560x560-e06add28f6.jpg"
+                                  data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/Home_Explore_Thumbnail1_PC_312x312-22865cfd04.jpg"
+                                  data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/Home_Explore_Thumbnail1_MO_560x560-e06add28f6.jpg"
                                   alt="buy direct get more icon"
                                   role="img"
                                   data-comp-name="image"
-                                  src="assets/images/Home_Explore_Thumbnail1_PC_312x312-22865cfd04.jpg"
+                                  src="<?php echo CW_BASE_URL; ?>/assets/images/Home_Explore_Thumbnail1_PC_312x312-22865cfd04.jpg"
                                   style=""
                                 />
                               </div>
@@ -11853,28 +11853,28 @@
 
           <script
             type="text/javascript"
-            src="assets/js/compact.min.2ff971de98c5742095d62b62dd7d0435-889bd3c2e6.js"
+            src="<?php echo CW_BASE_URL; ?>/assets/js/compact.min.2ff971de98c5742095d62b62dd7d0435-889bd3c2e6.js"
             async=""
           ></script>
           <script
             type="text/javascript"
-            src="assets/js/compact.min.2ff971de98c5742095d62b62dd7d0435-187848de66.js"
+            src="<?php echo CW_BASE_URL; ?>/assets/js/compact.min.2ff971de98c5742095d62b62dd7d0435-187848de66.js"
             async=""
           ></script>
 
-          <script src="assets/js/site.min.1c9a0aae958e478199dc22f247e117a7-1560317350.js" async=""></script>
+          <script src="<?php echo CW_BASE_URL; ?>/assets/js/site.min.1c9a0aae958e478199dc22f247e117a7-1560317350.js" async=""></script>
 
-          <script src="assets/js/site.min.2e7d516855f2cc7d6763dd5902dc234b-499b897e3f.js" async=""></script>
+          <script src="<?php echo CW_BASE_URL; ?>/assets/js/site.min.2e7d516855f2cc7d6763dd5902dc234b-499b897e3f.js" async=""></script>
 
-          <script src="assets/js/site.min.0668c8f30db5c717417007868df7650a-1d75663dd2.js" async=""></script>
+          <script src="<?php echo CW_BASE_URL; ?>/assets/js/site.min.0668c8f30db5c717417007868df7650a-1d75663dd2.js" async=""></script>
 
-          <script src="assets/js/site.min.4fa2b42d27c1317dcd94a1b59b64f009-e80aa38ed3.js" async=""></script>
+          <script src="<?php echo CW_BASE_URL; ?>/assets/js/site.min.4fa2b42d27c1317dcd94a1b59b64f009-e80aa38ed3.js" async=""></script>
 
-          <script src="assets/js/site.min.8420d198b6b2976a0d9f71b403891d74-95a589b352.js" async=""></script>
+          <script src="<?php echo CW_BASE_URL; ?>/assets/js/site.min.8420d198b6b2976a0d9f71b403891d74-95a589b352.js" async=""></script>
 
-          <script src="assets/js/site.min.d29337f00ad051c2b2016989d140f546-2583d21dbe.js" async=""></script>
+          <script src="<?php echo CW_BASE_URL; ?>/assets/js/site.min.d29337f00ad051c2b2016989d140f546-2583d21dbe.js" async=""></script>
 
-          <script src="assets/js/site.min.39d2becaa643a887167e8d8a74b92c29-a7e176b1fd.js" async=""></script>
+          <script src="<?php echo CW_BASE_URL; ?>/assets/js/site.min.39d2becaa643a887167e8d8a74b92c29-a7e176b1fd.js" async=""></script>
 
           <script
             type="application/ld+json"
@@ -11901,7 +11901,7 @@
           gtagScriptEle.setAttribute("async", true);
           document.body.appendChild(gtagScriptEle);
         </script>
-        <script src="assets/js/js-edb8aa3825.js" async="true"></script>
+        <script src="<?php echo CW_BASE_URL; ?>/assets/js/js-edb8aa3825.js" async="true"></script>
         <script>
           window.dataLayer = window.dataLayer || [];
           function poc_gtag() { dataLayer.push(arguments); }

@@ -4,19 +4,19 @@ cw_start_asset_url_rewrite();
 ?><!DOCTYPE html><html lang="en-PK" style="scroll-padding-top: 97px;" data-di-loaded="1"><head>
     
     <!-- PWA - manifest
-    <link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
+    <link rel="manifest" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
      -->
     <!-- PWA - Browser Compatible
-    <script async src="etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
+    <script async src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
      -->
     <!-- <meta name="theme-color" content="#0c4da2"> -->
     <!-- Add to home screen for Safari on iOS -->
     <!-- <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="apple-mobile-web-app-title" content="Samsung Shop">
-    <link rel="apple-touch-icon" href="etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/icon/pwa_icon_192x192.png"> -->
+    <link rel="apple-touch-icon" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/icon/pwa_icon_192x192.png"> -->
     <!-- Add to home screen for Windows -->
-    <!-- <meta name="msapplication-TileImage" content="etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/icon/pwa_icon_192x192.png">
+    <!-- <meta name="msapplication-TileImage" content="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/icon/pwa_icon_192x192.png">
     <meta name="msapplication-TileColor" content="#000000"> -->
     
     
@@ -126,9 +126,9 @@ cw_start_asset_url_rewrite();
       <meta property="keywords" content="Samsung, Samsung Electronics, Samsung Smartphones, Samsung TVs, Samsung Home Appliances">
       
       
-	<link rel="icon" type="image/png" href="etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/Favicon.png" sizes="96x96">
-	<link rel="shortcut icon" href="etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/Favicon.png">
-	<link rel="apple-touch-icon" href="etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/app_ico.png" sizes="144x144">
+	<link rel="icon" type="image/png" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/Favicon.png" sizes="96x96">
+	<link rel="shortcut icon" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/Favicon.png">
+	<link rel="apple-touch-icon" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/app_ico.png" sizes="144x144">
 	
 	
 	
@@ -141,7 +141,7 @@ cw_start_asset_url_rewrite();
     <!-- css 위치 변경 1) fonts.css  2) local.css 3) clientlib 카테고리 (230317) -->
     
     
-<link rel="stylesheet" href="etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/sites/global/css/fonts.min.b044099f83e7f412097f7d677f78166c.css" type="text/css">
+<link rel="stylesheet" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/sites/global/css/fonts.min.b044099f83e7f412097f7d677f78166c.css" type="text/css">
 
 
     
@@ -159,7 +159,7 @@ cw_start_asset_url_rewrite();
             
                 
     
-<link type="text/css" rel="stylesheet" href="etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.1dd1d47f040029bab499de380db9b346.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><link type="text/css" rel="stylesheet" href="etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux25.min.e6a951def9419a5699483a55807d80c3.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link type="text/css" rel="stylesheet" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.1dd1d47f040029bab499de380db9b346.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><link type="text/css" rel="stylesheet" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux25.min.e6a951def9419a5699483a55807d80c3.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 
 
             
@@ -174,15 +174,15 @@ cw_start_asset_url_rewrite();
     
     
 
-<link rel="preload" as="image" href="assets/images/MainKV_720x1248_mobile-9ebba58731.jpg" media="(max-width:767px)">
-<link rel="preload" as="image" href="assets/images/MainKV_1920x1080_desktop_en-77f36dddbf.jpg" media="(min-width:768px)">
+<link rel="preload" as="image" href="<?php echo CW_BASE_URL; ?>/assets/images/MainKV_720x1248_mobile-9ebba58731.jpg" media="(max-width:767px)">
+<link rel="preload" as="image" href="<?php echo CW_BASE_URL; ?>/assets/images/MainKV_1920x1080_desktop_en-77f36dddbf.jpg" media="(min-width:768px)">
 
 
 	
 	
 		
     
-<link type="text/css" rel="stylesheet" href="etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-static-us/compact.min.6464e52d5824a3b3500e00538e5eaad5.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><link type="text/css" rel="stylesheet" href="etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-home-v2/compact.min.6464e52d5824a3b3500e00538e5eaad5.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link type="text/css" rel="stylesheet" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-static-us/compact.min.6464e52d5824a3b3500e00538e5eaad5.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><link type="text/css" rel="stylesheet" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-home-v2/compact.min.6464e52d5824a3b3500e00538e5eaad5.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 
 
 	
@@ -201,19 +201,19 @@ cw_start_asset_url_rewrite();
 
     
     
-        <link type="text/css" rel="stylesheet" href="etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-hero-kv-home/clientlibs/site.min.172f408f8929c1d8bc757ced1e7b72c0.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <link type="text/css" rel="stylesheet" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-hero-kv-home/clientlibs/site.min.172f408f8929c1d8bc757ced1e7b72c0.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     
-        <link type="text/css" rel="stylesheet" href="etc.clientlibs/samsung/components/content/consumer/global/function/fn-g-personalization/clientlibs/site.min.d41d8cd98f00b204e9800998ecf8427e.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <link type="text/css" rel="stylesheet" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/function/fn-g-personalization/clientlibs/site.min.d41d8cd98f00b204e9800998ecf8427e.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     
-        <link type="text/css" rel="stylesheet" href="etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-feature-kv/clientlibs/site.min.e4937076924cda72e594926a375b62aa.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <link type="text/css" rel="stylesheet" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-feature-kv/clientlibs/site.min.e4937076924cda72e594926a375b62aa.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     
-        <link type="text/css" rel="stylesheet" href="etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-feature-cards/clientlibs/site.min.80ca88cacd90bd8aa8da9ee8cd25be59.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <link type="text/css" rel="stylesheet" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-feature-cards/clientlibs/site.min.80ca88cacd90bd8aa8da9ee8cd25be59.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     
-        <link type="text/css" rel="stylesheet" href="etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-recommended-product-carousel/clientlibs/site.min.bb9fc7ffd36e0804118701044f0b9fb9.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <link type="text/css" rel="stylesheet" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-recommended-product-carousel/clientlibs/site.min.bb9fc7ffd36e0804118701044f0b9fb9.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     
-        <link type="text/css" rel="stylesheet" href="etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-explore-carousel/clientlibs/site.min.2f3f72667d6f73781369fcf3508bb4b3.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <link type="text/css" rel="stylesheet" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-explore-carousel/clientlibs/site.min.2f3f72667d6f73781369fcf3508bb4b3.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     
-        <link type="text/css" rel="stylesheet" href="etc.clientlibs/samsung/components/content/consumer/global/common/cm-g-text-editor/clientlibs/site.min.e3b5808df4236015b90cd59d0dbe152f.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <link type="text/css" rel="stylesheet" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/common/cm-g-text-editor/clientlibs/site.min.e3b5808df4236015b90cd59d0dbe152f.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     
     
     
@@ -427,10 +427,10 @@ var digitalData = {
 		    </div>
 		</section>
 	
-	<!-- <script type="text/javascript" src="etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/js/crypto-js.min.js"></script> -->
+	<!-- <script type="text/javascript" src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/js/crypto-js.min.js"></script> -->
 	
     
-<script src="etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/global/js/crypto-js.min.6fa2276cf659f30cabde72a6fc452171.js"></script>
+<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/global/js/crypto-js.min.6fa2276cf659f30cabde72a6fc452171.js"></script>
 
 
 	<script type="text/javascript" src="https://account.samsung.com/resources/libs/account-internal/2.0.0/account-internal.min.js"></script>
@@ -698,8 +698,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB-L1_Menu_Galaxy-Smartphone_88x88-4cb3dbb865.png" alt="Galaxy S26 Ultra" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB-L1_Menu_Galaxy-Smartphone_88x88-c112bc3330.png" alt="Galaxy S26 Ultra" role="img" data-comp-name="image">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB-L1_Menu_Galaxy-Smartphone_88x88-4cb3dbb865.png" alt="Galaxy S26 Ultra" role="img" data-comp-name="image">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB-L1_Menu_Galaxy-Smartphone_88x88-c112bc3330.png" alt="Galaxy S26 Ultra" role="img" data-comp-name="image">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Galaxy S26 Ultra</span>
@@ -719,8 +719,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_Shop_L1_02_88x88-82b619fa7f.png" data-comp-name="image" alt="">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_Shop_L1_02_88x88-d45d797b78.png" data-comp-name="image" alt="">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Shop_L1_02_88x88-82b619fa7f.png" data-comp-name="image" alt="">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Shop_L1_02_88x88-d45d797b78.png" data-comp-name="image" alt="">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Galaxy S25 | S25+</span>
@@ -740,8 +740,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/gnb-s25-fe-88x88px-c293064db6.png" alt="Galaxy S25 FE" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/gnb-s25-fe-88x88px-bf022ef37c.png" alt="Galaxy S25 FE" role="img" data-comp-name="image">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/gnb-s25-fe-88x88px-c293064db6.png" alt="Galaxy S25 FE" role="img" data-comp-name="image">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/gnb-s25-fe-88x88px-bf022ef37c.png" alt="Galaxy S25 FE" role="img" data-comp-name="image">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Galaxy S25 FE</span>
@@ -761,8 +761,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_88x88_05-7d1081f590.png" alt="Galaxy A17&nbsp;" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_88x88_05-d87cea2149.png" alt="Galaxy A17&nbsp;" role="img" data-comp-name="image">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_05-7d1081f590.png" alt="Galaxy A17&nbsp;" role="img" data-comp-name="image">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_05-d87cea2149.png" alt="Galaxy A17&nbsp;" role="img" data-comp-name="image">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Galaxy A17&nbsp;</span>
@@ -782,8 +782,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_88x88_06-f5c2a2e07a.png" alt="Galaxy A56" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_88x88_06-df97040ec0.png" alt="Galaxy A56" role="img" data-comp-name="image">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_06-f5c2a2e07a.png" alt="Galaxy A56" role="img" data-comp-name="image">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_06-df97040ec0.png" alt="Galaxy A56" role="img" data-comp-name="image">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Galaxy A56</span>
@@ -803,8 +803,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_Buds4-Pro_88x88-753b1a4e0a.png" alt="Galaxy Buds4 Pro" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_Buds4-Pro_88x88-faba927791.png" alt="Galaxy Buds4 Pro" role="img" data-comp-name="image">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Buds4-Pro_88x88-753b1a4e0a.png" alt="Galaxy Buds4 Pro" role="img" data-comp-name="image">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Buds4-Pro_88x88-faba927791.png" alt="Galaxy Buds4 Pro" role="img" data-comp-name="image">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Galaxy Buds4 Pro</span>
@@ -824,8 +824,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_88x88_03-2752b6b3c4.png" alt="QLED Q8F 4K TV" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_88x88_03-ecf2be849c.png" alt="QLED Q8F 4K TV" role="img" data-comp-name="image">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_03-2752b6b3c4.png" alt="QLED Q8F 4K TV" role="img" data-comp-name="image">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_03-ecf2be849c.png" alt="QLED Q8F 4K TV" role="img" data-comp-name="image">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">QLED Q8F 4K TV </span>
@@ -845,8 +845,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_88x88-1-d7424acfe6.png" alt=" QLED Q7F 4K TV" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_88x88-1-fa41a47b86.png" alt=" QLED Q7F 4K TV" role="img" data-comp-name="image">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88-1-d7424acfe6.png" alt=" QLED Q7F 4K TV" role="img" data-comp-name="image">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88-1-fa41a47b86.png" alt=" QLED Q7F 4K TV" role="img" data-comp-name="image">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text"> QLED Q7F 4K TV
@@ -867,8 +867,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_88x88-039c57203d.png" alt="The Frame" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_88x88-6efb0dae43.png" alt="The Frame" role="img" data-comp-name="image">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88-039c57203d.png" alt="The Frame" role="img" data-comp-name="image">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88-6efb0dae43.png" alt="The Frame" role="img" data-comp-name="image">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">The Frame
@@ -889,8 +889,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_88x88_14-63c134aa14.png" alt="Curved Gaming Monitor" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_88x88_14-5051e312d6.png" alt="Curved Gaming Monitor" role="img" data-comp-name="image">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_14-63c134aa14.png" alt="Curved Gaming Monitor" role="img" data-comp-name="image">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_14-5051e312d6.png" alt="Curved Gaming Monitor" role="img" data-comp-name="image">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Curved Gaming Monitor</span>
@@ -910,8 +910,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_88x88_09-e69765f89c.png" alt="Side-by-Side Refrigerator" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_88x88_09-b8cd8fadcc.png" alt="Side-by-Side Refrigerator" role="img" data-comp-name="image">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_09-e69765f89c.png" alt="Side-by-Side Refrigerator" role="img" data-comp-name="image">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_09-b8cd8fadcc.png" alt="Side-by-Side Refrigerator" role="img" data-comp-name="image">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Side-by-Side Refrigerator</span>
@@ -931,8 +931,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_88x88_13-1-90444b173d.png" alt="9KG&nbsp;Laundry" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_88x88_13-1-81dcbbfed9.png" alt="9KG&nbsp;Laundry" role="img" data-comp-name="image">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_13-1-90444b173d.png" alt="9KG&nbsp;Laundry" role="img" data-comp-name="image">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_13-1-81dcbbfed9.png" alt="9KG&nbsp;Laundry" role="img" data-comp-name="image">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">9KG&nbsp;Laundry</span>
@@ -952,8 +952,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_88x88_14-1-13e396b20e.png" alt="15KG&nbsp;Laundry" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_88x88_14-1-f1713d28b3.png" alt="15KG&nbsp;Laundry" role="img" data-comp-name="image">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_14-1-13e396b20e.png" alt="15KG&nbsp;Laundry" role="img" data-comp-name="image">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_14-1-f1713d28b3.png" alt="15KG&nbsp;Laundry" role="img" data-comp-name="image">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">15KG&nbsp;Laundry&nbsp;</span>
@@ -973,8 +973,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_88x88_13-6c8a3ceb1f.png" alt="Air Conditioners" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_88x88_13-a35540612b.png" alt="Air Conditioners" role="img" data-comp-name="image">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_13-6c8a3ceb1f.png" alt="Air Conditioners" role="img" data-comp-name="image">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88_13-a35540612b.png" alt="Air Conditioners" role="img" data-comp-name="image">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Air Conditioner</span>
@@ -1118,8 +1118,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB-L1_Menu_Galaxy-Smartphone_88x88-4cb3dbb865.png" data-comp-name="image" alt="">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB-L1_Menu_Galaxy-Smartphone_88x88-c112bc3330.png" data-comp-name="image" alt="">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB-L1_Menu_Galaxy-Smartphone_88x88-4cb3dbb865.png" data-comp-name="image" alt="">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB-L1_Menu_Galaxy-Smartphone_88x88-c112bc3330.png" data-comp-name="image" alt="">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Galaxy Smartphone</span>
@@ -1139,8 +1139,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_Mobile_L1_02_88x88-59fc1a5722.png" data-comp-name="image" alt="">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_Mobile_L1_02_88x88-ef725f15e3.png" data-comp-name="image" alt="">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Mobile_L1_02_88x88-59fc1a5722.png" data-comp-name="image" alt="">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Mobile_L1_02_88x88-ef725f15e3.png" data-comp-name="image" alt="">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Galaxy Tab</span>
@@ -1160,8 +1160,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_Mobile_L1_04_88x88_0522-9225cd8459.png" data-comp-name="image" alt="">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_Mobile_L1_04_88x88_0522-0a7b8e596e.png" data-comp-name="image" alt="">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Mobile_L1_04_88x88_0522-9225cd8459.png" data-comp-name="image" alt="">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Mobile_L1_04_88x88_0522-0a7b8e596e.png" data-comp-name="image" alt="">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Galaxy Watch</span>
@@ -1181,8 +1181,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_Buds4-Pro_88x88-753b1a4e0a.png" data-comp-name="image" alt="">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_Buds4-Pro_88x88-faba927791.png" data-comp-name="image" alt="">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Buds4-Pro_88x88-753b1a4e0a.png" data-comp-name="image" alt="">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Buds4-Pro_88x88-faba927791.png" data-comp-name="image" alt="">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Galaxy Buds</span>
@@ -1202,8 +1202,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB-L1_Menu_Galaxy-Accessories_88x88-4fcd82479d.png" data-comp-name="image" alt="">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB-L1_Menu_Galaxy-Accessories_88x88-bf3e412c4e.png" data-comp-name="image" alt="">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB-L1_Menu_Galaxy-Accessories_88x88-4fcd82479d.png" data-comp-name="image" alt="">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB-L1_Menu_Galaxy-Accessories_88x88-bf3e412c4e.png" data-comp-name="image" alt="">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Galaxy Accessories</span>
@@ -1354,8 +1354,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_TV-AV_L1_02_88x88-b6e3950c14.png" data-comp-name="image" alt="">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_TV-AV_L1_02_88x88-c8e036c84d.png" data-comp-name="image" alt="">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_02_88x88-b6e3950c14.png" data-comp-name="image" alt="">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_02_88x88-c8e036c84d.png" data-comp-name="image" alt="">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Neo QLED</span>
@@ -1375,8 +1375,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_TV-AV_L1_03_88x88-e3c0d75fde.png" data-comp-name="image" alt="">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_TV-AV_L1_03_88x88-3cb81d5e69.png" data-comp-name="image" alt="">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_03_88x88-e3c0d75fde.png" data-comp-name="image" alt="">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_03_88x88-3cb81d5e69.png" data-comp-name="image" alt="">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">OLED</span>
@@ -1396,8 +1396,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_TV-AV_L1_04_88x88-cf18f49549.png" data-comp-name="image" alt="">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_TV-AV_L1_04_88x88-1a54a930bc.png" data-comp-name="image" alt="">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_04_88x88-cf18f49549.png" data-comp-name="image" alt="">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_04_88x88-1a54a930bc.png" data-comp-name="image" alt="">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">QLED</span>
@@ -1417,8 +1417,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_TV-AV_L1_05_88x88-7b59f60468.png" data-comp-name="image" alt="">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_TV-AV_L1_05_88x88-f630f9ab48.png" data-comp-name="image" alt="">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_05_88x88-7b59f60468.png" data-comp-name="image" alt="">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_05_88x88-f630f9ab48.png" data-comp-name="image" alt="">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Crystal UHD</span>
@@ -1438,8 +1438,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_TV-AV_L1_06_88x88-3251c2fc01.png" data-comp-name="image" alt="">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_TV-AV_L1_06_88x88-455f39e5a3.png" data-comp-name="image" alt="">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_06_88x88-3251c2fc01.png" data-comp-name="image" alt="">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_06_88x88-455f39e5a3.png" data-comp-name="image" alt="">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">The Frame</span>
@@ -1459,8 +1459,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_TV-AV_L1_11_88x88-efcbecf98e.png" data-comp-name="image" alt="">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_TV-AV_L1_11_88x88-60ea144f2d.png" data-comp-name="image" alt="">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_11_88x88-efcbecf98e.png" data-comp-name="image" alt="">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_11_88x88-60ea144f2d.png" data-comp-name="image" alt="">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Projectors</span>
@@ -1480,8 +1480,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_TV-AV_L1_12_88x88_0522-af512a1c42.png" data-comp-name="image" alt="">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_TV-AV_L1_12_88x88_0522-7e539c8b3a.png" data-comp-name="image" alt="">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_12_88x88_0522-af512a1c42.png" data-comp-name="image" alt="">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_TV-AV_L1_12_88x88_0522-7e539c8b3a.png" data-comp-name="image" alt="">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">TV Accessories</span>
@@ -1678,8 +1678,8 @@ var digitalData = {
                                     
                                     <div class="nv00-gnb-v4__l1-menu-image">
                                         <div class="image">
-                                            <img class="image__preview lazy-load-man" data-src="assets/images/ref-gnb-88x88px-8b682786ca.png" data-comp-name="image" alt="">
-                                            <img class="image__main lazy-load-man" data-src="assets/images/ref-gnb-88x88px-d9645ed121.png" data-comp-name="image" alt="">
+                                            <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/ref-gnb-88x88px-8b682786ca.png" data-comp-name="image" alt="">
+                                            <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/ref-gnb-88x88px-d9645ed121.png" data-comp-name="image" alt="">
                                         </div>
                                     </div>
                                     <span class="nv00-gnb-v4__l1-menu-text">Refrigerators</span>
@@ -1702,8 +1702,8 @@ var digitalData = {
                                     
                                     <div class="nv00-gnb-v4__l1-menu-image">
                                         <div class="image">
-                                            <img class="image__preview lazy-load-man" data-src="assets/images/GNB_88x88-17658a9841.png" data-comp-name="image" alt="">
-                                            <img class="image__main lazy-load-man" data-src="assets/images/GNB_88x88-e7dcf76059.png" data-comp-name="image" alt="">
+                                            <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88-17658a9841.png" data-comp-name="image" alt="">
+                                            <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_88x88-e7dcf76059.png" data-comp-name="image" alt="">
                                         </div>
                                     </div>
                                     <span class="nv00-gnb-v4__l1-menu-text">Dishwashers</span>
@@ -1726,8 +1726,8 @@ var digitalData = {
                                     
                                     <div class="nv00-gnb-v4__l1-menu-image">
                                         <div class="image">
-                                            <img class="image__preview lazy-load-man" data-src="assets/images/wm-gnb-88x88px-142025891b.png" data-comp-name="image" alt="">
-                                            <img class="image__main lazy-load-man" data-src="assets/images/wm-gnb-88x88px-6f46e9767a.png" data-comp-name="image" alt="">
+                                            <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/wm-gnb-88x88px-142025891b.png" data-comp-name="image" alt="">
+                                            <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/wm-gnb-88x88px-6f46e9767a.png" data-comp-name="image" alt="">
                                         </div>
                                     </div>
                                     <span class="nv00-gnb-v4__l1-menu-text">Laundry</span>
@@ -1746,8 +1746,8 @@ var digitalData = {
                                     
                                     <div class="nv00-gnb-v4__l1-menu-image">
                                         <div class="image">
-                                            <img class="image__preview lazy-load-man" data-src="assets/images/ac-gnb-88x88px-f6aba22be4.png" data-comp-name="image" alt="">
-                                            <img class="image__main lazy-load-man" data-src="assets/images/ac-gnb-88x88px-c0162ce3a5.png" data-comp-name="image" alt="">
+                                            <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/ac-gnb-88x88px-f6aba22be4.png" data-comp-name="image" alt="">
+                                            <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/ac-gnb-88x88px-c0162ce3a5.png" data-comp-name="image" alt="">
                                         </div>
                                     </div>
                                     <span class="nv00-gnb-v4__l1-menu-text">Air Conditioners</span>
@@ -1843,8 +1843,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/L1_Product_1-1_Odyssey_Gaming-78cf49c8ba.png" alt="Odyssey Gaming " role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/L1_Product_1-1_Odyssey_Gaming-70d9e41203.png" alt="Odyssey Gaming " role="img" data-comp-name="image">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/L1_Product_1-1_Odyssey_Gaming-78cf49c8ba.png" alt="Odyssey Gaming " role="img" data-comp-name="image">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/L1_Product_1-1_Odyssey_Gaming-70d9e41203.png" alt="Odyssey Gaming " role="img" data-comp-name="image">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Odyssey Gaming </span>
@@ -1864,8 +1864,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/L1_Product_1-2_ViewFinity_High_Resolution-f4b9370208.png" alt="ViewFinity High Resolution" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/L1_Product_1-2_ViewFinity_High_Resolution-e2db986a80.png" alt="ViewFinity High Resolution" role="img" data-comp-name="image">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/L1_Product_1-2_ViewFinity_High_Resolution-f4b9370208.png" alt="ViewFinity High Resolution" role="img" data-comp-name="image">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/L1_Product_1-2_ViewFinity_High_Resolution-e2db986a80.png" alt="ViewFinity High Resolution" role="img" data-comp-name="image">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">ViewFinity High Resolution</span>
@@ -1885,8 +1885,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/L1_Product_1-3_Smart_Monitor-07c4554b6a.png" alt="Smart Monitor" role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/L1_Product_1-3_Smart_Monitor-ce0a0aa03a.png" alt="Smart Monitor" role="img" data-comp-name="image">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/L1_Product_1-3_Smart_Monitor-07c4554b6a.png" alt="Smart Monitor" role="img" data-comp-name="image">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/L1_Product_1-3_Smart_Monitor-ce0a0aa03a.png" alt="Smart Monitor" role="img" data-comp-name="image">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Smart Monitor</span>
@@ -1906,8 +1906,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/L1_Product_1-4_Essential_Monitor-9ffdff2c1d.png" alt="Essential Monitor " role="img" data-comp-name="image">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/L1_Product_1-4_Essential_Monitor-d3157c55ad.png" alt="Essential Monitor " role="img" data-comp-name="image">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/L1_Product_1-4_Essential_Monitor-9ffdff2c1d.png" alt="Essential Monitor " role="img" data-comp-name="image">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/L1_Product_1-4_Essential_Monitor-d3157c55ad.png" alt="Essential Monitor " role="img" data-comp-name="image">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Essential Monitor </span>
@@ -2030,8 +2030,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_Mobile_L1_04_88x88_0522-9225cd8459.png" data-comp-name="image" alt="">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_Mobile_L1_04_88x88_0522-0a7b8e596e.png" data-comp-name="image" alt="">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Mobile_L1_04_88x88_0522-9225cd8459.png" data-comp-name="image" alt="">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Mobile_L1_04_88x88_0522-0a7b8e596e.png" data-comp-name="image" alt="">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Galaxy Watch</span>
@@ -2051,8 +2051,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_Buds4-Pro_88x88-753b1a4e0a.png" data-comp-name="image" alt="">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_Buds4-Pro_88x88-faba927791.png" data-comp-name="image" alt="">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Buds4-Pro_88x88-753b1a4e0a.png" data-comp-name="image" alt="">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Buds4-Pro_88x88-faba927791.png" data-comp-name="image" alt="">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Galaxy Buds</span>
@@ -2072,8 +2072,8 @@ var digitalData = {
                                 
                                 <div class="nv00-gnb-v4__l1-menu-image">
                                     <div class="image">
-                                        <img class="image__preview lazy-load-man" data-src="assets/images/GNB_L1_Wearables_Watch-Accessories_88x88-2c71a32fc2.png" data-comp-name="image" alt="">
-                                        <img class="image__main lazy-load-man" data-src="assets/images/GNB_L1_Wearables_Watch-Accessories_88x88-07234ac87b.png" data-comp-name="image" alt="">
+                                        <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_L1_Wearables_Watch-Accessories_88x88-2c71a32fc2.png" data-comp-name="image" alt="">
+                                        <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_L1_Wearables_Watch-Accessories_88x88-07234ac87b.png" data-comp-name="image" alt="">
                                     </div>
                                 </div>
                                 <span class="nv00-gnb-v4__l1-menu-text">Wearables Accessories</span>
@@ -2349,8 +2349,8 @@ var digitalData = {
                             
                             <div class="nv00-gnb-v4__l1-featured-image nv00-gnb-v4--pc-only">
                                 <div class="image">
-                                    <img class="image__preview lazy-load-man" data-src="assets/images/GNB_Support_Banner_01_88x88-7502f7ab94.png" alt="Warranty Information" role="img" data-comp-name="image">
-                                    <img class="image__main lazy-load-man" data-src="assets/images/GNB_Support_Banner_01_88x88-61aca156ce.png" alt="Warranty Information" role="img" data-comp-name="image">
+                                    <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Support_Banner_01_88x88-7502f7ab94.png" alt="Warranty Information" role="img" data-comp-name="image">
+                                    <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Support_Banner_01_88x88-61aca156ce.png" alt="Warranty Information" role="img" data-comp-name="image">
                                 </div>
                             </div>
                             <span class="nv00-gnb-v4__l1-featured-text">Warranty Information</span>
@@ -2361,8 +2361,8 @@ var digitalData = {
                             
                             <div class="nv00-gnb-v4__l1-featured-image nv00-gnb-v4--pc-only">
                                 <div class="image">
-                                    <img class="image__preview lazy-load-man" data-src="assets/images/GNB_Support_Banner_02_88x88-785889a066.png" alt="Manual Download" role="img" data-comp-name="image">
-                                    <img class="image__main lazy-load-man" data-src="assets/images/GNB_Support_Banner_02_88x88-bd532aae4b.png" alt="Manual Download" role="img" data-comp-name="image">
+                                    <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Support_Banner_02_88x88-785889a066.png" alt="Manual Download" role="img" data-comp-name="image">
+                                    <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Support_Banner_02_88x88-bd532aae4b.png" alt="Manual Download" role="img" data-comp-name="image">
                                 </div>
                             </div>
                             <span class="nv00-gnb-v4__l1-featured-text">Manual Download</span>
@@ -2373,8 +2373,8 @@ var digitalData = {
                             
                             <div class="nv00-gnb-v4__l1-featured-image nv00-gnb-v4--pc-only">
                                 <div class="image">
-                                    <img class="image__preview lazy-load-man" data-src="assets/images/GNB_Support_Banner_03_88x88-bbea179476.png" alt="Service Center" role="img" data-comp-name="image">
-                                    <img class="image__main lazy-load-man" data-src="assets/images/GNB_Support_Banner_03_88x88-e0919cd129.png" alt="Service Center" role="img" data-comp-name="image">
+                                    <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Support_Banner_03_88x88-bbea179476.png" alt="Service Center" role="img" data-comp-name="image">
+                                    <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Support_Banner_03_88x88-e0919cd129.png" alt="Service Center" role="img" data-comp-name="image">
                                 </div>
                             </div>
                             <span class="nv00-gnb-v4__l1-featured-text">Service Center</span>
@@ -2385,8 +2385,8 @@ var digitalData = {
                             
                             <div class="nv00-gnb-v4__l1-featured-image nv00-gnb-v4--pc-only">
                                 <div class="image">
-                                    <img class="image__preview lazy-load-man" data-src="assets/images/GNB_Support_Banner_04_88x88-1437969df6.png" alt="Contact Us" role="img" data-comp-name="image">
-                                    <img class="image__main lazy-load-man" data-src="assets/images/GNB_Support_Banner_04_88x88-51a08e7ab5.png" alt="Contact Us" role="img" data-comp-name="image">
+                                    <img class="image__preview lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Support_Banner_04_88x88-1437969df6.png" alt="Contact Us" role="img" data-comp-name="image">
+                                    <img class="image__main lazy-load-man" data-src="<?php echo CW_BASE_URL; ?>/assets/images/GNB_Support_Banner_04_88x88-51a08e7ab5.png" alt="Contact Us" role="img" data-comp-name="image">
                                 </div>
                             </div>
                             <span class="nv00-gnb-v4__l1-featured-text">Contact Us</span>
@@ -3016,7 +3016,7 @@ var digitalData = {
                             <source media="(max-width:767px)" srcset="assets/images/MainKV_720x1248_mobile-9ebba58731.jpg, assets/images/MainKV_720x1248_mobile-c196a1bc3b.jpg 1.5x">
                             <source media="(min-width:768px) and (max-width:1365px)" srcset="assets/images/MainKV_1920x1080_desktop_en-bebe4bc938.jpg, assets/images/MainKV_1920x1080_desktop_en-1fc2780028.jpg 1.5x">
                             <source media="(min-width:1366px)" srcset="assets/images/MainKV_1920x1080_desktop_en-77f36dddbf.jpg, assets/images/MainKV_1920x1080_desktop_en-1ab9b2f6c1.jpg 1.5x">
-                            <img src="assets/images/MainKV_1920x1080_desktop_en-77f36dddbf.jpg" fetchpriority="high" alt="">
+                            <img src="<?php echo CW_BASE_URL; ?>/assets/images/MainKV_1920x1080_desktop_en-77f36dddbf.jpg" fetchpriority="high" alt="">
                         </picture>
                         
                     </figure>
@@ -3096,7 +3096,7 @@ var digitalData = {
             <div class="co76-feature-kv__text-wrap">
                 <h2 class="co76-feature-kv__headline">Run smarter, <br>not harder</h2>
                 <div class="image co76-feature-kv__logo image--main-loaded">
-                     <img class="image__main responsive-img image--loaded" data-desktop-src="assets/images/26_sw_1h_co76_featurekv_mx_logo_pc_620x64-10ba588a9b.png" data-mobile-src="assets/images/26_sw_1h_co76_featurekv_mx_logo_mo_624x80-f461535db6.png" data-comp-name="image" alt="" src="assets/images/26_sw_1h_co76_featurekv_mx_logo_pc_620x64-10ba588a9b.png" style="">
+                     <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co76_featurekv_mx_logo_pc_620x64-10ba588a9b.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co76_featurekv_mx_logo_mo_624x80-f461535db6.png" data-comp-name="image" alt="" src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co76_featurekv_mx_logo_pc_620x64-10ba588a9b.png" style="">
                 </div>
                 
 
@@ -3126,8 +3126,8 @@ var digitalData = {
             <button class="co76-feature-kv__clickable-state" data-js-action="co76ClickableState" aria-label="Learn more"></button>
             <div class="co76-feature-kv__background-media-wrap">
                 <div class="image image--dyn-height co76-feature-kv__image">
-                    <img class="image__preview responsive-img image--loaded" data-desktop-src="assets/images/1440x810_MX_desktop_EN-c5b126dd26.jpg" data-mobile-src="assets/images/720x1120_mobile_MX-750bbeba47.jpg" data-comp-name="image" alt="" src="assets/images/1440x810_MX_desktop_EN-c5b126dd26.jpg">
-                    <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/1440x810_MX_desktop_EN-f5e39ccbda.jpg" data-mobile-src="assets/images/720x1120_mobile_MX-acc343ec77.jpg" data-comp-name="image" alt="" data-src="assets/images/1440x810_MX_desktop_EN-f5e39ccbda.jpg">
+                    <img class="image__preview responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_MX_desktop_EN-c5b126dd26.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/720x1120_mobile_MX-750bbeba47.jpg" data-comp-name="image" alt="" src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_MX_desktop_EN-c5b126dd26.jpg">
+                    <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_MX_desktop_EN-f5e39ccbda.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/720x1120_mobile_MX-acc343ec77.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_MX_desktop_EN-f5e39ccbda.jpg">
                 </div>
                 
             </div>
@@ -3150,7 +3150,7 @@ var digitalData = {
                         <div class="image">
                             
                             
-                                <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/HOME_Feature-Card_Galaxy-S26-S26-plus_560x560_260303-cafa308812.jpg" data-mobile-src="assets/images/HOME_Feature-Card_Galaxy-S26-S26-plus_560x560_260303-cafa308812.jpg" data-comp-name="image" alt="" data-src="assets/images/HOME_Feature-Card_Galaxy-S26-S26-plus_560x560_260303-cafa308812.jpg">
+                                <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Feature-Card_Galaxy-S26-S26-plus_560x560_260303-cafa308812.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Feature-Card_Galaxy-S26-S26-plus_560x560_260303-cafa308812.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Feature-Card_Galaxy-S26-S26-plus_560x560_260303-cafa308812.jpg">
                             
                         </div>
                     </div>
@@ -3173,7 +3173,7 @@ var digitalData = {
                         <div class="image">
                             
                             
-                                <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/A57_featured_cards_560x560-2badbe0de7.jpg" data-mobile-src="assets/images/A57_featured_cards_560x560-2badbe0de7.jpg" data-comp-name="image" alt="" data-src="assets/images/A57_featured_cards_560x560-2badbe0de7.jpg">
+                                <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/A57_featured_cards_560x560-2badbe0de7.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/A57_featured_cards_560x560-2badbe0de7.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/A57_featured_cards_560x560-2badbe0de7.jpg">
                             
                         </div>
                     </div>
@@ -3196,7 +3196,7 @@ var digitalData = {
                         <div class="image">
                             
                             
-                                <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/26_sw_1h_co73_featurecard_mx_03_galaxywatch8_560x560-c563838e30.jpg" data-mobile-src="assets/images/26_sw_1h_co73_featurecard_mx_03_galaxywatch8_560x560-c563838e30.jpg" data-comp-name="image" alt="" data-src="assets/images/26_sw_1h_co73_featurecard_mx_03_galaxywatch8_560x560-c563838e30.jpg">
+                                <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co73_featurecard_mx_03_galaxywatch8_560x560-c563838e30.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co73_featurecard_mx_03_galaxywatch8_560x560-c563838e30.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co73_featurecard_mx_03_galaxywatch8_560x560-c563838e30.jpg">
                             
                         </div>
                     </div>
@@ -3219,7 +3219,7 @@ var digitalData = {
                         <div class="image">
                             
                             
-                                <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/26_sw_1h_co73_featurecard_mx_04_galaxybuds4pro_560x560-21cfbd884d.jpg" data-mobile-src="assets/images/26_sw_1h_co73_featurecard_mx_04_galaxybuds4pro_560x560-21cfbd884d.jpg" data-comp-name="image" alt="" data-src="assets/images/26_sw_1h_co73_featurecard_mx_04_galaxybuds4pro_560x560-21cfbd884d.jpg">
+                                <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co73_featurecard_mx_04_galaxybuds4pro_560x560-21cfbd884d.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co73_featurecard_mx_04_galaxybuds4pro_560x560-21cfbd884d.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co73_featurecard_mx_04_galaxybuds4pro_560x560-21cfbd884d.jpg">
                             
                         </div>
                     </div>
@@ -3312,7 +3312,7 @@ var digitalData = {
             <div class="co76-feature-kv__text-wrap">
                 <p class="co76-feature-kv__headline">Bring stadium <br>energy home</p>
                 <div class="image co76-feature-kv__logo image--main-loaded">
-                     <img class="image__main responsive-img image--loaded" data-desktop-src="assets/images/26_sw_1h_co76_featurekv_vd_logo_pc_620x64-6bcd083eed.png" data-mobile-src="assets/images/26_sw_1h_co76_featurekv_vd_logo_mo_624x80-947b3266b4.png" data-comp-name="image" alt="" src="assets/images/26_sw_1h_co76_featurekv_vd_logo_pc_620x64-6bcd083eed.png" style="">
+                     <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co76_featurekv_vd_logo_pc_620x64-6bcd083eed.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co76_featurekv_vd_logo_mo_624x80-947b3266b4.png" data-comp-name="image" alt="" src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co76_featurekv_vd_logo_pc_620x64-6bcd083eed.png" style="">
                 </div>
                 
 
@@ -3348,8 +3348,8 @@ var digitalData = {
             
             <div class="co76-feature-kv__background-media-wrap">
                 <div class="image image--dyn-height co76-feature-kv__image">
-                    <img class="image__preview responsive-img image--loaded" data-desktop-src="assets/images/1440x810_VD_desktop_EN-617ed71cb6.jpg" data-mobile-src="assets/images/720x1120_VD_mobile-c6aea5598c.jpg" data-comp-name="image" alt="" src="assets/images/1440x810_VD_desktop_EN-617ed71cb6.jpg">
-                    <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/1440x810_VD_desktop_EN-c549a7c188.jpg" data-mobile-src="assets/images/720x1120_VD_mobile-2039eef416.jpg" data-comp-name="image" alt="" data-src="assets/images/1440x810_VD_desktop_EN-c549a7c188.jpg">
+                    <img class="image__preview responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_VD_desktop_EN-617ed71cb6.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/720x1120_VD_mobile-c6aea5598c.jpg" data-comp-name="image" alt="" src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_VD_desktop_EN-617ed71cb6.jpg">
+                    <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_VD_desktop_EN-c549a7c188.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/720x1120_VD_mobile-2039eef416.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_VD_desktop_EN-c549a7c188.jpg">
                 </div>
                 
             </div>
@@ -3375,7 +3375,7 @@ var digitalData = {
                         <div class="image">
                             
                             
-                                <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/FeatureCard_TV3_560x560-2558703fb5.jpg" data-mobile-src="assets/images/FeatureCard_TV3_560x560-2558703fb5.jpg" data-comp-name="image" alt="" data-src="assets/images/FeatureCard_TV3_560x560-2558703fb5.jpg">
+                                <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_TV3_560x560-2558703fb5.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_TV3_560x560-2558703fb5.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_TV3_560x560-2558703fb5.jpg">
                             
                         </div>
                     </div>
@@ -3398,7 +3398,7 @@ var digitalData = {
                         <div class="image">
                             
                             
-                                <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/FeatureCard_TV1_560x560-b7d04b7fc6.jpg" data-mobile-src="assets/images/FeatureCard_TV1_560x560-b7d04b7fc6.jpg" data-comp-name="image" alt="" data-src="assets/images/FeatureCard_TV1_560x560-b7d04b7fc6.jpg">
+                                <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_TV1_560x560-b7d04b7fc6.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_TV1_560x560-b7d04b7fc6.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_TV1_560x560-b7d04b7fc6.jpg">
                             
                         </div>
                     </div>
@@ -3421,7 +3421,7 @@ var digitalData = {
                         <div class="image">
                             
                             
-                                <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/FeatureCard_TV2_560x560-b63f8dea4e.jpg" data-mobile-src="assets/images/FeatureCard_TV2_560x560-b63f8dea4e.jpg" data-comp-name="image" alt="" data-src="assets/images/FeatureCard_TV2_560x560-b63f8dea4e.jpg">
+                                <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_TV2_560x560-b63f8dea4e.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_TV2_560x560-b63f8dea4e.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_TV2_560x560-b63f8dea4e.jpg">
                             
                         </div>
                     </div>
@@ -3444,7 +3444,7 @@ var digitalData = {
                         <div class="image">
                             
                             
-                                <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/FeatureCard_Monitor_560x560-7e852669b0.jpg" data-mobile-src="assets/images/FeatureCard_Monitor_560x560-7e852669b0.jpg" data-comp-name="image" alt="" data-src="assets/images/FeatureCard_Monitor_560x560-7e852669b0.jpg">
+                                <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_Monitor_560x560-7e852669b0.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_Monitor_560x560-7e852669b0.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_Monitor_560x560-7e852669b0.jpg">
                             
                         </div>
                     </div>
@@ -3535,7 +3535,7 @@ var digitalData = {
             <div class="co76-feature-kv__text-wrap">
                 <p class="co76-feature-kv__headline">Enjoy loads of <br>free time</p>
                 <div class="image co76-feature-kv__logo image--main-loaded">
-                     <img class="image__main responsive-img image--loaded" data-desktop-src="assets/images/26_sw_1h_co76_featurekv_da_logo_pc_620x64-570338f610.png" data-mobile-src="assets/images/26_sw_1h_co76_featurekv_da_logo_mo_624x80-891ec64e34.png" data-comp-name="image" alt="" src="assets/images/26_sw_1h_co76_featurekv_da_logo_pc_620x64-570338f610.png" style="">
+                     <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co76_featurekv_da_logo_pc_620x64-570338f610.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co76_featurekv_da_logo_mo_624x80-891ec64e34.png" data-comp-name="image" alt="" src="<?php echo CW_BASE_URL; ?>/assets/images/26_sw_1h_co76_featurekv_da_logo_pc_620x64-570338f610.png" style="">
                 </div>
                 
 
@@ -3561,8 +3561,8 @@ var digitalData = {
             
             <div class="co76-feature-kv__background-media-wrap">
                 <div class="image image--dyn-height co76-feature-kv__image">
-                    <img class="image__preview responsive-img image--loaded" data-desktop-src="assets/images/1440x810_DA_desktop_EN-1e7cf304e2.jpg" data-mobile-src="assets/images/720x1120_DA_mobile-c1dd831e02.jpg" data-comp-name="image" alt="" src="assets/images/1440x810_DA_desktop_EN-1e7cf304e2.jpg">
-                    <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/1440x810_DA_desktop_EN-6197eac6f6.jpg" data-mobile-src="assets/images/720x1120_DA_mobile-2aab26453d.jpg" data-comp-name="image" alt="" data-src="assets/images/1440x810_DA_desktop_EN-6197eac6f6.jpg">
+                    <img class="image__preview responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_DA_desktop_EN-1e7cf304e2.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/720x1120_DA_mobile-c1dd831e02.jpg" data-comp-name="image" alt="" src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_DA_desktop_EN-1e7cf304e2.jpg">
+                    <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_DA_desktop_EN-6197eac6f6.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/720x1120_DA_mobile-2aab26453d.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/1440x810_DA_desktop_EN-6197eac6f6.jpg">
                 </div>
                 
             </div>
@@ -3586,7 +3586,7 @@ var digitalData = {
                         <div class="image">
                             
                             
-                                <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/image-2025-12-22-17-26-14-477-dc75fbbd5f.png" data-mobile-src="assets/images/image-2025-12-22-17-26-14-477-dc75fbbd5f.png" data-comp-name="image" alt="" data-src="assets/images/image-2025-12-22-17-26-14-477-dc75fbbd5f.png">
+                                <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/image-2025-12-22-17-26-14-477-dc75fbbd5f.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/image-2025-12-22-17-26-14-477-dc75fbbd5f.png" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/image-2025-12-22-17-26-14-477-dc75fbbd5f.png">
                             
                         </div>
                     </div>
@@ -3609,7 +3609,7 @@ var digitalData = {
                         <div class="image">
                             
                             
-                                <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/ProductCard_Single-Line_560x560_Ref2-decbd4c21f.jpg" data-mobile-src="assets/images/ProductCard_Single-Line_560x560_Ref2-decbd4c21f.jpg" data-comp-name="image" alt="" data-src="assets/images/ProductCard_Single-Line_560x560_Ref2-decbd4c21f.jpg">
+                                <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/ProductCard_Single-Line_560x560_Ref2-decbd4c21f.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/ProductCard_Single-Line_560x560_Ref2-decbd4c21f.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/ProductCard_Single-Line_560x560_Ref2-decbd4c21f.jpg">
                             
                         </div>
                     </div>
@@ -3632,7 +3632,7 @@ var digitalData = {
                         <div class="image">
                             
                             
-                                <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/FeatureCard_HA_560x560_DW-0f1500f028.jpg" data-mobile-src="assets/images/FeatureCard_HA_560x560_DW-0f1500f028.jpg" data-comp-name="image" alt="" data-src="assets/images/FeatureCard_HA_560x560_DW-0f1500f028.jpg">
+                                <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_HA_560x560_DW-0f1500f028.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_HA_560x560_DW-0f1500f028.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_HA_560x560_DW-0f1500f028.jpg">
                             
                         </div>
                     </div>
@@ -3655,7 +3655,7 @@ var digitalData = {
                         <div class="image">
                             
                             
-                                <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/FeatureCard_IM_560x560_AC-2ba0a5a97a.jpg" data-mobile-src="assets/images/FeatureCard_IM_560x560_AC-2ba0a5a97a.jpg" data-comp-name="image" alt="" data-src="assets/images/FeatureCard_IM_560x560_AC-2ba0a5a97a.jpg">
+                                <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_IM_560x560_AC-2ba0a5a97a.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_IM_560x560_AC-2ba0a5a97a.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/FeatureCard_IM_560x560_AC-2ba0a5a97a.jpg">
                             
                         </div>
                     </div>
@@ -3746,8 +3746,8 @@ var digitalData = {
               <a href="<?php echo CW_BASE_URL; ?>/smartphones/galaxy-s26-ultra/" class="co78-recommended-product-carousel__image-link" aria-label="Galaxy S26 Ultra" data-requestid="pk:1778919349:721884" data-rank="1" data-category-subtype="galaxy s" data-rec-type="top_selling" data-modelcode="SM-S948BZVOPKD" data-modelname="SM-S948B/DS" data-banner-title="galaxy s26 ultra" an-tr="co78_recommended product carousel-home-product click-home_content_click1" an-ca="home content click" an-ac="recommended product1" an-la="recommended product1:recommended for you:top_selling:galaxy s:galaxy s26 ultra:image" tabindex="0" data-media-group="interest" data-media-details="recommended product1:recommended for you:top_selling:galaxy s:galaxy s26 ultra:image" data-media-action="postClick" data-di-id="di-id-de3c1541-11f55f45">
                 
         <div class="image">
-          <img class="image__preview lazy-load responsive-img" data-desktop-src="assets/images/pk-galaxy-s26-ultra-s948-sm-s948bzvopkd-thumb-550917052-3d40ee11c5.png" data-mobile-src="assets/images/pk-galaxy-s26-ultra-s948-sm-s948bzvopkd-thumb-550917052-3d40ee11c5.png" alt="Galaxy S26 Ultra Front Cobalt Violet " role="img" data-comp-name="image">
-          <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/pk-galaxy-s26-ultra-s948-sm-s948bzvopkd-thumb-550917052-ceac06ba97.png" data-mobile-src="assets/images/pk-galaxy-s26-ultra-s948-sm-s948bzvopkd-thumb-550917052-4097dacc4a.png" alt="Galaxy S26 Ultra Front Cobalt Violet " role="img" data-comp-name="image">
+          <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-s26-ultra-s948-sm-s948bzvopkd-thumb-550917052-3d40ee11c5.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-s26-ultra-s948-sm-s948bzvopkd-thumb-550917052-3d40ee11c5.png" alt="Galaxy S26 Ultra Front Cobalt Violet " role="img" data-comp-name="image">
+          <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-s26-ultra-s948-sm-s948bzvopkd-thumb-550917052-ceac06ba97.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-s26-ultra-s948-sm-s948bzvopkd-thumb-550917052-4097dacc4a.png" alt="Galaxy S26 Ultra Front Cobalt Violet " role="img" data-comp-name="image">
         </div>
         
               </a>
@@ -3778,8 +3778,8 @@ var digitalData = {
               <a href="<?php echo CW_BASE_URL; ?>/audio-sound/galaxy-buds/galaxy-buds4-pro-black-sm-r640nzkamea/" class="co78-recommended-product-carousel__image-link" aria-label="Galaxy Buds4 Pro" data-requestid="pk:1778919349:721884" data-rank="2" data-category-subtype="galaxy buds" data-rec-type="top_selling" data-modelcode="SM-R640NZKAMEA" data-modelname="SM-R640" data-banner-title="galaxy buds4 pro" an-tr="co78_recommended product carousel-home-product click-home_content_click1" an-ca="home content click" an-ac="recommended product2" an-la="recommended product2:recommended for you:top_selling:galaxy buds:galaxy buds4 pro:image" tabindex="0" data-media-group="interest" data-media-details="recommended product2:recommended for you:top_selling:galaxy buds:galaxy buds4 pro:image" data-media-action="postClick" data-di-id="di-id-28be425a-95f5a2fd">
                 
         <div class="image">
-          <img class="image__preview lazy-load responsive-img" data-desktop-src="assets/images/pk-galaxy-buds4-r640-sm-r640nzkamea-thumb-550999236-47deb618e8.png" data-mobile-src="assets/images/pk-galaxy-buds4-r640-sm-r640nzkamea-thumb-550999236-47deb618e8.png" alt="Galaxy Buds4 Pro Front Black " role="img" data-comp-name="image">
-          <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/pk-galaxy-buds4-r640-sm-r640nzkamea-thumb-550999236-7ea1c0fe46.png" data-mobile-src="assets/images/pk-galaxy-buds4-r640-sm-r640nzkamea-thumb-550999236-a8d61420ab.png" alt="Galaxy Buds4 Pro Front Black " role="img" data-comp-name="image">
+          <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-buds4-r640-sm-r640nzkamea-thumb-550999236-47deb618e8.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-buds4-r640-sm-r640nzkamea-thumb-550999236-47deb618e8.png" alt="Galaxy Buds4 Pro Front Black " role="img" data-comp-name="image">
+          <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-buds4-r640-sm-r640nzkamea-thumb-550999236-7ea1c0fe46.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-buds4-r640-sm-r640nzkamea-thumb-550999236-a8d61420ab.png" alt="Galaxy Buds4 Pro Front Black " role="img" data-comp-name="image">
         </div>
         
               </a>
@@ -3810,8 +3810,8 @@ var digitalData = {
               <a href="<?php echo CW_BASE_URL; ?>/tvs/uhd-4k-tv/du7000-65-inch-crystal-uhd-4k-tizen-os-smart-tv-ua65du7000uswk/" class="co78-recommended-product-carousel__image-link" aria-label="65 Inch Crystal UHD DU7000 4K Smart TV (2024)" data-requestid="pk:1778919349:721884" data-rank="3" data-category-subtype="uhd 4k tv" data-rec-type="top_selling" data-modelcode="UA65DU7000USWK" data-modelname="UA65DU7000U" data-banner-title="65 inch crystal uhd du7000 4k smart tv (2024)" an-tr="co78_recommended product carousel-home-product click-home_content_click1" an-ca="home content click" an-ac="recommended product3" an-la="recommended product3:recommended for you:top_selling:uhd 4k tv:65 inch crystal uhd du7000 4k smart tv (2024):image" tabindex="0" data-media-group="interest" data-media-details="recommended product3:recommended for you:top_selling:uhd 4k tv:65 inch crystal uhd du7000 4k smart tv (2024):image" data-media-action="postClick" data-di-id="di-id-dfdb842b-218d779d">
                 
         <div class="image">
-          <img class="image__preview lazy-load responsive-img" data-desktop-src="assets/images/pk-crystal-uhd-du7000-566603-ua65du7000uswk-thumb-549314072-1a2df5c096.png" data-mobile-src="assets/images/pk-crystal-uhd-du7000-566603-ua65du7000uswk-thumb-549314072-1a2df5c096.png" alt="Crystal UHD DU7000 4K Tizen OS Smart TV (2024) Front Black " role="img" data-comp-name="image">
-          <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/pk-crystal-uhd-du7000-566603-ua65du7000uswk-thumb-549314072-42cc09b2af.png" data-mobile-src="assets/images/pk-crystal-uhd-du7000-566603-ua65du7000uswk-thumb-549314072-eef45385eb.png" alt="Crystal UHD DU7000 4K Tizen OS Smart TV (2024) Front Black " role="img" data-comp-name="image">
+          <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-crystal-uhd-du7000-566603-ua65du7000uswk-thumb-549314072-1a2df5c096.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-crystal-uhd-du7000-566603-ua65du7000uswk-thumb-549314072-1a2df5c096.png" alt="Crystal UHD DU7000 4K Tizen OS Smart TV (2024) Front Black " role="img" data-comp-name="image">
+          <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-crystal-uhd-du7000-566603-ua65du7000uswk-thumb-549314072-42cc09b2af.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-crystal-uhd-du7000-566603-ua65du7000uswk-thumb-549314072-eef45385eb.png" alt="Crystal UHD DU7000 4K Tizen OS Smart TV (2024) Front Black " role="img" data-comp-name="image">
         </div>
         
               </a>
@@ -3845,8 +3845,8 @@ var digitalData = {
               <a href="<?php echo CW_BASE_URL; ?>/monitors/gaming/odyssey-g5-34-inch-165hz-curved-ultra-wqhd-lc34g55twwmxue/" class="co78-recommended-product-carousel__image-link" aria-label="34&quot; Curved Gaming Monitor With 165Hz Refresh Rate" data-requestid="pk:1778919349:721884" data-rank="4" data-category-subtype="gaming" data-rec-type="top_selling" data-modelcode="LC34G55TWWMXUE" data-modelname="C34G55TWWM" data-banner-title="34&quot; curved gaming monitor with 165hz refresh rate" an-tr="co78_recommended product carousel-home-product click-home_content_click1" an-ca="home content click" an-ac="recommended product4" an-la="recommended product4:recommended for you:top_selling:gaming:34&quot; curved gaming monitor with 165hz refresh rate:image" tabindex="0" data-media-group="interest" data-media-details="recommended product4:recommended for you:top_selling:gaming:34&quot; curved gaming monitor with 165hz refresh rate:image" data-media-action="postClick" data-di-id="di-id-b40198ff-875fa5a0">
                 
         <div class="image">
-          <img class="image__preview lazy-load responsive-img" data-desktop-src="assets/images/pk-odyssey-g5-34g5-538151-lc34g55twwmxue-thumb-545101868-ebbd70760e.png" data-mobile-src="assets/images/pk-odyssey-g5-34g5-538151-lc34g55twwmxue-thumb-545101868-ebbd70760e.png" alt="front Black" role="img" data-comp-name="image">
-          <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/pk-odyssey-g5-34g5-538151-lc34g55twwmxue-thumb-545101868-23eb9d4572.png" data-mobile-src="assets/images/pk-odyssey-g5-34g5-538151-lc34g55twwmxue-thumb-545101868-88eb1f6823.png" alt="front Black" role="img" data-comp-name="image">
+          <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-odyssey-g5-34g5-538151-lc34g55twwmxue-thumb-545101868-ebbd70760e.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-odyssey-g5-34g5-538151-lc34g55twwmxue-thumb-545101868-ebbd70760e.png" alt="front Black" role="img" data-comp-name="image">
+          <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-odyssey-g5-34g5-538151-lc34g55twwmxue-thumb-545101868-23eb9d4572.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-odyssey-g5-34g5-538151-lc34g55twwmxue-thumb-545101868-88eb1f6823.png" alt="front Black" role="img" data-comp-name="image">
         </div>
         
               </a>
@@ -3877,8 +3877,8 @@ var digitalData = {
               <a href="<?php echo CW_BASE_URL; ?>/air-conditioners/wall-mount/ar9500t-ar24asfzgwk2pm/" class="co78-recommended-product-carousel__image-link" aria-label="Wall-mount Air-Conditioner Digital Inverter 22,000 BTU/Hr   " data-requestid="pk:1778919349:721884" data-rank="5" data-category-subtype="wall mount" data-rec-type="top_selling" data-modelcode="AR24ASFZGWK2PM" data-modelname="AR24ASFZGWK2PM" data-banner-title="wall-mount air-conditioner digital inverter 22,000 btu/hr   " an-tr="co78_recommended product carousel-home-product click-home_content_click1" an-ca="home content click" an-ac="recommended product5" an-la="recommended product5:recommended for you:top_selling:wall mount:wall-mount air-conditioner digital inverter 22,000 btu/hr   :image" tabindex="0" data-media-group="interest" data-media-details="recommended product5:recommended for you:top_selling:wall mount:wall-mount air-conditioner digital inverter 22,000 btu/hr   :image" data-media-action="postClick" data-di-id="di-id-e41af289-15a89">
                 
         <div class="image">
-          <img class="image__preview lazy-load responsive-img" data-desktop-src="assets/images/pk-ar9500t-ax-ar24asfzgwk2pm-thumb-521780455-ec259eca9a.png" data-mobile-src="assets/images/pk-ar9500t-ax-ar24asfzgwk2pm-thumb-521780455-ec259eca9a.png" alt="front White" role="img" data-comp-name="image">
-          <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/pk-ar9500t-ax-ar24asfzgwk2pm-thumb-521780455-0498fae28f.png" data-mobile-src="assets/images/pk-ar9500t-ax-ar24asfzgwk2pm-thumb-521780455-32c4ab7c5b.png" alt="front White" role="img" data-comp-name="image">
+          <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-ar9500t-ax-ar24asfzgwk2pm-thumb-521780455-ec259eca9a.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-ar9500t-ax-ar24asfzgwk2pm-thumb-521780455-ec259eca9a.png" alt="front White" role="img" data-comp-name="image">
+          <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-ar9500t-ax-ar24asfzgwk2pm-thumb-521780455-0498fae28f.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-ar9500t-ax-ar24asfzgwk2pm-thumb-521780455-32c4ab7c5b.png" alt="front White" role="img" data-comp-name="image">
         </div>
         
               </a>
@@ -3909,8 +3909,8 @@ var digitalData = {
               <a href="<?php echo CW_BASE_URL; ?>/lifestyle-tvs/the-frame/ls03f-65-inch-art-store-black-qa65ls03fausmm/" class="co78-recommended-product-carousel__image-link" aria-label="65&quot; The Frame 4K Samsung Vision AI Smart TV (2025)" data-requestid="pk:1778919349:721884" data-rank="6" data-category-subtype="the frame" data-rec-type="top_selling" data-modelcode="QA65LS03FAUSMM" data-modelname="QA65LS03FAU" data-banner-title="65&quot; the frame 4k samsung vision ai smart tv (2025)" an-tr="co78_recommended product carousel-home-product click-home_content_click1" an-ca="home content click" an-ac="recommended product6" an-la="recommended product6:recommended for you:top_selling:the frame:65&quot; the frame 4k samsung vision ai smart tv (2025):image" tabindex="-1" data-media-group="interest" data-media-details="recommended product6:recommended for you:top_selling:the frame:65&quot; the frame 4k samsung vision ai smart tv (2025):image" data-media-action="postClick" data-di-id="di-id-e349962f-d666fb9e">
                 
         <div class="image">
-          <img class="image__preview lazy-load responsive-img" data-desktop-src="assets/images/pk-the-frame-ls03f-qa65ls03fausmm-thumb-548273096-e22082d187.png" data-mobile-src="assets/images/pk-the-frame-ls03f-qa65ls03fausmm-thumb-548273096-e22082d187.png" alt="front Black" role="img" data-comp-name="image">
-          <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/pk-the-frame-ls03f-qa65ls03fausmm-thumb-548273096-c90e5591fc.png" data-mobile-src="assets/images/pk-the-frame-ls03f-qa65ls03fausmm-thumb-548273096-4c8d1a09f4.png" alt="front Black" role="img" data-comp-name="image">
+          <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-the-frame-ls03f-qa65ls03fausmm-thumb-548273096-e22082d187.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-the-frame-ls03f-qa65ls03fausmm-thumb-548273096-e22082d187.png" alt="front Black" role="img" data-comp-name="image">
+          <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-the-frame-ls03f-qa65ls03fausmm-thumb-548273096-c90e5591fc.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-the-frame-ls03f-qa65ls03fausmm-thumb-548273096-4c8d1a09f4.png" alt="front Black" role="img" data-comp-name="image">
         </div>
         
               </a>
@@ -3944,8 +3944,8 @@ var digitalData = {
               <a href="<?php echo CW_BASE_URL; ?>/washers-and-dryers/washing-machines/ww5000d-front-loading-smartthings-ai-energy-mode-a-10-percent-extra-energy-efficiency-ai-ecobubble-9kg-black-ww90dg5u34abfa/" class="co78-recommended-product-carousel__image-link" aria-label="Front-Load Washer AI Ecobubble 9Kg" data-requestid="pk:1778919349:721884" data-rank="7" data-category-subtype="washing machines" data-rec-type="top_selling" data-modelcode="WW90DG5U34ABFA" data-modelname="WW90DG5U34AB" data-banner-title="front-load washer ai ecobubble 9kg" an-tr="co78_recommended product carousel-home-product click-home_content_click1" an-ca="home content click" an-ac="recommended product7" an-la="recommended product7:recommended for you:top_selling:washing machines:front-load washer ai ecobubble 9kg:image" tabindex="-1" data-media-group="interest" data-media-details="recommended product7:recommended for you:top_selling:washing machines:front-load washer ai ecobubble 9kg:image" data-media-action="postClick" data-di-id="di-id-77049d9-b3282dc4">
                 
         <div class="image">
-          <img class="image__preview lazy-load responsive-img" data-desktop-src="assets/images/pk-ww5000d-ww90dg5u34abfa-thumb-546620639-bb39a336ef.png" data-mobile-src="assets/images/pk-ww5000d-ww90dg5u34abfa-thumb-546620639-bb39a336ef.png" alt="front Black" role="img" data-comp-name="image">
-          <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/pk-ww5000d-ww90dg5u34abfa-thumb-546620639-02b4e85c94.png" data-mobile-src="assets/images/pk-ww5000d-ww90dg5u34abfa-thumb-546620639-d144f14803.png" alt="front Black" role="img" data-comp-name="image">
+          <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-ww5000d-ww90dg5u34abfa-thumb-546620639-bb39a336ef.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-ww5000d-ww90dg5u34abfa-thumb-546620639-bb39a336ef.png" alt="front Black" role="img" data-comp-name="image">
+          <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-ww5000d-ww90dg5u34abfa-thumb-546620639-02b4e85c94.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-ww5000d-ww90dg5u34abfa-thumb-546620639-d144f14803.png" alt="front Black" role="img" data-comp-name="image">
         </div>
         
               </a>
@@ -3976,8 +3976,8 @@ var digitalData = {
               <a href="<?php echo CW_BASE_URL; ?>/refrigerators/one-door/375l-refined-steel-rr39m73107f-sg/" class="co78-recommended-product-carousel__image-link" aria-label="1-Door Refrigerator Non Plumbed Dispenser 375L" data-requestid="pk:1778919349:721884" data-rank="8" data-category-subtype="one door" data-rec-type="top_selling" data-modelcode="RR39M73107F/SG" data-modelname="RR39M73107F" data-banner-title="1-door refrigerator non plumbed dispenser 375l" an-tr="co78_recommended product carousel-home-product click-home_content_click1" an-ca="home content click" an-ac="recommended product8" an-la="recommended product8:recommended for you:top_selling:one door:1-door refrigerator non plumbed dispenser 375l:image" tabindex="-1" data-media-group="interest" data-media-details="recommended product8:recommended for you:top_selling:one door:1-door refrigerator non plumbed dispenser 375l:image" data-media-action="postClick" data-di-id="di-id-1282b695-e00dc724">
                 
         <div class="image">
-          <img class="image__preview lazy-load responsive-img" data-desktop-src="assets/images/pk-one-door-rr39m73107f-rr39m73107f-sg-frontsilver-thumb-216634800-e2456e6898.png" data-mobile-src="assets/images/pk-one-door-rr39m73107f-rr39m73107f-sg-frontsilver-thumb-216634800-e2456e6898.png" alt="front silver" role="img" data-comp-name="image">
-          <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/pk-one-door-rr39m73107f-rr39m73107f-sg-frontsilver-thumb-216634800-659aba02b0.png" data-mobile-src="assets/images/pk-one-door-rr39m73107f-rr39m73107f-sg-frontsilver-thumb-216634800-fa22b54de0.png" alt="front silver" role="img" data-comp-name="image">
+          <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-one-door-rr39m73107f-rr39m73107f-sg-frontsilver-thumb-216634800-e2456e6898.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-one-door-rr39m73107f-rr39m73107f-sg-frontsilver-thumb-216634800-e2456e6898.png" alt="front silver" role="img" data-comp-name="image">
+          <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-one-door-rr39m73107f-rr39m73107f-sg-frontsilver-thumb-216634800-659aba02b0.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-one-door-rr39m73107f-rr39m73107f-sg-frontsilver-thumb-216634800-fa22b54de0.png" alt="front silver" role="img" data-comp-name="image">
         </div>
         
               </a>
@@ -4011,8 +4011,8 @@ var digitalData = {
               <a href="<?php echo CW_BASE_URL; ?>/dishwashers/built-in/dw7700b-dw60dg790i00-energy-efficiency-waterjet-clean-14-place-settings-silver-dw60dg790fslgu/" class="co78-recommended-product-carousel__image-link" aria-label="Freestanding Dishwasher WaterJet Clean™" data-requestid="pk:1778919349:721884" data-rank="9" data-category-subtype="built in" data-rec-type="top_selling" data-modelcode="DW60DG790FSLGU" data-modelname="DW60DG790FSL" data-banner-title="freestanding dishwasher waterjet clean™" an-tr="co78_recommended product carousel-home-product click-home_content_click1" an-ca="home content click" an-ac="recommended product9" an-la="recommended product9:recommended for you:top_selling:built in:freestanding dishwasher waterjet clean™:image" tabindex="-1" data-media-group="interest" data-media-details="recommended product9:recommended for you:top_selling:built in:freestanding dishwasher waterjet clean™:image" data-media-action="postClick" data-di-id="di-id-83a4c4ee-19d33820">
                 
         <div class="image">
-          <img class="image__preview lazy-load responsive-img" data-desktop-src="assets/images/pk-dw7700b-dw60dg790i00-dw60dg790fslgu-thumb-551369084-63dc033c7b.png" data-mobile-src="assets/images/pk-dw7700b-dw60dg790i00-dw60dg790fslgu-thumb-551369084-63dc033c7b.png" alt="DW7700B Built In Dishwasher Energy Efficiency and WaterJet Clean™ 60 Front Silver " role="img" data-comp-name="image">
-          <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/pk-dw7700b-dw60dg790i00-dw60dg790fslgu-thumb-551369084-029231a08c.png" data-mobile-src="assets/images/pk-dw7700b-dw60dg790i00-dw60dg790fslgu-thumb-551369084-9a386b4a9e.png" alt="DW7700B Built In Dishwasher Energy Efficiency and WaterJet Clean™ 60 Front Silver " role="img" data-comp-name="image">
+          <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-dw7700b-dw60dg790i00-dw60dg790fslgu-thumb-551369084-63dc033c7b.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-dw7700b-dw60dg790i00-dw60dg790fslgu-thumb-551369084-63dc033c7b.png" alt="DW7700B Built In Dishwasher Energy Efficiency and WaterJet Clean™ 60 Front Silver " role="img" data-comp-name="image">
+          <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-dw7700b-dw60dg790i00-dw60dg790fslgu-thumb-551369084-029231a08c.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-dw7700b-dw60dg790i00-dw60dg790fslgu-thumb-551369084-9a386b4a9e.png" alt="DW7700B Built In Dishwasher Energy Efficiency and WaterJet Clean™ 60 Front Silver " role="img" data-comp-name="image">
         </div>
         
               </a>
@@ -4046,8 +4046,8 @@ var digitalData = {
               <a href="<?php echo CW_BASE_URL; ?>/smartphones/galaxy-s/galaxy-s25-fe-navy-256gb-sm-s731bdbvpkd/" class="co78-recommended-product-carousel__image-link" aria-label="Galaxy S25 FE" data-requestid="pk:1778919349:721884" data-rank="10" data-category-subtype="galaxy s" data-rec-type="top_selling" data-modelcode="SM-S731BDBVPKD" data-modelname="SM-S731B/DS" data-banner-title="galaxy s25 fe" an-tr="co78_recommended product carousel-home-product click-home_content_click1" an-ca="home content click" an-ac="recommended product10" an-la="recommended product10:recommended for you:top_selling:galaxy s:galaxy s25 fe:image" tabindex="-1" data-media-group="interest" data-media-details="recommended product10:recommended for you:top_selling:galaxy s:galaxy s25 fe:image" data-media-action="postClick" data-di-id="di-id-b390b469-16990d88">
                 
         <div class="image">
-          <img class="image__preview lazy-load responsive-img" data-desktop-src="assets/images/pk-galaxy-s25-fe-sm-s731-sm-s731bdbvpkd-thumb-548713584-7ac040ff60.png" data-mobile-src="assets/images/pk-galaxy-s25-fe-sm-s731-sm-s731bdbvpkd-thumb-548713584-7ac040ff60.png" alt="Galaxy S25 FE Front Navy " role="img" data-comp-name="image">
-          <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/pk-galaxy-s25-fe-sm-s731-sm-s731bdbvpkd-thumb-548713584-2634946388.png" data-mobile-src="assets/images/pk-galaxy-s25-fe-sm-s731-sm-s731bdbvpkd-thumb-548713584-4991602112.png" alt="Galaxy S25 FE Front Navy " role="img" data-comp-name="image">
+          <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-s25-fe-sm-s731-sm-s731bdbvpkd-thumb-548713584-7ac040ff60.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-s25-fe-sm-s731-sm-s731bdbvpkd-thumb-548713584-7ac040ff60.png" alt="Galaxy S25 FE Front Navy " role="img" data-comp-name="image">
+          <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-s25-fe-sm-s731-sm-s731bdbvpkd-thumb-548713584-2634946388.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/pk-galaxy-s25-fe-sm-s731-sm-s731bdbvpkd-thumb-548713584-4991602112.png" alt="Galaxy S25 FE Front Navy " role="img" data-comp-name="image">
         </div>
         
               </a>
@@ -4159,8 +4159,8 @@ var digitalData = {
                   <div class="co75-explore-carousel__image">
                     
                       <div class="image">
-                          <img class="image__preview lazy-load responsive-img" data-desktop-src="assets/images/HOME_Explore-Card_Unpacked-Replay_PC_312x312-cbf85f780f.jpg" data-mobile-src="assets/images/HOME_Explore-Card_Unpacked-Replay_MO_560x560-6dbae2fe93.jpg" data-comp-name="image" alt="" data-src="assets/images/HOME_Explore-Card_Unpacked-Replay_PC_312x312-cbf85f780f.jpg">
-                          <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/HOME_Explore-Card_Unpacked-Replay_PC_312x312-4af9151d56.jpg" data-mobile-src="assets/images/HOME_Explore-Card_Unpacked-Replay_MO_560x560-521d5803cb.jpg" data-comp-name="image" alt="" data-src="assets/images/HOME_Explore-Card_Unpacked-Replay_PC_312x312-4af9151d56.jpg">
+                          <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Unpacked-Replay_PC_312x312-cbf85f780f.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Unpacked-Replay_MO_560x560-6dbae2fe93.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Unpacked-Replay_PC_312x312-cbf85f780f.jpg">
+                          <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Unpacked-Replay_PC_312x312-4af9151d56.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Unpacked-Replay_MO_560x560-521d5803cb.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Unpacked-Replay_PC_312x312-4af9151d56.jpg">
                         </div>
                     
                     
@@ -4177,8 +4177,8 @@ var digitalData = {
                     
                       <a href="<?php echo CW_BASE_URL; ?>/galaxy-ai/" class="co75-explore-carousel__image-link" aria-label="Galaxy AI page" an-tr="co75_explore carousel-home-product card click-homecontent_click" an-ca="home content click" an-ac="explore" an-la="explore:explore the stories:card2:galaxy ai:image" tabindex="0" data-media-group="interest" data-media-details="explore:explore the stories:card2:galaxy ai:image" data-media-action="postClick" data-di-id="di-id-ec75c47d-97bb4dd7">
                         <div class="image">
-                          <img class="image__preview lazy-load responsive-img" data-desktop-src="assets/images/HOME_Explore-Card_Galaxy-AI_PC_312x312_260303-68412c5be8.jpg" data-mobile-src="assets/images/HOME_Explore-Card_Galaxy-AI_MO_560x560_260303-7bc8f551d3.jpg" data-comp-name="image" alt="" data-src="assets/images/HOME_Explore-Card_Galaxy-AI_PC_312x312_260303-68412c5be8.jpg">
-                          <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/HOME_Explore-Card_Galaxy-AI_PC_312x312_260303-fd44b4c8f6.jpg" data-mobile-src="assets/images/HOME_Explore-Card_Galaxy-AI_MO_560x560_260303-4567f36436.jpg" data-comp-name="image" alt="" data-src="assets/images/HOME_Explore-Card_Galaxy-AI_PC_312x312_260303-fd44b4c8f6.jpg">
+                          <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Galaxy-AI_PC_312x312_260303-68412c5be8.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Galaxy-AI_MO_560x560_260303-7bc8f551d3.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Galaxy-AI_PC_312x312_260303-68412c5be8.jpg">
+                          <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Galaxy-AI_PC_312x312_260303-fd44b4c8f6.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Galaxy-AI_MO_560x560_260303-4567f36436.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Galaxy-AI_PC_312x312_260303-fd44b4c8f6.jpg">
                         </div>
                       </a>
                     
@@ -4198,8 +4198,8 @@ var digitalData = {
                     
                       <a href="<?php echo CW_BASE_URL; ?>/one-ui/" class="co75-explore-carousel__image-link" aria-label="One UI page" an-tr="co75_explore carousel-home-product card click-homecontent_click" an-ca="home content click" an-ac="explore" an-la="explore:explore the stories:card3:one ui:image" tabindex="0" data-media-group="interest" data-media-details="explore:explore the stories:card3:one ui:image" data-media-action="postClick" data-di-id="di-id-3f77c6c6-addf086e">
                         <div class="image">
-                          <img class="image__preview lazy-load responsive-img" data-desktop-src="assets/images/HOME_Explore-Card_One-UI_PC_312x312_260303-3c987279f0.jpg" data-mobile-src="assets/images/HOME_Explore-Card_One-UI_MO_560x560_260303-6de69687a8.jpg" data-comp-name="image" alt="" data-src="assets/images/HOME_Explore-Card_One-UI_PC_312x312_260303-3c987279f0.jpg">
-                          <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/HOME_Explore-Card_One-UI_PC_312x312_260303-dbeab92fc2.jpg" data-mobile-src="assets/images/HOME_Explore-Card_One-UI_MO_560x560_260303-d997dd2070.jpg" data-comp-name="image" alt="" data-src="assets/images/HOME_Explore-Card_One-UI_PC_312x312_260303-dbeab92fc2.jpg">
+                          <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_One-UI_PC_312x312_260303-3c987279f0.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_One-UI_MO_560x560_260303-6de69687a8.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_One-UI_PC_312x312_260303-3c987279f0.jpg">
+                          <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_One-UI_PC_312x312_260303-dbeab92fc2.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_One-UI_MO_560x560_260303-d997dd2070.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_One-UI_PC_312x312_260303-dbeab92fc2.jpg">
                         </div>
                       </a>
                     
@@ -4219,8 +4219,8 @@ var digitalData = {
                     
                       <a href="<?php echo CW_BASE_URL; ?>/mobile/switch-to-galaxy/" class="co75-explore-carousel__image-link" aria-label="Switch to Galaxy page" an-tr="co75_explore carousel-home-product card click-homecontent_click" an-ca="home content click" an-ac="explore" an-la="explore:explore the stories:card4:switch to galaxy:image" tabindex="0" data-media-group="interest" data-media-details="explore:explore the stories:card4:switch to galaxy:image" data-media-action="postClick" data-di-id="di-id-e6c43cde-4fc40871">
                         <div class="image">
-                          <img class="image__preview lazy-load responsive-img" data-desktop-src="assets/images/HOME_Explore-Card_Switch-to-Galaxy_PC_312x312_260303-9c90535906.jpg" data-mobile-src="assets/images/HOME_Explore-Card_Switch-to-Galaxy_MO_560x560_260303-12115243d3.jpg" data-comp-name="image" alt="" data-src="assets/images/HOME_Explore-Card_Switch-to-Galaxy_PC_312x312_260303-9c90535906.jpg">
-                          <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/HOME_Explore-Card_Switch-to-Galaxy_PC_312x312_260303-928a933027.jpg" data-mobile-src="assets/images/HOME_Explore-Card_Switch-to-Galaxy_MO_560x560_260303-2d61ea07ea.jpg" data-comp-name="image" alt="" data-src="assets/images/HOME_Explore-Card_Switch-to-Galaxy_PC_312x312_260303-928a933027.jpg">
+                          <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Switch-to-Galaxy_PC_312x312_260303-9c90535906.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Switch-to-Galaxy_MO_560x560_260303-12115243d3.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Switch-to-Galaxy_PC_312x312_260303-9c90535906.jpg">
+                          <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Switch-to-Galaxy_PC_312x312_260303-928a933027.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Switch-to-Galaxy_MO_560x560_260303-2d61ea07ea.jpg" data-comp-name="image" alt="" data-src="<?php echo CW_BASE_URL; ?>/assets/images/HOME_Explore-Card_Switch-to-Galaxy_PC_312x312_260303-928a933027.jpg">
                         </div>
                       </a>
                     
@@ -4240,8 +4240,8 @@ var digitalData = {
                     
                       <a href="<?php echo CW_BASE_URL; ?>/buy-direct-get-more/" class="co75-explore-carousel__image-link" aria-label="buy direct get more page" an-tr="co75_explore carousel-home-product card click-homecontent_click" an-ca="home content click" an-ac="explore" an-la="explore:explore the stories:card5:buy direct get more:image" tabindex="0" data-media-group="interest" data-media-details="explore:explore the stories:card5:buy direct get more:image" data-media-action="postClick" data-di-id="di-id-621a72ab-e7811605">
                         <div class="image">
-                          <img class="image__preview lazy-load responsive-img" data-desktop-src="assets/images/Home_Explore_Thumbnail1_PC_312x312-fc08648583.jpg" data-mobile-src="assets/images/Home_Explore_Thumbnail1_MO_560x560-8128975640.jpg" alt="buy direct get more icon" role="img" data-comp-name="image" data-src="assets/images/Home_Explore_Thumbnail1_PC_312x312-fc08648583.jpg">
-                          <img class="image__main lazy-load responsive-img" data-desktop-src="assets/images/Home_Explore_Thumbnail1_PC_312x312-22865cfd04.jpg" data-mobile-src="assets/images/Home_Explore_Thumbnail1_MO_560x560-e06add28f6.jpg" alt="buy direct get more icon" role="img" data-comp-name="image" data-src="assets/images/Home_Explore_Thumbnail1_PC_312x312-22865cfd04.jpg">
+                          <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/Home_Explore_Thumbnail1_PC_312x312-fc08648583.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/Home_Explore_Thumbnail1_MO_560x560-8128975640.jpg" alt="buy direct get more icon" role="img" data-comp-name="image" data-src="<?php echo CW_BASE_URL; ?>/assets/images/Home_Explore_Thumbnail1_PC_312x312-fc08648583.jpg">
+                          <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/assets/images/Home_Explore_Thumbnail1_PC_312x312-22865cfd04.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/Home_Explore_Thumbnail1_MO_560x560-e06add28f6.jpg" alt="buy direct get more icon" role="img" data-comp-name="image" data-src="<?php echo CW_BASE_URL; ?>/assets/images/Home_Explore_Thumbnail1_PC_312x312-22865cfd04.jpg">
                         </div>
                       </a>
                     
@@ -5018,8 +5018,8 @@ var digitalData = {
 
 				
     
-<script src="etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.407b108c60433f00a6b1a0e8f272a2c1.js"></script>
-<script src="etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux25.min.172c7e8f7944347bd914a84f57505c13.js"></script>
+<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.407b108c60433f00a6b1a0e8f272a2c1.js"></script>
+<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux25.min.172c7e8f7944347bd914a84f57505c13.js"></script>
 
 
 			
@@ -5030,11 +5030,11 @@ var digitalData = {
 	
 	
 	<!-- <sly data-sly-test="false">
-		<script type="text/javascript" src='etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/resources/au/js/au.js'></script>
+		<script type="text/javascript" src='<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/resources/au/js/au.js'></script>
 	</sly> -->
 	
 	<!--[if lt IE 9]>
-	<script src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
+	<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
 	<![endif]-->
 	<!--[if lte IE 9]>
 	<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>
@@ -5095,7 +5095,7 @@ var digitalData = {
 		
 			
     
-<script type="text/javascript" src="etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-static-us/compact.min.2ff971de98c5742095d62b62dd7d0435.js" async=""></script><script type="text/javascript" src="etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-home-v2/compact.min.2ff971de98c5742095d62b62dd7d0435.js" async=""></script>
+<script type="text/javascript" src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-static-us/compact.min.2ff971de98c5742095d62b62dd7d0435.js" async=""></script><script type="text/javascript" src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-home-v2/compact.min.2ff971de98c5742095d62b62dd7d0435.js" async=""></script>
 
 
 		
@@ -5104,19 +5104,19 @@ var digitalData = {
 
 
 	
-		<script src="etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-hero-kv-home/clientlibs/site.min.1c9a0aae958e478199dc22f247e117a7.js" async=""></script>
+		<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-hero-kv-home/clientlibs/site.min.1c9a0aae958e478199dc22f247e117a7.js" async=""></script>
 	
-		<script src="etc.clientlibs/samsung/components/content/consumer/global/function/fn-g-personalization/clientlibs/site.min.2e7d516855f2cc7d6763dd5902dc234b.js" async=""></script>
+		<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/function/fn-g-personalization/clientlibs/site.min.2e7d516855f2cc7d6763dd5902dc234b.js" async=""></script>
 	
-		<script src="etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-feature-kv/clientlibs/site.min.0668c8f30db5c717417007868df7650a.js" async=""></script>
+		<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-feature-kv/clientlibs/site.min.0668c8f30db5c717417007868df7650a.js" async=""></script>
 	
-		<script src="etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-feature-cards/clientlibs/site.min.4fa2b42d27c1317dcd94a1b59b64f009.js" async=""></script>
+		<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-feature-cards/clientlibs/site.min.4fa2b42d27c1317dcd94a1b59b64f009.js" async=""></script>
 	
-		<script src="etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-recommended-product-carousel/clientlibs/site.min.8420d198b6b2976a0d9f71b403891d74.js" async=""></script>
+		<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-recommended-product-carousel/clientlibs/site.min.8420d198b6b2976a0d9f71b403891d74.js" async=""></script>
 	
-		<script src="etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-explore-carousel/clientlibs/site.min.d29337f00ad051c2b2016989d140f546.js" async=""></script>
+		<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-explore-carousel/clientlibs/site.min.d29337f00ad051c2b2016989d140f546.js" async=""></script>
 	
-		<script src="etc.clientlibs/samsung/components/content/consumer/global/common/cm-g-text-editor/clientlibs/site.min.39d2becaa643a887167e8d8a74b92c29.js" async=""></script>
+		<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/common/cm-g-text-editor/clientlibs/site.min.39d2becaa643a887167e8d8a74b92c29.js" async=""></script>
 	
 	
     

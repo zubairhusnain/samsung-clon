@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-PK" style="scroll-padding-top: 128.773px;" data-di-loaded="1"><head><meta http-equiv="origin-trial" content="A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
 	<!-- PWA - manifest
-	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
+	<link rel="manifest" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
 	 -->
 	<!-- PWA - Browser Compatible
 	<script async src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
@@ -9581,7 +9581,7 @@ div.bv_modal_component_container[data-bv-modal] .bv_modal_outer_content {
 	</sly> -->
 	
 	<!--[if lt IE 9]>
-	<script src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
+	<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
 	<![endif]-->
 	<!--[if lte IE 9]>
 	<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>
@@ -11061,8 +11061,8 @@ div.bv_modal_component_container[data-bv-modal] .bv_modal_outer_content {
 								<li class="sc-learn-more-popup__item">
 									<div class="sc-learn-more-popup__image">
 										<div class="image">
-											<img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png$260_140_PNG$" alt="alt text" role="img" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png">
-											<img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png$260_140_PNG$" alt="alt text" role="img" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png">
+											<img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/03_coverage_Upto2claims-103cc82d6b.png" alt="alt text" role="img" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png">
+											<img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/03_coverage_Upto2claims-103cc82d6b.png" alt="alt text" role="img" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png">
 										</div>
 									</div>
 									<strong class="sc-learn-more-popup__title">4 claims within</strong>
@@ -11377,8 +11377,8 @@ div.bv_modal_component_container[data-bv-modal] .bv_modal_outer_content {
 				
                   <div class="image">
                     
-	                    <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg" data-mobile-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg?$680_398_PNG$" alt="Accidental damage, Worldwide cover, Repairs by genuine parts" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg">
-        	            <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg" data-mobile-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg?$680_398_PNG$" alt="Accidental damage, Worldwide cover, Repairs by genuine parts" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg">
+	                    <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg" alt="Accidental damage, Worldwide cover, Repairs by genuine parts" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg">
+        	            <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg" alt="Accidental damage, Worldwide cover, Repairs by genuine parts" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg">
                   	
                                       	
                   </div>

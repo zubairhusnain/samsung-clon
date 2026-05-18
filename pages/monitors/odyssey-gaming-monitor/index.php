@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-PK" class="desktop mac Chrome" data-di-loaded="1" style="scroll-padding-top: 59px;"><head>
 	<!-- PWA - manifest
-	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
+	<link rel="manifest" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
 	 -->
 	<!-- PWA - Browser Compatible
 	<script async src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
@@ -3181,7 +3181,7 @@ var digitalData = {
             <img loading="lazy" class="image__preview responsive-img image--loaded image--hide" data-aem-asset-id="" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/test/tvs/2024-monitor-odyssey-mkt/2024_odyssey-monitor-f01-kv-pc02.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/test/tvs/2024-monitor-odyssey-mkt/2024_odyssey-monitor-f01-kv-mo-v10.jpg" alt="" src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/test/tvs/2024-monitor-odyssey-mkt/2024_odyssey-monitor-f01-kv-pc02.jpg" aria-hidden="true">
             <img loading="lazy" class="image__main responsive-img image--loaded" data-aem-asset-id="" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/test/monitors/test-cheil/odyssey/250307/2025-odyssey-mkt-f00-kv-pc.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/test/monitors/test-cheil/odyssey/250307/2025-odyssey-mkt-f00-kv-mo.jpg" alt="Different sizes of neon circles rotating in the center to reveal a back panel of an Odyssey monitor. The back panel turns to show two Odyssey monitors. One monitor shows a spacecraft coming out of the screen, while the other shows a race car driving towards a neon tunnel. Global No.1 Gaming Monitor 1 Brand logo." src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/test/monitors/test-cheil/odyssey/250307/2025-odyssey-mkt-f00-kv-pc.jpg" style="">
         </div>
-    <figure style="width: 100%; height: 100%;" class="video--played"><video class="video-player" playsinline="" loop="" disableremoteplayback="" preload="auto" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/test/monitors/test-cheil/odyssey/250307/OdysseyMarketingPage_KV_PC.mp4" type="video/mp4"></video><p class="hidden">Different sizes of neon circles rotating in the center to reveal a back panel of an Odyssey monitor. The back panel turns to show two Odyssey monitors. One monitor shows a spacecraft coming out of the screen, while the other shows a race car driving towards a neon tunnel. Global No.1 Gaming Monitor 1 Brand logo.</p></figure></div>
+    <figure style="width: 100%; height: 100%;" class="video--played"><video class="video-player" playsinline="" loop="" disableremoteplayback="" preload="auto" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/test/monitors/test-cheil/odyssey/250307/OdysseyMarketingPage_KV_PC.mp4" type="video/mp4"></video><p class="hidden">Different sizes of neon circles rotating in the center to reveal a back panel of an Odyssey monitor. The back panel turns to show two Odyssey monitors. One monitor shows a spacecraft coming out of the screen, while the other shows a race car driving towards a neon tunnel. Global No.1 Gaming Monitor 1 Brand logo.</p></figure></div>
     
     
     
@@ -3981,7 +3981,7 @@ var digitalData = {
                                             <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/test/monitors/test-cheil/odyssey/250225/04_Odyssey_OLED_3-2_pc.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/test/monitors/test-cheil/odyssey/250225/03-odyssey-oled-3-2-mo.jpg" alt="" data-aem-asset-id="" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/test/monitors/test-cheil/odyssey/250225/04_Odyssey_OLED_3-2_pc.jpg">
                                         </div>
                                     
-                                <figure style="width: 100%; height: 100%;"><video class="video-player" playsinline="" autoplay="" controls="" loop="" disableremoteplayback="" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/test/monitors/test-cheil/odyssey/250225/04_Odyssey_OLED_3-2.mp4" type="video/mp4"></video><p class="hidden">An X-ray view of the monitor's back panel with the center red, showing signs of heat. Sections of coolant inside heat pipe.</p></figure></div>
+                                <figure style="width: 100%; height: 100%;"><video class="video-player" playsinline="" autoplay="" controls="" loop="" disableremoteplayback="" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/test/monitors/test-cheil/odyssey/250225/04_Odyssey_OLED_3-2.mp4" type="video/mp4"></video><p class="hidden">An X-ray view of the monitor's back panel with the center red, showing signs of heat. Sections of coolant inside heat pipe.</p></figure></div>
                                 
                                 
                                     
@@ -4095,7 +4095,7 @@ var digitalData = {
                                             <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/test/monitors/test-cheil/odyssey/250225/04_Odyssey_OLED_3-3_pc.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/test/monitors/test-cheil/odyssey/250225/03-odyssey-oled-3-3-mo.jpg" alt="" data-aem-asset-id="" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/test/monitors/test-cheil/odyssey/250225/04_Odyssey_OLED_3-3_pc.jpg">
                                         </div>
                                     
-                                <figure style="width: 100%; height: 100%;"><video class="video-player" playsinline="" autoplay="" controls="" loop="" disableremoteplayback="" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/test/monitors/test-cheil/odyssey/250225/04_Odyssey_OLED_3-31.mp4" type="video/mp4"></video><p class="hidden">A bird's-eye view of monitor. The center of the back panel is emitting bright colors.</p></figure></div>
+                                <figure style="width: 100%; height: 100%;"><video class="video-player" playsinline="" autoplay="" controls="" loop="" disableremoteplayback="" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/test/monitors/test-cheil/odyssey/250225/04_Odyssey_OLED_3-31.mp4" type="video/mp4"></video><p class="hidden">A bird's-eye view of monitor. The center of the back panel is emitting bright colors.</p></figure></div>
                                 
                                 
                                     
@@ -6211,7 +6211,7 @@ var digitalData = {
 	</sly> -->
 	
 	<!--[if lt IE 9]>
-	<script src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
+	<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
 	<![endif]-->
 	<!--[if lte IE 9]>
 	<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>

@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-PK" data-di-loaded="1" style="scroll-padding-top: 128.773px;"><head><meta http-equiv="origin-trial" content="A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
 	<!-- PWA - manifest
-	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
+	<link rel="manifest" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
 	 -->
 	<!-- PWA - Browser Compatible
 	<script async src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
@@ -5287,7 +5287,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 
                 <div class="pdd30-highlights__image">
                   <div class="image image--main-loaded">
-                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374231/pk-feature-purcolor-542107983.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374231/pk-feature-purcolor-542107983.svg" alt="PurColor" role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374231/pk-feature-purcolor-542107983.svg" style="">
+                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374231/pk-feature-purcolor-542107983.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374231/pk-feature-purcolor-542107983.svg" alt="PurColor" role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374231/pk-feature-purcolor-542107983.svg" style="">
                   </div>
                 </div>
                 <p class="pdd30-highlights__name">PurColor</p>
@@ -5302,7 +5302,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 
                 <div class="pdd30-highlights__image">
                   <div class="image image--main-loaded">
-                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374229/pk-feature-4k-upscaling-542107979.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374229/pk-feature-4k-upscaling-542107979.svg" alt="&nbsp;4K Upscaling" role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374229/pk-feature-4k-upscaling-542107979.svg" style="">
+                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374229/pk-feature-4k-upscaling-542107979.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374229/pk-feature-4k-upscaling-542107979.svg" alt="&nbsp;4K Upscaling" role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374229/pk-feature-4k-upscaling-542107979.svg" style="">
                   </div>
                 </div>
                 <p class="pdd30-highlights__name">4K Upscaling</p>
@@ -5317,7 +5317,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 
                 <div class="pdd30-highlights__image">
                   <div class="image image--main-loaded">
-                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/164968606/pk-feature-samsung-tizen-os--others--542127422.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/164968606/pk-feature-samsung-tizen-os--others--542127422.svg" alt="&nbsp;Samsung Tizen OS" role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/164968606/pk-feature-samsung-tizen-os--others--542127422.svg" style="">
+                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/164968606/pk-feature-samsung-tizen-os--others--542127422.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/164968606/pk-feature-samsung-tizen-os--others--542127422.svg" alt="&nbsp;Samsung Tizen OS" role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/164968606/pk-feature-samsung-tizen-os--others--542127422.svg" style="">
                   </div>
                 </div>
                 <p class="pdd30-highlights__name">Samsung Tizen OS (Others)</p>
@@ -5332,7 +5332,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 
                 <div class="pdd30-highlights__image">
                   <div class="image image--main-loaded">
-                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374262/pk-feature-q-symphony-542108051.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374262/pk-feature-q-symphony-542108051.svg" alt="&nbsp;Q-Symphony" role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374262/pk-feature-q-symphony-542108051.svg" style="">
+                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374262/pk-feature-q-symphony-542108051.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374262/pk-feature-q-symphony-542108051.svg" alt="&nbsp;Q-Symphony" role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374262/pk-feature-q-symphony-542108051.svg" style="">
                   </div>
                 </div>
                 <p class="pdd30-highlights__name">Q-Symphony</p>
@@ -5568,7 +5568,7 @@ digitalData.page.pageInfo.pageName = pageName;
 						<div class="ftd14-key-feature-icon__column-inner">
 							<div class="ftd14-key-feature-icon__column-icon">
 								<div class="image image--main-loaded">
-									<img data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374279/pk-feature-purcolor-542108090.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374279/pk-feature-purcolor-542108090.svg" alt="PurColor Icon" role="img" class="image__main responsive-img image--loaded" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374279/pk-feature-purcolor-542108090.svg" style="">
+									<img data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374279/pk-feature-purcolor-542108090.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374279/pk-feature-purcolor-542108090.svg" alt="PurColor Icon" role="img" class="image__main responsive-img image--loaded" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374279/pk-feature-purcolor-542108090.svg" style="">
 								</div>
 							</div>
 							<div class="ftd14-key-feature-icon__column-info-wrap">
@@ -5587,7 +5587,7 @@ digitalData.page.pageInfo.pageName = pageName;
 						<div class="ftd14-key-feature-icon__column-inner">
 							<div class="ftd14-key-feature-icon__column-icon">
 								<div class="image image--main-loaded">
-									<img data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374280/pk-feature-4k-upscaling-542108089.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374280/pk-feature-4k-upscaling-542108089.svg" alt="4K Upscaling Icon" role="img" class="image__main responsive-img image--loaded" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374280/pk-feature-4k-upscaling-542108089.svg" style="">
+									<img data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374280/pk-feature-4k-upscaling-542108089.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374280/pk-feature-4k-upscaling-542108089.svg" alt="4K Upscaling Icon" role="img" class="image__main responsive-img image--loaded" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374280/pk-feature-4k-upscaling-542108089.svg" style="">
 								</div>
 							</div>
 							<div class="ftd14-key-feature-icon__column-info-wrap">
@@ -5606,7 +5606,7 @@ digitalData.page.pageInfo.pageName = pageName;
 						<div class="ftd14-key-feature-icon__column-inner">
 							<div class="ftd14-key-feature-icon__column-icon">
 								<div class="image image--main-loaded">
-									<img data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374281/pk-feature-samsung-tizen-os-542108091.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374281/pk-feature-samsung-tizen-os-542108091.svg" alt="Samsung Tizen OS Icon" role="img" class="image__main responsive-img image--loaded" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374281/pk-feature-samsung-tizen-os-542108091.svg" style="">
+									<img data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374281/pk-feature-samsung-tizen-os-542108091.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374281/pk-feature-samsung-tizen-os-542108091.svg" alt="Samsung Tizen OS Icon" role="img" class="image__main responsive-img image--loaded" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374281/pk-feature-samsung-tizen-os-542108091.svg" style="">
 								</div>
 							</div>
 							<div class="ftd14-key-feature-icon__column-info-wrap">
@@ -5625,7 +5625,7 @@ digitalData.page.pageInfo.pageName = pageName;
 						<div class="ftd14-key-feature-icon__column-inner">
 							<div class="ftd14-key-feature-icon__column-icon">
 								<div class="image image--main-loaded">
-									<img data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374278/pk-feature-q-symphony-542108092.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374278/pk-feature-q-symphony-542108092.svg" alt="Q-Symphony Icon" role="img" class="image__main responsive-img image--loaded" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374278/pk-feature-q-symphony-542108092.svg" style="">
+									<img data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374278/pk-feature-q-symphony-542108092.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374278/pk-feature-q-symphony-542108092.svg" alt="Q-Symphony Icon" role="img" class="image__main responsive-img image--loaded" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374278/pk-feature-q-symphony-542108092.svg" style="">
 								</div>
 							</div>
 							<div class="ftd14-key-feature-icon__column-info-wrap">
@@ -6008,7 +6008,7 @@ digitalData.page.pageInfo.pageName = pageName;
 					<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/165374289/pk-feature---542108105" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/165374289/pk-feature---542108106" alt="Layered screens depict 4K Upscaling at work. Light ripples through the layered screens to optimize the picture at the forefront. The details of a palm tree, skateboard and shoes of a skateboarder in a scene are upscaled to great clarity." src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/165374289/pk-feature---542108105" style="">
 					<img class="image__preview responsive-img image--loaded image--hide" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/165374289/pk-feature---542108105" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/165374289/pk-feature---542108106" alt="Layered screens depict 4K Upscaling at work. Light ripples through the layered screens to optimize the picture at the forefront. The details of a palm tree, skateboard and shoes of a skateboarder in a scene are upscaled to great clarity." src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/165374289/pk-feature---542108105" aria-hidden="true">
 				</div>
-			<figure style="width: 100%; height: 100%;"><video class="video-player" playsinline="" loop="" disableremoteplayback="" preload="auto" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165374289/pk-feature---542108103.mp4" type="video/mp4"></video><p class="hidden">Layered screens depict 4K Upscaling at work. Light ripples through the layered screens to optimize the picture at the forefront. The details of a palm tree, skateboard and shoes of a skateboarder in a scene are upscaled to great clarity.</p></figure></div>
+			<figure style="width: 100%; height: 100%;"><video class="video-player" playsinline="" loop="" disableremoteplayback="" preload="auto" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165374289/pk-feature---542108103.mp4" type="video/mp4"></video><p class="hidden">Layered screens depict 4K Upscaling at work. Light ripples through the layered screens to optimize the picture at the forefront. The details of a palm tree, skateboard and shoes of a skateboarder in a scene are upscaled to great clarity.</p></figure></div>
 			
 			<button type="button" class="button-controller is-hidden--large" an-tr="ftd12_full_bleed feature-product detail-play video-content_click" an-ca="content click" an-ac="feature" an-la=":play video" data-di-id="di-id-58a685d0-6cee9c61" data-media-group="interest" data-media-details=":play video" data-media-action="click">
 				<span class="hidden">Playing video</span>
@@ -12366,7 +12366,7 @@ div.bv_modal_component_container[data-bv-modal] .bv_modal_outer_content {
 	</sly> -->
 	
 	<!--[if lt IE 9]>
-	<script src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
+	<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
 	<![endif]-->
 	<!--[if lte IE 9]>
 	<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>
@@ -13846,8 +13846,8 @@ div.bv_modal_component_container[data-bv-modal] .bv_modal_outer_content {
 								<li class="sc-learn-more-popup__item">
 									<div class="sc-learn-more-popup__image">
 										<div class="image">
-											<img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png$260_140_PNG$" alt="alt text" role="img" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png">
-											<img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png$260_140_PNG$" alt="alt text" role="img" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png">
+											<img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/03_coverage_Upto2claims-103cc82d6b.png" alt="alt text" role="img" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png">
+											<img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/03_coverage_Upto2claims-103cc82d6b.png" alt="alt text" role="img" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png">
 										</div>
 									</div>
 									<strong class="sc-learn-more-popup__title">4 claims within</strong>
@@ -14162,8 +14162,8 @@ div.bv_modal_component_container[data-bv-modal] .bv_modal_outer_content {
 				
                   <div class="image">
                     
-	                    <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg" data-mobile-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg?$680_398_PNG$" alt="Accidental damage, Worldwide cover, Repairs by genuine parts" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg">
-        	            <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg" data-mobile-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg?$680_398_PNG$" alt="Accidental damage, Worldwide cover, Repairs by genuine parts" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg">
+	                    <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg" alt="Accidental damage, Worldwide cover, Repairs by genuine parts" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg">
+        	            <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg" alt="Accidental damage, Worldwide cover, Repairs by genuine parts" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg">
                   	
                                       	
                   </div>

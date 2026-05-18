@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-PK" class="desktop mac Chrome" data-di-loaded="1"><head>
 	<!-- PWA - manifest
-	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
+	<link rel="manifest" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
 	 -->
 	<!-- PWA - Browser Compatible
 	<script async src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
@@ -3370,7 +3370,7 @@ a.cta_active:hover, a.cta_active:focus { background: #000000; border: 1px solid 
 				</ul>
 			</div>
 			<!--<div class="trans_btn">
-				<a href="/content/dam/samsung/pk/innovation_campus/images/SIC_SEPAK_AI_Course_Schedule_2022_Cohort_2_v2.pdf" data-omni-type="microsite_course" data-omni="pk:innovation campus:check course schedule" target="_blank">Check course schedule</a>
+				<a href="<?php echo CW_BASE_URL; ?>/content/dam/samsung/pk/innovation_campus/images/SIC_SEPAK_AI_Course_Schedule_2022_Cohort_2_v2.pdf" data-omni-type="microsite_course" data-omni="pk:innovation campus:check course schedule" target="_blank">Check course schedule</a>
 			</div>-->
 		</div>
 	</div>
@@ -3406,7 +3406,7 @@ a.cta_active:hover, a.cta_active:focus { background: #000000; border: 1px solid 
 				</li></div></div>
 				<!--<li>
 					<div class="detail_box">
-						<div class="icon_box"><img src="/content/dam/samsung/pk/innovation_campus/images/2024_assets/why_icon_2_v2.png" alt="Icon" /></div>
+						<div class="icon_box"><img src="<?php echo CW_BASE_URL; ?>/content/dam/samsung/pk/innovation_campus/images/2024_assets/why_icon_2_v2.png" alt="Icon" /></div>
 						<div class="course_copy">You can do it from the comfort of anywhere you want, through our seamless e-learning experience, and a mixed format of live interactive sessions and working offline at your own pace.</div>
 					</div>
 				</li>-->
@@ -3414,7 +3414,7 @@ a.cta_active:hover, a.cta_active:focus { background: #000000; border: 1px solid 
 				
 				<!--<li>
 					<div class="detail_box">
-						<div class="icon_box"><img src="/content/dam/samsung/pk/innovation_campus/images/2024_assets/why_icon_5_v2.png" alt="Icon" /></div>
+						<div class="icon_box"><img src="<?php echo CW_BASE_URL; ?>/content/dam/samsung/pk/innovation_campus/images/2024_assets/why_icon_5_v2.png" alt="Icon" /></div>
 						<div class="course_copy">You will be taught by a world class data science expert.</div>
 					</div>
 				</li>-->
@@ -3530,7 +3530,7 @@ a.cta_active:hover, a.cta_active:focus { background: #000000; border: 1px solid 
 				<div id="coursedetails"></div>
 				<h2 class="sub_title">Ready for the future?</h2>
 				<div class="trans_btn">
-					<a href="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/innovation_campus/images/2024_assets/3-Samsung-Innovation-Campus_Artificial-Intelligence-Course-Details.pdf" data-omni-type="microsite_course" data-omni="pk:innovation campus:check course details" target="_blank" data-media-group="interest" data-media-details="pk:innovation campus:check course details" data-media-action="postClick" data-di-id="di-id-21413300-c349b12d">Check course details</a>
+					<a href="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/innovation_campus/images/2024_assets/3-Samsung-Innovation-Campus_Artificial-Intelligence-Course-Details.pdf" data-omni-type="microsite_course" data-omni="pk:innovation campus:check course details" target="_blank" data-media-group="interest" data-media-details="pk:innovation campus:check course details" data-media-action="postClick" data-di-id="di-id-21413300-c349b12d">Check course details</a>
 				</div>
 			</div>
 		</div>
@@ -3541,7 +3541,7 @@ a.cta_active:hover, a.cta_active:focus { background: #000000; border: 1px solid 
 		<div class="main_container">
 			<div class="work_container">
 				<div class="tnc">
-					<a href="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/innovation_campus/pdf/SIC-TnCs-2025--1.pdf" data-omni-type="microsite_course" data-omni="pk:innovation campus:terms and conditions apply" target="_blank" data-media-group="interest" data-media-details="pk:innovation campus:terms and conditions apply" data-media-action="postClick" data-di-id="di-id-4142fc4-297eb8a2">*Terms and conditions apply</a>
+					<a href="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/innovation_campus/pdf/SIC-TnCs-2025--1.pdf" data-omni-type="microsite_course" data-omni="pk:innovation campus:terms and conditions apply" target="_blank" data-media-group="interest" data-media-details="pk:innovation campus:terms and conditions apply" data-media-action="postClick" data-di-id="di-id-4142fc4-297eb8a2">*Terms and conditions apply</a>
 					<!--*Terms and conditions apply-->
 				</div>
 			</div>
@@ -4500,7 +4500,7 @@ $(document).ready(function () {
 	</sly> -->
 	
 	<!--[if lt IE 9]>
-	<script src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
+	<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
 	<![endif]-->
 	<!--[if lte IE 9]>
 	<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>
@@ -5322,7 +5322,7 @@ $(document).ready(function () {
 
 
 	
-		<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/common/cm-g-static-content/clientlibs/site.min.d41d8cd98f00b204e9800998ecf8427e.js" async=""></script>
+		<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/function/fn-g-personalization/clientlibs/site.min.d41d8cd98f00b204e9800998ecf8427e.css" async=""></script>
 	
 	
     

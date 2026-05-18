@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-PK" data-di-loaded="1" style="scroll-padding-top: 128.773px;"><head><meta http-equiv="origin-trial" content="A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
 	<!-- PWA - manifest
-	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
+	<link rel="manifest" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
 	 -->
 	<!-- PWA - Browser Compatible
 	<script async src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
@@ -5650,7 +5650,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 
                 <div class="pdd30-highlights__image">
                   <div class="image image--main-loaded">
-                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166404534/pk-feature-designed-to-look-like-a-slim-picture-frame-548273151.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166404534/pk-feature-designed-to-look-like-a-slim-picture-frame-548273151.svg" alt="Side view of The Frame TV is installed tightly to a living room wall to look like a real picture frame." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166404534/pk-feature-designed-to-look-like-a-slim-picture-frame-548273151.svg" style="">
+                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166404534/pk-feature-designed-to-look-like-a-slim-picture-frame-548273151.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166404534/pk-feature-designed-to-look-like-a-slim-picture-frame-548273151.svg" alt="Side view of The Frame TV is installed tightly to a living room wall to look like a real picture frame." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166404534/pk-feature-designed-to-look-like-a-slim-picture-frame-548273151.svg" style="">
                   </div>
                 </div>
                 <p class="pdd30-highlights__name">Modern Frame Design</p>
@@ -5665,7 +5665,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 
                 <div class="pdd30-highlights__image">
                   <div class="image image--main-loaded">
-                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166404514/pk-feature-tv-when-it-s-on--art-when-it-s-off--548273105.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166404514/pk-feature-tv-when-it-s-on--art-when-it-s-off--548273105.svg" alt="The Frame displays artwork available on Art Store. Around it other artwork from famous museums and galleries appear to move toward and be sucked into the TV. Logos of Bright Moments, V&amp;A, The Met, Etsy, print bakery, Magnum Photos, Royal Collection Trust, MoMA, Union Art Fair, Toiletpaper, Saatchi Art, belvedere, Tate." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166404514/pk-feature-tv-when-it-s-on--art-when-it-s-off--548273105.svg" style="">
+                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166404514/pk-feature-tv-when-it-s-on--art-when-it-s-off--548273105.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166404514/pk-feature-tv-when-it-s-on--art-when-it-s-off--548273105.svg" alt="The Frame displays artwork available on Art Store. Around it other artwork from famous museums and galleries appear to move toward and be sucked into the TV. Logos of Bright Moments, V&amp;A, The Met, Etsy, print bakery, Magnum Photos, Royal Collection Trust, MoMA, Union Art Fair, Toiletpaper, Saatchi Art, belvedere, Tate." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166404514/pk-feature-tv-when-it-s-on--art-when-it-s-off--548273105.svg" style="">
                   </div>
                 </div>
                 <p class="pdd30-highlights__name">Art Mode</p>
@@ -5680,7 +5680,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 
                 <div class="pdd30-highlights__image">
                   <div class="image image--main-loaded">
-                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166404542/pk-feature-stunning-visuals-for-art-and-entertainment-alike-548273179.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166404542/pk-feature-stunning-visuals-for-art-and-entertainment-alike-548273179.svg" alt="'The Frame in living room shows TV Mode with AI TV NQ4 AI Gen2 Processor logos, and Art Mode with Glare Free Reflection UGR&lt;10 Discomfort &lt;22 Disability &lt;34 UL and PANTONE™ Validated ArtfulColor logos." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166404542/pk-feature-stunning-visuals-for-art-and-entertainment-alike-548273179.svg" style="">
+                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166404542/pk-feature-stunning-visuals-for-art-and-entertainment-alike-548273179.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166404542/pk-feature-stunning-visuals-for-art-and-entertainment-alike-548273179.svg" alt="'The Frame in living room shows TV Mode with AI TV NQ4 AI Gen2 Processor logos, and Art Mode with Glare Free Reflection UGR&lt;10 Discomfort &lt;22 Disability &lt;34 UL and PANTONE™ Validated ArtfulColor logos." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166404542/pk-feature-stunning-visuals-for-art-and-entertainment-alike-548273179.svg" style="">
                   </div>
                 </div>
                 <p class="pdd30-highlights__name">Artful Picture Quality with QLED</p>
@@ -5695,7 +5695,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 
                 <div class="pdd30-highlights__image">
                   <div class="image image--main-loaded">
-                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166404536/pk-feature-samsung-vision-ai-meets-the-frame-548273165.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166404536/pk-feature-samsung-vision-ai-meets-the-frame-548273165.svg" alt="NQ4 AI Gen2 Processor powering various screens with features that make up The Frame TV. Samsung Vision AI is here logo." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166404536/pk-feature-samsung-vision-ai-meets-the-frame-548273165.svg" style="">
+                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166404536/pk-feature-samsung-vision-ai-meets-the-frame-548273165.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166404536/pk-feature-samsung-vision-ai-meets-the-frame-548273165.svg" alt="NQ4 AI Gen2 Processor powering various screens with features that make up The Frame TV. Samsung Vision AI is here logo." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166404536/pk-feature-samsung-vision-ai-meets-the-frame-548273165.svg" style="">
                   </div>
                 </div>
                 <p class="pdd30-highlights__name">Samsung Vision AI</p>
@@ -6414,7 +6414,7 @@ digitalData.page.pageInfo.pageName = pageName;
 								<img class="image__preview responsive-img image--loaded image--hide" alt="alt text" role="img" data-comp-name="image" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/166404539/pk-feature-a-flush-fit-to-the-wall-548273172" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/166404539/pk-feature-a-flush-fit-to-the-wall-548273172" src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/166404539/pk-feature-a-flush-fit-to-the-wall-548273172" aria-hidden="true">
 								<img class="image__main responsive-img image--loaded" alt="alt text" role="img" data-comp-name="image" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/166404539/pk-feature-a-flush-fit-to-the-wall-548273172" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/166404539/pk-feature-a-flush-fit-to-the-wall-548273172" src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/166404539/pk-feature-a-flush-fit-to-the-wall-548273172" style="">
 							</div>
-						<figure style="width: 100%; height: 100%;"><video class="video-player" playsinline="" controls="" disableremoteplayback="" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166404539/pk-feature-a-flush-fit-to-the-wall-548273171.mp4" type="video/mp4"></video></figure></div>
+						<figure style="width: 100%; height: 100%;"><video class="video-player" playsinline="" controls="" disableremoteplayback="" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/166404539/pk-feature-a-flush-fit-to-the-wall-548273172" type="video/mp4"></video></figure></div>
 						<button type="button" class="video-area__btn-close" data-di-id="di-id-8659f781-f5d268de"><span class="hidden">Video Close</span>
 							<svg class="icon" focusable="false" data-di-res-id="6f47c24c-66e12d28" data-di-rand="1778922253110">
 								<use xlink:href="#close-btn" href="#close-btn"></use>
@@ -6961,7 +6961,7 @@ digitalData.page.pageInfo.pageName = pageName;
 								<img class="image__preview lazy-load responsive-img" alt="alt text" role="img" data-comp-name="image" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/166404512/pk-feature-world-famous-galleries-in-your-living-room-548273100" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/166404512/pk-feature-world-famous-galleries-in-your-living-room-548273100" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/166404512/pk-feature-world-famous-galleries-in-your-living-room-548273100">
 								<img class="image__main lazy-load responsive-img" alt="alt text" role="img" data-comp-name="image" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/166404512/pk-feature-world-famous-galleries-in-your-living-room-548273100" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/166404512/pk-feature-world-famous-galleries-in-your-living-room-548273100" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/166404512/pk-feature-world-famous-galleries-in-your-living-room-548273100">
 							</div>
-						<figure style="width: 100%; height: 100%;"><video class="video-player" playsinline="" controls="" disableremoteplayback="" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166404512/pk-feature-world-famous-galleries-in-your-living-room-548273099.mp4" type="video/mp4"></video></figure></div>
+						<figure style="width: 100%; height: 100%;"><video class="video-player" playsinline="" controls="" disableremoteplayback="" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/166404512/pk-feature-world-famous-galleries-in-your-living-room-548273100" type="video/mp4"></video></figure></div>
 						<button type="button" class="video-area__btn-close" data-di-id="di-id-5d3b557-ff2e2ad"><span class="hidden">Video Close</span>
 							<svg class="icon" focusable="false" data-di-res-id="c96dcf5e-12637902" data-di-rand="1778922253111">
 								<use xlink:href="#close-btn" href="#close-btn"></use>
@@ -7110,7 +7110,7 @@ digitalData.page.pageInfo.pageName = pageName;
 								<img class="image__preview lazy-load responsive-img" alt="alt text" role="img" data-comp-name="image" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/166404515/pk-feature-access-370--free-artwork-annually-548273108" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/166404515/pk-feature-access-370--free-artwork-annually-548273108" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/166404515/pk-feature-access-370--free-artwork-annually-548273108">
 								<img class="image__main lazy-load responsive-img" alt="alt text" role="img" data-comp-name="image" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/166404515/pk-feature-access-370--free-artwork-annually-548273108" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/166404515/pk-feature-access-370--free-artwork-annually-548273108" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/166404515/pk-feature-access-370--free-artwork-annually-548273108">
 							</div>
-						<figure style="width: 100%; height: 100%;"><video class="video-player" playsinline="" controls="" disableremoteplayback="" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166404515/pk-feature-access-370--free-artwork-annually-548273107.mp4" type="video/mp4"></video></figure></div>
+						<figure style="width: 100%; height: 100%;"><video class="video-player" playsinline="" controls="" disableremoteplayback="" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/166404515/pk-feature-access-370--free-artwork-annually-548273108" type="video/mp4"></video></figure></div>
 						<button type="button" class="video-area__btn-close" data-di-id="di-id-dd0a7a57-ff2e2ad"><span class="hidden">Video Close</span>
 							<svg class="icon" focusable="false" data-di-res-id="636407d5-a42d02f6" data-di-rand="1778922253113">
 								<use xlink:href="#close-btn" href="#close-btn"></use>
@@ -7662,7 +7662,7 @@ digitalData.page.pageInfo.pageName = pageName;
                                         <img class="image__preview lazy-load responsive-img" alt="" style="display: none;" data-src="undefined">
                                         <img class="image__main lazy-load responsive-img" alt="" style="display: none;" data-src="undefined">
                                     </div>
-                                <figure style="width: 100%;"><video class="video-player" playsinline="" loop="" disableremoteplayback="" preload="auto" style="width: 100%;"><source src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166404521/pk-feature-brightness-sensor-548273115.mp4" type="video/mp4"></video><p class="hidden">The Frame shows a bright artwork to reflect the bright surrounding. Then The Frame shows the same artwork in dimmer light adjusted to fit the darker surrounding.</p></figure></div>
+                                <figure style="width: 100%;"><video class="video-player" playsinline="" loop="" disableremoteplayback="" preload="auto" style="width: 100%;"><source src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166404521/pk-feature-brightness-sensor-548273115.mp4" type="video/mp4"></video><p class="hidden">The Frame shows a bright artwork to reflect the bright surrounding. Then The Frame shows the same artwork in dimmer light adjusted to fit the darker surrounding.</p></figure></div>
                                 
                                 
                             
@@ -7697,7 +7697,7 @@ digitalData.page.pageInfo.pageName = pageName;
                                         <img class="image__preview lazy-load responsive-img" alt="" style="display: none;" data-src="undefined">
                                         <img class="image__main lazy-load responsive-img" alt="" style="display: none;" data-src="undefined">
                                     </div>
-                                <figure style="width: 100%;"><video class="video-player" playsinline="" loop="" disableremoteplayback="" preload="auto" style="width: 100%;"><source src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166404519/pk-feature-motion-sensor-548273117.mp4" type="video/mp4"></video><p class="hidden">A woman packs her bag and leaves. The Frame, which was displaying an artwork, turns off once it sensed there was no one in the room.</p></figure></div>
+                                <figure style="width: 100%;"><video class="video-player" playsinline="" loop="" disableremoteplayback="" preload="auto" style="width: 100%;"><source src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166404519/pk-feature-motion-sensor-548273117.mp4" type="video/mp4"></video><p class="hidden">A woman packs her bag and leaves. The Frame, which was displaying an artwork, turns off once it sensed there was no one in the room.</p></figure></div>
                                 
                                 
                             
@@ -7732,7 +7732,7 @@ digitalData.page.pageInfo.pageName = pageName;
                                         <img class="image__preview lazy-load responsive-img" alt="" style="display: none;" data-src="undefined">
                                         <img class="image__main lazy-load responsive-img" alt="" style="display: none;" data-src="undefined">
                                     </div>
-                                <figure style="width: 100%;"><video class="video-player" playsinline="" loop="" disableremoteplayback="" preload="auto" style="width: 100%;"><source src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166404518/pk-feature-mat-canvas-548273113.mp4" type="video/mp4"></video><p class="hidden">The Frame TV displays an artwork hanging on a wall in a living room. At first, the mat is not visible as the artwork fills up the whole canvas. Then the size of the artwork is adjusted several times to show the different mat size options available with Mat Canvas.</p></figure></div>
+                                <figure style="width: 100%;"><video class="video-player" playsinline="" loop="" disableremoteplayback="" preload="auto" style="width: 100%;"><source src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166404518/pk-feature-mat-canvas-548273113.mp4" type="video/mp4"></video><p class="hidden">The Frame TV displays an artwork hanging on a wall in a living room. At first, the mat is not visible as the artwork fills up the whole canvas. Then the size of the artwork is adjusted several times to show the different mat size options available with Mat Canvas.</p></figure></div>
                                 
                                 
                             
@@ -12856,7 +12856,7 @@ div.bv_modal_component_container[data-bv-modal] .bv_modal_outer_content {
 	</sly> -->
 	
 	<!--[if lt IE 9]>
-	<script src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
+	<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
 	<![endif]-->
 	<!--[if lte IE 9]>
 	<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>
@@ -14336,8 +14336,8 @@ div.bv_modal_component_container[data-bv-modal] .bv_modal_outer_content {
 								<li class="sc-learn-more-popup__item">
 									<div class="sc-learn-more-popup__image">
 										<div class="image">
-											<img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png" data-mobile-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png$260_140_PNG$" alt="alt text" role="img" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png">
-											<img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png" data-mobile-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png$260_140_PNG$" alt="alt text" role="img" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png">
+											<img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/03_coverage_Upto2claims-103cc82d6b.png" alt="alt text" role="img" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png">
+											<img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/03_coverage_Upto2claims-103cc82d6b.png" alt="alt text" role="img" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png">
 										</div>
 									</div>
 									<strong class="sc-learn-more-popup__title">4 claims within</strong>
@@ -14652,8 +14652,8 @@ div.bv_modal_component_container[data-bv-modal] .bv_modal_outer_content {
 				
                   <div class="image">
                     
-	                    <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg" data-mobile-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg?$680_398_PNG$" alt="Accidental damage, Worldwide cover, Repairs by genuine parts" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg">
-        	            <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg" data-mobile-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg?$680_398_PNG$" alt="Accidental damage, Worldwide cover, Repairs by genuine parts" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg">
+	                    <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg" alt="Accidental damage, Worldwide cover, Repairs by genuine parts" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg">
+        	            <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg" alt="Accidental damage, Worldwide cover, Repairs by genuine parts" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg">
                   	
                                       	
                   </div>

@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-PK" data-di-loaded="1"><head>
 	<!-- PWA - manifest
-	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
+	<link rel="manifest" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
 	 -->
 	<!-- PWA - Browser Compatible
 	<script async src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
@@ -3205,7 +3205,7 @@ var digitalData = {
 					<span class="tab__item-image">
 						
 						<div class="image image--main-loaded">
-							<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/ux4/da/Icon_All.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/ux4/da/Icon_All.svg" data-comp-name="image" data-aem-asset-id="" src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/ux4/da/Icon_All.svg" alt="" style="">
+							<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/ux4/da/Icon_All.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/ux4/da/Icon_All.svg" data-comp-name="image" data-aem-asset-id="" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/ux4/da/Icon_All.svg" alt="" style="">
 						</div>
 					</span>
 				
@@ -3223,7 +3223,7 @@ var digitalData = {
 					<span class="tab__item-image">
 						
 						<div class="image image--main-loaded">
-							<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/ux4/da/Icon_French_Door.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/ux4/da/Icon_French_Door.svg" data-comp-name="image" data-aem-asset-id="" src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/ux4/da/Icon_French_Door.svg" alt="" style="">
+							<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/ux4/da/Icon_French_Door.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/ux4/da/Icon_French_Door.svg" data-comp-name="image" data-aem-asset-id="" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/ux4/da/Icon_French_Door.svg" alt="" style="">
 						</div>
 					</span>
 				
@@ -3241,7 +3241,7 @@ var digitalData = {
 					<span class="tab__item-image">
 						
 						<div class="image image--main-loaded">
-							<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/ux4/da/Icon_Side-by-Side.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/ux4/da/Icon_Side-by-Side.svg" data-comp-name="image" data-aem-asset-id="" src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/ux4/da/Icon_Side-by-Side.svg" alt="" style="">
+							<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/ux4/da/Icon_Side-by-Side.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/ux4/da/Icon_Side-by-Side.svg" data-comp-name="image" data-aem-asset-id="" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/ux4/da/Icon_Side-by-Side.svg" alt="" style="">
 						</div>
 					</span>
 				
@@ -3259,7 +3259,7 @@ var digitalData = {
 					<span class="tab__item-image">
 						
 						<div class="image image--main-loaded">
-							<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/ux4/da/Icon_Top_Freezer.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/ux4/da/Icon_Top_Freezer.svg" data-comp-name="image" data-aem-asset-id="" src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/ux4/da/Icon_Top_Freezer.svg" alt="" style="">
+							<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/ux4/da/Icon_Top_Freezer.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/ux4/da/Icon_Top_Freezer.svg" data-comp-name="image" data-aem-asset-id="" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/ux4/da/Icon_Top_Freezer.svg" alt="" style="">
 						</div>
 					</span>
 				
@@ -3277,7 +3277,7 @@ var digitalData = {
 					<span class="tab__item-image">
 						
 						<div class="image image--main-loaded">
-							<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/ux4/da/Icon_One_Door.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/ux4/da/Icon_One_Door.svg" data-comp-name="image" data-aem-asset-id="" src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/ux4/da/Icon_One_Door.svg" alt="" style="">
+							<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/ux4/da/Icon_One_Door.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/ux4/da/Icon_One_Door.svg" data-comp-name="image" data-aem-asset-id="" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/ux4/da/Icon_One_Door.svg" alt="" style="">
 						</div>
 					</span>
 				
@@ -7334,7 +7334,7 @@ var digitalData = {
 	</sly> -->
 	
 	<!--[if lt IE 9]>
-	<script src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
+	<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
 	<![endif]-->
 	<!--[if lte IE 9]>
 	<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>

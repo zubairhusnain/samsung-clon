@@ -10,7 +10,8 @@ ROOT = Path(__file__).resolve().parents[1]
 SCAN = [ROOT / 'pages', ROOT / 'index.php', ROOT / 'previous-index.php', ROOT / 'global']
 
 ATTR_PATTERN = re.compile(
-    r'(?P<attr>href|src|action|content|data-src|data-desktop-src|data-mobile-src|data-video-src)='
+    r'(?P<attr>href|src|action|content|data-src|data-desktop-src|data-mobile-src|data-video-src|'
+    r'data-src-pc|data-src-mobile|data-src-tablet)='
     r'(?P<q>["\'])'
     r'(?P<url>(?:etc\.clientlibs|assets|is/image|is/content|content|aemapi)/[^"\']*)'
     r'(?P=q)',

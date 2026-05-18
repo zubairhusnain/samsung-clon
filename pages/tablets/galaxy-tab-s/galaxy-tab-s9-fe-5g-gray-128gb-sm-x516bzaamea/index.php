@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-PK" data-di-loaded="1" style="scroll-padding-top: 118.523px;"><head><meta http-equiv="origin-trial" content="A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
 	<!-- PWA - manifest
-	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
+	<link rel="manifest" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
 	 -->
 	<!-- PWA - Browser Compatible
 	<script async src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
@@ -3435,7 +3435,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 
                 <div class="pdd30-highlights__image">
                   <div class="image image--main-loaded">
-                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166003225/pk-feature-colorful-design-that-lets-you-shine-545803776.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166003225/pk-feature-colorful-design-that-lets-you-shine-545803776.svg" alt="Close-up of the back of Galaxy Tab S9 FE+ in Mint, showcasing the rear design, camera system and attached S Pen. Another Galaxy Tab S9 FE+ in Mint is seen from the side, showcasing the design." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166003225/pk-feature-colorful-design-that-lets-you-shine-545803776.svg" style="">
+                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166003225/pk-feature-colorful-design-that-lets-you-shine-545803776.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166003225/pk-feature-colorful-design-that-lets-you-shine-545803776.svg" alt="Close-up of the back of Galaxy Tab S9 FE+ in Mint, showcasing the rear design, camera system and attached S Pen. Another Galaxy Tab S9 FE+ in Mint is seen from the side, showcasing the design." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166003225/pk-feature-colorful-design-that-lets-you-shine-545803776.svg" style="">
                   </div>
                 </div>
                 <p class="pdd30-highlights__name">Fashionable Colors</p>
@@ -3450,7 +3450,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 
                 <div class="pdd30-highlights__image">
                   <div class="image image--main-loaded">
-                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166003238/pk-feature-all-your-media--super-smooth-545803802.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166003238/pk-feature-all-your-media--super-smooth-545803802.svg" alt="Galaxy Tab S9 FE+ in Portrait mode, facing forward with a fast-moving car driving through a tunnel shown oscreen, highlighting the smooth screen motion." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166003238/pk-feature-all-your-media--super-smooth-545803802.svg" style="">
+                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166003238/pk-feature-all-your-media--super-smooth-545803802.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166003238/pk-feature-all-your-media--super-smooth-545803802.svg" alt="Galaxy Tab S9 FE+ in Portrait mode, facing forward with a fast-moving car driving through a tunnel shown oscreen, highlighting the smooth screen motion." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166003238/pk-feature-all-your-media--super-smooth-545803802.svg" style="">
                   </div>
                 </div>
                 <p class="pdd30-highlights__name">Smooth Display</p>
@@ -3465,7 +3465,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 
                 <div class="pdd30-highlights__image">
                   <div class="image image--main-loaded">
-                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166003239/pk-feature-eye-care-for-you-and-your-loved-ones-545803806.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166003239/pk-feature-eye-care-for-you-and-your-loved-ones-545803806.svg" alt="A woman holding Galaxy Tab S9 FE+ with both hands on a sofa, watching a video fullscreen in Landscape mode. SGS logo with text Performance Tested. Low Blue Light Ex." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166003239/pk-feature-eye-care-for-you-and-your-loved-ones-545803806.svg" style="">
+                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166003239/pk-feature-eye-care-for-you-and-your-loved-ones-545803806.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166003239/pk-feature-eye-care-for-you-and-your-loved-ones-545803806.svg" alt="A woman holding Galaxy Tab S9 FE+ with both hands on a sofa, watching a video fullscreen in Landscape mode. SGS logo with text Performance Tested. Low Blue Light Ex." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166003239/pk-feature-eye-care-for-you-and-your-loved-ones-545803806.svg" style="">
                   </div>
                 </div>
                 <p class="pdd30-highlights__name">Low Blue Light</p>
@@ -3480,7 +3480,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 
                 <div class="pdd30-highlights__image">
                   <div class="image image--main-loaded">
-                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166003220/pk-feature-the-first-water-and-dust-resistant-galaxy-s-fe-tablet-545803754.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166003220/pk-feature-the-first-water-and-dust-resistant-galaxy-s-fe-tablet-545803754.svg" alt="A person sitting near water is holding Galaxy Tab S9 FE+ in Landscape mode and using S Pen to draw a flower picture in the Samsung Notes app open onscreen." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/166003220/pk-feature-the-first-water-and-dust-resistant-galaxy-s-fe-tablet-545803754.svg" style="">
+                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166003220/pk-feature-the-first-water-and-dust-resistant-galaxy-s-fe-tablet-545803754.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166003220/pk-feature-the-first-water-and-dust-resistant-galaxy-s-fe-tablet-545803754.svg" alt="A person sitting near water is holding Galaxy Tab S9 FE+ in Landscape mode and using S Pen to draw a flower picture in the Samsung Notes app open onscreen." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/166003220/pk-feature-the-first-water-and-dust-resistant-galaxy-s-fe-tablet-545803754.svg" style="">
                   </div>
                 </div>
                 <p class="pdd30-highlights__name">IP68</p>
@@ -8334,7 +8334,7 @@ div.bv_modal_component_container[data-bv-modal] .bv_modal_outer_content {
 	</sly> -->
 	
 	<!--[if lt IE 9]>
-	<script src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
+	<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
 	<![endif]-->
 	<!--[if lte IE 9]>
 	<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>

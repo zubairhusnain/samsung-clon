@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-PK" data-di-loaded="1" style="scroll-padding-top: 118.523px;"><head><meta http-equiv="origin-trial" content="A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
 	<!-- PWA - manifest
-	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
+	<link rel="manifest" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
 	 -->
 	<!-- PWA - Browser Compatible
 	<script async src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
@@ -5551,7 +5551,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 
                 <div class="pdd30-highlights__image">
                   <div class="image image--main-loaded">
-                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165564718/pk-feature-optimal-curve--true-immersion--543241844.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165564718/pk-feature-optimal-curve--true-immersion--543241844.svg" alt="The curvature of 1000R, 1800R, and Flat are compared with the range of the human field of view and the eye fatigue zone." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165564718/pk-feature-optimal-curve--true-immersion--543241844.svg" style="">
+                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165564718/pk-feature-optimal-curve--true-immersion--543241844.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165564718/pk-feature-optimal-curve--true-immersion--543241844.svg" alt="The curvature of 1000R, 1800R, and Flat are compared with the range of the human field of view and the eye fatigue zone." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165564718/pk-feature-optimal-curve--true-immersion--543241844.svg" style="">
                   </div>
                 </div>
                 <p class="pdd30-highlights__name">1000R Curved Screen</p>
@@ -5566,7 +5566,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 
                 <div class="pdd30-highlights__image">
                   <div class="image image--main-loaded">
-                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165564715/pk-feature-ultra-wqhd-543241834.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165564715/pk-feature-ultra-wqhd-543241834.svg" alt="WQHD(2560 x 1440) onscreen image is extended to Ultra WQHD(3440 x 1440) which implies one can see more things in Ultra WQHD." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165564715/pk-feature-ultra-wqhd-543241834.svg" style="">
+                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165564715/pk-feature-ultra-wqhd-543241834.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165564715/pk-feature-ultra-wqhd-543241834.svg" alt="WQHD(2560 x 1440) onscreen image is extended to Ultra WQHD(3440 x 1440) which implies one can see more things in Ultra WQHD." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165564715/pk-feature-ultra-wqhd-543241834.svg" style="">
                   </div>
                 </div>
                 <p class="pdd30-highlights__name">Ultra WQHD (3440 x 1440)</p>
@@ -5581,7 +5581,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 
                 <div class="pdd30-highlights__image">
                   <div class="image image--main-loaded">
-                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/164781550/pk-feature-165hz-refresh-rate-538130540.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/164781550/pk-feature-165hz-refresh-rate-538130540.svg" alt="The 60Hz in a conventional monitor and 165Hz in Odyssey G5 are compared to describe the benefit of the high refresh rate." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/164781550/pk-feature-165hz-refresh-rate-538130540.svg" style="">
+                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/164781550/pk-feature-165hz-refresh-rate-538130540.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/164781550/pk-feature-165hz-refresh-rate-538130540.svg" alt="The 60Hz in a conventional monitor and 165Hz in Odyssey G5 are compared to describe the benefit of the high refresh rate." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/164781550/pk-feature-165hz-refresh-rate-538130540.svg" style="">
                   </div>
                 </div>
                 <p class="pdd30-highlights__name">165Hz refresh rate</p>
@@ -5596,7 +5596,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 
                 <div class="pdd30-highlights__image">
                   <div class="image image--main-loaded">
-                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/89564504/pk-feature-1ms-response-time--mprt--543244419.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/89564504/pk-feature-1ms-response-time--mprt--543244419.svg" alt="The response time of Odyssey G5 and the conventional monitor are compared by showing the blurry picture on the conventional" role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/89564504/pk-feature-1ms-response-time--mprt--543244419.svg" style="">
+                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/89564504/pk-feature-1ms-response-time--mprt--543244419.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/89564504/pk-feature-1ms-response-time--mprt--543244419.svg" alt="The response time of Odyssey G5 and the conventional monitor are compared by showing the blurry picture on the conventional" role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/89564504/pk-feature-1ms-response-time--mprt--543244419.svg" style="">
                   </div>
                 </div>
                 <p class="pdd30-highlights__name">1ms response time</p>
@@ -9819,7 +9819,7 @@ div.bv_modal_component_container[data-bv-modal] .bv_modal_outer_content {
 	</sly> -->
 	
 	<!--[if lt IE 9]>
-	<script src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
+	<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
 	<![endif]-->
 	<!--[if lte IE 9]>
 	<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>
@@ -11299,8 +11299,8 @@ div.bv_modal_component_container[data-bv-modal] .bv_modal_outer_content {
 								<li class="sc-learn-more-popup__item">
 									<div class="sc-learn-more-popup__image">
 										<div class="image">
-											<img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png" data-mobile-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png$260_140_PNG$" alt="alt text" role="img" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png">
-											<img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png" data-mobile-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png$260_140_PNG$" alt="alt text" role="img" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png">
+											<img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/03_coverage_Upto2claims-103cc82d6b.png" alt="alt text" role="img" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png">
+											<img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/03_coverage_Upto2claims-103cc82d6b.png" alt="alt text" role="img" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png">
 										</div>
 									</div>
 									<strong class="sc-learn-more-popup__title">4 claims within</strong>
@@ -11615,8 +11615,8 @@ div.bv_modal_component_container[data-bv-modal] .bv_modal_outer_content {
 				
                   <div class="image">
                     
-	                    <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg" data-mobile-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg?$680_398_PNG$" alt="Accidental damage, Worldwide cover, Repairs by genuine parts" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg">
-        	            <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg" data-mobile-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg?$680_398_PNG$" alt="Accidental damage, Worldwide cover, Repairs by genuine parts" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg">
+	                    <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg" alt="Accidental damage, Worldwide cover, Repairs by genuine parts" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg">
+        	            <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg" alt="Accidental damage, Worldwide cover, Repairs by genuine parts" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg">
                   	
                                       	
                   </div>

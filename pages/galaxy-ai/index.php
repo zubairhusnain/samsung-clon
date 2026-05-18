@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-PK" class="desktop mac Chrome" data-di-loaded="1"><head>
 	<!-- PWA - manifest
-	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
+	<link rel="manifest" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
 	 -->
 	<!-- PWA - Browser Compatible
 	<script async src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
@@ -3120,7 +3120,7 @@ var digitalData = {
             <img loading="lazy" class="image__preview lazy-load responsive-img image--hide" data-aem-asset-id="" alt="" style="display: none;" data-src="undefined" aria-hidden="true">
             <img loading="lazy" class="image__main responsive-img image--loaded" data-aem-asset-id="" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/s2602/galaxy_ai/galaxy_ai_kv_pc_end.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/s2602/galaxy_ai/galaxy_ai_kv_mo_end.jpg" alt="A photo of a dog is seen on the screen of a Galaxy S26 Ultra phone. Galaxy AI icon is selected in the Gallery app. In Photo Assist, the user can describe what to change by inputting a text prompt. After typing 'Make this his birthday party', the Generate button is pressed. Galaxy AI transforms the photo by adding various birthday themed accessories on and around the dog. Options to Show previous, Save copy and Keep editing for the photo appear on the screen. The Show previous button is pressed, causing the previous unedited picture of the dog to appear next to the phone for comparison, along with the text prompt to 'Make this his birthday party'. Editing, without editing. Galaxy S26 Ultra. Galaxy AI." src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/s2602/galaxy_ai/galaxy_ai_kv_pc_end.jpg" style="">
         </div>
-    <figure style="width: 100%; height: 100%;" class="video--played"><video class="video-player" playsinline="" controls="" disableremoteplayback="" preload="auto" style="width: 100%; height: 100%;" tabindex="0"><source src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/s2602/galaxy_ai/galaxy_ai_kv_pc.mp4" type="video/mp4"></video><p class="hidden">A photo of a dog is seen on the screen of a Galaxy S26 Ultra phone. Galaxy AI icon is selected in the Gallery app. In Photo Assist, the user can describe what to change by inputting a text prompt. After typing 'Make this his birthday party', the Generate button is pressed. Galaxy AI transforms the photo by adding various birthday themed accessories on and around the dog. Options to Show previous, Save copy and Keep editing for the photo appear on the screen. The Show previous button is pressed, causing the previous unedited picture of the dog to appear next to the phone for comparison, along with the text prompt to 'Make this his birthday party'. Editing, without editing. Galaxy S26 Ultra. Galaxy AI.</p></figure></div>
+    <figure style="width: 100%; height: 100%;" class="video--played"><video class="video-player" playsinline="" controls="" disableremoteplayback="" preload="auto" style="width: 100%; height: 100%;" tabindex="0"><source src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/s2602/galaxy_ai/galaxy_ai_kv_pc.mp4" type="video/mp4"></video><p class="hidden">A photo of a dog is seen on the screen of a Galaxy S26 Ultra phone. Galaxy AI icon is selected in the Gallery app. In Photo Assist, the user can describe what to change by inputting a text prompt. After typing 'Make this his birthday party', the Generate button is pressed. Galaxy AI transforms the photo by adding various birthday themed accessories on and around the dog. Options to Show previous, Save copy and Keep editing for the photo appear on the screen. The Show previous button is pressed, causing the previous unedited picture of the dog to appear next to the phone for comparison, along with the text prompt to 'Make this his birthday party'. Editing, without editing. Galaxy S26 Ultra. Galaxy AI.</p></figure></div>
     
     
     
@@ -6765,7 +6765,7 @@ var digitalData = {
 	</sly> -->
 	
 	<!--[if lt IE 9]>
-	<script src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
+	<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
 	<![endif]-->
 	<!--[if lte IE 9]>
 	<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>

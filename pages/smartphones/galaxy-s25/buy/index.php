@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-PK" itemscope="" class="init-gallery-type" data-di-loaded="1"><head>
 	<!-- PWA - manifest
-	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
+	<link rel="manifest" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
 	 -->
 	<!-- PWA - Browser Compatible
 	<script async src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
@@ -7386,7 +7386,7 @@ document.addEventListener("DOMContentLoaded",(function(){function e(){this.model
 		
 <div class="hubble-price-bar-disclaimer" style="display: block;">
     <div class="hubble-price-bar-disclaimer-inner">
-        <div class="hubble-price-bar-disclaimer-text">*Promotion details may vary by region/country/carrier.<br><br>※ Samsung reserves the right to change prices at any time and general terms and conditions of sale apply.<br>※ Image simulated. Samsung account login is required for certain AI features<br>※ Color availability may vary depending on country or carrier.<br>※ Deliveries for Galaxy S25 series will be as per the standard delivery time of 3-5 business days.<br>※ Up to 12 months 0% markup installment plans with Bank Alfalah*<br><br><a href="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/terms-and-conditions/deals/SEPAK_Samsung_AI_Week_Regular_offer_TCs.pdf" target="_blank" data-di-id="di-id-c534e5a6-73a1d610">*Terms and conditions apply.</a></div>
+        <div class="hubble-price-bar-disclaimer-text">*Promotion details may vary by region/country/carrier.<br><br>※ Samsung reserves the right to change prices at any time and general terms and conditions of sale apply.<br>※ Image simulated. Samsung account login is required for certain AI features<br>※ Color availability may vary depending on country or carrier.<br>※ Deliveries for Galaxy S25 series will be as per the standard delivery time of 3-5 business days.<br>※ Up to 12 months 0% markup installment plans with Bank Alfalah*<br><br><a href="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/terms-and-conditions/deals/SEPAK_Samsung_AI_Week_Regular_offer_TCs.pdf" target="_blank" data-di-id="di-id-c534e5a6-73a1d610">*Terms and conditions apply.</a></div>
     </div>
 </div>
 
@@ -8260,7 +8260,7 @@ document.addEventListener("DOMContentLoaded",(function(){function e(){this.model
 	</sly> -->
 	
 	<!--[if lt IE 9]>
-	<script src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
+	<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
 	<![endif]-->
 	<!--[if lte IE 9]>
 	<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>

@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-PK" class="desktop mac Chrome" data-di-loaded="1"><head>
 	<!-- PWA - manifest
-	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
+	<link rel="manifest" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
 	 -->
 	<!-- PWA - Browser Compatible
 	<script async src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
@@ -3493,8 +3493,8 @@ var digitalData = {
         <img src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/global/hq/vd/tvs/vision-ai-tv/2025-vision-ai-tv-f02-kv-1-motion-pc.jpg" alt="">
       </picture>
 
-      <video muted="" loop="" playsinline="" preload="auto" class="mkt-video" autoplay="" style="opacity: 1;"><source type="video/webm" src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/global/hq/vd/tvs/vision-ai-tv/2025-vision-ai-tv-f02-kv-1-motion-pc.webm">
-<source type="video/mp4" src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/global/hq/vd/tvs/vision-ai-tv/2025-vision-ai-tv-f02-kv-1-motion-pc.mp4"></video>
+      <video muted="" loop="" playsinline="" preload="auto" class="mkt-video" autoplay="" style="opacity: 1;"><source type="video/webm" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/global/hq/vd/tvs/vision-ai-tv/2025-vision-ai-tv-f02-kv-1-motion-pc.webm">
+<source type="video/mp4" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/global/hq/vd/tvs/vision-ai-tv/2025-vision-ai-tv-f02-kv-1-motion-pc.mp4"></video>
 
       <p class="blind">
         The view zooms through curving structures like glaciers that are blue tinged with yellow. The view arrives at a fantastic field of
@@ -3528,8 +3528,8 @@ var digitalData = {
         <img class="mkt-lazy-image mkt-image-loaded" src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/global/hq/vd/tvs/vision-ai-tv/2025-vision-ai-tv-f03-manifesto-motion-pc.jpg" data-src-pc="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/global/hq/vd/tvs/vision-ai-tv/2025-vision-ai-tv-f03-manifesto-motion-pc.jpg" data-src-mobile="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/global/hq/vd/tvs/vision-ai-tv/2025-vision-ai-tv-f03-manifesto-motion-mo.jpg" alt="">
       </div>
 
-      <video muted="" loop="" playsinline="" preload="auto" class="mkt-video" autoplay="" style="opacity: 1;"><source type="video/webm" src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/global/hq/vd/tvs/vision-ai-tv/2025-vision-ai-tv-f03-manifesto-motion-pc.webm">
-<source type="video/mp4" src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/global/hq/vd/tvs/vision-ai-tv/2025-vision-ai-tv-f03-manifesto-motion-pc.mp4"></video>
+      <video muted="" loop="" playsinline="" preload="auto" class="mkt-video" autoplay="" style="opacity: 1;"><source type="video/webm" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/global/hq/vd/tvs/vision-ai-tv/2025-vision-ai-tv-f03-manifesto-motion-pc.webm">
+<source type="video/mp4" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/global/hq/vd/tvs/vision-ai-tv/2025-vision-ai-tv-f03-manifesto-motion-pc.mp4"></video>
 
       <button class="mkt-video-controller" title="Tiny glowing dots motion picture." an-tr="vision ai-vd marketing page-play video-content_click" an-ca="content click" an-ac="feature" an-la="kv2:samsung vision ai is here" data-media-group="interest" data-media-details="kv2:samsung vision ai is here" data-media-action="click">
         <span class="blind"></span>
@@ -4891,7 +4891,7 @@ var digitalData = {
 	</sly> -->
 	
 	<!--[if lt IE 9]>
-	<script src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
+	<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
 	<![endif]-->
 	<!--[if lte IE 9]>
 	<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>
@@ -5713,7 +5713,7 @@ var digitalData = {
 
 
 	
-		<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/common/cm-g-static-content/clientlibs/site.min.d41d8cd98f00b204e9800998ecf8427e.js" async=""></script>
+		<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/function/fn-g-personalization/clientlibs/site.min.d41d8cd98f00b204e9800998ecf8427e.css" async=""></script>
 	
 	
     

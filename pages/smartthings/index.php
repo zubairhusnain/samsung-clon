@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-PK" class="desktop mac Chrome" data-di-loaded="1" style="scroll-padding-top: 53px;"><head>
 	<!-- PWA - manifest
-	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
+	<link rel="manifest" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
 	 -->
 	<!-- PWA - Browser Compatible
 	<script async src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
@@ -3425,8 +3425,8 @@ digitalData.page.pathIndicator.depth_5 = "";
 						<div class="category-slider__card-img-wrap" aria-hidden="true">
 							
 							<div class="image image--main-loaded">
-								<img class="image__preview responsive-img image--loaded image--hide" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_What-is-SmartThings.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_What-is-SmartThings.svg" data-aem-asset-id="" alt="" src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_What-is-SmartThings.svg" aria-hidden="true">
-								<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_What-is-SmartThings.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_What-is-SmartThings.svg" data-aem-asset-id="" alt="" src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_What-is-SmartThings.svg" style="">
+								<img class="image__preview responsive-img image--loaded image--hide" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_What-is-SmartThings.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_What-is-SmartThings.svg" data-aem-asset-id="" alt="" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_What-is-SmartThings.svg" aria-hidden="true">
+								<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_What-is-SmartThings.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_What-is-SmartThings.svg" data-aem-asset-id="" alt="" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_What-is-SmartThings.svg" style="">
 								
 							</div>
 						</div>
@@ -3445,8 +3445,8 @@ digitalData.page.pathIndicator.depth_5 = "";
 						<div class="category-slider__card-img-wrap" aria-hidden="true">
 							
 							<div class="image image--main-loaded">
-								<img class="image__preview responsive-img image--loaded image--hide" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_Latest-news.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_Latest-news.svg" data-aem-asset-id="" alt="" src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_Latest-news.svg" aria-hidden="true">
-								<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_Latest-news.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_Latest-news.svg" data-aem-asset-id="" alt="" src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_Latest-news.svg" style="">
+								<img class="image__preview responsive-img image--loaded image--hide" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_Latest-news.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_Latest-news.svg" data-aem-asset-id="" alt="" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_Latest-news.svg" aria-hidden="true">
+								<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_Latest-news.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_Latest-news.svg" data-aem-asset-id="" alt="" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_01_Latest-news.svg" style="">
 								
 							</div>
 						</div>
@@ -3465,8 +3465,8 @@ digitalData.page.pathIndicator.depth_5 = "";
 						<div class="category-slider__card-img-wrap" aria-hidden="true">
 							
 							<div class="image image--main-loaded">
-								<img class="image__preview responsive-img image--loaded image--hide" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_02_Inspiring-ideas.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_02_Inspiring-ideas.svg" data-aem-asset-id="" alt="" src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_02_Inspiring-ideas.svg" aria-hidden="true">
-								<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_02_Inspiring-ideas.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_02_Inspiring-ideas.svg" data-aem-asset-id="" alt="" src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_02_Inspiring-ideas.svg" style="">
+								<img class="image__preview responsive-img image--loaded image--hide" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_02_Inspiring-ideas.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_02_Inspiring-ideas.svg" data-aem-asset-id="" alt="" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_02_Inspiring-ideas.svg" aria-hidden="true">
+								<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_02_Inspiring-ideas.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_02_Inspiring-ideas.svg" data-aem-asset-id="" alt="" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_02_Inspiring-ideas.svg" style="">
 								
 							</div>
 						</div>
@@ -3485,8 +3485,8 @@ digitalData.page.pathIndicator.depth_5 = "";
 						<div class="category-slider__card-img-wrap" aria-hidden="true">
 							
 							<div class="image image--main-loaded">
-								<img class="image__preview responsive-img image--loaded image--hide" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_03_Devices.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_03_Devices.svg" data-aem-asset-id="" alt="" src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_03_Devices.svg" aria-hidden="true">
-								<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_03_Devices.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_03_Devices.svg" data-aem-asset-id="" alt="" src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_03_Devices.svg" style="">
+								<img class="image__preview responsive-img image--loaded image--hide" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_03_Devices.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_03_Devices.svg" data-aem-asset-id="" alt="" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_03_Devices.svg" aria-hidden="true">
+								<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_03_Devices.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_03_Devices.svg" data-aem-asset-id="" alt="" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_03_Devices.svg" style="">
 								
 							</div>
 						</div>
@@ -3505,8 +3505,8 @@ digitalData.page.pathIndicator.depth_5 = "";
 						<div class="category-slider__card-img-wrap" aria-hidden="true">
 							
 							<div class="image image--main-loaded">
-								<img class="image__preview responsive-img image--loaded image--hide" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_04_Compatible-devices.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_04_Compatible-devices.svg" data-aem-asset-id="" alt="" src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_04_Compatible-devices.svg" aria-hidden="true">
-								<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_04_Compatible-devices.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_04_Compatible-devices.svg" data-aem-asset-id="" alt="" src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_04_Compatible-devices.svg" style="">
+								<img class="image__preview responsive-img image--loaded image--hide" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_04_Compatible-devices.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_04_Compatible-devices.svg" data-aem-asset-id="" alt="" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_04_Compatible-devices.svg" aria-hidden="true">
+								<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_04_Compatible-devices.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_04_Compatible-devices.svg" data-aem-asset-id="" alt="" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/smartthings/main/2410/2024_SmartThings_Overview_02_Navigation_04_Compatible-devices.svg" style="">
 								
 							</div>
 						</div>
@@ -7238,7 +7238,7 @@ digitalData.page.pathIndicator.depth_5 = "";
 	</sly> -->
 	
 	<!--[if lt IE 9]>
-	<script src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
+	<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
 	<![endif]-->
 	<!--[if lte IE 9]>
 	<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>

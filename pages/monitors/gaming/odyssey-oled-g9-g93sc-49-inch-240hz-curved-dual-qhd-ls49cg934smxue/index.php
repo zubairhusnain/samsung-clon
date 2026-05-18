@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-PK" data-di-loaded="1" style="scroll-padding-top: 118.523px;"><head><meta http-equiv="origin-trial" content="A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
 	<!-- PWA - manifest
-	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
+	<link rel="manifest" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
 	 -->
 	<!-- PWA - Browser Compatible
 	<script async src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
@@ -5858,7 +5858,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 
                 <div class="pdd30-highlights__image">
                   <div class="image image--main-loaded">
-                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165869890/pk-feature-icon-gaming-545127446.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165869890/pk-feature-icon-gaming-545127446.svg" alt="A curved monitor shows a forest with glowing flowers, with the flowers flowing out of the screen." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165869890/pk-feature-icon-gaming-545127446.svg" style="">
+                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165869890/pk-feature-icon-gaming-545127446.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165869890/pk-feature-icon-gaming-545127446.svg" alt="A curved monitor shows a forest with glowing flowers, with the flowers flowing out of the screen." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165869890/pk-feature-icon-gaming-545127446.svg" style="">
                   </div>
                 </div>
                 <p class="pdd30-highlights__name">OLED</p>
@@ -5873,7 +5873,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 
                 <div class="pdd30-highlights__image">
                   <div class="image image--main-loaded">
-                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165869907/pk-feature-icon-gaming-545127495.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165869907/pk-feature-icon-gaming-545127495.svg" alt="A gamer plays Black Desert on the Odyssey monitor. On the screen, a character uses their abilities in front of a stone building, surrounded by trees and foliage." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165869907/pk-feature-icon-gaming-545127495.svg" style="">
+                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165869907/pk-feature-icon-gaming-545127495.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165869907/pk-feature-icon-gaming-545127495.svg" alt="A gamer plays Black Desert on the Odyssey monitor. On the screen, a character uses their abilities in front of a stone building, surrounded by trees and foliage." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165869907/pk-feature-icon-gaming-545127495.svg" style="">
                   </div>
                 </div>
                 <p class="pdd30-highlights__name">32:9 screen ratio</p>
@@ -5888,7 +5888,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 
                 <div class="pdd30-highlights__image">
                   <div class="image image--main-loaded">
-                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165869906/pk-feature-icon-gaming-545127491.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165869906/pk-feature-icon-gaming-545127491.svg" alt="A split screen shows the same spaceship flying away from a planet, a moon and a star. On the left, text reads “Samsung Conventional Monitor” and on the right, “Odyssey OLED G9.” Text on the right side reads “VESA Certified Display HDR True Black 400.” The right side shows deeper blacks and brighter whites with details." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165869906/pk-feature-icon-gaming-545127491.svg" style="">
+                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165869906/pk-feature-icon-gaming-545127491.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165869906/pk-feature-icon-gaming-545127491.svg" alt="A split screen shows the same spaceship flying away from a planet, a moon and a star. On the left, text reads “Samsung Conventional Monitor” and on the right, “Odyssey OLED G9.” Text on the right side reads “VESA Certified Display HDR True Black 400.” The right side shows deeper blacks and brighter whites with details." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165869906/pk-feature-icon-gaming-545127491.svg" style="">
                   </div>
                 </div>
                 <p class="pdd30-highlights__name">0.03ms Response time(GtG) &amp; 240Hz Refresh rate</p>
@@ -5903,7 +5903,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 
                 <div class="pdd30-highlights__image">
                   <div class="image image--main-loaded">
-                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165869886/pk-feature-icon-gaming-545127438.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165869886/pk-feature-icon-gaming-545127438.svg" alt="A space docking station is shown in front of a planet on two screens. The spacecraft on the left screen is blurred with the text “NVIDIA G-SYNC OFF” underneath, and the right is sharp and clear with the text “NVIDIA G-SYNC ON” underneath." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165869886/pk-feature-icon-gaming-545127438.svg" style="">
+                    <img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165869886/pk-feature-icon-gaming-545127438.svg" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165869886/pk-feature-icon-gaming-545127438.svg" alt="A space docking station is shown in front of a planet on two screens. The spacecraft on the left screen is blurred with the text “NVIDIA G-SYNC OFF” underneath, and the right is sharp and clear with the text “NVIDIA G-SYNC ON” underneath." role="img" data-comp-name="image" src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165869886/pk-feature-icon-gaming-545127438.svg" style="">
                   </div>
                 </div>
                 <p class="pdd30-highlights__name">G-Sync</p>
@@ -6335,7 +6335,7 @@ digitalData.page.pageInfo.pageName = pageName;
 							<img class="image__preview responsive-img image--loaded image--hide" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/165869890/pk-feature-gaming-545127448" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/165869890/pk-feature-gaming-545127449" alt="A curved monitor shows a forest with glowing flowers, with the flowers flowing out of the screen." src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/165869890/pk-feature-gaming-545127448" aria-hidden="true">
 							<img class="image__main responsive-img image--loaded" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/165869890/pk-feature-gaming-545127448" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/165869890/pk-feature-gaming-545127449" alt="A curved monitor shows a forest with glowing flowers, with the flowers flowing out of the screen." src="<?php echo CW_BASE_URL; ?>/is/image/samsung/p6pim/pk/feature/165869890/pk-feature-gaming-545127448" style="">
 						</div>
-					<figure style="width: 100%; height: 100%;"><video class="video-player" playsinline="" controls="" disableremoteplayback="" preload="auto" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/content/samsung/p6pim/pk/feature/165869890/pk-feature-gaming-545127447.mp4" type="video/mp4"></video><p class="hidden">A curved monitor shows a forest with glowing flowers, with the flowers flowing out of the screen.</p></figure></div>
+					<figure style="width: 100%; height: 100%;"><video class="video-player" playsinline="" controls="" disableremoteplayback="" preload="auto" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/is/content/samsung/p6pim/pk/feature/165869890/pk-feature-gaming-545127447.mp4" type="video/mp4"></video><p class="hidden">A curved monitor shows a forest with glowing flowers, with the flowers flowing out of the screen.</p></figure></div>
 				</div>
 			</div>
 		</div>
@@ -11196,7 +11196,7 @@ div.bv_modal_component_container[data-bv-modal] .bv_modal_outer_content {
 	</sly> -->
 	
 	<!--[if lt IE 9]>
-	<script src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
+	<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
 	<![endif]-->
 	<!--[if lte IE 9]>
 	<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>
@@ -12676,8 +12676,8 @@ div.bv_modal_component_container[data-bv-modal] .bv_modal_outer_content {
 								<li class="sc-learn-more-popup__item">
 									<div class="sc-learn-more-popup__image">
 										<div class="image">
-											<img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png" data-mobile-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png$260_140_PNG$" alt="alt text" role="img" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png">
-											<img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png" data-mobile-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png$260_140_PNG$" alt="alt text" role="img" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png">
+											<img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/03_coverage_Upto2claims-103cc82d6b.png" alt="alt text" role="img" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png">
+											<img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/assets/images/03_coverage_Upto2claims-103cc82d6b.png" alt="alt text" role="img" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/03_coverage_Upto2claims.png">
 										</div>
 									</div>
 									<strong class="sc-learn-more-popup__title">4 claims within</strong>
@@ -12992,8 +12992,8 @@ div.bv_modal_component_container[data-bv-modal] .bv_modal_outer_content {
 				
                   <div class="image">
                     
-	                    <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg" data-mobile-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg?$680_398_PNG$" alt="Accidental damage, Worldwide cover, Repairs by genuine parts" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg">
-        	            <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg" data-mobile-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg?$680_398_PNG$" alt="Accidental damage, Worldwide cover, Repairs by genuine parts" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg">
+	                    <img class="image__preview lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg" alt="Accidental damage, Worldwide cover, Repairs by genuine parts" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg">
+        	            <img class="image__main lazy-load responsive-img" data-desktop-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg" data-mobile-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg" alt="Accidental damage, Worldwide cover, Repairs by genuine parts" data-src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg">
                   	
                                       	
                   </div>

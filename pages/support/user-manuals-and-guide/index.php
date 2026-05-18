@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-PK" data-di-loaded="1"><head>
 	<!-- PWA - manifest
-	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
+	<link rel="manifest" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
 	 -->
 	<!-- PWA - Browser Compatible
 	<script async src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
@@ -4179,7 +4179,7 @@ if (window.location.search.includes('spr_o')) {
 	</sly> -->
 	
 	<!--[if lt IE 9]>
-	<script src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
+	<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
 	<![endif]-->
 	<!--[if lte IE 9]>
 	<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>
@@ -4213,7 +4213,7 @@ if (window.location.search.includes('spr_o')) {
 	
 		<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/support/su-g-manuals-and-download-page/clientlibs/site.min.2b8ecbb08eb88f8212211161675aa5f9.js" async=""></script>
 	
-		<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/common/cm-g-static-content/clientlibs/site.min.d41d8cd98f00b204e9800998ecf8427e.js" async=""></script>
+		<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/function/fn-g-personalization/clientlibs/site.min.d41d8cd98f00b204e9800998ecf8427e.css" async=""></script>
 	
 	
     

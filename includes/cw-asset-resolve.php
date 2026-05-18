@@ -58,6 +58,28 @@ function cw_resolve_local_asset_path(string $webPath): ?string
         }
     }
 
+    // Extensionless is/image gallery files (e.g. p6pim thumbs without .jpg suffix)
+    if (is_file($direct) && filesize($direct) > 0) {
+        return $direct;
+    }
+
+    // assets/images hashed filenames: name-{hash}.jpg
+    if ($baseName !== '' && str_starts_with($webPath, '/is/image/')) {
+        $stem = preg_replace('/\.[^.]+$/', '', $baseName) ?? $baseName;
+        $stem = preg_replace('/-[0-9a-f]{8,12}$/i', '', $stem) ?? $stem;
+        $imagesDir = $root . '/assets/images';
+        if (is_dir($imagesDir)) {
+            $matches = glob($imagesDir . '/' . $stem . '*');
+            if (is_array($matches)) {
+                foreach ($matches as $match) {
+                    if (is_file($match) && filesize($match) > 0) {
+                        return $match;
+                    }
+                }
+            }
+        }
+    }
+
     return null;
 }
 

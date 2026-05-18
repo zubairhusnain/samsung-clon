@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-PK" class="desktop mac Chrome" data-di-loaded="1" style="scroll-padding-top: 99px;"><head>
 	<!-- PWA - manifest
-	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
+	<link rel="manifest" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
 	 -->
 	<!-- PWA - Browser Compatible
 	<script async src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
@@ -3167,7 +3167,7 @@ var digitalData = {
             <img loading="lazy" class="image__preview responsive-img image--loaded image--hide" data-aem-asset-id="" data-desktop-alt="Desktop Alternative Text" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/test/monitors/monitor-buying-guide-test/main/250408/00_Introduce_KV_f00_PC_2.jpg" data-mobile-alt="Mobile Alternative Text" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/test/monitors/monitor-buying-guide-test/main/250408/00_Introduce_KV_f00_MO.jpg" alt="Desktop Alternative Text" src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/test/monitors/monitor-buying-guide-test/main/250408/00_Introduce_KV_f00_PC_2.jpg" aria-hidden="true">
             <img loading="lazy" class="image__main responsive-img image--loaded" data-aem-asset-id="" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/monitors/monitor-buying-guide/00_landing_f00_pc.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/monitors/monitor-buying-guide/00_Landing_f00_mo.jpg" alt="Essentials for your use: Gaming vs Home Office. Video game console, trophy, 240Hz and 1ms icons surround the text." src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/monitors/monitor-buying-guide/00_landing_f00_pc.png" style="">
         </div>
-    <figure style="width: 100%; height: 100%;" class="video--played"><video class="video-player" playsinline="" loop="" disableremoteplayback="" preload="auto" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/monitors/monitor-buying-guide/00_landing_f00_pc.mp4" type="video/mp4"></video><p class="hidden">Essentials for your use: Gaming vs Home Office. Video game console, trophy, 240Hz and 1ms icons surround the text.</p></figure></div>
+    <figure style="width: 100%; height: 100%;" class="video--played"><video class="video-player" playsinline="" loop="" disableremoteplayback="" preload="auto" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/monitors/monitor-buying-guide/00_landing_f00_pc.mp4" type="video/mp4"></video><p class="hidden">Essentials for your use: Gaming vs Home Office. Video game console, trophy, 240Hz and 1ms icons surround the text.</p></figure></div>
     
     
     
@@ -3332,7 +3332,7 @@ var digitalData = {
             <img loading="lazy" class="image__preview lazy-load responsive-img" data-aem-asset-id="" data-desktop-alt="Desktop Alternative Text" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/test/monitors/monitor-buying-guide-test/main/250408/00_Introduce_KV2_f00_PC.jpg" data-mobile-alt="Mobile Alternative Text" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/test/monitors/monitor-buying-guide-test/main/250408/00_Introduce_KV2_f00_mo.jpg" alt="Desktop Alternative Text" data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/test/monitors/monitor-buying-guide-test/main/250408/00_Introduce_KV2_f00_PC.jpg">
             <img loading="lazy" class="image__main lazy-load responsive-img" data-aem-asset-id="" data-desktop-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/monitors/monitor-buying-guide/00_landing_f02_pc.png" data-mobile-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/monitors/monitor-buying-guide/00_landing_f02_mo.jpg" alt="Tap things to know about monitors. Curve, Size, Refresh Rate(Hz) and Resolution icons surround the text." data-src="<?php echo CW_BASE_URL; ?>/is/image/samsung/assets/pk/monitors/monitor-buying-guide/00_landing_f02_pc.png">
         </div>
-    <figure style="width: 100%; height: 100%;"><video class="video-player" playsinline="" loop="" disableremoteplayback="" preload="auto" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/monitors/monitor-buying-guide/00_landing_f02_pc.mp4" type="video/mp4"></video><p class="hidden">Tap things to know about monitors. Curve, Size, Refresh Rate(Hz) and Resolution icons surround the text.</p></figure></div>
+    <figure style="width: 100%; height: 100%;"><video class="video-player" playsinline="" loop="" disableremoteplayback="" preload="auto" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/monitors/monitor-buying-guide/00_landing_f02_pc.mp4" type="video/mp4"></video><p class="hidden">Tap things to know about monitors. Curve, Size, Refresh Rate(Hz) and Resolution icons surround the text.</p></figure></div>
     
     
     
@@ -4515,7 +4515,7 @@ var digitalData = {
 	</sly> -->
 	
 	<!--[if lt IE 9]>
-	<script src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
+	<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
 	<![endif]-->
 	<!--[if lte IE 9]>
 	<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>

@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-PK" class="desktop mac Chrome" data-di-loaded="1"><head>
 	<!-- PWA - manifest
-	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
+	<link rel="manifest" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
 	 -->
 	<!-- PWA - Browser Compatible
 	<script async src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
@@ -7387,7 +7387,7 @@ var digitalData = {
 						<div class="text-editor__column-wrap">
 							
 							<div class="text-editor__column description-text-size--medium">
-								<p style="text-align: center;">1.&nbsp;<a href="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/terms-and-conditions/deals/SEPAK_Samsung_AI_Week_Regular_offer_TCs.pdf" data-di-id="di-id-f01fdbca-133addf6">Terms and conditions</a> of the offer and samsung.com apply.</p>
+								<p style="text-align: center;">1.&nbsp;<a href="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/terms-and-conditions/deals/SEPAK_Samsung_AI_Week_Regular_offer_TCs.pdf" data-di-id="di-id-f01fdbca-133addf6">Terms and conditions</a> of the offer and samsung.com apply.</p>
 <p style="text-align: center;">* Contains AI-generated images with post-editing applied.</p>
 <p style="text-align: center;">* Samsung account login may be required for certain AI features.</p>
 <p style="text-align: center;">* Image simulated for illustrative purposes only. Actual UX/UI may vary depending on software version, model, region, and other factors.</p>
@@ -8133,7 +8133,7 @@ var digitalData = {
 	</sly> -->
 	
 	<!--[if lt IE 9]>
-	<script src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
+	<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
 	<![endif]-->
 	<!--[if lte IE 9]>
 	<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>

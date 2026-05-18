@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-PK" class="desktop mac Chrome" data-di-loaded="1"><head>
 	<!-- PWA - manifest
-	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
+	<link rel="manifest" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
 	 -->
 	<!-- PWA - Browser Compatible
 	<script async src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
@@ -3313,7 +3313,7 @@ var digitalData = {
 								&quot;controls&quot;: true}">
 								
 								
-							<figure style="width: 100%; height: 100%;" class="video--played"><video class="video-player" playsinline="" controls="" loop="" disableremoteplayback="" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/content/samsung/assets/pk/s2602/all_about_galaxy/01_KV_pc.mp4" type="video/mp4"></video><p class="hidden">Galaxy S26 Ultra in Cobalt Violet is seen from the side. As it rotates, the rear cameras are seen. Next, three more devices in Sky Blue, White and Black fan out from the original device and are also seen from the back. S Pen slides into view. Scene changes and a hand holds Galaxy S26 Ultra in Cobalt Violet. When viewed straight on, the display is visible including a messaging app. When the user rotates the viewing angle to the side, the screen dims and the onscreen content becomes less visible. When the viewing angle returns to show the screen straight on, the contents are visible again. Scene changes and Galaxy S26 Ultra's customized chip is seen with NPU, GPU and CPU. The original chip transforms to say AI. Zooming out, a camera lens appears. Zooming inside the lens, it transforms to a video being shot in low light. Thanks to Nightography , details remain vivid and clear. Scene changes and a photo of a dog is seen. In Photo Assist, the user can describe what to change by inputting a text prompt. After typing 'Make this his birthday party', the Generate button is pressed. Galaxy AI transforms the photo by adding various birthday themed accessories on and around the dog.</p></figure></div>
+							<figure style="width: 100%; height: 100%;" class="video--played"><video class="video-player" playsinline="" controls="" loop="" disableremoteplayback="" style="width: 100%; height: 100%;"><source src="<?php echo CW_BASE_URL; ?>/is/content/samsung/assets/pk/s2602/all_about_galaxy/01_KV_pc.mp4" type="video/mp4"></video><p class="hidden">Galaxy S26 Ultra in Cobalt Violet is seen from the side. As it rotates, the rear cameras are seen. Next, three more devices in Sky Blue, White and Black fan out from the original device and are also seen from the back. S Pen slides into view. Scene changes and a hand holds Galaxy S26 Ultra in Cobalt Violet. When viewed straight on, the display is visible including a messaging app. When the user rotates the viewing angle to the side, the screen dims and the onscreen content becomes less visible. When the viewing angle returns to show the screen straight on, the contents are visible again. Scene changes and Galaxy S26 Ultra's customized chip is seen with NPU, GPU and CPU. The original chip transforms to say AI. Zooming out, a camera lens appears. Zooming inside the lens, it transforms to a video being shot in low light. Thanks to Nightography , details remain vivid and clear. Scene changes and a photo of a dog is seen. In Photo Assist, the user can describe what to change by inputting a text prompt. After typing 'Make this his birthday party', the Generate button is pressed. Galaxy AI transforms the photo by adding various birthday themed accessories on and around the dog.</p></figure></div>
 						
 					</div>
 					
@@ -8040,7 +8040,7 @@ var digitalData = {
 	</sly> -->
 	
 	<!--[if lt IE 9]>
-	<script src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
+	<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
 	<![endif]-->
 	<!--[if lte IE 9]>
 	<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>
