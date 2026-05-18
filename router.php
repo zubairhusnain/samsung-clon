@@ -32,6 +32,30 @@ if ($path === '/pk' || $path === '/pk/') {
 $rootReal = realpath(__DIR__);
 $pagesReal = realpath(__DIR__ . '/pages');
 
+if (str_starts_with($path, '/front/b2c/product/finder/')) {
+    header('Content-Type: application/json; charset=utf-8');
+    header('Cache-Control: no-store');
+    echo json_encode([
+        'response' => [
+            'statusCode' => '200',
+            'statusMessage' => 'OK',
+            'resultData' => [
+                'productList' => [],
+                'filterList' => [],
+                'totalCount' => 0,
+            ],
+        ],
+    ]);
+    exit;
+}
+
+if (preg_match('~^/\d+/pageInfo$~', $path)) {
+    header('Content-Type: application/json; charset=utf-8');
+    header('Cache-Control: no-store');
+    echo '{}';
+    exit;
+}
+
 if (str_starts_with($path, '/v6/')) {
     error_log("router.php: path=$path, query=$query");
     if (str_contains($path, '..')) {

@@ -20,14 +20,11 @@
   <!-- <meta name="msapplication-TileImage" content="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/icon/pwa_icon_192x192.png">
     <meta name="msapplication-TileColor" content="#000000"> -->
 
-
   <link rel="preconnect" href="https://images.samsung.com">
 
-
   <!-- Load clientLibs required when initializing Authoring: head.html override required to be added! -->
 
   <!-- Load clientLibs required when initializing Authoring: head.html override required to be added! -->
-
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -36,15 +33,11 @@
   <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
   <!-- SEO -->
 
-
   <title>Samsung Galaxy S26 with Galaxy AI | Samsung Pakistan</title>
-
 
   <meta name="title" content="Samsung Galaxy S26 with Galaxy AI | Samsung Pakistan">
 
-
   <link rel="canonical" href="<?php echo CW_BASE_URL; ?>/smartphones/galaxy-s26/">
-
 
   <meta name="keywords"
     content="samsung s26, samsung s26 plus, s26, s26 plus, samsung galaxy s26, samsung galaxy s26 plus, ai photo editor, ai assistant, ai picture generator, bixby, camera lenses, galaxy ai, ai search">
@@ -53,9 +46,7 @@
   <meta name="date" content="2026-05-14">
   <meta name="sitecode" content="pk">
 
-
   <meta name="robots" content="max-image-preview:large">
-
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@Samsung_Pak">
@@ -65,7 +56,6 @@
   <meta name="twitter:description" content="Discover Samsung Galaxy S26 and get 30% off on the S26 Magnet Case in Samsung Pakistan's AI Week offers. Now only Rs. 356,999. Experience Galaxy AI.
 ">
   <meta name="twitter:image" content="<?php echo CW_BASE_URL; ?>/assets/images/galaxy-s26-share-image.jpg">
-
 
   <meta property="og:url" content="https://www.samsung.com/pk/smartphones/galaxy-s26/">
   <meta property="og:image" content="<?php echo CW_BASE_URL; ?>/assets/images/galaxy-s26-share-image.jpg">
@@ -85,7 +75,6 @@
   <meta property="keywords"
     content="samsung s26, samsung s26 plus, s26, s26 plus, samsung galaxy s26, samsung galaxy s26 plus, ai photo editor, ai assistant, ai picture generator, bixby, camera lenses, galaxy ai, ai search">
 
-
   <meta name="thumbnail" content="<?php echo CW_BASE_URL; ?>/assets/images/galaxy-s26-thumbnail-image.jpg"
     alt="Galaxy S26">
 
@@ -98,18 +87,14 @@
     href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/app_ico.png"
     sizes="144x144">
 
-
   <!-- css 위치 변경 1) fonts.css  2) local.css 3) clientlib 카테고리 (230317) -->
-
 
   <link rel="stylesheet"
     href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/sites/global/css/fonts.min.b044099f83e7f412097f7d677f78166c.css"
     type="text/css">
 
-
   <!-- Local CSS 등록 -->
   <!-- 파일의 내용이 있는 경우만 호출되도록 수정 (240528) -->
-
 
   <link rel="stylesheet"
     href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.1dd1d47f040029bab499de380db9b346.css"
@@ -118,27 +103,22 @@
     href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux25.min.e6a951def9419a5699483a55807d80c3.css"
     type="text/css">
 
-
   <link rel="preload" as="image"
     href="<?php echo CW_BASE_URL; ?>/assets/images/galaxy-s26-features-kv-mo-532c3a9076.jpg" media="(max-width:767px)">
   <link rel="preload" as="image" href="<?php echo CW_BASE_URL; ?>/assets/images/galaxy-s26-features-kv-294fb67e76.jpg"
     media="(min-width:768px)">
 
-
   <link rel="stylesheet"
     href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-flagship/compact.min.62588a336410ea3911140e4ffee8fdc5.css"
     type="text/css">
-
 
   <link rel="stylesheet"
     href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/product-popup/pd-g-register-product-popup/clientlibs/site.min.9d80c62d4c20e97e31e1b17a681f95b0.css"
     type="text/css">
 
-
   <link rel="stylesheet"
     href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/epp/common/ep-cm-g-barcode-scanner-popup/clientlibs/site.min.b791cc7424186d4c95539d287b2c66cc.css"
     type="text/css">
-
 
   <link rel="stylesheet"
     href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/product/pd-g-floating-nav/clientlibs/site.min.a17bedb8aa814fe49241a9649064dbf9.css"
@@ -152,28 +132,9 @@
     href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/navigation/nv-g-breadcrumb/clientlibs/site.min.01c1e7bc1eb1645deacabd158fc75f0f.css"
     type="text/css">
 
-
-  <iframe src="javascript:void(0)" title="" role="presentation"
-    style="width: 0px; height: 0px; border: 0px; display: none;"></iframe>
-  <script async="true"
-    src="https://tr.snapchat.com/config/com/545d6e93-a700-41dd-9ae4-69f812f462c9.js?v=3.56.1-2604231811"
-    crossorigin="anonymous"></script>
-  <script type="text/javascript" async=""
-    src="https://www.googletagmanager.com/gtag/js?id=DC-9855140&amp;cx=c&amp;gtm=4e65d0"></script>
-  <script type="text/javascript" async=""
-    src="https://prod-live-chat.sprinklr.com/api/livechat/handshake/widget/60925c5400498836b785ad6b_app_930540"></script>
-  <script async="" src="https://static.ads-twitter.com/uwt.js"></script>
-  <script async="" src="https://www.googletagmanager.com/gtag/js"></script>
-  <script async="" src="https://sc-static.net/scevent.min.js"></script>
-  <script async="" src="//samsungpakistan.api.useinsider.com/ins.js?id=10005181"></script>
-  <script
-    src="https://connect.facebook.net/signals/config/482024727631312?v=2.9.319&amp;r=stable&amp;domain=www.samsung.com&amp;hme=7441a59ee5070e08bd0157a62d39bd95bf3afdcc83dafbad800e78b5416300a9&amp;ex_m=104%2C207%2C155%2C22%2C72%2C73%2C146%2C68%2C67%2C11%2C164%2C90%2C16%2C138%2C48%2C147%2C77%2C112%2C47%2C127%2C39%2C75%2C78%2C134%2C160%2C166%2C8%2C4%2C5%2C7%2C6%2C3%2C91%2C101%2C167%2C172%2C221%2C62%2C188%2C189%2C55%2C278%2C30%2C74%2C233%2C232%2C231%2C23%2C33%2C103%2C61%2C10%2C63%2C97%2C98%2C99%2C105%2C130%2C31%2C29%2C132%2C133%2C129%2C128%2C156%2C76%2C159%2C157%2C158%2C50%2C60%2C123%2C15%2C163%2C45%2C265%2C266%2C264%2C26%2C27%2C28%2C18%2C20%2C44%2C40%2C42%2C41%2C83%2C92%2C96%2C110%2C145%2C148%2C46%2C111%2C24%2C21%2C119%2C69%2C36%2C150%2C149%2C151%2C142%2C140%2C25%2C35%2C59%2C109%2C162%2C70%2C17%2C153%2C114%2C81%2C66%2C19%2C85%2C86%2C116%2C84%2C136%2C135%2C139%2C161%2C34%2C280%2C296%2C214%2C203%2C204%2C202%2C299%2C290%2C52%2C215%2C107%2C131%2C80%2C121%2C54%2C49%2C113%2C120%2C126%2C58%2C64%2C152%2C115%2C37%2C32%2C53%2C56%2C100%2C165%2C1%2C124%2C14%2C122%2C12%2C2%2C57%2C93%2C65%2C118%2C89%2C88%2C168%2C169%2C94%2C95%2C9%2C125%2C102%2C51%2C143%2C87%2C79%2C71%2C117%2C106%2C43%2C144%2C0%2C82%2C137%2C141%2C154%2C38%2C108%2C13%2C170"
-    async=""></script>
-  <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script>
-  <script type="text/javascript" async=""
-    src="https://storage.googleapis.com/media-tagging/adservices/pR_QCO-pkEBEN7Jr8AC/sdk.prd.js"></script>
-  <script src="//www.mczbf.com/tags/1201033469139/tag.js" type="text/javascript" async="" id="cjapitag"></script>
-  <script async="" src="https://cdn.decibelinsight.net/i/14121/2907677/di.js"></script>
+  
+  
+  
   <script type="text/javascript">
     var winhref = window.location.href.replace("/content/samsung", "").replace(".html", "/");
     if (winhref.indexOf("?") > 0) {
@@ -247,30 +208,23 @@
     }
   </script>
 
-
   <script type="text/javascript">
     digitalData.page.pageInfo.pageTrack = "flagship pdp";
   </script>
 
+  
 
-  <!-- Excluding tagging-related scripts in Author mode -->
+  
 
-
-  <!-- End Adobe Target Flicker handling -->
-
-  <!-- Launch Header Embed Code -->
-  <script src="//assets.adobedtm.com/72afb75f5516/c8864665ea19/launch-0948a427feec.min.js" async=""></script>
-  <!-- End Launch Header Embed Code -->
-
+  
 
   <!-- ugcGallary -->
 
   <!-- false -->
 
-
-  <script>(window.BOOMR_mq = window.BOOMR_mq || []).push(["addVar", { "rua.upush": "false", "rua.cpush": "false", "rua.upre": "false", "rua.cpre": "false", "rua.uprl": "false", "rua.cprl": "true", "rua.cprf": "false", "rua.trans": "SJ-ebe5e881-73b2-4b5e-8b9f-0e5dd032918c", "rua.cook": "true", "rua.ims": "false", "rua.ufprl": "false", "rua.cfprl": "false", "rua.isuxp": "false", "rua.texp": "norulematch", "rua.ceh": "false", "rua.ueh": "false", "rua.ieh.st": "0" }]);</script>
+  
   <script>!function () { function o(n, i) { if (n && i) for (var r in i) i.hasOwnProperty(r) && (void 0 === n[r] ? n[r] = i[r] : n[r].constructor === Object && i[r].constructor === Object ? o(n[r], i[r]) : n[r] = i[r]) } try { var n = decodeURIComponent("%7B%20%22request_client_hints%22%3A%20true%20%7D"); if (n.length > 0 && window.JSON && "function" == typeof window.JSON.parse) { var i = JSON.parse(n); void 0 !== window.BOOMR_config ? o(window.BOOMR_config, i) : window.BOOMR_config = i } } catch (r) { window.console && "function" == typeof window.console.error && console.error("mPulse: Could not parse configuration", r) } }();</script>
-  <script>!function (a) { var e="", t = "addEventListener"; if ("False" == "True") a.BOOMR_config = a.BOOMR_config || {}, a.BOOMR_config.PageParams = a.BOOMR_config.PageParams || {}, a.BOOMR_config.PageParams.pci = !0, e=""; if (window.BOOMR_API_key = "VRZKC-5BSTD-4EWS3-R2J59-B8GYB", function () { function n(e) { a.BOOMR_onload = e && e.timeStamp || (new Date).getTime() } if (!a.BOOMR || !a.BOOMR.version && !a.BOOMR.snippetExecuted) { a.BOOMR = a.BOOMR || {}, a.BOOMR.snippetExecuted = !0; var i, _, o, r = document.createElement("iframe"); if (a[t]) a[t]("load", n, !1); else if (a.attachEvent) a.attachEvent("onload", n); r.src = "javascript:void(0)", r.title = "", r.role = "presentation", (r.frameElement || r).style.cssText = "width:0;height:0;border:0;display:none;", o = document.getElementsByTagName("script")[0], o.parentNode.insertBefore(r, o); try { _ = r.contentWindow.document } catch (O) { i = document.domain, r.src = "javascript:var d=document.open();d.domain='" + i + "';void(0);", _ = r.contentWindow.document } _.open()._l = function () { var a = this.createElement("script"); if (i) this.domain = i; a.id = "boomr-if-as", a.src = e + "VRZKC-5BSTD-4EWS3-R2J59-B8GYB", BOOMR_lstart = (new Date).getTime(), this.body.appendChild(a) }, _.write("<bo" + 'dy onload="document._l();">'), _.close() } }(), "".length > 0) if (a && "performance" in a && a.performance && "function" == typeof a.performance.setResourceTimingBufferSize) a.performance.setResourceTimingBufferSize(); !function () { if (BOOMR = a.BOOMR || {}, BOOMR.plugins = BOOMR.plugins || {}, !BOOMR.plugins.AK) { var e = "true" == "true" ? 1 : 0, t = "cookiepresent", n = "w2yv6f24pids42qigv2q-f-26d54207a-clientnsv4-s.akamaihd.net", i = "false" == "true" ? 2 : 1, _ = { "ak.v": "41", "ak.cp": "154960", "ak.ai": parseInt("293013", 10), "ak.ol": "0", "ak.cr": 42, "ak.ipv": 4, "ak.proto": "h3", "ak.rid": "4e4ed1a", "ak.r": 27110, "ak.a2": e, "ak.m": "x", "ak.n": "essl", "ak.cport": 50684, "ak.gh": "104.116.245.62", "ak.quicv": "0x00000001", "ak.tlsv": "tls1.3", "ak.0rtt": "", "ak.0rtt.ed": "", "ak.csrc": "-", "ak.acc": "", "ak.t": "1778922869", "ak.ak": "hOBiQwZUYzCg5VSAfCLimQ==uDzOl8Kuv7AtWrMkQbmTLkoPfE4Dt6/pn1H1F0ZCucH0H6yR4P9WbgLk0mO4YfYRggrR//IaQ0GVbMkLYJB2NIq+6RzACyNG3GFBHAfF7sJczGBO9jtr/Wv1oQoT5//ZNguuWTJfAe49AQykONBi0w4cWDX2YGhfyVFpSKU3Jz9ZniFOsn56EDMG7tGSnDjjPCZe9GTb0rEVh22HjkOg9L+gD7yOKtbzDY1YwgMUTWEtyxv6QEkCTw3xSYpynNKnFsvD+FCFr2cyqTj1vmEmDIAr5mNvfTYJerDtLV+MBT0oeQmPNdMQsTueiyPHgY7OiJxrhbXKUoBEsw3V5Ajz+Ch1o/ndve9J10q9BUhDnxxx6kC/bewsFrqYrpPCyNRGe9IoJ9HZYTPcxLCDpl9RLYydA2pE+qclWri3KUX/GaM=", "ak.pv": "4313", "ak.dpoabenc": "", "ak.tf": i }; if ("" !== t) _["ak.ruds"] = t; var o = { i: !1, av: function (e) { var t = "http.initiator"; if (e && (!e[t] || "spa_hard" === e[t])) _["ak.feo"] = void 0 !== a.aFeoApplied ? 1 : 0, BOOMR.addVar(_) }, rv: function () { var a = ["ak.cport", "ak.cr", "ak.csrc", "ak.gh", "ak.ipv", "ak.m", "ak.n", "ak.ol", "ak.proto", "ak.quicv", "ak.tlsv", "ak.0rtt", "ak.0rtt.ed", "ak.r", "ak.acc", "ak.t", "ak.tf"]; BOOMR.removeVar(a) } }; BOOMR.plugins.AK = { akVars: _, akDNSPreFetchDomain: n, init: function () { if (!o.i) { var a = BOOMR.subscribe; a("before_beacon", o.av, null, null), a("onbeacon", o.rv, null, null), o.i = !0 } return this }, is_complete: function () { return !0 } } } }() }(window);</script>
+  
   <script type="application/ld+json"
     id="bv-jsonld-reviews-data">{"review":[{"dateCreated":"2026-03-17T14:51:23.000+00:00","datePublished":"2026-04-27T12:24:26.000+00:00","headline":"Great Features v worst features","reviewBody":"God Father of Display and Performance . \nBeast of display, i have never seen such a amazing display in any phone. \nI am Big fan of Samsung Plus models but they make me upsat in Camera, they haven't improved it, atleast they can do is To make apperatur large.","reviewRating":{"@type":"Rating","ratingValue":5,"bestRating":5},"author":{"@type":"Person","name":"Sajjad Ali"},"image":[],"video":[]},{"dateCreated":"2026-04-10T05:22:39.000+00:00","datePublished":"2026-04-13T00:48:32.000+00:00","headline":"Amazing Phone, Bad Battery","reviewBody":"The battery is very poor on S26 base model. It barely gives me 3 hours screen on time. My S22 used to give me 2 hours, considering it's 4 years newer and brand new, 3 hours is quite bad. The camera is not that much different either, apart from AI, no major difference in picture quality. The display is amazing, way better than older galaxy phones. It is amazingly fast in terms of processing, i am however having a little issue of heat even though it has the new vapor chamber.","reviewRating":{"@type":"Rating","ratingValue":4,"bestRating":5},"author":{"@type":"Person","name":"WildAssassin69"},"image":[],"video":[]}],"@id":"https://www.samsung.com/pk/smartphones/galaxy-s26/","@context":"https://schema.org"}</script>
   <style>
@@ -11514,67 +11468,27 @@
       display:none !important;
     }
   </style>
-  <script
-    src="https://assets.adobedtm.com/72afb75f5516/c8864665ea19/b3c45c8c4655/RC7a156666b8524ed985ccae961ce08ecd-source.min.js"
-    async=""></script>
-  <script
-    src="//samsungrum.beusable.net/load/b170105e175055u968?url=https%3A%2F%2Fwww.samsung.com%2Fpk%2Fsmartphones%2Fgalaxy-s26%2F"
-    async="" type="text/javascript"></script>
-  <script
-    src="https://assets.adobedtm.com/72afb75f5516/c8864665ea19/b3c45c8c4655/RC469114e7ae594916aaf37e4ed8748b36-source.min.js"
-    async=""></script>
-  <script
-    src="https://assets.adobedtm.com/72afb75f5516/c8864665ea19/b3c45c8c4655/RC6c508c4c6cd94fa591739f1bd7210460-source.min.js"
-    async=""></script>
-  <script
-    src="https://assets.adobedtm.com/72afb75f5516/c8864665ea19/b3c45c8c4655/RC63a6a6225b634ffd9bb89f3b10a16a98-source.min.js"
-    async=""></script>
-  <script
-    src="https://assets.adobedtm.com/72afb75f5516/c8864665ea19/b3c45c8c4655/RC03fcf09cc9e84774ba67e88fb4d5783c-source.min.js"
-    async=""></script>
-  <script
-    src="https://assets.adobedtm.com/72afb75f5516/c8864665ea19/b3c45c8c4655/RC0345a7b9fcc243b6ae0acb95a8762120-source.min.js"
-    async=""></script>
-  <script
-    src="https://assets.adobedtm.com/72afb75f5516/c8864665ea19/b3c45c8c4655/RCb76c24a449564d82948bc4a066ce7fb1-source.min.js"
-    async=""></script>
-  <script
-    src="https://assets.adobedtm.com/72afb75f5516/c8864665ea19/b3c45c8c4655/RC27064e3d747f4776894905c6ff3a0a5c-source.min.js"
-    async=""></script>
-  <script
-    src="https://assets.adobedtm.com/72afb75f5516/c8864665ea19/b3c45c8c4655/RC7296750fff48403882b1a4bb0916d407-source.min.js"
-    async=""></script>
-  <script
-    src="https://assets.adobedtm.com/72afb75f5516/c8864665ea19/b3c45c8c4655/RCce6205acb1bf44cc8bb70bd186a27978-source.min.js"
-    async=""></script>
-  <script
-    src="https://assets.adobedtm.com/72afb75f5516/c8864665ea19/b3c45c8c4655/RCc3f4c835d3e84276a1733192763e72cc-source.min.js"
-    async=""></script>
-  <script
-    src="https://assets.adobedtm.com/72afb75f5516/c8864665ea19/b3c45c8c4655/RC53181377a9b44b24ab91b91dec460154-source.min.js"
-    async=""></script>
-  <script
-    src="https://assets.adobedtm.com/72afb75f5516/c8864665ea19/b3c45c8c4655/RC5d6ff23effdd48b5ae19d59bffed2505-source.min.js"
-    async=""></script>
-  <script
-    src="https://assets.adobedtm.com/72afb75f5516/c8864665ea19/b3c45c8c4655/RC075e09af98c74260977329df79df9d40-source.min.js"
-    async=""></script>
-  <script
-    src="https://assets.adobedtm.com/72afb75f5516/c8864665ea19/b3c45c8c4655/RCe818790f2e324873b29cb580579b2208-source.min.js"
-    async=""></script>
-  <script
-    src="https://assets.adobedtm.com/72afb75f5516/c8864665ea19/b3c45c8c4655/RCc86a238f572340a4895b78a410c32e0f-source.min.js"
-    async=""></script>
-  <script type="text/javascript" async="" src="//t.contentsquare.net/uxa/977f9a82566fb.js"></script>
-  <script
-    src="https://assets.adobedtm.com/72afb75f5516/c8864665ea19/b3c45c8c4655/RC1e87cf0d3c7c45e58df6a0f274799f33-source.min.js"
-    async=""></script>
-  <script
-    src="https://assets.adobedtm.com/72afb75f5516/c8864665ea19/b3c45c8c4655/RC77e15e47753045158f0fad7691db3bcf-source.min.js"
-    async=""></script>
-  <script
-    src="https://assets.adobedtm.com/72afb75f5516/c8864665ea19/b3c45c8c4655/RC1d2f519b629e46d4b65d07d261e03212-source.min.js"
-    async=""></script>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <style data-emotion="css-global"></style>
   <style data-emotion="css-global"></style>
   <style data-emotion="css-global"></style>
@@ -15178,15 +15092,12 @@
       if('serviceWorker' in navigator) {
         navigator.serviceWorker.register('/sw.js')
         .then(function(registration) {
-          console.log("Service Worker registered with scope:", registration.scope);
         });
       }
       
       window.addEventListener('beforeinstallprompt', (e) => {
           // Prevent Chrome 67 and earlier from automatically showing the prompt
           //e.preventDefault();
-      
-        console.log("beforeinstallprompt");
     
       }); 
     </script>
@@ -15200,15 +15111,12 @@
     //404 페이지에서는 실행하지 않음.
     if (window.location.href.indexOf('404') < 0 && isTopNotDotcom) {
       if (isInIframe == true) {
-        console.log('isInIframe =' + isInIframe);
         //에러 페이지 이동  self.location.href   /"+siteCd+"/common/404.html 
         window.location.href = '/pk/common/404.html';
       } else {
-        console.log('isInIframe =' + isInIframe);
       }
     }
   </script>
-
 
   <div id="wrap">
     <!-- 공통  hidden input 시작-->
@@ -15252,7 +15160,6 @@
     <input type="hidden" name="versionHashValue" id="versionHashValue" data-di-id="#versionHashValue">
     <!-- 공통  hidden input 끝-->
 
-
     <section class="progress cm-loader" style="display:none;">
       <div class="progress__wrapper">
         <div class="progress__circle-1"></div>
@@ -15264,13 +15171,10 @@
 
     <!-- <script type="text/javascript" src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/js/crypto-js.min.js"></script> -->
 
-
     <script
       src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/global/js/crypto-js.min.6fa2276cf659f30cabde72a6fc452171.js"></script>
 
-
     <script type="text/javascript" src="<?php echo CW_BASE_URL; ?>/assets/js/account-internal.min.js"></script>
-
 
     <header id="header" role="banner">
       <!--googleoff: all-->
@@ -15279,15 +15183,11 @@
 
       </div>
 
-
       <div class="cookie-bar cookie-bar--type-manage" role="status" data-nosnippet="" style="display: block;">
-
 
         <div class="cookie-bar__wrap" data-initialized="true">
 
-
           <div class="cookie-bar__msg-wrap">
-
 
             <div class="cookie-bar__msg">
               <p class="cookie-bar__title">Samsung and Cookies</p>
@@ -15306,7 +15206,6 @@
             </div>
           </div>
 
-
           <button class="cookie-bar__close cookie-bar__main-close" an-tr="cod01_cookie bar-flagship pdp-cta-button"
             an-ca="other interaction" an-ac="cookie bar:close" an-la="cookie bar:close"
             data-di-id="di-id-61cee054-6ecd191d">
@@ -15318,34 +15217,26 @@
         </div>
       </div>
 
-
     </header>
     <!-- isSaleApplicationCookie=[] -->
     <!-- getSaleApplicationCookieValue=[] -->
-
 
     <div class="newpar new section">
 
     </div>
 
-
     <div class="par iparys_inherited">
-
 
     </div>
 
-
     <!--# COD05_Mobile App Download Banner #-->
-
 
     <input type="hidden" name="st_checked" id="st_checked" value="2026-05-15 08:03:50" data-di-id="#st_checked">
     <input type="hidden" name="cck" id="cck" value="cedc6238tqcf1t4f0vl7g50mc70d6a5a" data-di-id="#cck">
     <input type="hidden" name="gPriceCurrency" id="gPriceCurrency" value="PKR" data-di-id="#gPriceCurrency">
     <input type="hidden" name="pageTrack" id="pageTrack" value="flagship pdp" data-di-id="#pageTrack">
 
-
     <!-- SAHR-56183: Hide the epp bar in all cases -->
-
 
     <nav id="component-id" class="nv00-gnb-v4 nv00-gnb-v4--text-type" role="navigation" aria-label="main navigation"
       style="--gnb04-top: 0px; --gnb04-rightmenu-top: 0px;">
@@ -15365,10 +15256,8 @@
               </svg>
             </a>
 
-
             <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
               
-
 
               
                 <svg class="icon" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96"
@@ -15378,7 +15267,6 @@
                     transform="translate(-0.5 0.5)"></path>
                 </svg>
               </span>
-
 
               
 
@@ -15393,10 +15281,8 @@
               </button>
             </div>
 
-
           </div>
           <div class="nv00-gnb-v4__container">
-
 
             <div class="nv00-gnb-v4__container-header nv00-gnb-v4--mobile-only">
               <button class="nv00-gnb-v4__backward-btn" data-di-id="di-id-9ccd0b3d-4892d007">
@@ -15409,19 +15295,15 @@
               
             </div>
 
-
             <div class="nv00-gnb-v4__container-inner">
-
 
               <p class="nv00-gnb-v4__l0-menu-list-title nv00-gnb-v4--mobile-only">SHOP BY CATEGORY</p>
 
               <ul class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menubar"
                 aria-label="main menu">
 
-
                 <li class="nv00-gnb-v4__l0-menu">
                   <div class="nv00-gnb-v4__l0-menu-title">
-
 
                     <a class="nv00-gnb-v4__l0-menu-link" an-tr="nv00_gnb-flagship pdp-l0-navigation2" an-ca="navigation"
                       an-ac="gnb" an-la="L0_2_shop" href="<?php echo CW_BASE_URL; ?>/offer/" data-js-action="l0MenuBtn"
@@ -15430,9 +15312,7 @@
 
                       <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--mobile-only">Explore Shop</span>
 
-
                     </a>
-
 
                     <button class="nv00-gnb-v4__l0-menu-toggle-btn" role="menuitem"
                       an-tr="nv00_gnb-flagship pdp-l0-navigation2" an-ca="navigation" an-ac="gnb" an-la="L0_2_shop"
@@ -15440,12 +15320,10 @@
                       <span class="hidden">Shop</span>
                     </button>
 
-
                   </div>
                   <!--  L1 Start -->
                   <div class="nv00-gnb-v4__l1-menu-container" aria-hidden="true">
                     <div class="nv00-gnb-v4__l1-menu-container-header nv00-gnb-v4--mobile-only">
-
 
                       <a href="<?php echo CW_BASE_URL; ?>/offer/" class="nv00-gnb-v4__l1-menu-container-title"
                         an-tr="nv00_gnb-flagship pdp-l0-navigation2" an-ca="navigation" an-ac="gnb" an-la="L0_2_shop"
@@ -15453,9 +15331,7 @@
 
                     </div>
 
-
                     <!-- Type A Start -->
-
 
                     <!-- Type A Start -->
                     <div class="nv00-gnb-v4__l1-menu-inner">
@@ -15471,7 +15347,6 @@
                         <!-- TV&AV Include L2 Start -->
 
                         <!-- TV&AV Include L2 End -->
-
 
                         <!-- TV&AV Do Not Contain L2 Start -->
 
@@ -15500,7 +15375,6 @@
 
                         <!-- TV&AV Include L2 End -->
 
-
                         <!-- TV&AV Do Not Contain L2 Start -->
 
                         <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-flagship pdp-l1-navigation2"
@@ -15528,7 +15402,6 @@
 
                         <!-- TV&AV Include L2 End -->
 
-
                         <!-- TV&AV Do Not Contain L2 Start -->
 
                         
@@ -15538,7 +15411,6 @@
                         <!-- TV&AV Include L2 Start -->
 
                         <!-- TV&AV Include L2 End -->
-
 
                         <!-- TV&AV Do Not Contain L2 Start -->
 
@@ -15567,7 +15439,6 @@
 
                         <!-- TV&AV Include L2 End -->
 
-
                         <!-- TV&AV Do Not Contain L2 Start -->
 
                         
@@ -15578,7 +15449,6 @@
 
                         <!-- TV&AV Include L2 End -->
 
-
                         <!-- TV&AV Do Not Contain L2 Start -->
 
                         
@@ -15588,7 +15458,6 @@
                         <!-- TV&AV Include L2 Start -->
 
                         <!-- TV&AV Include L2 End -->
-
 
                         <!-- TV&AV Do Not Contain L2 Start -->
 
@@ -15618,7 +15487,6 @@
 
                         <!-- TV&AV Include L2 End -->
 
-
                         <!-- TV&AV Do Not Contain L2 Start -->
 
                         <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-flagship pdp-l1-navigation2"
@@ -15647,7 +15515,6 @@
 
                         <!-- TV&AV Include L2 End -->
 
-
                         <!-- TV&AV Do Not Contain L2 Start -->
 
                         <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-flagship pdp-l1-navigation2"
@@ -15674,7 +15541,6 @@
                         <!-- TV&AV Include L2 Start -->
 
                         <!-- TV&AV Include L2 End -->
-
 
                         <!-- TV&AV Do Not Contain L2 Start -->
 
@@ -15704,7 +15570,6 @@
 
                         <!-- TV&AV Include L2 End -->
 
-
                         <!-- TV&AV Do Not Contain L2 Start -->
 
                         <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-flagship pdp-l1-navigation2"
@@ -15732,7 +15597,6 @@
 
                         <!-- TV&AV Include L2 End -->
 
-
                         <!-- TV&AV Do Not Contain L2 Start -->
 
                         <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-flagship pdp-l1-navigation2"
@@ -15759,7 +15623,6 @@
                         <!-- TV&AV Include L2 Start -->
 
                         <!-- TV&AV Include L2 End -->
-
 
                         <!-- TV&AV Do Not Contain L2 Start -->
 
@@ -15805,7 +15668,6 @@
                         <!-- VD No Setting Start -->
                         <div class="nv00-gnb-v4__l1-featured">
 
-
                           <a class="nv00-gnb-v4__l1-featured-link"
                             href="<?php echo CW_BASE_URL; ?>/buy-direct-get-more/" role="menuitem"
                             an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation" an-ac="gnb"
@@ -15813,13 +15675,11 @@
                             Buy Direct Get More
                           </a>
 
-
                           <a class="nv00-gnb-v4__l1-featured-link" href="<?php echo CW_BASE_URL; ?>/offer/samsung-week/"
                             role="menuitem" an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation"
                             an-ac="gnb" an-la="L0_2_shop:banner_2_Samsung AI Week" data-di-id="di-id-d6d50901-ed11247b">
                             Samsung AI Week
                           </a>
-
 
                           <a class="nv00-gnb-v4__l1-featured-link"
                             href="<?php echo CW_BASE_URL; ?>/offer/mobile/smartphones/" role="menuitem"
@@ -15828,13 +15688,11 @@
                             Smartphone
                           </a>
 
-
                           <a class="nv00-gnb-v4__l1-featured-link" href="<?php echo CW_BASE_URL; ?>/smartthings/"
                             role="menuitem" an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation"
                             an-ac="gnb" an-la="L0_2_shop:banner_4_smartthings" data-di-id="di-id-b1af326-1fd7eea3">
                             SmartThings
                           </a>
-
 
                           <a class="nv00-gnb-v4__l1-featured-link"
                             href="<?php echo CW_BASE_URL; ?>/offer/mobile/wearables-and-accessories/" role="menuitem"
@@ -15843,7 +15701,6 @@
                             Wearables
                           </a>
 
-
                           <a class="nv00-gnb-v4__l1-featured-link"
                             href="<?php echo CW_BASE_URL; ?>/offer/mobile/tablets/" role="menuitem"
                             an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation" an-ac="gnb"
@@ -15851,14 +15708,12 @@
                             Tablets
                           </a>
 
-
                         </div>
                         <!-- VD No Setting End -->
                       </div>
                       <!-- Type A Banner End -->
                     </div>
                     <!-- Type A End  -->
-
 
                     <!-- Type A End  -->
 
@@ -15876,10 +15731,8 @@
                   </div>
                 </li>
 
-
                 <li class="nv00-gnb-v4__l0-menu">
                   <div class="nv00-gnb-v4__l0-menu-title">
-
 
                     <a class="nv00-gnb-v4__l0-menu-link" an-tr="nv00_gnb-flagship pdp-l0-navigation2" an-ca="navigation"
                       an-ac="gnb" an-la="L0_3_mobile" href="<?php echo CW_BASE_URL; ?>/smartphones/all-smartphones/"
@@ -15893,12 +15746,10 @@
                       <span class="hidden">Mobile</span>
                     </button>
 
-
                   </div>
                   <!--  L1 Start -->
                   <div class="nv00-gnb-v4__l1-menu-container" aria-hidden="true">
                     <div class="nv00-gnb-v4__l1-menu-container-header nv00-gnb-v4--mobile-only">
-
 
                       <a href="<?php echo CW_BASE_URL; ?>/smartphones/all-smartphones/"
                         class="nv00-gnb-v4__l1-menu-container-title" an-tr="nv00_gnb-flagship pdp-l0-navigation2"
@@ -15907,9 +15758,7 @@
 
                     </div>
 
-
                     <!-- Type A Start -->
-
 
                     <!-- Type A Start -->
                     <div class="nv00-gnb-v4__l1-menu-inner">
@@ -15943,7 +15792,6 @@
 
                         <!-- TV&AV Include L2 End -->
 
-
                         <!-- TV&AV Do Not Contain L2 Start -->
 
                         <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-flagship pdp-l1-navigation2"
@@ -15969,7 +15817,6 @@
                         <!-- TV&AV Include L2 Start -->
 
                         <!-- TV&AV Include L2 End -->
-
 
                         <!-- TV&AV Do Not Contain L2 Start -->
 
@@ -15997,7 +15844,6 @@
 
                         <!-- TV&AV Include L2 End -->
 
-
                         <!-- TV&AV Do Not Contain L2 Start -->
 
                         <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-flagship pdp-l1-navigation2"
@@ -16024,7 +15870,6 @@
                         <!-- TV&AV Include L2 Start -->
 
                         <!-- TV&AV Include L2 End -->
-
 
                         <!-- TV&AV Do Not Contain L2 Start -->
 
@@ -16070,7 +15915,6 @@
                         <!-- VD No Setting Start -->
                         <div class="nv00-gnb-v4__l1-featured">
 
-
                           <a class="nv00-gnb-v4__l1-featured-link" href="<?php echo CW_BASE_URL; ?>/mobile/"
                             role="menuitem" an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation"
                             an-ac="gnb" an-la="L0_3_mobile:banner_1_all about galaxy"
@@ -16078,13 +15922,11 @@
                             All about Galaxy
                           </a>
 
-
                           <a class="nv00-gnb-v4__l1-featured-link" href="<?php echo CW_BASE_URL; ?>/galaxy-ai/"
                             role="menuitem" an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation"
                             an-ac="gnb" an-la="L0_3_mobile:banner_2_galaxy ai" data-di-id="di-id-ce4677d7-f8423708">
                             Galaxy AI
                           </a>
-
 
                           <a class="nv00-gnb-v4__l1-featured-link"
                             href="<?php echo CW_BASE_URL; ?>/mobile/find-your-galaxy/" role="menuitem"
@@ -16093,7 +15935,6 @@
                             Find your Galaxy
                           </a>
 
-
                           <a class="nv00-gnb-v4__l1-featured-link"
                             href="<?php echo CW_BASE_URL; ?>/mobile/switch-to-galaxy/" role="menuitem"
                             an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation" an-ac="gnb"
@@ -16101,13 +15942,11 @@
                             Switch to Galaxy
                           </a>
 
-
                           <a class="nv00-gnb-v4__l1-featured-link" href="<?php echo CW_BASE_URL; ?>/one-ui/"
                             role="menuitem" an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation"
                             an-ac="gnb" an-la="L0_3_mobile:banner_5_one ui" data-di-id="di-id-28f93871-9b22cad1">
                             One UI
                           </a>
-
 
                           <a class="nv00-gnb-v4__l1-featured-link"
                             href="<?php echo CW_BASE_URL; ?>/apps/samsung-health/" role="menuitem"
@@ -16116,7 +15955,6 @@
                             Samsung Health
                           </a>
 
-
                           <a class="nv00-gnb-v4__l1-featured-link" href="<?php echo CW_BASE_URL; ?>/apps/"
                             role="menuitem" an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation"
                             an-ac="gnb" an-la="L0_3_mobile:banner_7_apps and services"
@@ -16124,14 +15962,12 @@
                             Apps &amp; Services
                           </a>
 
-
                         </div>
                         <!-- VD No Setting End -->
                       </div>
                       <!-- Type A Banner End -->
                     </div>
                     <!-- Type A End  -->
-
 
                     <!-- Type A End  -->
 
@@ -16149,10 +15985,8 @@
                   </div>
                 </li>
 
-
                 <li class="nv00-gnb-v4__l0-menu">
                   <div class="nv00-gnb-v4__l0-menu-title">
-
 
                     <a class="nv00-gnb-v4__l0-menu-link" an-tr="nv00_gnb-flagship pdp-l0-navigation2" an-ca="navigation"
                       an-ac="gnb" an-la="L0_4_tv and av" href="<?php echo CW_BASE_URL; ?>/tvs/all-tvs/"
@@ -16166,12 +16000,10 @@
                       <span class="hidden">TV &amp; AV</span>
                     </button>
 
-
                   </div>
                   <!--  L1 Start -->
                   <div class="nv00-gnb-v4__l1-menu-container" aria-hidden="true">
                     <div class="nv00-gnb-v4__l1-menu-container-header nv00-gnb-v4--mobile-only">
-
 
                       <a href="<?php echo CW_BASE_URL; ?>/tvs/all-tvs/" class="nv00-gnb-v4__l1-menu-container-title"
                         an-tr="nv00_gnb-flagship pdp-l0-navigation2" an-ca="navigation" an-ac="gnb"
@@ -16179,9 +16011,7 @@
 
                     </div>
 
-
                     <!-- Type A Start -->
-
 
                     <!-- Type A Start -->
                     <div class="nv00-gnb-v4__l1-menu-inner">
@@ -16215,7 +16045,6 @@
 
                         <!-- TV&AV Include L2 End -->
 
-
                         <!-- TV&AV Do Not Contain L2 Start -->
 
                         <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-flagship pdp-l1-navigation2"
@@ -16242,7 +16071,6 @@
 
                         <!-- TV&AV Include L2 End -->
 
-
                         <!-- TV&AV Do Not Contain L2 Start -->
 
                         <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-flagship pdp-l1-navigation2"
@@ -16268,7 +16096,6 @@
                         <!-- TV&AV Include L2 Start -->
 
                         <!-- TV&AV Include L2 End -->
-
 
                         <!-- TV&AV Do Not Contain L2 Start -->
 
@@ -16297,7 +16124,6 @@
 
                         <!-- TV&AV Include L2 End -->
 
-
                         <!-- TV&AV Do Not Contain L2 Start -->
 
                         <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-flagship pdp-l1-navigation2"
@@ -16324,7 +16150,6 @@
                         <!-- TV&AV Include L2 Start -->
 
                         <!-- TV&AV Include L2 End -->
-
 
                         <!-- TV&AV Do Not Contain L2 Start -->
 
@@ -16353,7 +16178,6 @@
 
                         <!-- TV&AV Include L2 End -->
 
-
                         <!-- TV&AV Do Not Contain L2 Start -->
 
                         <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-flagship pdp-l1-navigation2"
@@ -16380,7 +16204,6 @@
                         <!-- TV&AV Include L2 Start -->
 
                         <!-- TV&AV Include L2 End -->
-
 
                         <!-- TV&AV Do Not Contain L2 Start -->
 
@@ -16415,13 +16238,11 @@
                                 an-ac="gnb" an-la="L0_4_tv and av:L1_8_tvs by size:L2_1_all"
                                 data-di-id="di-id-75fb74c6-411371d5">All</a>
 
-
                               <a class="nv00-gnb-v4__l2-menu-link"
                                 href="<?php echo CW_BASE_URL; ?>/tvs/all-tvs/?98-110inch" role="menuitem"
                                 an-tr="nv00_gnb-flagship pdp-l1-navigation2" an-ca="navigation" an-ac="gnb"
                                 an-la="L0_4_tv and av:L1_8_tvs by size:L2_2_over 98 inch tvs"
                                 data-di-id="di-id-75fb74c6-411371d5">Over 98 inch TVs</a>
-
 
                               <a class="nv00-gnb-v4__l2-menu-link"
                                 href="<?php echo CW_BASE_URL; ?>/tvs/all-tvs/?83-85-inch" role="menuitem"
@@ -16429,13 +16250,11 @@
                                 an-la="L0_4_tv and av:L1_8_tvs by size:L2_3_83 and 85 inch tvs"
                                 data-di-id="di-id-75fb74c6-411371d5">83 &amp; 85 inch TVs</a>
 
-
                               <a class="nv00-gnb-v4__l2-menu-link"
                                 href="<?php echo CW_BASE_URL; ?>/tvs/all-tvs/?75-77-inch" role="menuitem"
                                 an-tr="nv00_gnb-flagship pdp-l1-navigation2" an-ca="navigation" an-ac="gnb"
                                 an-la="L0_4_tv and av:L1_8_tvs by size:L2_4_75 and 77 inch tvs"
                                 data-di-id="di-id-75fb74c6-411371d5">75 &amp; 77 inch TVs</a>
-
 
                               <a class="nv00-gnb-v4__l2-menu-link"
                                 href="<?php echo CW_BASE_URL; ?>/tvs/all-tvs/?65-inch" role="menuitem"
@@ -16443,13 +16262,11 @@
                                 an-la="L0_4_tv and av:L1_8_tvs by size:L2_5_65 inch tvs"
                                 data-di-id="di-id-75fb74c6-411371d5">65 inch TVs</a>
 
-
                               <a class="nv00-gnb-v4__l2-menu-link"
                                 href="<?php echo CW_BASE_URL; ?>/tvs/all-tvs/?55-inch" role="menuitem"
                                 an-tr="nv00_gnb-flagship pdp-l1-navigation2" an-ca="navigation" an-ac="gnb"
                                 an-la="L0_4_tv and av:L1_8_tvs by size:L2_6_55 inch tvs"
                                 data-di-id="di-id-75fb74c6-411371d5">55 inch TVs</a>
-
 
                               <a class="nv00-gnb-v4__l2-menu-link"
                                 href="<?php echo CW_BASE_URL; ?>/tvs/all-tvs/?48-50-inch" role="menuitem"
@@ -16457,13 +16274,11 @@
                                 an-la="L0_4_tv and av:L1_8_tvs by size:L2_7_48 and 50 inch tvs"
                                 data-di-id="di-id-75fb74c6-411371d5"> 48 &amp; 50 inch TVs</a>
 
-
                               <a class="nv00-gnb-v4__l2-menu-link"
                                 href="<?php echo CW_BASE_URL; ?>/tvs/all-tvs/?43-inch" role="menuitem"
                                 an-tr="nv00_gnb-flagship pdp-l1-navigation2" an-ca="navigation" an-ac="gnb"
                                 an-la="L0_4_tv and av:L1_8_tvs by size:L2_8_43 inch tvs"
                                 data-di-id="di-id-75fb74c6-411371d5"> 43 inch TVs</a>
-
 
                               <a class="nv00-gnb-v4__l2-menu-link"
                                 href="<?php echo CW_BASE_URL; ?>/tvs/all-tvs/?32-or-smaller" role="menuitem"
@@ -16493,14 +16308,12 @@
                         <!-- VD No Setting Start -->
                         <div class="nv00-gnb-v4__l1-featured">
 
-
                           <a class="nv00-gnb-v4__l1-featured-link" href="<?php echo CW_BASE_URL; ?>/tvs/vision-ai-tv/"
                             role="menuitem" an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation"
                             an-ac="gnb" an-la="L0_4_tv and av:banner_1_Samsung Vision AI"
                             data-di-id="di-id-cc099f0-acb74970">
                             Samsung Vision AI
                           </a>
-
 
                           <a class="nv00-gnb-v4__l1-featured-link"
                             href="<?php echo CW_BASE_URL; ?>/tvs/oled-tv/highlights/" role="menuitem"
@@ -16509,14 +16322,12 @@
                             Why OLED
                           </a>
 
-
                           <a class="nv00-gnb-v4__l1-featured-link"
                             href="<?php echo CW_BASE_URL; ?>/lifestyle-tvs/the-frame/highlights/" role="menuitem"
                             an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation" an-ac="gnb"
                             an-la="L0_4_tv and av:banner_3_Why The Frame" data-di-id="di-id-50d560c1-ff92ba1f">
                             Why The Frame
                           </a>
-
 
                           <a class="nv00-gnb-v4__l1-featured-link" href="<?php echo CW_BASE_URL; ?>/tvs/help-me-choose/"
                             role="menuitem" an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation"
@@ -16525,7 +16336,6 @@
                             Help choose my TV
                           </a>
 
-
                           <a class="nv00-gnb-v4__l1-featured-link" href="<?php echo CW_BASE_URL; ?>/store-locator/"
                             role="menuitem" an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation"
                             an-ac="gnb" an-la="L0_4_tv and av:banner_5_Where to Buy"
@@ -16533,14 +16343,12 @@
                             Where to Buy
                           </a>
 
-
                         </div>
                         <!-- VD No Setting End -->
                       </div>
                       <!-- Type A Banner End -->
                     </div>
                     <!-- Type A End  -->
-
 
                     <!-- Type A End  -->
 
@@ -16558,10 +16366,8 @@
                   </div>
                 </li>
 
-
                 <li class="nv00-gnb-v4__l0-menu">
                   <div class="nv00-gnb-v4__l0-menu-title">
-
 
                     <a class="nv00-gnb-v4__l0-menu-link" an-tr="nv00_gnb-flagship pdp-l0-navigation2" an-ca="navigation"
                       an-ac="gnb" an-la="L0_5_appliances"
@@ -16577,12 +16383,10 @@
                       <span class="hidden">Appliances</span>
                     </button>
 
-
                   </div>
                   <!--  L1 Start -->
                   <div class="nv00-gnb-v4__l1-menu-container" aria-hidden="true">
                     <div class="nv00-gnb-v4__l1-menu-container-header nv00-gnb-v4--mobile-only">
-
 
                       <a href="<?php echo CW_BASE_URL; ?>/refrigerators/all-refrigerators/"
                         class="nv00-gnb-v4__l1-menu-container-title" an-tr="nv00_gnb-flagship pdp-l0-navigation2"
@@ -16591,20 +16395,17 @@
 
                     </div>
 
-
                     <!-- Type A Start -->
 
                     <!-- Type A End  -->
 
                     <!-- Type B Start -->
 
-
                     <!-- Type B Start -->
                     <div class="nv00-gnb-v4__l1-menu-inner nv00-gnb-v4__l1-menu-inner--2rows">
 
                       <!-- layoutRow === 1 -->
                       <div class="nv00-gnb-v4__l1-menu-list" role="menu" aria-label="Kitchen Appliances menu">
-
 
                         <a class="nv00-gnb-v4__l1-menu-link"
                           href="<?php echo CW_BASE_URL; ?>/refrigerators/all-refrigerators/" role="menuitem"
@@ -16625,7 +16426,6 @@
 
                         </a>
 
-
                         <a class="nv00-gnb-v4__l1-menu-link"
                           href="<?php echo CW_BASE_URL; ?>/dishwashers/all-dishwashers/" role="menuitem"
                           an-tr="nv00_gnb-flagship pdp-l1-navigation2" an-ca="navigation" an-ac="gnb"
@@ -16645,11 +16445,9 @@
 
                         </a>
 
-
                       </div>
                       <!-- layoutRow === 2 -->
                       <div class="nv00-gnb-v4__l1-menu-list" role="menu" aria-label="Living Appliances menu">
-
 
                         <a class="nv00-gnb-v4__l1-menu-link"
                           href="<?php echo CW_BASE_URL; ?>/washers-and-dryers/all-washers-and-dryers/" role="menuitem"
@@ -16670,7 +16468,6 @@
 
                         </a>
 
-
                         <a class="nv00-gnb-v4__l1-menu-link"
                           href="<?php echo CW_BASE_URL; ?>/air-conditioners/all-air-conditioners/" role="menuitem"
                           an-tr="nv00_gnb-flagship pdp-l1-navigation2" an-ca="navigation" an-ac="gnb"
@@ -16690,7 +16487,6 @@
 
                         </a>
 
-
                       </div>
 
                       <!-- Type B Banner Start -->
@@ -16707,7 +16503,6 @@
                             Home Appliances Buying Guide
                           </a>
 
-
                           <a class="nv00-gnb-v4__l1-featured-link"
                             href="<?php echo CW_BASE_URL; ?>/home-appliances/faq/" role="menuitem"
                             an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation" an-ac="gnb"
@@ -16719,7 +16514,6 @@
                       <!-- Type B Banner End -->
                     </div>
                     <!-- Type B End -->
-
 
                     <!-- Type B End -->
 
@@ -16733,10 +16527,8 @@
                   </div>
                 </li>
 
-
                 <li class="nv00-gnb-v4__l0-menu">
                   <div class="nv00-gnb-v4__l0-menu-title">
-
 
                     <a class="nv00-gnb-v4__l0-menu-link" an-tr="nv00_gnb-flagship pdp-l0-navigation2" an-ca="navigation"
                       an-ac="gnb" an-la="L0_6_Monitors" href="<?php echo CW_BASE_URL; ?>/monitors/all-monitors/"
@@ -16750,12 +16542,10 @@
                       <span class="hidden">Monitors</span>
                     </button>
 
-
                   </div>
                   <!--  L1 Start -->
                   <div class="nv00-gnb-v4__l1-menu-container" aria-hidden="true">
                     <div class="nv00-gnb-v4__l1-menu-container-header nv00-gnb-v4--mobile-only">
-
 
                       <a href="<?php echo CW_BASE_URL; ?>/monitors/all-monitors/"
                         class="nv00-gnb-v4__l1-menu-container-title" an-tr="nv00_gnb-flagship pdp-l0-navigation2"
@@ -16764,9 +16554,7 @@
 
                     </div>
 
-
                     <!-- Type A Start -->
-
 
                     <!-- Type A Start -->
                     <div class="nv00-gnb-v4__l1-menu-inner">
@@ -16799,7 +16587,6 @@
 
                         <!-- TV&AV Include L2 End -->
 
-
                         <!-- TV&AV Do Not Contain L2 Start -->
 
                         <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-flagship pdp-l1-navigation2"
@@ -16827,7 +16614,6 @@
 
                         <!-- TV&AV Include L2 End -->
 
-
                         <!-- TV&AV Do Not Contain L2 Start -->
 
                         <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-flagship pdp-l1-navigation2"
@@ -16853,7 +16639,6 @@
                         <!-- TV&AV Include L2 Start -->
 
                         <!-- TV&AV Include L2 End -->
-
 
                         <!-- TV&AV Do Not Contain L2 Start -->
 
@@ -16898,7 +16683,6 @@
                         <!-- VD No Setting Start -->
                         <div class="nv00-gnb-v4__l1-featured">
 
-
                           <a class="nv00-gnb-v4__l1-featured-link"
                             href="<?php echo CW_BASE_URL; ?>/monitors/odyssey-gaming-monitor/" role="menuitem"
                             an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation" an-ac="gnb"
@@ -16906,7 +16690,6 @@
                             data-di-id="di-id-1408dbaa-c3ea7ef4">
                             Why Odyssey Gaming Monitor
                           </a>
-
 
                           <a class="nv00-gnb-v4__l1-featured-link"
                             href="<?php echo CW_BASE_URL; ?>/monitors/viewfinity-high-resolution-monitor/"
@@ -16916,7 +16699,6 @@
                             Why ViewFinity High Resolution
                           </a>
 
-
                           <a class="nv00-gnb-v4__l1-featured-link"
                             href="<?php echo CW_BASE_URL; ?>/monitors/monitor-buying-guide/" role="menuitem"
                             an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation" an-ac="gnb"
@@ -16924,14 +16706,12 @@
                             Monitors Buying Guide
                           </a>
 
-
                         </div>
                         <!-- VD No Setting End -->
                       </div>
                       <!-- Type A Banner End -->
                     </div>
                     <!-- Type A End  -->
-
 
                     <!-- Type A End  -->
 
@@ -16949,10 +16729,8 @@
                   </div>
                 </li>
 
-
                 <li class="nv00-gnb-v4__l0-menu">
                   <div class="nv00-gnb-v4__l0-menu-title">
-
 
                     <a class="nv00-gnb-v4__l0-menu-link" an-tr="nv00_gnb-flagship pdp-l0-navigation2" an-ca="navigation"
                       an-ac="gnb" an-la="L0_7_wearables" href="<?php echo CW_BASE_URL; ?>/watches/all-watches/"
@@ -16966,12 +16744,10 @@
                       <span class="hidden">Wearables</span>
                     </button>
 
-
                   </div>
                   <!--  L1 Start -->
                   <div class="nv00-gnb-v4__l1-menu-container" aria-hidden="true">
                     <div class="nv00-gnb-v4__l1-menu-container-header nv00-gnb-v4--mobile-only">
-
 
                       <a href="<?php echo CW_BASE_URL; ?>/watches/all-watches/"
                         class="nv00-gnb-v4__l1-menu-container-title" an-tr="nv00_gnb-flagship pdp-l0-navigation2"
@@ -16980,9 +16756,7 @@
 
                     </div>
 
-
                     <!-- Type A Start -->
-
 
                     <!-- Type A Start -->
                     <div class="nv00-gnb-v4__l1-menu-inner">
@@ -17015,7 +16789,6 @@
 
                         <!-- TV&AV Include L2 End -->
 
-
                         <!-- TV&AV Do Not Contain L2 Start -->
 
                         <a class="nv00-gnb-v4__l1-menu-link" an-tr="nv00_gnb-flagship pdp-l1-navigation2"
@@ -17042,7 +16815,6 @@
                         <!-- TV&AV Include L2 Start -->
 
                         <!-- TV&AV Include L2 End -->
-
 
                         <!-- TV&AV Do Not Contain L2 Start -->
 
@@ -17088,14 +16860,12 @@
                         <!-- VD No Setting Start -->
                         <div class="nv00-gnb-v4__l1-featured">
 
-
                           <a class="nv00-gnb-v4__l1-featured-link" href="<?php echo CW_BASE_URL; ?>/mobile/"
                             role="menuitem" an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation"
                             an-ac="gnb" an-la="L0_7_wearables:banner_1_all about galaxy"
                             data-di-id="di-id-28f93871-f36de76">
                             All about Galaxy
                           </a>
-
 
                           <a class="nv00-gnb-v4__l1-featured-link"
                             href="<?php echo CW_BASE_URL; ?>/apps/samsung-health/" role="menuitem"
@@ -17104,13 +16874,11 @@
                             Samsung Health
                           </a>
 
-
                           <a class="nv00-gnb-v4__l1-featured-link" href="<?php echo CW_BASE_URL; ?>/galaxy-ai/"
                             role="menuitem" an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation"
                             an-ac="gnb" an-la="L0_7_wearables:banner_3_galaxy ai" data-di-id="di-id-ce4677d7-f8423708">
                             Galaxy AI
                           </a>
-
 
                           <a class="nv00-gnb-v4__l1-featured-link"
                             href="<?php echo CW_BASE_URL; ?>/mobile/find-your-galaxy/" role="menuitem"
@@ -17119,7 +16887,6 @@
                             Find your Galaxy
                           </a>
 
-
                           <a class="nv00-gnb-v4__l1-featured-link"
                             href="<?php echo CW_BASE_URL; ?>/mobile/switch-to-galaxy/" role="menuitem"
                             an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation" an-ac="gnb"
@@ -17127,13 +16894,11 @@
                             Switch to Galaxy
                           </a>
 
-
                           <a class="nv00-gnb-v4__l1-featured-link" href="<?php echo CW_BASE_URL; ?>/one-ui/"
                             role="menuitem" an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation"
                             an-ac="gnb" an-la="L0_7_wearables:banner_6_one ui" data-di-id="di-id-28f93871-9b22cad1">
                             One UI
                           </a>
-
 
                           <a class="nv00-gnb-v4__l1-featured-link" href="<?php echo CW_BASE_URL; ?>/apps/"
                             role="menuitem" an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation"
@@ -17142,14 +16907,12 @@
                             Apps &amp; Services
                           </a>
 
-
                         </div>
                         <!-- VD No Setting End -->
                       </div>
                       <!-- Type A Banner End -->
                     </div>
                     <!-- Type A End  -->
-
 
                     <!-- Type A End  -->
 
@@ -17167,10 +16930,8 @@
                   </div>
                 </li>
 
-
                 <li class="nv00-gnb-v4__l0-menu">
                   <div class="nv00-gnb-v4__l0-menu-title">
-
 
                     <a class="nv00-gnb-v4__l0-menu-link" an-tr="nv00_gnb-flagship pdp-l0-navigation2" an-ca="navigation"
                       an-ac="gnb" an-la="L0_8_samsung ai week" href="<?php echo CW_BASE_URL; ?>/offer/samsung-week/"
@@ -17178,17 +16939,14 @@
                       <span class="nv00-gnb-v4__l0-menu-text">Samsung AI Week</span>
                     </a>
 
-
                   </div>
                   <!--  L1 Start -->
 
                 </li>
               </ul>
 
-
               <ul class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--right" role="menubar"
                 aria-label="main menu">
-
 
                 <!-- Type E Support Start -->
                 <li class="nv00-gnb-v4__l0-menu">
@@ -17210,7 +16968,6 @@
                       <!-- Right Column 1 Start -->
                       <div class="nv00-gnb-v4__l1-menu-wrap">
 
-
                         <div class="nv00-gnb-v4__l1-menu" data-js-action="accordionWrap">
                           <button class="nv00-gnb-v4__l1-menu-btn" data-js-action="accordionBtn" role="menuitem"
                             an-tr="nv00_gnb-flagship pdp-text l1-navigation2" an-ca="navigation" an-ac="gnb"
@@ -17230,20 +16987,17 @@
                                 an-ac="gnb" an-la="support:product help:support home"
                                 data-di-id="di-id-d6d50901-1bbf6ecd">Support Home</a>
 
-
                               <a class="nv00-gnb-v4__l2-menu-link"
                                 href="<?php echo CW_BASE_URL; ?>/support/user-manuals-and-guide/" role="menuitem"
                                 an-tr="nv00_gnb-flagship pdp-text l2-navigation2" an-ca="navigation" an-ac="gnb"
                                 an-la="support:product help:manual and software"
                                 data-di-id="di-id-d2f335d4-a6e2a0a">Manual &amp; Software</a>
 
-
                               <a class="nv00-gnb-v4__l2-menu-link"
                                 href="<?php echo CW_BASE_URL; ?>/search/?searchvalue=mobile#support" role="menuitem"
                                 an-tr="nv00_gnb-flagship pdp-text l2-navigation2" an-ca="navigation" an-ac="gnb"
                                 an-la="support:product help:search support" data-di-id="di-id-d6d50901-aed2483f">Search
                                 Support</a>
-
 
                               <a class="nv00-gnb-v4__l2-menu-link" href="<?php echo CW_BASE_URL; ?>/shop-faq/"
                                 role="menuitem" an-tr="nv00_gnb-flagship pdp-text l2-navigation2" an-ca="navigation"
@@ -17252,7 +17006,6 @@
                             </div>
                           </div>
                         </div>
-
 
                         <div class="nv00-gnb-v4__l1-menu" data-js-action="accordionWrap">
                           <button class="nv00-gnb-v4__l1-menu-btn" data-js-action="accordionBtn" role="menuitem"
@@ -17270,14 +17023,11 @@
 
                               
 
-
                               <a class="nv00-gnb-v4__l2-menu-link" href="<?php echo CW_BASE_URL; ?>/support/contact/"
                                 role="menuitem" an-tr="nv00_gnb-flagship pdp-text l2-navigation2" an-ca="navigation"
                                 an-ac="gnb" an-la="support:contact:call" data-di-id="di-id-544a230a-937bfe07">Call</a>
 
-
                               
-
 
                               <a class="nv00-gnb-v4__l2-menu-link" href="<?php echo CW_BASE_URL; ?>/sign-language/"
                                 role="menuitem" an-tr="nv00_gnb-flagship pdp-text l2-navigation2" an-ca="navigation"
@@ -17287,13 +17037,11 @@
                           </div>
                         </div>
 
-
                       </div>
                       <!-- Right Column 1 End -->
 
                       <!-- Right Column 2 Start -->
                       <div class="nv00-gnb-v4__l1-menu-wrap">
-
 
                         <div class="nv00-gnb-v4__l1-menu" data-js-action="accordionWrap">
                           <button class="nv00-gnb-v4__l1-menu-btn" data-js-action="accordionBtn" role="menuitem"
@@ -17314,19 +17062,15 @@
                                 an-ac="gnb" an-la="support:repairs and warranty:warranty information"
                                 data-di-id="di-id-6ed954c-6c66e0e5">Warranty Information</a>
 
-
                               <a class="nv00-gnb-v4__l2-menu-link"
                                 href="<?php echo CW_BASE_URL; ?>/support/service-center/" role="menuitem"
                                 an-tr="nv00_gnb-flagship pdp-text l2-navigation2" an-ca="navigation" an-ac="gnb"
                                 an-la="support:repairs and warranty:service locator"
                                 data-di-id="di-id-50d560c1-197f42d1">Service Center</a>
 
-
                               
 
-
                               
-
 
                               <a class="nv00-gnb-v4__l2-menu-link"
                                 href="<?php echo CW_BASE_URL; ?>/support/repair-price/" role="menuitem"
@@ -17336,7 +17080,6 @@
                             </div>
                           </div>
                         </div>
-
 
                         <div class="nv00-gnb-v4__l1-menu" data-js-action="accordionWrap">
                           <button class="nv00-gnb-v4__l1-menu-btn" data-js-action="accordionBtn" role="menuitem"
@@ -17356,7 +17099,6 @@
                                 role="menuitem" an-tr="nv00_gnb-flagship pdp-text l2-navigation2" an-ca="navigation"
                                 an-ac="gnb" an-la="support:additional support:news and alerts"
                                 data-di-id="di-id-6ed954c-535846f4">News &amp; Alerts</a>
-
 
                               
                             </div>
@@ -17388,7 +17130,6 @@
                           <span class="nv00-gnb-v4__l1-featured-text">Warranty Information</span>
                         </a>
 
-
                         <a class="nv00-gnb-v4__l1-featured-link"
                           href="<?php echo CW_BASE_URL; ?>/support/user-manuals-and-guide/" role="menuitem"
                           an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation" an-ac="gnb"
@@ -17407,7 +17148,6 @@
                           <span class="nv00-gnb-v4__l1-featured-text">Manual Download</span>
                         </a>
 
-
                         <a class="nv00-gnb-v4__l1-featured-link"
                           href="<?php echo CW_BASE_URL; ?>/support/service-center/" role="menuitem"
                           an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation" an-ac="gnb"
@@ -17425,7 +17165,6 @@
                           </div>
                           <span class="nv00-gnb-v4__l1-featured-text">Service Center</span>
                         </a>
-
 
                         <a class="nv00-gnb-v4__l1-featured-link" href="<?php echo CW_BASE_URL; ?>/support/contact/"
                           role="menuitem" an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation"
@@ -17453,7 +17192,6 @@
 
                 <!-- Non-Type Right Menu End -->
 
-
                 <!-- Type E Support Start -->
 
                 <!-- Type E Support End -->
@@ -17473,14 +17211,12 @@
                 <!-- Non-Type Right Menu End -->
               </ul>
 
-
               </div>
                 
                   </div>
                 </div>
 
               </div>
-
 
             </div>
 
@@ -17553,13 +17289,11 @@
       <input type="hidden" name="newMyRewardCurrencyConv" id="newMyRewardCurrencyConv"
         data-di-id="#newMyRewardCurrencyConv">
 
-
       <input type="hidden" name="gnbMyAccountUrl" id="gnbMyAccountUrl" value="/pk/my-account/profile"
         data-di-id="#gnbMyAccountUrl">
 
       <input type="hidden" name="loginValidateYnForGPv2" id="loginValidateYnForGPv2" value=""
         data-di-id="#loginValidateYnForGPv2">
-
 
       <div class="nv00-gnb-v4__layer-popup-wrap">
         <div class="nv00-gnb-v4__layer-popup-looping--start" tabindex="0"></div>
@@ -17648,16 +17382,13 @@
                   </span>
                 </span>
 
-
                 <span class="checkbox-v2__label-text">I have read and agree to the Samsung.com <a
                     href="<?php echo CW_BASE_URL; ?>/info/privacy/" target="_blank" class="link-text"
                     title="Open in a New Window" data-di-id="di-id-f3af1a67-1e8081c4">Privacy Policy</a></span>
               </label>
             </div>
 
-
             <p class="layer-popup__checkbox-desc error" id="errorPrivacy">Tick this box to proceed to Samsung.com.</p>
-
 
             <div class="checkbox-v2">
               <input class="checkbox-v2__input" type="checkbox" name="checkbox" id="privacy-terms2"
@@ -17677,7 +17408,6 @@
             </div>
             <p class="layer-popup__checkbox-desc">Samsung.com Services and marketing information, new product and
               service announcements as well as special offers, events and newsletters.</p>
-
 
           </div>
           <div class="layer-popup__cta-wrap">
@@ -17721,9 +17451,7 @@
         <div class="nv00-gnb-v4__layer-popup-looping--end" tabindex="0"></div>
       </div>
 
-
     </nav>
-
 
     <input type="hidden" name="sc_gnb_searchURL" id="sc_gnb_searchURL" value="/pk/aisearch"
       data-di-id="#sc_gnb_searchURL">
@@ -17740,11 +17468,9 @@
       data-di-id="#sc_gnb_eppUseGnbAiSearchYn">
     <input type="hidden" name="eppFlag" id="eppFlag" value="N" data-di-id="#eppFlag">
 
-
     <section class="srd19-gnb-search" role="dialog" aria-modal="true">
       <div class="srd19-gnb-search__looping--start" tabindex="0"></div>
       <div class="srd19-gnb-search__contents">
-
 
         <form action="" class="srd19-gnb-search__form" role="search" autocomplete="off" data-di-form-track="">
           <fieldset>
@@ -17777,11 +17503,9 @@
           </fieldset>
         </form>
 
-
         <div class="srd19-gnb-search__result-wrap">
           <div class="srd19-gnb-search__result">
             <div class="srd19-gnb-search__searches">
-
 
               <div
                 class="srd19-gnb-search__list-wrap srd19-gnb-search__no-suggestions srd19-gnb-search__list-wrap--hide">
@@ -17792,7 +17516,6 @@
 
               </div>
 
-
               <div class="srd19-gnb-search__list-wrap srd19-gnb-search__ai-search srd19-gnb-search__list-wrap--hide">
                 <div class="srd19-gnb-search__list-title-wrap">
                   <p id="search-list-label" class="srd19-gnb-search__list-title">AI Suggested Searches</p>
@@ -17800,7 +17523,6 @@
                 <ul class="srd19-gnb-search__list" role="list" aria-labelledby="search-list-label">
                 </ul>
               </div>
-
 
               <div class="srd19-gnb-search__list-wrap srd19-gnb-search__suggested srd19-gnb-search__list-wrap--hide">
                 <div class="srd19-gnb-search__list-title-wrap">
@@ -17810,7 +17532,6 @@
                 </ul>
               </div>
 
-
               <div class="srd19-gnb-search__list-wrap srd19-gnb-search__popular">
                 <div class="srd19-gnb-search__list-title-wrap">
                   <p id="search-list-label" class="srd19-gnb-search__list-title">POPULAR SEARCHES</p>
@@ -17818,7 +17539,6 @@
                 <ul class="srd19-gnb-search__list" role="list" aria-labelledby="search-list-label">
                 </ul>
               </div>
-
 
               <div class="srd19-gnb-search__list-wrap srd19-gnb-search__recent  srd19-gnb-search__list-wrap--hide">
                 <div class="srd19-gnb-search__list-title-wrap">
@@ -17830,7 +17550,6 @@
 
             </div>
 
-
             <div class="srd19-gnb-search__thumb srd19-gnb-search__related srd19-gnb-search__list-wrap--hide">
               <div class="srd19-gnb-search__thumb-title-wrap">
                 <p id="rec-label" class="srd19-gnb-search__thumb-title">RELATED PRODUCTS</p>
@@ -17838,7 +17557,6 @@
               <ul class="srd19-gnb-search__thumb-list" role="menu" aria-labelledby="rec-label">
               </ul>
             </div>
-
 
             <div class="srd19-gnb-search__thumb srd19-gnb-search__recommended">
               <div class="srd19-gnb-search__thumb-title-wrap">
@@ -17850,7 +17568,6 @@
 
           </div>
         </div>
-
 
         <button type="button" class="srd19-gnb-search__close" an-tr="srd19_gnb search-flagship pdp-close-search"
           an-ca="search" an-ac="gnb search" an-la="close" data-di-id="di-id-f5246850-ed9b17bf">
@@ -17867,21 +17584,16 @@
 
     <!--googleon: all-->
 
-
     <div id="content" role="main">
       <div class="root responsivegrid">
-
 
         <div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
 
           <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
 
-
             <div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
 
-
               <div class="static-content aem-GridColumn aem-GridColumn--default--12">
-
 
                 <!-- include raw codes -->
                 <script>
@@ -43037,7 +42749,6 @@
                               </picture>
                             </figure>
 
-
                             <div class="features-kv__cta-area-1 shop-status-1">
                               <a href="#" class="common-cta-encased common-cta-encased--white shop-status__pre-reserve"
                                 title="Galaxy S26 | S26+" data-omni-type="microsite_contentinter"
@@ -43910,13 +43621,11 @@
                   </section>
                   <div class="pd-g-floating-nav aem-GridColumn aem-GridColumn--default--12">
 
-
                     <section
                       class="floating-navigation floating-navigation--mobile-scroll floating-navigation--no-cta floating-navigation--theme-white floating-navigation--width-1440 floating-navigation--bg-full">
                       <div class="floating-navigation__wrap">
                         <div class="floating-navigation__inner">
                           <div class="floating-navigation__header">
-
 
                             <div class="floating-navigation__headline">
                               <strong class="floating-navigation__headline-text">
@@ -43926,7 +43635,6 @@
                                   <use xlink:href="#close-up-bold" href="#close-up-bold"></use>
                                 </svg>
                               </strong>
-
 
                               <div class="menu selected">
                                 <select class="menu__select" data-use-link="true" tabindex="-1" aria-hidden="true">
@@ -44070,7 +43778,6 @@
 
                             <div class="floating-navigation__utility">
 
-
                               <ul class="floating-navigation__utility-list">
 
                                 <li class="floating-navigation__utility-item ">
@@ -44083,7 +43790,6 @@
                                     data-media-details="secondary navi:galaxy s26 and s26 plus:features:stk-bar:page:specs"
                                     data-media-action="postClick" data-di-id="di-id-931bfc77-eefa96a2">SPECS
                                   </a>
-
 
                                 </li>
 
@@ -44099,7 +43805,6 @@
                                     data-media-action="postClick" data-di-id="di-id-5f99f984-b5830759">REVIEWS
                                   </a>
 
-
                                 </li>
 
                               </ul>
@@ -44109,7 +43814,6 @@
                               </div>
                             </div>
                           </div>
-
 
                           <div class="floating-navigation__menu-wrap">
                             <div class="floating-navigation__menu swiper-container">
@@ -44125,7 +43829,6 @@
                                 </svg>
                               </button>
                               <ul class="floating-navigation__menu-list swiper-wrapper" role="menubar">
-
 
                                 <li class="floating-navigation__menu-item active swiper-slide" role="presentation">
                                   <a href="<?php echo CW_BASE_URL; ?>/smartphones/galaxy-s26/" aria-label="Features"
@@ -44165,7 +43868,6 @@
                                   </a>
                                 </li>
 
-
                                 <li
                                   class="floating-navigation__menu-item floating-navigation__menu-utility swiper-slide"
                                   role="presentation">
@@ -44178,7 +43880,6 @@
                                     data-media-details="secondary navi:galaxy s26 and s26 plus:features:stk-bar:page:specs"
                                     data-media-action="postClick" data-di-id="di-id-931bfc77-eefa96a2">SPECS
                                   </a>
-
 
                                 </li>
 
@@ -44196,7 +43897,6 @@
                                     data-media-action="postClick" data-di-id="di-id-5f99f984-b5830759">REVIEWS
                                   </a>
 
-
                                 </li>
 
                               </ul>
@@ -44212,10 +43912,8 @@
                                 </svg>
                               </button>
 
-
                             </div>
                           </div>
-
 
                         </div>
                       </div>
@@ -50133,10 +49831,8 @@
                               <div class="features-reviews-out__bv" id="bvoutSummary" data-bv-show="reviews"
                                 data-bv-productid="SM-S942BZVOPKD" data-bv-ready="true" aria-hidden="true"
                                 tabindex="-1"></div>
-                              <script
-                                src="https://apps.bazaarvoice.com/deployments/samsung-en_pk/main_site/production/en_PK/bv.js"></script>
-                              <script
-                                src="https://apps.bazaarvoice.com/deployments/samsung-en_pk/main_site/production/en_PK/bv.js"></script>
+                              
+                              
                             </div>
                           </div>
                         </div>
@@ -50391,7 +50087,6 @@
                         </div>
                       </div>
                       <ol class="common-bottom-disclaimer__list" data-backto="Back to Location" role="list">
-
 
                         <li class="common-bottom-disclaimer__list-item" role="listitem" data-sup="sup-1">
                           <span>Results may vary depending on light condition and/or shooting conditions including
@@ -58906,11 +58601,9 @@
 
               </div>
 
-
               <nav class="breadcrumb" aria-label="Breadcrumb">
                 <div class="breadcrumb__inner">
                   <ul class="breadcrumb__path" role="list">
-
 
                     <li role="listitem">
 
@@ -58922,13 +58615,11 @@
                         <span class="breadcrumb__text-mobile">Home</span>
                       </a>
 
-
                       <svg class="icon" focusable="false" aria-hidden="true" data-di-res-id="46546184-ed1092c5"
                         data-di-rand="1778922890713">
                         <use xlink:href="#next-bold" href="#next-bold"></use>
                       </svg>
                     </li>
-
 
                     <li role="listitem">
 
@@ -58940,13 +58631,11 @@
                         <span class="breadcrumb__text-mobile">Mobile</span>
                       </a>
 
-
                       <svg class="icon" focusable="false" aria-hidden="true" data-di-res-id="46546184-d49db688"
                         data-di-rand="1778922890713">
                         <use xlink:href="#next-bold" href="#next-bold"></use>
                       </svg>
                     </li>
-
 
                     <li role="listitem">
 
@@ -58959,19 +58648,16 @@
                         <span class="breadcrumb__text-mobile">Smartphones</span>
                       </a>
 
-
                       <svg class="icon" focusable="false" aria-hidden="true" data-di-res-id="46546184-b27f115e"
                         data-di-rand="1778922890713">
                         <use xlink:href="#next-bold" href="#next-bold"></use>
                       </svg>
                     </li>
 
-
                     <li role="listitem">
                       <strong class="breadcrumb__text-desktop" aria-current="page">Galaxy S26 | S26+</strong>
                       <strong class="breadcrumb__text-mobile" aria-current="page">Galaxy S26 | S26+</strong>
                     </li>
-
 
                   </ul>
                 </div>
@@ -58984,25 +58670,19 @@
             </div>
           </div>
 
-
         </div>
       </div>
 
     </div>
 
-
     <footer class="footer">
       <!--googleoff: all-->
 
-
       <div class="footer">
-
 
         <div class="footer-column">
 
-
           <p class="hidden">Footer Navigation</p>
-
 
           <div class="footer-column__item">
             <div class="footer-category">
@@ -59020,95 +58700,76 @@
 
                   <li class="footer-category__item" role="listitem">
 
-
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/offer/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="shop:shop home"
                       aria-label="Shop Home Shop Home" an-as="" data-di-id="di-id-b55ff437-b1c32837">Shop Home</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/buy-direct-get-more/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer"
                       an-la="shop:buy direct get more" aria-label="Buy Direct Get More Buy Direct Get More" an-as=""
                       data-di-id="di-id-49be7db6-d06cc199">Buy Direct Get More</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/offer/mobile/smartphones/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="shop:smartphone"
                       aria-label="Smartphone Smartphone" an-as="" data-di-id="di-id-5dad8d64-da68ea6">Smartphone</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/smartthings/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="shop:smartthings"
                       aria-label="SmartThings SmartThings" an-as="" data-di-id="di-id-aa148325-f921f350">SmartThings</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/galaxy-ai/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="shop:discover ai"
                       aria-label="Discover AI Discover AI" an-as="" data-di-id="di-id-11a50a24-c4c313d9">Discover AI</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/offer/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer"
                       an-la="shop:new and featured" aria-label="New and featured New and featured" an-as=""
                       data-di-id="di-id-b55ff437-b1c32837">New and featured</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link"
                       href="<?php echo CW_BASE_URL; ?>/offer/mobile/wearables-and-accessories/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="shop:wearables"
                       aria-label="Wearables Wearables" an-as="" data-di-id="di-id-882f1bf5-832e3512">Wearables</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/offer/mobile/tablets/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="shop:tablets"
                       aria-label="Tablets Tablets" an-as="" data-di-id="di-id-49be7db6-97f25fdd">Tablets</a>
 
-
                   </li>
 
-
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/explore/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="shop:explore"
                       aria-label="Explore Explore" an-as="" data-di-id="di-id-ab6b08dd-e9faaa53">Explore</a>
-
 
                   </li>
 
@@ -59117,7 +58778,6 @@
             </div>
 
           </div>
-
 
           <div class="footer-column__item">
             <div class="footer-category">
@@ -59135,106 +58795,86 @@
 
                   <li class="footer-category__item" role="listitem">
 
-
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/smartphones/all-smartphones/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer"
                       an-la="product:galaxy smartphone" aria-label="Galaxy Smartphone Galaxy Smartphone" an-as=""
                       data-di-id="di-id-c06eefd3-a2f46dae">Galaxy Smartphone</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/tablets/all-tablets/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="product:galaxy tab"
                       aria-label="Galaxy Tab Galaxy Tab" an-as="" data-di-id="di-id-49be7db6-401b6320">Galaxy Tab</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/watches/all-watches/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer"
                       an-la="product:galaxy watch" aria-label="Galaxy Watch Galaxy Watch" an-as=""
                       data-di-id="di-id-49be7db6-7bf0ad21">Galaxy Watch</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/audio-sound/all-audio-sound/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer"
                       an-la="product:galaxy buds" aria-label="Galaxy Buds Galaxy Buds" an-as=""
                       data-di-id="di-id-c06eefd3-671da1cb">Galaxy Buds</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/tvs/all-tvs/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="product:tvs"
                       aria-label="TVs TVs" an-as="" data-di-id="di-id-aa148325-8177c933">TVs</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/projectors/all-projectors/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="product:projectors"
                       aria-label="Projectors Projectors" an-as="" data-di-id="di-id-dbe90e2b-ae68a41a">Projectors</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/refrigerators/all-refrigerators/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer"
                       an-la="product:refrigerators" aria-label="Refrigerators Refrigerators" an-as=""
                       data-di-id="di-id-6722e02b-89ee7efb">Refrigerators</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link"
                       href="<?php echo CW_BASE_URL; ?>/washers-and-dryers/all-washers-and-dryers/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="product:laundry"
                       aria-label="Laundry Laundry" an-as="" data-di-id="di-id-be4c4f13-e9e5937e">Laundry</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/monitors/all-monitors/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="product:monitors"
                       aria-label="Monitors Monitors" an-as="" data-di-id="di-id-cafc1687-968bf2ec">Monitors</a>
 
-
                   </li>
-
 
                 </ul>
               </div>
             </div>
 
           </div>
-
 
           <div class="footer-column__item">
             <div class="footer-category">
@@ -59252,28 +58892,23 @@
 
                   <li class="footer-category__item" role="listitem">
 
-
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/support/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer"
                       an-la="support:support home" aria-label="Support Home Support Home" an-as=""
                       data-di-id="di-id-ab6b08dd-7ade7aeb">Support Home</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/support/user-manuals-and-guide/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer"
                       an-la="support:manual and software" aria-label="Manual &amp; Software Manual &amp; Software"
                       an-as="" data-di-id="di-id-f0c097db-1634b3e">Manual &amp; Software</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link"
                       href="<?php echo CW_BASE_URL; ?>/search/?searchvalue=mobile#support"
@@ -59281,39 +58916,32 @@
                       an-la="support:search support" aria-label="Search Support Search Support" an-as=""
                       data-di-id="di-id-b55ff437-9be73614">Search Support</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/shop-faq/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="support:shop faq"
                       aria-label="Shop FAQ Shop FAQ" an-as="" data-di-id="di-id-ab6b08dd-392d1262">Shop FAQ</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/support/warranty/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer"
                       an-la="support:warranty information" aria-label="Warranty Information Warranty Information"
                       an-as="" data-di-id="di-id-52ca4ab0-69a83fbe">Warranty Information</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/support/service-center/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer"
                       an-la="support:service center" aria-label="Service Center Service Center" an-as=""
                       data-di-id="di-id-cafc1687-8e4500b4">Service Center</a>
 
-
                   </li>
 
                   
@@ -59321,48 +58949,40 @@
                   
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/support/repair-price/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer"
                       an-la="support:repair cost" aria-label="Repair Cost Repair Cost" an-as=""
                       data-di-id="di-id-49be7db6-fa6c3862">Repair Cost</a>
 
-
                   </li>
 
                   
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/support/contact/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="support:call"
                       aria-label="Call Call" an-as="" data-di-id="di-id-52ca4ab0-ea615fe5">Call</a>
 
-
                   </li>
 
                   
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/sign-language/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer"
                       an-la="support:sign language support" aria-label="Sign Language Support Sign Language Support"
                       an-as="" data-di-id="di-id-adc2f6b5-3f7daa69">Sign Language Support</a>
 
-
                   </li>
-
 
                 </ul>
               </div>
             </div>
 
           </div>
-
 
           <div class="footer-column__item">
             <div class="footer-category">
@@ -59386,13 +59006,11 @@
 
                   
 
-
                 </ul>
               </div>
             </div>
 
           </div>
-
 
           <div class="footer-column__item">
             <div class="footer-category">
@@ -59410,17 +59028,14 @@
 
                   <li class="footer-category__item" role="listitem">
 
-
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/sustainability/environment/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer"
                       an-la="sustainability:environment" aria-label="Environment Environment" an-as=""
                       data-di-id="di-id-dbe90e2b-166f49d9">Environment</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link"
                       href="<?php echo CW_BASE_URL; ?>/sustainability/security-and-privacy/"
@@ -59429,11 +59044,9 @@
                       aria-label="Security &amp; Privacy Security &amp; Privacy" an-as=""
                       data-di-id="di-id-282b6396-88aa139d">Security &amp; Privacy</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link"
                       href="<?php echo CW_BASE_URL; ?>/sustainability/accessibility/overview/"
@@ -59441,11 +59054,9 @@
                       an-la="sustainability:accessibility" aria-label="Accessibility Accessibility" an-as=""
                       data-di-id="di-id-882f1bf5-344f5b8d">Accessibility</a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link"
                       href="<?php echo CW_BASE_URL; ?>/sustainability/inclusive-workplace/"
@@ -59453,13 +59064,11 @@
                       an-la="sustainability:inclusive workplace" aria-label="Inclusive Workplace Inclusive Workplace"
                       an-as="" data-di-id="di-id-26b1783c-c7c487dc">Inclusive Workplace</a>
 
-
                   </li>
 
                   
 
                   
-
 
                 </ul>
               </div>
@@ -59479,7 +59088,6 @@
 
                   <li class="footer-category__item" role="listitem">
 
-
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/about-us/company-info/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer"
                       an-la="about us:company info" aria-label="Company Info Company Info" an-as=""
@@ -59487,11 +59095,9 @@
                       Company Info
                     </a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/about-us/business-area/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer"
@@ -59500,11 +59106,9 @@
                       Business Area
                     </a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/about-us/brand-identity/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer"
@@ -59513,11 +59117,9 @@
                       Brand Identity
                     </a>
 
-
                   </li>
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/about-us/careers/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="about us:careers"
@@ -59525,13 +59127,11 @@
                       Careers
                     </a>
 
-
                   </li>
 
                   
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link new-window" href="<?php echo CW_BASE_URL; ?>/news/" target="_blank"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="about us:newsroom"
@@ -59545,20 +59145,17 @@
 
                   <li class="footer-category__item" role="listitem">
 
-
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/about-us/ethics/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer" an-la="about us:ethics"
                       aria-label="Ethics Ethics" an-as="" data-di-id="di-id-52ca4ab0-6ec78013">
                       Ethics
                     </a>
 
-
                   </li>
 
                   
 
                   <li class="footer-category__item" role="listitem">
-
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/innovation-campus/"
                       an-tr="nv01_footer sitemap--cta-menu" an-ca="navigation" an-ac="footer"
@@ -59568,19 +59165,15 @@
                       Samsung Innovation Campus
                     </a>
 
-
                   </li>
-
 
                 </ul>
               </div>
             </div>
           </div>
 
-
         </div>
         <div class="footer-bottom">
-
 
           <div class="footer-copyright-wrap">
             <div class="footer-copyright-align">
@@ -59595,7 +59188,6 @@
                 an-ca="navigation" an-ac="footer" an-la="bottom:country selector:locallist" an-as=""
                 data-di-id="di-id-8a51b6e9-1a878e87">Pakistan/English</a>
             </div>
-
 
           </div>
           <div class="footer-language-wrap" an-tr="nv02_footer bottom--text-scroll" an-ca="scroll" an-ac="scroll:100"
@@ -59612,13 +59204,11 @@
             <div class="footer-terms">
               <ul class="footer-terms__list" role="list">
 
-
                 <li class="footer-terms__item" role="listitem">
                   <a class="footer-terms__link" href="<?php echo CW_BASE_URL; ?>/info/privacy/"
                     an-tr="nv02_footer bottom--cta-bottom" an-ca="navigation" an-ac="footer"
                     an-la="bottom:legal menu:privacy" aria-label="Privacy" an-as=""
                     data-di-id="di-id-8230ba1f-655194a6">Privacy</a>
-
 
                 </li>
 
@@ -59628,7 +59218,6 @@
                     an-la="bottom:legal menu:legal" aria-label="Legal" an-as=""
                     data-di-id="di-id-3724ae4e-409fc390">Legal</a>
 
-
                 </li>
 
                 <li class="footer-terms__item" role="listitem">
@@ -59637,11 +59226,9 @@
                     an-la="bottom:legal menu:sitemap" aria-label="Sitemap" an-as=""
                     data-di-id="di-id-8230ba1f-61718d31">Sitemap</a>
 
-
                 </li>
 
                 <li class="footer-terms__item" role="listitem">
-
 
                   
                 </li>
@@ -59651,12 +59238,9 @@
             
           </div>
 
-
         </div>
 
-
       </div>
-
 
     </footer>
     <button class="fab" an-tr="nv02_footer bottom--text-back to top" an-ca="indication" an-ac="back to top"
@@ -59667,12 +59251,10 @@
     </button>
     <!--googleon: all-->
 
-
     <script
       src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.407b108c60433f00a6b1a0e8f272a2c1.js"></script>
     <script
       src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux25.min.172c7e8f7944347bd914a84f57505c13.js"></script>
-
 
     <!-- <sly data-sly-test="false">
     <script type="text/javascript" src='<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/resources/au/js/au.js'></script>
@@ -59685,9 +59267,7 @@
   <script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>
   <![endif]-->
 
-
     <!-- whereToBuyComponentYn=[N] -->
-
 
     <input type="hidden" value="" id="WishlistPopupUrl"
       data-di-id="#WishlistPopupUrl">
@@ -59818,7 +59398,6 @@
       </div>
     </div>
 
-
     <section class="ftd18-register-product popup" role="dialog" aria-modal="true" data-comp-name="popup"
       data-auto-init="false" id="ftd18RegisterProduct">
       <div class="popup__dimmed"></div>
@@ -59827,7 +59406,6 @@
           <div class="popup__inner-wrap">
             <div class="popup__inner">
               <div class="ftd18-register-product-popup" data-comp-name="registerProduct" data-auto-init="false">
-
 
                 <div class="ftd18-register-product__step-1 show">
                   <p class="ftd18-register-product__title">Product Registration</p>
@@ -59896,7 +59474,6 @@
                   </div>
                 </div>
 
-
                 <div class="ftd18-register-product__step-2">
                   <p class="ftd18-register-product__title">Enter your Serial Number/IMEI</p>
                   <p class="ftd18-register-product__desc myd16-register-description">Quick and easy product
@@ -59905,7 +59482,6 @@
                     data-comp-name="scrollbar" data-auto-resize="">
                     <div class="scrollbar__wrap">
                       <div class="scrollbar__contents">
-
 
                         <div class="text-field-v2" data-comp-name="textFieldv2" data-auto-init="false">
                           <label class="text-field-v2__hint" for="serial-imei">Serial Number/IMEI</label>
@@ -60268,7 +59844,6 @@
                                 </div>
                               </div>
 
-
                               <div class="indicator dot-indicator" data-indicator-data="{
                       &quot;type&quot;: &quot;dot-indicator&quot;,
                       &quot;play&quot;: true,
@@ -60314,7 +59889,6 @@
                     </button>
                   </div>
                 </div>
-
 
                 <div class="ftd18-register-product__step-3">
                   <p class="ftd18-register-product__title">Product registration is almost complete!!</p>
@@ -60433,7 +60007,6 @@
       </div>
     </section>
 
-
     <section class="ftd18-register-product-completion popup popup--alert" role="dialog" aria-modal="true"
       data-comp-name="popup" data-auto-init="false" id="ftd18RegisterProductCompletion">
       <div class="popup__dimmed"></div>
@@ -60472,7 +60045,6 @@
       </div>
     </section>
 
-
     <section class="ftd18-register-product-qr-scan-error popup popup--alert" role="dialog" aria-modal="true"
       data-comp-name="popup" data-auto-init="false" id="ftd18RegisterProductQRScanError">
       <div class="popup__dimmed"></div>
@@ -60505,21 +60077,17 @@
       </div>
     </section>
 
-
     <script type="text/javascript"
       src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-flagship/compact.min.abefc3eb13223fd0577b59dadaf0925a.js"
       async=""></script>
-
 
     <script type="text/javascript"
       src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/product-popup/pd-g-register-product-popup/clientlibs/site.min.b824af03acb4e31aa31d33a2c2cd2e7b.js"
       async=""></script>
 
-
     <script type="text/javascript"
       src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/epp/common/ep-cm-g-barcode-scanner-popup/clientlibs/site.min.88306b852289a614c4cd5bb5f639dcaa.js"
       async=""></script>
-
 
     <script
       src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/product/pd-g-floating-nav/clientlibs/site.min.02ee45e8d1cfbc8350659cb54ce295a5.js"
@@ -60529,1535 +60097,9 @@
       src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/function/fn-g-personalization/clientlibs/site.min.d41d8cd98f00b204e9800998ecf8427e.css"
       async=""></script>
 
-
     <script type="application/ld+json" data-type="seo" data-object-type="WebPage"
       data-id="bfe934b1-2d25-4c78-90df-3ea6541a61be">{"@context":"https://schema.org","@type":["WebPage","ItemPage"],"name":"Samsung Galaxy S26 with Galaxy AI | Samsung Pakistan","@id":"https://www.samsung.com/pk/smartphones/galaxy-s26/#webpage","description":"Discover Samsung Galaxy S26 and get 30% off on the S26 Magnet Case in Samsung Pakistan\u0026#39;s AI Week offers. Now only Rs. 356,999. Experience Galaxy AI.\r\n","url":"https://www.samsung.com/pk/smartphones/galaxy-s26/","primaryImageOfPage":"<?php echo CW_BASE_URL; ?>/assets/images/galaxy-s26-share-image.jpg","mainEntity":{"@id":"https://www.samsung.com/pk/smartphones/galaxy-s26/"},"about":{"@id":"http://www.samsung.com/pk/smartphones/galaxy-s26/buy/"}}</script>
 
-
-  </div>
-
-  <script>
-    let gtagScriptEle = document.createElement("script");
-    gtagScriptEle.setAttribute("src", "https://www.googletagmanager.com/gtag/js?id=" + _satellite.getVar("GA4 Measurement ID"));
-    gtagScriptEle.setAttribute("async", true);
-    document.body.appendChild(gtagScriptEle);
-  </script>
-  <script src="https://www.googletagmanager.com/gtag/js?id=G-6WPF0BKMCH" async="true"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function poc_gtag() { dataLayer.push(arguments); }
-    poc_gtag('js', new Date());
-    var user_properties = {};
-    try {
-      var cid = _satellite.getVar('CID');
-      var samid = _satellite.getVar('SAMID');
-      var gaid = _satellite.getVar('GA Client ID');
-      var login_status = _satellite.getVar('Login Status');
-      var logged_in_id = _satellite.getVar('Cookie - Logged In ID');
-      var depth2 = _satellite.getVar('2Depth');
-      var depth3 = _satellite.getVar('3Depth');
-      var depth4 = _satellite.getVar('4Depth');
-      var depth5 = _satellite.getVar('5Depth');
-      var concatenated_page_name = _satellite.getVar('Concatenated Page Name');
-      var origin_platform = _satellite.getVar('Origin Platform');
-      var page_track = _satellite.getVar('Page Track');
-      var page_url = _satellite.getVar('Page URL');
-      var platform_version = _satellite.getVar('Platform Version');
-      var shop_type = _satellite.getVar('Shop Type');
-      var site_code = _satellite.getVar('Site Code');
-      var site_section = _satellite.getVar('Site Section');
-      var store_id = _satellite.getVar('Store ID');
-      var allEventData = {
-        page: {
-          pageInfo: {}
-        }
-      };
-      try {
-        allEventData.page.pageInfo = {
-          'content_group': _satellite.getVar('2Depth'),
-          'content_group_depth_1': _satellite.getVar('Site Code'),
-          'content_group_depth_2': _satellite.getVar('2Depth'),
-          'content_group_depth_3': _satellite.getVar('3Depth'),
-          'content_group_depth_4': _satellite.getVar('4Depth'),
-          'content_group_depth_5': _satellite.getVar('5Depth'),
-          'concatenated_page_name': _satellite.getVar('Concatenated Page Name'),
-          'origin_platform': _satellite.getVar('Origin Platform'),
-          'pageTrack': _satellite.getVar('Page Track'),
-          'page_name': _satellite.getVar('Page Name'),
-          'page_url': _satellite.getVar('Page URL'),
-          'site_version': _satellite.getVar('Platform Version'),
-          'shop_type': _satellite.getVar('Shop Type'),
-          'site_code': _satellite.getVar('Site Code'),
-          'site_section': _satellite.getVar('Site Section'),
-          'store_id': _satellite.getVar('Store ID')
-        };
-
-      } catch (e) { }
-      if (cid) {
-        user_properties.AA_tracking_code = cid;
-      }
-      if (samid) {
-        user_properties.user_id = samid;
-        user_properties.hashed_samsung_id = samid;
-      }
-      if (gaid) {
-        user_properties.client_id = gaid;
-      }
-      if (login_status) {
-        user_properties.user_login_status = login_status;
-      }
-      if (logged_in_id) {
-        user_properties.logged_in_id = logged_in_id;
-      }
-    } catch (e) { }
-    if (user_properties) {
-      poc_gtag("set", "user_properties", user_properties);
-    }
-    var ssgtmURL='';
-    var configData = {
-      'transport_url': ssgtmURL,
-      'first_party_collection': true,
-      'send_page_view': false,
-      'launch_env': (_satellite && _satellite.environment && _satellite.environment.stage) ? _satellite.environment.stage : 'production',
-      'allEventData': JSON.stringify(allEventData)
-    };
-    if (_satellite.getVar("GA4 Debug Flag") === true) {
-      configData.debug_mode = true;
-    }
-    if (_satellite.getVar('GUID') !== undefined && _satellite.getVar('GUID') != "no_consent" && _satellite.getVar('GUID') !== "") {
-      configData.user_id = _satellite.getVar('GUID');
-    }
-    poc_gtag('config', _satellite.getVar("GA4 Measurement ID"), configData);
-  </script><!-- Decibel - www.samsung.com Pakistan -->
-  <link rel="dns-prefetch" href="//cdn.decibelinsight.net">
-  <link rel="dns-prefetch" href="//collection.decibelinsight.net">
-  <script type="text/javascript">
-    window._da_ = window._da_ || []; _da_.oldErr = window.onerror; _da_.err = [];
-    window.onerror = function () {
-      _da_.err.push(arguments);
-      if (_da_.oldErr) {
-        _da_.oldErr.apply(window, Array.prototype.slice.call(arguments));
-      }
-    };
-
-    window.addEventListener('load', (event) => {
-      (function (d, e, c, i, b, el, it) {
-        d.DecibelInsight = b; d[b] = d[b] || function () { (d[b].q = d[b].q || []).push(arguments); };
-        el = e.createElement(c); it = e.getElementsByTagName(c)[0]; el.async = 1; el.src = i; it.parentNode.insertBefore(el, it);
-      })(window, document, 'script', 'https://cdn.decibelinsight.net/i/14121/2907677/di.js', 'decibelInsight');
-    });
-
-
-    if (typeof window.decibelInsight !== 'undefined') {
-      window.decibelInsight('ready', decibelInit);
-    } else {
-      window._da_readyArray = window._da_readyArray || [];
-      window._da_readyArray.push(decibelInit);
-    }
-
-    function decibelInit() {
-      try {
-        document.cookie = "DXA_READY=1; max-age=6000";
-      } catch (e) { }
-    }
-  </script>
-  <div tabindex="-1"></div>
-  <script>
-    // Samsung.com s Tracker for EDDL&XDM v0.5.2 (release 1) (last update - 20230920)
-    /* 
-    * Launch Rule Name : HQ-AA/GA(WebSDK)-CM-ALL(PT)
-    */
-
-    var bridg_utils = {
-      stringToJson: function (input, value) {
-        const keys = input.split('.');
-        const result = {};
-        let current = result;
-        for (let i = 0; i < keys.length - 1; i++) {
-          const key = keys[i];
-          if (key.endsWith("[]")) {
-            const arrayKey = key.slice(0, -2);
-            if (!current[arrayKey]) {
-              current[arrayKey] = [];
-            }
-            if (!Array.isArray(current[arrayKey])) {
-              throw new Error(`Key ${arrayKey} already exists as a non-array value.`);
-            }
-            if (i < keys.length - 2) {
-              if (current[arrayKey].length === 0 || typeof current[arrayKey][current[arrayKey].length - 1] !== 'object') {
-                current[arrayKey].push({});
-              }
-              current = current[arrayKey][current[arrayKey].length - 1];
-            } else {
-              const lastObj = current[arrayKey][current[arrayKey].length - 1];
-              if (!lastObj || typeof lastObj !== 'object') {
-                current[arrayKey].push({});
-              }
-              current = current[arrayKey][current[arrayKey].length - 1];
-              current['item_id'] = value;
-            }
-          } else {
-            current[key] = {};
-            current = current[key];
-          }
-        }
-        const lastKey = keys[keys.length - 1];
-        current[lastKey] = value;
-        return result;
-      },
-      mergeObjects: function (obj1, obj2) {
-        const result = {};
-        const keys = Object.keys(obj1).concat(Object.keys(obj2));
-
-        keys.forEach((key) => {
-          const val1 = obj1[key];
-          const val2 = obj2[key];
-
-          if (val1 && typeof val1 === 'object' && val2 && typeof val2 === 'object') {
-            if (Array.isArray(val1) && Array.isArray(val2)) {
-              result[key] = Object.values(this.mergeObjects(val1, val2));
-            } else {
-              result[key] = this.mergeObjects(val1, val2);
-            }
-          } else {
-            result[key] = val2 !== undefined ? val2 : val1;
-          }
-        });
-        return result;
-      },
-      getCurrentValue: function (dlArray, variable) {
-        let currentValue = null;
-        for (let i = 0; i < dlArray.length; i++) {
-          const dl = dlArray[i];
-          if (dl[variable]) {
-            currentValue = dl[variable];
-          }
-        }
-        return currentValue;
-      },
-      getPageLoadTime: function () {
-        // return page load time in milisecond from navigation interface
-        if (window.performance && window.performance.timing) {
-          var t = performance.timing;
-          var pageLoadTime = (t.loadEventEnd - t.navigationStart);
-          pageLoadTime = Math.round(pageLoadTime);
-          return pageLoadTime;
-        }
-      }
-    }
-
-    var eddl_bridge = {
-      s_eddl_mapper: _satellite.getVar("s_eddl_mapper"),
-      de_eddl_mapper: _satellite.getVar("de_eddl_mapper"),
-      cust_eddl_mapper: _satellite.getVar("cust_eddl_mapper"),
-      eddl_xdm_mapper: _satellite.getVar("eddl_xdm_mapper"),
-      s_to_eddl: function (s) {
-        let eddl = {};
-        let s_eddl_mapper = this.s_eddl_mapper;
-        for (let key in s_eddl_mapper) {
-          let eddl_key = s_eddl_mapper[key];
-          let eddl_value = s[key];
-          if (eddl_value) {
-            eddl_key = eddl_key.split(',');
-            for (let i = 0; i < eddl_key.length; i++) {
-              if (eddl_key[i].indexOf('.') > -1) {
-                let eddl_key_json = bridg_utils.stringToJson(eddl_key[i], eddl_value);
-                eddl = bridg_utils.mergeObjects(eddl, eddl_key_json);
-              } else {
-                eddl[eddl_key[i]] = eddl_value;
-              }
-            }
-          }
-        }
-        // item List
-        if (s.products && s.products.toString().indexOf(',') > -1) {
-          let item_ids = s.products.toString().split(',');
-          let originalItems = {};
-          if (!eddl.ecommerce) {
-            eddl.ecommerce = {};
-          } else {
-            if (!eddl.ecommerce.items) {
-              eddl.ecommerce.items = [];
-            } else {
-              originalItems = JSON.parse(JSON.stringify(eddl.ecommerce.items[0])); // size=1 array
-            }
-          }
-          eddl.ecommerce.items = [];
-          for (let i = 0; i < item_ids.length; i++) {
-            let item_id = item_ids[i].split(';')[1];
-            eddl.ecommerce.items.push(JSON.parse(JSON.stringify(originalItems)));
-            eddl.ecommerce.items[i].item_id = item_id;
-          }
-        }
-
-        return eddl;
-      },
-      de_to_eddl: function (_satelliteObject) {
-        let eddl = {};
-        let de_eddl_mapper = this.de_eddl_mapper;
-        for (let key in de_eddl_mapper) {
-          let eddl_key = de_eddl_mapper[key];
-          let eddl_value = _satelliteObject.getVar(key);
-          if (eddl_value) {
-            eddl_key = eddl_key.split(',');
-            for (let i = 0; i < eddl_key.length; i++) {
-              if (eddl_key[i].indexOf('.') > -1) {
-                let eddl_key_json = bridg_utils.stringToJson(eddl_key[i], eddl_value);
-                eddl = bridg_utils.mergeObjects(eddl, eddl_key_json);
-              } else {
-                eddl[eddl_key[i]] = eddl_value;
-              }
-            }
-          }
-        }
-        return eddl;
-      },
-      cust_to_eddl: function (cust) {
-        let eddl = {};
-        let cust_eddl_mapper = this.cust_eddl_mapper;
-        for (let key in cust_eddl_mapper) {
-          let eddl_key = cust_eddl_mapper[key];
-          let eddl_value = cust[key];
-          if (eddl_value) {
-            eddl_key = eddl_key.split(',');
-            for (let i = 0; i < eddl_key.length; i++) {
-              if (eddl_key[i].indexOf('.') > -1) {
-                let eddl_key_json = bridg_utils.stringToJson(eddl_key[i], eddl_value);
-                eddl = bridg_utils.mergeObjects(eddl, eddl_key_json);
-              } else {
-                eddl[eddl_key[i]] = eddl_value;
-              }
-            }
-          }
-        }
-        return eddl;
-      },
-      to_eddl: function (_satelliteObject) {
-        let eddl = {};
-
-        // check s object exists and push to EDDL
-        if (typeof s !== 'undefined') {
-          eddl = bridg_utils.mergeObjects(eddl, this.s_to_eddl(s));
-        }
-        // check data elements exists and push to EDDL
-        if (typeof _satelliteObject !== 'undefined') {
-          eddl = bridg_utils.mergeObjects(eddl, this.de_to_eddl(_satelliteObject));
-        }
-        // check custom values exists and push to EDDL
-        if (typeof _satelliteObject.customValues !== 'undefined') {
-          eddl = bridg_utils.mergeObjects(eddl, this.cust_to_eddl(_satelliteObject.customValues));
-        }
-        // add cookie consent info to EDDL
-        eddl = bridg_utils.mergeObjects(eddl, {
-          gtag_consent: {
-            ad_storage: /4/.test(_satellite.cookie.get('cmapi_cookie_privacy')),
-            analytics_storage: /3/.test(_satellite.cookie.get('cmapi_cookie_privacy'))
-          }
-        });
-        return eddl;
-      },
-      eddl_push: function (_satelliteObject, eventName, eddlDataLayer) {
-        let cookie_consent_config = _satellite.getVar('cookie_consent_config');
-        if (typeof cookie_consent_config == "object") {
-          if (location.pathname.startsWith("/fr")) {
-            if ((_satellite.cookie.get("cmapi_cookie_privacy") || "").indexOf("2") > -1 || (_satellite.cookie.get("cmapi_cookie_privacy") || "").indexOf("4") > -1) {
-              let eddl = this.to_eddl(_satelliteObject);
-              eddlDataLayer.push(Object.assign({ event: eventName }, eddl));
-            }
-          } else {
-            if (cookie_consent_config.google_consent_option == "advanced" || (_satellite.cookie.get("cmapi_cookie_privacy") || "").indexOf("3") > -1 || cookie_consent_config.consent_required == false) {
-              let eddl = this.to_eddl(_satelliteObject);
-              eddlDataLayer.push(Object.assign({ event: eventName }, eddl));
-            }
-          }
-        }
-        _satellite.logger.log("EDDL Push --> \n" + JSON.stringify(eddlDataLayer[eddlDataLayer.length - 1])); // for debugging
-      }
-    };
-
-    var eddlDataLayer = window.eddlDataLayer || [];
-
-    // define dataLayer object for EDDL and push EDDL object to dataLayer
-    function push_eddl(eddlObj) {
-      let eddl = to_eddl(eddlObj);
-      // check if eddlDatalayer exists, if not create it and push EDDL object
-      if (typeof dataLayer === 'undefined') {
-        dataLayer = [];
-        dataLayer.push(eddl);
-      } else {
-        dataLayer.push(eddl);
-      }
-    }
-
-
-    // convert multiple json objects to single one
-    function eddl_mergeObjects() {
-      let obj = {};
-      for (let i = 0; i < arguments.length; i++) {
-        for (let key in arguments[i]) {
-          obj[key] = arguments[i][key];
-        }
-      }
-      return obj;
-    }
-
-    // convert EDDL object into XDM request
-    function eddl_to_xdm(eddl) {
-      let xdm = {};
-      for (let key in eddl_xdm_mapper) {
-        let xdm_key = eddl_xdm_mapper[key];
-        let xdm_value = eddl[key];
-        if (xdm_value) {
-          xdm_key = xdm_key.split(',');
-          for (let i = 0; i < xdm_key.length; i++) {
-            if (xdm_key[i].indexOf('.') > -1) {
-              let xdm_key_json = bridg_utils.stringToJson(xdm_key[i], xdm_value);
-              xdm = bridg_utils.mergeObjects(xdm, xdm_key_json);
-            } else {
-              xdm[xdm_key[i]] = xdm_value;
-            }
-          }
-        }
-      }
-      return xdm;
-    }
-
-    function s_init() {
-      var s = {
-        cookieLifetime: 0,
-        writeSecureCookies: false,
-        d: document,
-        escape: function (e) { var a, n; if (!e) return e; for (e = encodeURIComponent(e), a = 0; 7 > a; a++)n = "+~!*()'".substring(a, a + 1), 0 <= e.indexOf(n) && (e = t.replace(e, n, "%" + n.charCodeAt(0).toString(16).toUpperCase())); return e },
-        unescape: function (e) {
-          return unescape(e)
-        },
-        c_r: function (e) {
-          e = t.escape(e);
-          var a = " " + t.d.cookie,
-            n = a.indexOf(" " + e + "="),
-            i = 0 > n ? n : a.indexOf(";", n);
-          return "[[B]]" != (e = 0 > n ? "" : t.unescape(a.substring(n + 2 + e.length, 0 > i ? a.length : i))) ? e : ""
-        },
-        cookieRead: function (e) { return this.c_r(e) },
-        c_w: function (e, a, n) {
-          var i, r = t.Mb(),
-            o = t.cookieLifetime;
-          return a = "" + a, o = o ? ("" + o).toUpperCase() : "", n && "SESSION" != o && "NONE" != o && ((i = "" != a ? parseInt(o || 0) : -60) ? (n = new Date).setTime(n.getTime() + 1e3 * i) : 1 === n && (i = (n = new Date).getYear(), n.setYear(i + 2 + (1900 > i ? 1900 : 0)))), e && "NONE" != o ? (t.d.cookie = t.escape(e) + "=" + t.escape("" != a ? a : "[[B]]") + "; path=/;" + (n && "SESSION" != o ? " expires=" + n.toUTCString() + ";" : "") + (r ? " domain=" + r + ";" : "") + (t.writeSecureCookies ? " secure;" : ""), t.cookieRead(e) == a) : 0
-        },
-        Mb: function () { return "" },
-        handlePPVevents: function () { return },
-        p_fo: function (on) { return true },
-        getPercentPageViewed: function (pid, ch) {
-          var s = this,
-            a = s.c_r("s_ppv");
-          a = -1 < a.indexOf(",") ? a.split(",") : [];
-          a[0] = s.unescape(a[0]);
-          pid = pid ? pid : s.pageName ? s.pageName : document.location.href;
-          s.ppvChange = "undefined" === typeof ch || !0 == ch ? !0 : !1;
-          if ("undefined" === typeof s.linkType || "o" !== s.linkType) s.ppvID && s.ppvID === pid || (s.ppvID = pid, s.c_w("s_ppv", ""), s.handlePPVevents()), s.p_fo("s_gppvLoad") && window.addEventListener && (window.addEventListener("load", s.handlePPVevents, !1), window.addEventListener("click", s.handlePPVevents, !1), window.addEventListener("scroll", s.handlePPVevents, !1)), s._ppvPreviousPage = a[0] ? a[0] : "", s._ppvHighestPercentViewed = a[1] ? a[1] : "", s._ppvInitialPercentViewed = a[2] ? a[2] : "", s._ppvHighestPixelsSeen = a[3] ? a[3] : "", s._ppvFoldsSeen = a[4] ? a[4] : "", s._ppvFoldsAvailable = a[5] ? a[5] : ""
-        },
-        p_fo: function (on) { var s = this; s.__fo || (s.__fo = {}); if (s.__fo[on]) return !1; s.__fo[on] = {}; return !0 },
-        Util: {
-          getQueryParam: function (variable) {
-            var query = window.location.search.substring(1);
-            var vars = query.split("&");
-            for (var i = 0; i < vars.length; i++) {
-              var pair = vars[i].split("=");
-              if (pair[0] == variable) { return pair[1]; }
-            }
-            return (false);
-          }
-        },
-        replace: function (e, t, n) {
-          return !e || 0 > e.indexOf(t) ? e : e.split(t).join(n)
-        },
-        linkTrackVars: "",
-        linkTrackEvents: ""
-      };
-
-      var t = s;
-      return s;
-    }
-    var s = s_init();
-
-    //2023.06.12 for API call
-    if (_satellite.environment.stage.includes('prod')) {
-      s.account = _satellite.getVar('s_account'); //'sssamsung4uk,sssamsung4mstglobal'
-    }
-    else {
-      s.account = 'sssamsung4mstglobaldev'
-    }
-
-    //2023.06.26 for default currency Code
-    s.currencyCode = _satellite.getVar('Currency Code');
-
-    // define s.handlePPVevents plugin
-    s.handlePPVevents = function () {
-      if ("undefined" !== typeof s_c_il) {
-        for (var c = 0, g = s_c_il.length; c < g; c++)
-          if (s_c_il[c] && (s_c_il[c].getPercentPageViewed || s_c_il[c].getPreviousPageActivity)) {
-            var s = s_c_il[c];
-            break
-          } if (s && s.ppvID) {
-            var f = Math.max(Math.max(document.body.scrollHeight, document.documentElement.scrollHeight), Math.max(document.body.offsetHeight, document.documentElement.offsetHeight), Math.max(document.body.clientHeight, document.documentElement.clientHeight)),
-              h = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
-            c = (window.pageYOffset || window.document.documentElement.scrollTop || window.document.body.scrollTop) + h;
-            g = Math.min(Math.round(c / f * 100), 100);
-            var k = Math.floor(c / h);
-            h = Math.floor(f / h);
-            var d = "";
-            if (!s.c_r("s_tp") || s.unescape(s.c_r("s_ppv").split(",")[0]) !== s.ppvID || s.p_fo(s.ppvID) || 1 == s.ppvChange && s.c_r("s_tp") && f != s.c_r("s_tp")) {
-              (s.unescape(s.c_r("s_ppv").split(",")[0]) !== s.ppvID || s.p_fo(s.ppvID + "1")) && s.c_w("s_ips", c);
-              if (s.c_r("s_tp") && s.unescape(s.c_r("s_ppv").split(",")[0]) === s.ppvID) {
-                s.c_r("s_tp");
-                d = s.c_r("s_ppv");
-                var e = -1 < d.indexOf(",") ? d.split(",") : [];
-                d = e[0] ? e[0] : "";
-                e = e[3] ? e[3] : "";
-                var l = s.c_r("s_ips");
-                d = d + "," + Math.round(e / f * 100) + "," + Math.round(l / f * 100) + "," + e + "," + k
-              }
-              s.c_w("s_tp", f)
-            } else d = s.c_r("s_ppv");
-            var b = d && -1 < d.indexOf(",") ? d.split(",", 6) : [];
-            f = 0 < b.length ? b[0] : escape(s.ppvID);
-            e = 1 < b.length ? parseInt(b[1]) : g;
-            l = 2 < b.length ? parseInt(b[2]) : g;
-            var m = 3 < b.length ? parseInt(b[3]) : c,
-              n = 4 < b.length ? parseInt(b[4]) : k;
-            b = 5 < b.length ? parseInt(b[5]) : h;
-            0 < g && (d = f + "," + (g > e ? g : e) + "," + l + "," + (c > m ? c : m) + "," + (k > n ? k : n) + "," + (h > b ? h : b));
-            s.c_w("s_ppv", d)
-          }
-      }
-    };
-
-    s.clearVars = function () {
-      s.events = "";
-      s.products = "";
-      // clear all props from prop1 - prop75
-      for (var i = 1; i <= 75; i++) {
-        s["prop" + i] = "";
-      }
-      // clear all eVars from eVar1 - eVar250
-      for (var i = 1; i <= 250; i++) {
-        s["eVar" + i] = "";
-      }
-    }
-
-    // define st / s.tl function
-    s.tl = function (o, t, n, e = "s_event") { // param1: link object, param2: link type, param3: link name, param4: link event
-      var s_obj = this;
-      var xdm = {};
-      var productArray = [];
-      var eventNameMapper = _satellite.getVar("s_event_name_mapper");
-
-      // Hit level plug-in functions
-      s_obj.prop41 = s_obj.getPreviousValue(s_obj.pageName, 's_pv'); //prop24: prev page name 
-      s_obj.prop73 = s_obj.getPercentPageViewed(); //prop25: max % viewed of prev page 
-      if (!s_obj.prop73 == 'no value') s_obj.prop73 = ''; //clear max % viewed if no prev page view
-      // collect clicked href
-      var href = o && o.getAttribute && o.getAttribute("href");
-      if (href && href !== "#" && href.indexOf("javascript") !== 0) {
-        s_obj.eVar178 = href;
-      } else {
-        s_obj.eVar178 = "null";
-      }
-      s_obj.linkTrackVars += ",eVar178";
-
-      // parse products variable
-      if (s_obj.products) {
-        let products = [];
-        if (Array.isArray(s_obj.products)) {
-          products = s_obj.products[0].split(",");
-        }
-        else { products = s_obj.products.split(","); }
-
-        products.forEach(function (product) {
-          let productFields = product.split(";");
-          let incrementor = productFields[4] ? productFields[4] : "";
-          let merchandizingVars = productFields[5] ? productFields[5] : "";
-          let _experience_incrementor = { analytics: {} };
-          let _experience_merchandise = { analytics: { customDimensions: { eVars: {} } } };
-          if (incrementor) {
-            incrementor = incrementor.split("|");
-            // loop through incrementor array
-            for (let i = 0; i < incrementor.length; i++) {
-              let incrementorFields = incrementor[i].split("=");
-              let event = incrementorFields[0];
-              let value = incrementorFields[1];
-              if (parseInt(event.replace(/event/, "")) <= 100) {
-                _experience_incrementor.analytics.event1to100 = _experience_incrementor.analytics.event1to100 ? _experience_incrementor.analytics.event1to100 : {};
-                _experience_incrementor.analytics.event1to100[event] = { value: Number(value || 0) };
-              } else if (parseInt(event.replace(/event/, "")) <= 200) {
-                _experience_incrementor.analytics.event101to200 = _experience_incrementor.analytics.event101to200 ? _experience_incrementor.analytics.event101to200 : {};
-                _experience_incrementor.analytics.event101to200[event] = { value: Number(value || 0) };
-              } else if (parseInt(event.replace(/event/, "")) <= 300) {
-                _experience_incrementor.analytics.event201to300 = _experience_incrementor.analytics.event201to300 ? _experience_incrementor.analytics.event201to300 : {};
-                _experience_incrementor.analytics.event201to300[event] = { value: Number(value || 0) };
-              }
-            }
-          }
-          if (merchandizingVars) {
-            merchandizingVars = merchandizingVars.split("|");
-            // loop through merchandizingVars array
-            for (let i = 0; i < merchandizingVars.length; i++) {
-              let merchandizingVarsFields = merchandizingVars[i].split("=");
-              let eVar = merchandizingVarsFields[0];
-              let value = merchandizingVarsFields[1];
-              _experience_merchandise.analytics.customDimensions.eVars[eVar] = value;
-            }
-          }
-          var productArrayUnit = {
-            "lineItemId": productFields[0] ? productFields[0] : "",
-            "SKU": productFields[1] ? productFields[1] : "",
-            "quantity": productFields[2] ? Number(productFields[2]) || 0 : 0,
-            "priceTotal": productFields[3] ? Number(productFields[3]) || 0 : 0,
-            "_experience": bridg_utils.mergeObjects(_experience_incrementor, _experience_merchandise)
-          }
-          productArray.push(productArrayUnit);
-        });
-      }
-
-      var linkTrackVars = s_obj.linkTrackVars ? s_obj.linkTrackVars.split(",") : [];
-      for (var i = 0; i < linkTrackVars.length; i++) {
-        if (linkTrackVars[i] == "products") {
-          xdmPut(xdm, "productListItems", productArray);
-        } else {
-          if (typeof (s_obj[linkTrackVars[i]]) == 'string') {
-            xdmPut(xdm, xdmMapper(linkTrackVars[i]), s_obj[linkTrackVars[i]]);
-          } else if (s_obj[linkTrackVars[i]] != undefined) {
-            xdmPut(xdm, xdmMapper(linkTrackVars[i]), String(s_obj[linkTrackVars[i]]));
-          }
-        }
-        if (s_obj.purchaseID && linkTrackVars[i] == "purchaseID") {
-          xdmPut(xdm, "commerce.order.purchaseID", s_obj.purchaseID);
-          xdmPut(xdm, "commerce.order.transactionID", s_obj.purchaseID);
-        }
-      }
-      if (s_obj.events) { // custom Events
-        var events = s_obj.events.split(",");
-        for (var i = 0; i < events.length; i++) {
-          if (s_obj.products) {
-            if (s_obj.products.indexOf(events[i]) > -1) continue;
-          }
-          if (s_obj.linkTrackEvents.indexOf(events[i]) > -1) {
-            if (events[i].indexOf("=") > -1) { // numeric / currency metrics
-              var eventFields = events[i].split("=");
-              xdmPut(xdm, xdmMapper(eventFields[0]), Number(eventFields[1] || 0));
-            } else {
-              xdmPut(xdm, xdmMapper(events[i]), 1); // counter metrics
-            }
-          }
-        }
-      }
-      // append performance metrics
-      if (!_satellite.pageSpeedRecord && _satellite.getVar("Performance_TTI")) {
-        var TTIvar = _satellite.getVar("Performance_TTI") >= 1 ? _satellite.getVar("Performance_TTI") : 0;
-        var PLTvar = bridg_utils.getPageLoadTime() >= 1 ? bridg_utils.getPageLoadTime() : 0;
-        if (TTIvar >= 1 && PLTvar >= 1) {
-          xdmPut(xdm, "_experience.analytics.event101to200.event125.value", TTIvar); // TTI
-          xdmPut(xdm, "_experience.analytics.event101to200.event126.value", PLTvar); // PLT (Page Load Time)
-          _satellite.pageSpeedRecord = true;
-        }
-      }
-
-      xdmPut(xdm, "web.webInteraction.type", "other"); // custom link 
-      xdmPut(xdm, "web.webInteraction.name", n);
-      xdmPut(xdm, "web.webInteraction.rule", _satellite.customValues?.rule_name || "");
-
-      //xdm xdmPut(xdm,"web.webPageDetails.name",s_obj.pageName); 2023.09.14 add pageName into XDM in s.tl()
-      xdmPut(xdm, "web.webPageDetails.name", s_obj.pageName);
-
-      // set samID for AEP input (eVar67 -> _samsungeu.Identity.samID ; filter 66 chars only)
-      if (s_obj.eVar67) {
-        if (s_obj.eVar67.length == 66) {
-          xdmPut(xdm, "_samsung_mena.identity.email_id_sha256_salted_hash", s_obj.eVar67);
-        }
-      }
-
-      //2023.06.27 Currency Code add into XDM
-      xdmPut(xdm, "commerce.order.currencyCode", s_obj.currencyCode);
-
-      xdm.identityMap = _satellite.getVar("AEP:xdm:identityMap"); // Add IdentityMap
-      _satellite.xdm = xdm;
-
-      if (o === true) {
-        // Send XDM to Edge Network
-        alloy("sendEvent", { documentUnloading: true, xdm: xdm })
-          .then(function (result) {
-            _satellite.logger.log("Successfully sending XDM to Edge Network");
-          })
-          .catch(function (error) {
-            _satellite.logger.error("Failed to send XDM to Edge Network");
-            _satellite.logger.error("XDM Send Event Error --> " + error);
-          });
-        if (typeof alloyaep != "undefined") {
-          alloyaep("sendEvent", { documentUnloading: true, xdm: xdm })
-            .then(function (result) {
-              _satellite.logger.log("Successfully sending XDM to Edge (AEP) Network");
-            })
-            .catch(function (error) {
-              _satellite.logger.error("Failed to send XDM to Edge (AEP) Network");
-              _satellite.logger.error("XDM Send Event Error (AEP) --> " + error);
-            });
-        }
-      }
-
-      // EDDL generation
-      if (e == "s_event") {
-        e = s_obj.events ? s_obj.events.split(",")[0] : typeof _satellite.customValues.rule_name == "string" ? _satellite.customValues.rule_name : "";
-        // if e contains '=' split and take the first part
-        if (e.indexOf("=") > -1) e = e.split("=")[0];
-        // find matching event name from eventNameMapper
-        for (var key in eventNameMapper) {
-          if (key == e) e = eventNameMapper[key];
-        }
-      }
-      // get Custom values from link object
-      if (typeof o.getAttribute != "undefined") {
-        let defaultCustAttrs = {
-          'an-tr': o.getAttribute('an-tr') ? o.getAttribute('an-tr') : o.getAttribute('data-an-tr'),
-          'an-ca': o.getAttribute('an-ca') ? o.getAttribute('an-ca') : o.getAttribute('data-an-ca'),
-          'an-ac': o.getAttribute('an-ac') ? o.getAttribute('an-ac') : o.getAttribute('data-an-ac'),
-          'an-la': o.getAttribute('an-la') ? o.getAttribute('an-la') : o.getAttribute('data-an-la'),
-          'aria-label': o.getAttribute('aria-label')
-        }
-        _satellite.customValues = bridg_utils.mergeObjects(_satellite.customValues, defaultCustAttrs);
-      }
-      // "eVar11": url + ">" + an-ca + ">" + an-ac + ">" + an-la
-      const url = window.location.origin + window.location.pathname;
-      xdmPut(xdm, "_experience.analytics.customDimensions.eVars.eVar96", url + ">" + _satellite.customValues['an-ca'] + ">" + _satellite.customValues['an_ac'] + ">" + _satellite.customValues['an_la']);
-      xdmPut(xdm, "_experience.analytics.event1to100.event96.value", 1);
-
-      // 2026.01.16 save previous clicked action in local storage
-      localStorage.setItem("previousClickAction", JSON.stringify({ action: _satellite.customValues['an_la'], time: Date.now() }));
-
-      eddl_bridge.eddl_push(_satellite, e, eddlDataLayer); // param1 = _satellite, param2 = event name, param3 = eddlDataLayer
-
-      // for Debugging purposes
-      _satellite.xdm = xdm;
-    }
-
-    s.t = function () {
-      var s_obj = this;
-      var xdm = {};
-      var productArray = [];
-
-      // 2026.01.19 collect previous clicked action in eVar191
-      var bridgeData = JSON.parse(localStorage.getItem("previousClickAction") || "{}");
-
-      if (bridgeData.action && (Date.now() - bridgeData.time < 30000)) {
-        s_obj.eVar191 = bridgeData.action;
-      }
-      // remove storage after collection
-      localStorage.removeItem("previousClickAction");
-
-      // 2023.7.2 decode Campaign Tracking Code
-      const queryString = window.location.search;
-      const urlParams = new URLSearchParams(queryString);
-      //content.xdm.marketing.trackingCode = decodeURIComponent(urlParams.get('cid'));
-      if (urlParams.get('cid')) {
-        s_obj.campaign = decodeURIComponent(urlParams.get('cid'));
-      }
-
-      // page level plug-in functions
-      if (s_obj.pageName) s_obj.getPercentPageViewed();
-      if (s_obj._ppvPreviousPage) {
-        s_obj.prop41 = _satellite.getVar('Page Name');
-        s_obj.prop73 = s_obj._ppvHighestPercentViewed;
-      }
-      // Hit level plug-in functions
-      s_obj.prop41 = s_obj.getPreviousValue(s_obj.pageName, 's_pv'); //prop24: prev page name 
-      s_obj.prop73 = s_obj.getPercentPageViewed(); //prop25: max % viewed of prev page 
-      if (!s_obj.prop73 == 'no value') s_obj.prop73 = ''; //clear max % viewed if no prev page view
-      s_obj.eVar94 = s_obj.prop64 = _satellite.getVar("consent_value");
-
-      // parse products variable
-      if (s_obj.products) {
-        let products = [];
-        if (Array.isArray(s_obj.products)) {
-          products = s_obj.products;
-        }
-        else { products = s_obj.products.split(","); }
-
-        products.forEach(function (product) {
-          let productFields = product.split(";");
-          let incrementor = productFields[4] ? productFields[4] : "";
-          let merchandizingVars = productFields[5] ? productFields[5] : "";
-          let _experience_incrementor = { analytics: {} };
-          let _experience_merchandise = { analytics: { customDimensions: { eVars: {} } } };
-          if (incrementor) {
-            incrementor = incrementor.split("|");
-            // loop through incrementor array
-            for (let i = 0; i < incrementor.length; i++) {
-              let incrementorFields = incrementor[i].split("=");
-              let event = incrementorFields[0];
-              let value = incrementorFields[1];
-              if (parseInt(event.replace(/event/, "")) <= 100) {
-                _experience_incrementor.analytics.event1to100 = _experience_incrementor.analytics.event1to100 ? _experience_incrementor.analytics.event1to100 : {};
-                _experience_incrementor.analytics.event1to100[event] = { value: Number(value || 0) };
-              } else if (parseInt(event.replace(/event/, "")) <= 200) {
-                _experience_incrementor.analytics.event101to200 = _experience_incrementor.analytics.event101to200 ? _experience_incrementor.analytics.event101to200 : {};
-                _experience_incrementor.analytics.event101to200[event] = { value: Number(value || 0) };
-              } else if (parseInt(event.replace(/event/, "")) <= 300) {
-                _experience_incrementor.analytics.event201to300 = _experience_incrementor.analytics.event201to300 ? _experience_incrementor.analytics.event201to300 : {};
-                _experience_incrementor.analytics.event201to300[event] = { value: Number(value || 0) };
-              }
-            }
-          }
-          if (merchandizingVars) {
-            merchandizingVars = merchandizingVars.split("|");
-            // loop through merchandizingVars array
-            for (let i = 0; i < merchandizingVars.length; i++) {
-              let merchandizingVarsFields = merchandizingVars[i].split("=");
-              let eVar = merchandizingVarsFields[0];
-              let value = merchandizingVarsFields[1];
-              _experience_merchandise.analytics.customDimensions.eVars[eVar] = value;
-            }
-          }
-          var productArrayUnit = {
-            "lineItemId": productFields[0] ? productFields[0] : "",
-            "SKU": productFields[1] ? productFields[1] : "",
-            "quantity": productFields[2] ? Number(productFields[2]) || 0 : 0,
-            "priceTotal": productFields[3] ? Number(productFields[3]) || 0 : 0,
-            "_experience": bridg_utils.mergeObjects(_experience_incrementor, _experience_merchandise)
-          }
-          productArray.push(productArrayUnit);
-        });
-      }
-
-      xdmPut(xdm, "web.webInteraction.rule", _satellite.customValues?.rule_name || "");
-      xdmPut(xdm, "web.webPageDetails.name", s_obj.pageName);
-      xdmPut(xdm, "web.webPageDetails.siteSection", s_obj.channel);
-      xdmPut(xdm, "commerce.order.currencyCode", s_obj.currencyCode);
-      if (s_obj.campaign && s_obj.campaign.length > 0) xdmPut(xdm, "marketing.trackingCode", s_obj.campaign);
-      if (s_obj.purchaseID) {
-        xdmPut(xdm, "commerce.order.purchaseID", s_obj.purchaseID);
-        xdmPut(xdm, "commerce.order.transactionID", s_obj.purchaseID);
-      }
-
-      for (var i = 1; i <= 75; i++) { // prop Vars
-        if (s_obj["prop" + i] != undefined & typeof (s_obj["prop" + i]) == 'string') {
-          xdmPut(xdm, "_experience.analytics.customDimensions.props.prop" + i, s_obj["prop" + i]);
-        } else if (s_obj["prop" + i] != undefined) {
-          xdmPut(xdm, "_experience.analytics.customDimensions.props.prop" + i, String(s_obj["prop" + i]));
-        }
-      }
-      for (var i = 1; i < 200; i++) { // eVar Vars
-        if (s_obj["eVar" + i] != undefined & typeof (s_obj["eVar" + i]) == 'string') {
-          xdmPut(xdm, "_experience.analytics.customDimensions.eVars.eVar" + i, s_obj["eVar" + i]);
-        } else if (s_obj["eVar" + i] != undefined) {
-          xdmPut(xdm, "_experience.analytics.customDimensions.eVars.eVar" + i, String(s_obj["eVar" + i]));
-        }
-      }
-      if (productArray.length > 0) xdmPut(xdm, "productListItems", productArray);
-      if (s_obj.events) { // custom Events
-        var events = s_obj.events.split(",");
-        for (var i = 0; i < events.length; i++) {
-          if (s_obj.products) {
-            if (s_obj.products.indexOf(events[i]) > -1) continue;
-          }
-          if (events[i].indexOf("=") > -1) { // numeric / currency metrics
-            var eventFields = events[i].split("=");
-            xdmPut(xdm, xdmMapper(eventFields[0]), Number(eventFields[1] || 0));
-          } else {
-            xdmPut(xdm, xdmMapper(events[i]), 1); // counter metrics
-          }
-        }
-      }
-      // set samID for AEP input (eVar67 -> _samsungeu.Identity.samID ; filter 66 chars only)
-      if (s_obj.eVar67) {
-        if (s_obj.eVar67.length == 66) {
-          xdmPut(xdm, "_samsung_mena.identity.email_id_sha256_salted_hash", s_obj.eVar67);
-        }
-      }
-
-      //2023.06.27 Currency Code add into XDM
-      xdmPut(xdm, "commerce.order.currencyCode", s_obj.currencyCode);
-      //Error Page Tracking
-      if (s_obj.pageType == "errorPage") {
-        xdmPut(xdm, "web.webPageDetails.errorPage", "errorPage");
-      }
-
-      xdm.identityMap = _satellite.getVar("AEP:xdm:identityMap"); // Add IdentityMap
-
-      // Send XDM to Edge Network
-      alloy("sendEvent", {
-        xdm: xdm,
-        type: "web.webpagedetails.pageViews",
-        documentUnloading: false,
-        personalization: {
-          includeRenderedPropositions: true
-        }
-
-      }).then(function (result) {
-        _satellite.logger.log("Successfully sending XDM to Edge Network");
-      })
-        .catch(function (error) {
-          _satellite.logger.error("Failed to send XDM to Edge Network");
-          _satellite.logger.error("XDM Send Event Error --> " + error);
-        });
-
-      if (typeof alloyaep != "undefined") {
-        alloyaep("sendEvent", {
-          xdm: xdm
-        }).then(function (result) {
-          _satellite.logger.log("Successfully sending XDM to Edge (AEP) Network");
-        })
-          .catch(function (error) {
-            _satellite.logger.error("Failed to send XDM to Edge (AEP) Network");
-            _satellite.logger.error("XDM Send Event Error (AEP) --> " + error);
-          });
-      }
-
-      // EDDL generation
-      eddl_bridge.eddl_push(_satellite, "page_view", eddlDataLayer); // param1 = _satellite, param2 = event name, param3 = eddlDataLayer
-
-
-    }   // end of s.t()
-
-    // define s.getPrevious
-    s.getPreviousValue = new Function("v", "c", "el", "" + "var s=this,t=new Date,i,j,r='';t.setTime(t.getTime()+1800000);if(el" + "){if(s.events){i=s.split(el,',');j=s.split(s.events,',');for(x in i" + "){for(y in j){if(i[x]==j[y]){if(s.c_r(c)) r=s.c_r(c);v?s.c_w(c,v,t)" + ":s.c_w(c,'no value',t);return r}}}}}else{if(s.c_r(c)) r=s.c_r(c);v?" + "s.c_w(c,v,t):s.c_w(c,'no value',t);return r}"); /* * Utility Function: split v1.5 - split a string (JS 1.0 compatible) */
-    s.split = new Function("l", "d", "" + "var i,x=0,a=new Array;while(l){i=l.indexOf(d);i=i>-1?i:l.length;a[x" + "++]=l.substring(0,i);l=l.substring(i+d.length);}return a");
-    s.getPercentPageViewed = new Function("n", "" + "var s=this,W=window,EL=W.addEventListener,AE=W.attachEvent,E=['load" + "','unload','scroll','resize','zoom','keyup','mouseup','touchend','o" + "rientationchange','pan'];W.s_Obj=s;s_PPVid=(n=='-'?s.pageName:n)||s" + ".pageName||location.href;if(!W.s_PPVevent){s.s_PPVg=function(n,r){v" + "ar k='s_ppv',p=k+'l',c=s.c_r(n||r?k:p),a=c.indexOf(',')>-1?c.split(" + "',',10):[''],l=a.length,i;a[0]=unescape(a[0]);r=r||(n&&n!=a[0])||0;" + "a.length=10;if(typeof a[0]!='string')a[0]='';for(i=1;i<10;i++)a[i]=" + "!r&&i<l?parseInt(a[i])||0:0;if(l<10||typeof a[9]!='string')a[9]='';" + "if(r){s.c_w(p,c);s.c_w(k,'?')}return a};W.s_PPVevent=function(e){va" + "r W=window,D=document,B=D.body,E=D.documentElement,S=window.screen|" + "|0,Ho='offsetHeight',Hs='scrollHeight',Ts='scrollTop',Wc='clientWid" + "th',Hc='clientHeight',C=100,M=Math,J='object',N='number',s=W.s_Obj|" + "|W.s||0;e=e&&typeof e==J?e.type||'':'';if(!e.indexOf('on'))e=e.subs" + "tring(2);s_PPVi=W.s_PPVi||0;if(W.s_PPVt&&!e){clearTimeout(s_PPVt);s" + "_PPVt=0;if(s_PPVi<2)s_PPVi++}if(typeof s==J){var h=M.max(B[Hs]||E[H" + "s],B[Ho]||E[Ho],B[Hc]||E[Hc]),X=W.innerWidth||E[Wc]||B[Wc]||0,Y=W.i" + "nnerHeight||E[Hc]||B[Hc]||0,x=S?S.width:0,y=S?S.height:0,r=M.round(" + "C*(W.devicePixelRatio||1))/C,b=(D.pageYOffset||E[Ts]||B[Ts]||0)+Y,p" + "=h>0&&b>0?M.round(C*b/h):0,O=W.orientation,o=!isNaN(O)?M.abs(o)%180" + ":Y>X?0:90,L=e=='load'||s_PPVi<1,a=s.s_PPVg(s_PPVid,L),V=function(i," + "v,f,n){i=parseInt(typeof a==J&&a.length>i?a[i]:'0')||0;v=typeof v!=" + "N?i:v;v=f||v>i?v:i;return n?v:v>C?C:v<0?0:v};if(new RegExp('(iPod|i" + "Pad|iPhone)').exec(navigator.userAgent||'')&&o){o=x;x=y;y=o}o=o?'P'" + ":'L';a[9]=L?'':a[9].substring(0,1);s.c_w('s_ppv',escape(W.s_PPVid)+" + "','+V(1,p,L)+','+(L||!V(2)?p:V(2))+','+V(3,b,L,1)+','+X+','+Y+','+x" + "+','+y+','+r+','+a[9]+(a[9]==o?'':o))}if(!W.s_PPVt&&e!='unload')W.s" + "_PPVt=setTimeout(W.s_PPVevent,333)};for(var f=W.s_PPVevent,i=0;i<E." + "length;i++)if(EL)EL(E[i],f,false);else if(AE)AE('on'+E[i],f);f()};v" + "ar a=s.s_PPVg();return!n||n=='-'?a[1]:a");
-
-/*!
- * Add items to an object at a specific path
- * (c) 2018 Chris Ferdinandi, MIT License, https://gomakethings.com
- * @param  {Object}       obj  The object
- * @param  {String|Array} path The path to assign the value to
- * @param  {*}            val  The value to assign
- */ var xdmPut = function (t, n, r) { var o = (n = function (t) { if ("string" != typeof t) return t; var n = []; return t.split(".").forEach(function (t, r) { t.split(/\[([^}]+)\]/g).forEach(function (t) { t.length > 0 && n.push(t) }) }), n }(n)).length, c = t; n.forEach(function (t, n) { var i = "[]" === t.slice(-2); t = i ? t.slice(0, -2) : t, i && "[object Array]" !== Object.prototype.toString.call(c[t]) && (c[t] = []), n === o - 1 ? i ? c[t].push(r) : c[t] = r : (c[t] || (c[t] = {}), c = c[t]) }) };
-
-    var xdmMapper = function (val) {
-      if (val.startsWith("prop")) {
-        return "_experience.analytics.customDimensions.props." + val;
-      } else if (val.startsWith("eVar")) {
-        return "_experience.analytics.customDimensions.eVars." + val;
-      } else if (val.startsWith("event")) {
-        // convert val into number without 'event'
-        var eventNumber = val.replace("event", "");
-        if (eventNumber >= 1 && eventNumber <= 100) {
-          return "_experience.analytics.event1to100.event" + eventNumber + ".value";
-        } else if (eventNumber >= 101 && eventNumber <= 200) {
-          return "_experience.analytics.event101to200.event" + eventNumber + ".value";
-        } else {
-          return val;
-        }
-      } else if (val == "prodView") {
-        return "commerce.productViews.value";
-      } else if (val == "scAdd") {
-        return "commerce.productListAdds.value";
-      } else if (val == "scCheckout") {
-        return "commerce.checkouts.value";
-      } else if (val == "purchase") {
-        return "commerce.purchases.value";
-      } else if (val == "channel") {
-        return "web.webPageDetails.siteSection";
-      } else if (val == "pageType") {
-        return "web.webPageDetails.errorPage";
-      } else if (val == "scRemove") {
-        return "commerce.productListRemovals.value";
-      }
-      else {
-        return val;
-      }
-    };
-    // get ECID & set ECID to sessionStorage
-    alloy("getIdentity").then(function (result) {
-      sessionStorage.setItem("ECID", result.identity.ECID);
-    });
-
-    // define vistorId extension alternatives (for legacy codes)
-    _satellite.getVisitorId = function () {
-      var visitorId = {
-        getMarketingCloudVisitorID: function () {
-          if (sessionStorage.getItem("ECID")) {
-            return sessionStorage.getItem("ECID");
-          } else {
-            // set Promise and get returned ECID & set ECID
-            return "";
-          }
-        }
-      };
-      return visitorId;
-    };
-
-  </script>
-  <script>
-/*!
- * Add items to an object at a specific path
- * (c) 2018 Chris Ferdinandi, MIT License, https://gomakethings.com
- * @param  {Object}       obj  The object
- * @param  {String|Array} path The path to assign the value to
- * @param  {*}            val  The value to assign
- */ var xdmPut = function (t, n, r) { var o = (n = function (t) { if ("string" != typeof t) return t; var n = []; return t.split(".").forEach(function (t, r) { t.split(/\[([^}]+)\]/g).forEach(function (t) { t.length > 0 && n.push(t) }) }), n }(n)).length, c = t; n.forEach(function (t, n) { var i = "[]" === t.slice(-2); t = i ? t.slice(0, -2) : t, i && "[object Array]" !== Object.prototype.toString.call(c[t]) && (c[t] = []), n === o - 1 ? i ? c[t].push(r) : c[t] = r : (c[t] || (c[t] = {}), c = c[t]) }) };
-
-    _satellite.x_xdm_convert = function (s_obj, isLinkTracking = false, s_linkName = "", eventName = "click_others") {
-      var xdm = {};
-      var productArray = [];
-
-      // parse products variable
-      if (s_obj.products) {
-        let products = [];
-        if (Array.isArray(s_obj.products)) {
-          products = s_obj.products[0].split(",");
-        }
-        else { products = s_obj.products.split(","); }
-
-        products.forEach(function (product) {
-          var productFields = product.split(";");
-          var productArrayUnit = {
-            "lineItemId": productFields[0] ? productFields[0] : "",
-            "SKU": productFields[1] ? productFields[1] : "",
-            "quantity": productFields[2] ? productFields[2] : "",
-            "priceTotal": productFields[3] ? productFields[3] : "",
-            "incrementor": productFields[4] ? productFields[4] : "",      // productListItems[]._experience.analytics.event1to100.event1.value
-            "merchandizingVars": productFields[5] ? productFields[5] : "" // productListItems[]._experience.analytics.customDimensions.eVars.eVarN
-          }
-          productArray.push(productArrayUnit);
-        });
-      }
-
-      if (isLinkTracking) {
-        var linkTrackVars = s_obj.linkTrackVars ? s_obj.linkTrackVars.split(",") : [];
-        for (var i = 0; i < linkTrackVars.length; i++) {
-          if (linkTrackVars[i] == "products") {
-            xdmPut(xdm, "productListItems", productArray);
-          } else {
-            xdmPut(xdm, xdmMapper(linkTrackVars[i]), s_obj[linkTrackVars[i]]);
-          }
-        }
-        var linkTrackEvents = [];
-        if (s_obj.linkTrackEvents) linkTrackEvents = s_obj.linkTrackEvents.split(",");
-
-        for (var i = 0; i < linkTrackEvents.length; i++) {
-          if (s_obj.events && s_obj.events.indexOf(linkTrackEvents[i]) > -1) xdmPut(xdm, xdmMapper(linkTrackEvents[i]), 1); // only for counter metrics
-        }
-        xdmPut(xdm, "web.webInteraction.type", "other"); // custom link 
-        xdmPut(xdm, "web.webInteraction.name", s_linkName);
-      } else {
-        xdmPut(xdm, "web.webPageDetails.name", s_obj.pageName);
-        xdmPut(xdm, "web.webPageDetails.siteSection", s_obj.channel);
-        xdmPut(xdm, "commerce.order.currencyCode", s_obj.currencyCode);
-        if (s_obj.campaign.length > 0) {
-          xdmPut(xdm, "marketing.trackingCode", s_obj.campaign);
-          //console.log(s_obj.campaign.length)
-        }
-
-        for (var i = 1; i <= 75; i++) {
-          if (s_obj["prop" + i] != undefined) {
-            xdmPut(xdm, "_experience.analytics.customDimensions.props.prop" + i, s_obj["prop" + i]);
-          }
-        }
-        for (var i = 1; i < 110; i++) {
-          if (s_obj["eVar" + i] != undefined) {
-            xdmPut(xdm, "_experience.analytics.customDimensions.eVars.eVar" + i, s_obj["eVar" + i]);
-          }
-        }
-        if (productArray.length > 0) xdmPut(xdm, "productListItems", productArray);
-        // if s_obj.events is not empty, then add it to xdm
-        if (s_obj.events) {
-          var events = s_obj.events.split(",");
-          for (var i = 0; i < events.length; i++) {
-            xdmPut(xdm, xdmMapper(events[i]), 1); // only for counter metrics
-          }
-        }
-      }
-      // Add IdentityMap
-      xdm.identityMap = _satellite.getVar("AEP:xdm:identityMap");
-      _satellite.xdm = {}
-      // merge xdm with _satellite.xdm
-      for (var key in xdm) {
-        _satellite.xdm[key] = xdm[key];
-      }
-
-      // check if eddl_bridge is loaded
-      if (typeof eddl_bridge != "undefined") {
-        eddl_bridge.eddl_push(_satellite, eventName, eddlDataLayer);
-      } else {
-        console.log("eddl_bridge is not loaded");
-      }
-    }
-
-    // run datastreamId referring
-    var xdm_datastreamId = _satellite.getVar("datastreamId");
-
-  </script>
-  <script>
-    //load tti js library
-    (function () {
-      var h = "undefined" != typeof window && window === this ? this : "undefined" != typeof global && null != global ? global : this, k = "function" == typeof Object.defineProperties ? Object.defineProperty : function (a, b, c) { a != Array.prototype && a != Object.prototype && (a[b] = c.value) }; function l() { l = function () { }; h.Symbol || (h.Symbol = m) } var n = 0; function m(a) { return "jscomp_symbol_" + (a || "") + n++ }
-      function p() { l(); var a = h.Symbol.iterator; a || (a = h.Symbol.iterator = h.Symbol("iterator")); "function" != typeof Array.prototype[a] && k(Array.prototype, a, { configurable: !0, writable: !0, value: function () { return q(this) } }); p = function () { } } function q(a) { var b = 0; return r(function () { return b < a.length ? { done: !1, value: a[b++] } : { done: !0 } }) } function r(a) { p(); a = { next: a }; a[h.Symbol.iterator] = function () { return this }; return a } function t(a) { p(); var b = a[Symbol.iterator]; return b ? b.call(a) : q(a) }
-      function u(a) { if (!(a instanceof Array)) { a = t(a); for (var b, c = []; !(b = a.next()).done;)c.push(b.value); a = c } return a } var v = 0; function w(a, b) { var c = XMLHttpRequest.prototype.send, d = v++; XMLHttpRequest.prototype.send = function (f) { for (var e = [], g = 0; g < arguments.length; ++g)e[g - 0] = arguments[g]; var E = this; a(d); this.addEventListener("readystatechange", function () { 4 === E.readyState && b(d) }, { passive: true }); return c.apply(this, e) } }
-      function x(a, b) { var c = fetch; fetch = function (d) { for (var f = [], e = 0; e < arguments.length; ++e)f[e - 0] = arguments[e]; return new Promise(function (d, e) { var g = v++; a(g); c.apply(null, [].concat(u(f))).then(function (a) { b(g); d(a) }, function (a) { b(a); e(a) }) }) } } var y = "img script iframe link audio video source".split(" "); function z(a, b) { a = t(a); for (var c = a.next(); !c.done; c = a.next())if (c = c.value, b.includes(c.nodeName.toLowerCase()) || z(c.children, b)) return !0; return !1 }
-      function A(a) { var b = new MutationObserver(function (c) { c = t(c); for (var b = c.next(); !b.done; b = c.next())b = b.value, "childList" == b.type && z(b.addedNodes, y) ? a(b) : "attributes" == b.type && y.includes(b.target.tagName.toLowerCase()) && a(b) }); b.observe(document, { attributes: !0, childList: !0, subtree: !0, attributeFilter: ["href", "src"] }); return b }
-      function B(a, b) {
-        if (2 < a.length) return performance.now(); var c = []; b = t(b); for (var d = b.next(); !d.done; d = b.next())d = d.value, c.push({ timestamp: d.start, type: "requestStart" }), c.push({ timestamp: d.end, type: "requestEnd" }); b = t(a); for (d = b.next(); !d.done; d = b.next())c.push({ timestamp: d.value, type: "requestStart" }); c.sort(function (a, b) { return a.timestamp - b.timestamp }); a = a.length; for (b = c.length - 1; 0 <= b; b--)switch (d = c[b], d.type) {
-          case "requestStart": a--; break; case "requestEnd": a++; if (2 < a) return d.timestamp; break; default: throw Error("Internal Error: This should never happen");
-        }return 0
-      } function C(a) { a = a ? a : {}; this.w = !!a.useMutationObserver; this.u = a.minValue || null; a = window.__tti && window.__tti.e; var b = window.__tti && window.__tti.o; this.a = a ? a.map(function (a) { return { start: a.startTime, end: a.startTime + a.duration } }) : []; b && b.disconnect(); this.b = []; this.f = new Map; this.j = null; this.v = -Infinity; this.i = !1; this.h = this.c = this.s = null; w(this.m.bind(this), this.l.bind(this)); x(this.m.bind(this), this.l.bind(this)); D(this); this.w && (this.h = A(this.B.bind(this))) }
-      C.prototype.getFirstConsistentlyInteractive = function () { var a = this; return new Promise(function (b) { a.s = b; "complete" == document.readyState ? F(a) : window.addEventListener("load", function () { F(a) }, { passive: true }) }) }; function F(a) { a.i = !0; var b = 0 < a.a.length ? a.a[a.a.length - 1].end : 0, c = B(a.g, a.b); G(a, Math.max(c + 5E3, b)) }
-      function G(a, b) {
-        !a.i || a.v > b || (clearTimeout(a.j), a.j = setTimeout(function () {
-          var b = performance.timing.navigationStart, d = B(a.g, a.b), b = (window.a && window.a.A ? 1E3 * window.a.A().C - b : 0) || performance.timing.domContentLoadedEventEnd - b; if (a.u) var f = a.u; else performance.timing.domContentLoadedEventEnd ? (f = performance.timing, f = f.domContentLoadedEventEnd - f.navigationStart) : f = null; var e = performance.now(); null === f && G(a, Math.max(d + 5E3, e + 1E3)); var g = a.a; 5E3 > e - d ? d = null : (d = g.length ? g[g.length - 1].end : b, d = 5E3 > e - d ? null : Math.max(d,
-            f)); d && (a.s(d), clearTimeout(a.j), a.i = !1, a.c && a.c.disconnect(), a.h && a.h.disconnect()); G(a, performance.now() + 1E3)
-        }, b - performance.now()), a.v = b)
-      }
-      function D(a) { a.c = new PerformanceObserver(function (b) { b = t(b.getEntries()); for (var c = b.next(); !c.done; c = b.next())if (c = c.value, "resource" === c.entryType && (a.b.push({ start: c.fetchStart, end: c.responseEnd }), G(a, B(a.g, a.b) + 5E3)), "longtask" === c.entryType) { var d = c.startTime + c.duration; a.a.push({ start: c.startTime, end: d }); G(a, d + 5E3) } }); a.c.observe({ entryTypes: ["longtask", "resource"] }) } C.prototype.m = function (a) { this.f.set(a, performance.now()) }; C.prototype.l = function (a) { this.f.delete(a) };
-      C.prototype.B = function () { G(this, performance.now() + 5E3) }; h.Object.defineProperties(C.prototype, { g: { configurable: !0, enumerable: !0, get: function () { return [].concat(u(this.f.values())) } } }); var H = { getFirstConsistentlyInteractive: function (a) { a = a ? a : {}; return "PerformanceLongTaskTiming" in window ? (new C(a)).getFirstConsistentlyInteractive() : Promise.resolve(null) } };
-      "undefined" != typeof module && module.exports ? module.exports = H : "function" === typeof define && define.amd ? define("ttiPolyfill", [], function () { return H }) : window.ttiPolyfill = H;
-    })();
-    //# sourceMappingURL=tti-polyfill.js.map
-
-    //load tti snippet
-    !function () {
-      if ('PerformanceLongTaskTiming' in window) {
-        var g = window.__tti = { e: [] };
-        g.o = new PerformanceObserver(function (l) { g.e = g.e.concat(l.getEntries()) });
-        g.o.observe({ entryTypes: ['longtask'] })
-      }
-    }();
-
-    //push tti value to eddl
-    function push_tti_to_eddl(eddlObj) {
-      ttiPolyfill.getFirstConsistentlyInteractive().then(function (tti) {
-        if (typeof eddlObj !== 'undefined') {
-          eddlObj.push({
-            'event': '',
-            'performance': {
-              'TTI': tti
-            }
-          })
-        } else {
-          console.log('No eddlObj found. TTI is not tracked')
-        }
-      });
-    }
-
-    push_tti_to_eddl(eddlDataLayer)
-
-  </script>
-  <script>_satellite["_runScript1"](function (event, target, Promise) {
-      ///////////////////////////////////////////////////////////////////////////////
-      //////// SET Variables in Set Variable Action UI //////////////////////////////
-      s.campaign = s.Util.getQueryParam('cid');
-      s.channel = _satellite.getVar('Site Section');
-      s.eVar1 = _satellite.getVar('Site Code');
-      s.eVar2 = _satellite.getVar('2Depth');
-      s.eVar3 = _satellite.getVar('3Depth');
-      s.eVar4 = _satellite.getVar('4Depth');
-      s.eVar5 = _satellite.getVar('5Depth');
-      s.eVar6 = _satellite.getVar('Page Track');
-      s.eVar13 = _satellite.getVar('PIM Product SubType');
-      s.eVar18 = _satellite.getVar('Site Section');
-      s.eVar39 = _satellite.getVar('Page URL');
-      s.eVar40 = _satellite.getVar('Page Name');
-      s.eVar42 = _satellite.getVar('Referrer Page');
-      s.eVar57 = _satellite.getVar('Campaign ID');
-      s.eVar58 = _satellite.getVar('BroadLog ID');
-      s.eVar63 = _satellite.getVar('Visitor ID');
-      s.eVar67 = _satellite.getVar('GCRM_ID');
-      s.eVar71 = _satellite.getVar('GA Client ID');
-      s.eVar84 = _satellite.getVar('Bandwidth');
-      s.eVar110 = _satellite.getVar('NULL');
-      s.pageName = _satellite.getVar('Page Name');
-      s.pageURL = _satellite.getVar('Page URL');
-      s.prop1 = _satellite.getVar('Site Code');
-      s.prop2 = _satellite.getVar('2Depth');
-      s.prop3 = _satellite.getVar('3Depth');
-      s.prop4 = _satellite.getVar('4Depth');
-      s.prop5 = _satellite.getVar('5Depth');
-      s.prop6 = _satellite.getVar('Page Track');
-      s.prop10 = _satellite.getVar('Login Status');
-      s.prop39 = _satellite.getVar('Page URL');
-      s.prop75 = 'P6';
-      s.referrer = _satellite.getVar('Referrer Page');
-      //////// End of Set Variables Action UI //////////////////////////////////////
-
-      var pageTrack = _satellite.getVar("Page Track");
-      //add-on page name setting
-      if (_satellite.getVar("Add Page Name")) {
-        s.prop39 = document.location.href;
-      }
-
-      // 25.05.23 HTTP Protocol Version
-      function getProtocol() {
-        if (window.performance && performance.getEntriesByType) {
-          let entries = performance.getEntriesByType("navigation")[0] || performance.getEntriesByType("resource")[0];
-          return entries?.nextHopProtocol || "Unknown"; // ex: "h3", "h2"
-        }
-        return "Unknown";
-      }
-
-      s.eVar88 = getProtocol();
-      /////// 0. AA Common ///////////////////////////////////////////////////////////
-      /////// 1. Added AA Common /////////////////////////////////////////////////////
-      ////////////////////////////////////////////////////////////////////////////////
-      if (window.matchMedia("(max-width: 767px)").matches) {
-        // The viewport is less than 768 pixels wide
-        var orgin0 = "mobileweb";
-        s.prop70 = orgin0;
-      } else {
-        // The viewport is at least 768 pixels wide
-        var orgin1 = "web";
-        s.prop70 = orgin1;
-      }
-
-      var redirection = s.Util.getQueryParam("page");
-      if (redirection != null) s.eVar85 = redirection;
-
-      var utm_source = s.Util.getQueryParam("utm_source");
-      var utm_medium = s.Util.getQueryParam("utm_medium");
-      var utm_campaign = s.Util.getQueryParam("utm_campaign");
-      var utm_term = s.Util.getQueryParam("utm_term");
-      var utm_content = s.Util.getQueryParam("utm_content");
-
-      if (utm_source != '' || utm_medium != '' || utm_campaign != '' || utm_term != '' || utm_content != '') {
-        s.eVar86 = "utm_source=" + (utm_source == '' ? 'none' : utm_source) + "&utm_medium=" + (utm_medium == '' ? 'none' : utm_medium) + "&utm_campaign=" + (utm_campaign == '' ? 'none' : utm_campaign) + "&utm_term=" + (utm_term == '' ? 'none' : utm_term) + "&utm_content=" + (utm_content == '' ? 'none' : utm_content);
-      }
-
-      var urlExclParam = window.location.origin.replace(window.location.protocol + "//", "") + window.location.pathname;
-      if (urlExclParam.endsWith('/')) urlExclParam = urlExclParam.substring(0, urlExclParam.lastIndexOf('/'));
-      s.prop29 = urlExclParam;
-      s.eVar92 = urlExclParam;
-      ////////////////////////////////////////////////////////////////////////////////
-      /////// 2. GA Common ///////////////////////////////////////////////////////////
-      ////////////////////////////////////////////////////////////////////////////////
-      /* UA Sunset remove ->
-      
-      ga('require', 'ec');
-      ga('set', 'currencyCode', _satellite.getVar("Currency Code")); 
-      ga('set', 'userId', _satellite.getVar("GUID"));
-      ga('set', 'dimension1', _satellite.getVar("Site Code"));
-      ga('set', 'dimension2', _satellite.getVar("Site Section"));
-      ga('set', 'dimension3', _satellite.getVar("Page Track"));
-      
-      ga('set', 'dimension5', _satellite.getVar("Login Status"));
-      ga('set', 'dimension6', _satellite.getVar("Page URL"));
-      ga('set', 'dimension7', _satellite.getVar("Referrer Page"));
-      ga('set', 'dimension8', _satellite.getVar("GA Client ID"));
-      
-      ga('set', 'dimension16', _satellite.getVar("GCRM_ID"));
-      
-      ga('set', 'dimension18', _satellite.getVar("GUID")); 
-      ga('set', 'dimension19', _satellite.getVar("PIM Product SubType"));
-        
-      ga('set', 'dimension26', _satellite.getVar("User Agent"));
-      ga('set', 'dimension28', _satellite.getVar("CID"));
-      
-      ga('set', 'contentGroup1', _satellite.getVar("Site Code"));
-      ga('set', 'contentGroup2', _satellite.getVar("2Depth"));
-      ga('set', 'contentGroup3', _satellite.getVar("3Depth"));
-      ga('set', 'contentGroup4', _satellite.getVar("4Depth"));
-      ga('set', 'contentGroup5', _satellite.getVar("5Depth"));
-      */
-
-
-      ////////////////////////////////////////////////////////////////////////////////
-      /////// 3. AA&GA by Page ///////////////////////////////////////////////////////
-      ////////////////////////////////////////////////////////////////////////////////
-      if (pageTrack == "support error" || pageTrack == "page not found" || pageTrack == "error") {
-        s.clearVars();
-        s.pageType = "errorPage";
-        s.eVar1 = _satellite.getVar('Site Code');
-        s.eVar6 = _satellite.getVar('Page Track');
-        s.eVar39 = _satellite.getVar('Page URL');
-        s.prop1 = _satellite.getVar('Site Code');
-        s.prop6 = _satellite.getVar('Page Track');
-        s.prop39 = _satellite.getVar('Page URL');
-        /* UA Sunset remove ->
-    ga('set', 'dimension2', 'undefined');
-    */
-
-        s.pageName = "";
-        // MediaMonks updated - 20230222 - comment out gtag set
-        /*
-        gtag('set', {'dimension2': 'undefined'})
-        
-        return;*/
-      }
-
-
-      //Triggered in PD, Support PD & flagship PDP only
-      //b2b 추가 - by NSC
-      // 2021.08.05 B2B GRO Phase PD Type Add - By NSC
-      if (pageTrack == "product detail" || pageTrack == "support product detail" || pageTrack == "flagship pdp" || pageTrack == "business flagship pdp" || pageTrack == "business product detail" || pageTrack == "business product finder") {
-        s.events = "prodView";
-        s.eVar11 = _satellite.getVar('Product PVI Type Name');
-        s.eVar12 = _satellite.getVar('Product PVI Subtype Name');
-        s.products = ";" + _satellite.getVar('Product Model Name');
-        s.eVar15 = _satellite.getVar('Product Display Name');
-        s.eVar41 = _satellite.getVar('Product Model Code');
-
-        /* UA Sunset remove ->
-      ga('set', 'dimension10', _satellite.getVar("Product PVI Type Name"));
-         ga('set', 'dimension11', _satellite.getVar("Product PVI Subtype Name"));
-         ga('set', 'dimension13', _satellite.getVar("Product Model Code"));
-         ga('set', 'dimension14', _satellite.getVar("Product Display Name"));
-         ga('set', 'dimension15', _satellite.getVar("Product Model Name"));  
-     */
-
-      }
-
-      //Triggered in PFS, PCD, PF, PD, Support Category only as 2Depth
-      if (pageTrack == "product family showcase" || pageTrack == "product category detail" || pageTrack == "product finder" || pageTrack == "product compare" || pageTrack == "flagship pdp" || pageTrack.indexOf("marketing page") > -1 || pageTrack == "product detail" || pageTrack == "support category"
-        // <-- 2021.06.16 b2b pilot 추가 - by NSC
-        || pageTrack == "business flagship pdp"
-        || pageTrack == "business product family showcase"
-        || pageTrack == "business product category detail"
-        // --> 2021.06.16 b2b pilot 추가 - by NSC
-        // <-- 2021.08.05 B2B GRO Phase PD Type Add - By NSC
-        || pageTrack == "business product detail"
-        || pageTrack == "business product finder"
-        // --> 2021.08.05 B2B GRO Phase PD Type Add - By NSC  
-        // <-- 2021.08.26 B2B GRO Phase business product compare Add - By NSC
-        || pageTrack == "business product compare"
-        // --> 2021.08.26 B2B GRO Phase business product compare Add - By NSC
-      ) {
-        s.prop8 = _satellite.getVar('Product Category');
-        s.eVar8 = _satellite.getVar('Product Category');
-
-        /* UA Sunset remove ->
-    ga('set', 'dimension4', _satellite.getVar("Product Category"));
-    */
-
-      }
-
-      //Triggered in PD only
-      // 2021.08.05 B2B GRO Phase PD Type Add - By NSC
-      if (pageTrack == "product detail" || pageTrack == "business product detail") {
-        s.prop54 = _satellite.getVar('PD Type');
-        s.eVar54 = _satellite.getVar('PD Type');
-        s.eVar13 = _satellite.getVar('PIM Product SubType');
-
-        /* UA Sunset remove ->
-    ga('set', 'dimension12', _satellite.getVar("PD Type"));
-    */
-
-      }
-
-      //Triggered in Support Gethelp Detail only
-      if (pageTrack == "support gethelp detail") {
-        s.eVar11 = $('input[name=typeName]').val();
-        s.eVar12 = $('input[name=subTypeName]').val();
-        s.eVar34 = "symptom:" + $('input[name=symptomName]').val();
-        s.eVar38 = _satellite.getVar('Support Page Author');
-        s.eVar98 = "support:" + $('input[name=hiddenContentId]').val();
-
-        /* UA Sunset remove ->
-      
-          ga('set', 'dimension10', $('input[name=typeName]').val());
-          ga('set', 'dimension11', $('input[name=subTypeName]').val()); 
-      */
-
-      }
-      ////////////////////////////////////////////////////////////////////////////////
-      /////// 3. AA by Page //////////////////////////////////////////////////////////
-      ////////////////////////////////////////////////////////////////////////////////
-      // 2021.08.11 P6 B2B - By NSC
-      if (digitalData.page.pageInfo.pageTrack == "flagship pdp" || pageTrack == "business flagship pdp") {
-        s.events = "prodView";
-        s.eVar11 = _satellite.getVar("Product PVI Type Name");
-        s.eVar12 = _satellite.getVar("Product PVI Subtype Name");
-        s.eVar15 = _satellite.getVar("Product Display Name");
-        var tmpModelName = _satellite.getVar("Product Model Name");
-        if (tmpModelName != "") {
-          var mdlNum = tmpModelName.split(",");
-          var tmpModelNameList = [];
-          if (mdlNum.length > 1) {
-            for (var i = 0; i < mdlNum.length; i++) {
-              var temp = ";" + mdlNum[i]
-              tmpModelNameList.push(temp);
-            }
-            s.products = tmpModelNameList;
-          } else {
-            s.products = ";" + tmpModelName;
-            s.products = s.products.replace(/;;/gi, ';');
-          }
-        }
-      }
-      //Triggered in brand hub detail page only
-      if (pageTrack == "brand hub detail page") {
-        var pageID = _satellite.getVar("Page ID");
-        s.eVar38 = "explore:" + pageID;
-      }
-
-      //Triggered in offer page only
-      if (pageTrack == "offer detail") {
-        var pageID = _satellite.getVar("Page ID");
-        s.eVar38 = "offer:" + pageID;
-      }
-
-      //<-- 2021.06.16 Update - Business Insight Detail & Business Solution Detail evar38 추가 by NSC
-      if (pageTrack == "business insights detail") {
-        var pageID = $("[an-tr='co51_article header|contents filter']").attr('an-la');
-        s.eVar38 = "insight:" + pageID;
-      } else if (pageTrack == "business solution detail") {
-        var pageID = _satellite.getVar("Page ID");
-        var fCategory = _satellite.getVar("3Depth").split(":");
-        var filterCategory = fCategory[fCategory.length - 1];
-        s.eVar38 = "solution:" + filterCategory + ":" + pageID;
-      }
-      //--> 2021.06.16 Update - Business Insight Detail & Business Solution Detail evar38 추가 by NSC
-
-      // <-- 2021.06.10 News Detail eVar38 Add - by NSC
-      if (pageTrack == "news detail") {
-        var pageId = _satellite.getVar("Page ID");
-
-        s.eVar38 = "news:" + pageId;
-      }
-      // --> 2021.06.10 News Detail eVar38 Add - by NSC
-
-      // <-- 2021.08.05 B2B GRO Phase PD Type Add - By NSC
-      if (pageTrack.startsWith("business offer")) {
-        var pageId = _satellite.getVar("Page ID");
-
-        s.eVar38 = "business offer:" + pageId;
-      }
-      // --> 2021.08.05 B2B GRO Phase PD Type Add - By NSC
-      ////////////////////////////////////////////////////////////////////////////////
-
-      var siteCode = digitalData.page.pageInfo.siteCode;
-
-
-      if (siteCode == "th" || siteCode == "uk" || siteCode == "ve") {
-
-
-        s.prop67 = _satellite.getVar('TabStatus');
-        s.prop68 = _satellite.getVar('TabNaviType');
-        s.prop69 = _satellite.getVar('TabVisibilityState');
-        s.prop71 = _satellite.getVar('Timestamp');
-
-        /* UA Sunset remove ->
-      ga('set', 'dimension105', _satellite.getVar("Timestamp"));
-         ga('set', 'dimension106', _satellite.getVar("Visitor ID")); 
-         ga('set', 'dimension107', _satellite.getVar("TabStatus"));
-         ga('set', 'dimension108', _satellite.getVar("TabNaviType"));
-         ga('set', 'dimension109', _satellite.getVar("TabVisibilityState"));
-     */
-
-      }
-
-      // 2024.11.22 Collecting personalization cookies by CNX
-      if (pageTrack.indexOf("home") !== -1 || pageTrack.indexOf("offer") !== -1) {
-        var home_pnz = _satellite.cookie.get("home_pnz");
-        s.eVar142 = (home_pnz == undefined) ? "default" : (home_pnz == "" ? null : home_pnz);
-      }
-
-      /* UA Sunset remove ->
-      ga('send', 'pageview');
-      */
-
-      // Set Custom values for EDDL
-      _satellite.customValues = {
-        'rule_name': event.$rule.name
-      }
-      s.t();
-
-    });</script>
-  <script>_satellite["_runScript2"](function (event, target, Promise) {
-      if (digitalData?.user?.sa) {
-        _satellite.track("login");
-      }
-    });</script>
-  <script>_satellite["_runScript3"](function (event, target, Promise) {
-      !function () { var e=""; window.__beusablerumclient__ = { load: function (e) { var n = document.createElement("script"); n.src = e, n.async = !0, n.type = "text/javascript", document.getElementsByTagName("head")[0].appendChild(n) } }, window.__beusablerumclient__.load(e + "?url=" + encodeURIComponent(document.URL)) }();
-    });</script>
-  <script>_satellite["_runScript4"](function (event, target, Promise) {
-      setTimeout((function () { var e = _satellite.getVar("Currency Code"), t = "N", a = _satellite.getVar("Product Model Name").toUpperCase(); if ("" == _satellite.getVar("Product Model Code").toUpperCase() || null == _satellite.getVar("Product Model Code").toUpperCase()) var r = _satellite.getVar("Product Model Name").toUpperCase(); else r = _satellite.getVar("Product Model Code").toUpperCase(); var l, i, o = _satellite.getVar("Product Display Name"); "product detail" == _satellite.getVar("Page Track") ? (i = $(".cost-box__cta a").attr("data-modelprice") ? $(".cost-box__cta a").attr("data-modelprice") : $(".pd-buying-price__new-price").attr("data-promotionprice")) && "0.0" != i && (i = i.replace(/[^-\.0-9]/g, ""), l = Number.parseFloat(i).toPrecision().toString().replace(/[^-\.0-9]/g, "")) : "flagship pdp" == _satellite.getVar("Page Track") && (l = _satellite.getVar("Product Model Price")); _satellite.getVar("PIM Product SubType"); for (var p = _satellite.getVar("Product PVI Type Name") + "/" + _satellite.getVar("Product PVI Subtype Name"), c = a.split(",").length, d = a.split(","), g = r.split(","), u = o.replace(/&#34;/g, '"').split(";"), _ = [], m = 0; m < c; m++) { var n = new Object, P = new Object; if (n.name = d[m], P.item_name = d[m], n.id = g[m], P.item_id = g[m], u.length > 1 ? (n.dimension9 = u[m].replace(/^\,/g, ""), P.item_name = u[m].replace(/^\,/g, "")) : (n.dimension9 = o, P.item_name = o), "product detail" != digitalData.page.pageInfo.pageTrack && "flagship pdp" != digitalData.page.pageInfo.pageTrack || (n.brand = _satellite.getVar("PIM Product SubType"), n.item_category3 = _satellite.getVar("PIM Product SubType"), n.item_brand = _satellite.getVar("PIM Product SubType")), l) { var V = l.split(","); V[m] = "EUR" == e || "RON" == e || "Y" == t ? V[m].replace(/\./gi, "").replace(/#/gi, ".").replace(/\.$/g, "") : V[m].replace(/#/gi, ""), n.price = V[m], P.price = V[m] } n.category = p, P.item_category = _satellite.getVar("Product PVI Type Name"), P.item_category2 = _satellite.getVar("Product PVI Subtype Name"), n.quantity = 1, P.quantity = 1, _.push(P) } try { _satellite.customValues = { rule_name: event.$rule.name, custom_values: { value: l, ecommerce: { items: _ } } } } catch (e) { } _satellite.x_xdm_convert(s, !0, void 0, "view_item"), xdmPut(_satellite.xdm, "environment.ipV4", "52.79.106.56") }), 2500);
-    });</script>
-  <script>
-    function fcTrack(t, a) { var e = a; _satellite.setVar("fcEvent", t), _satellite.setVar("fcData", e), _satellite.track("floatingChat") } function fcTrack(t, a, e) { var l = a; _satellite.setVar("fcEvent", t), _satellite.setVar("fcData", l), _satellite.setVar("fcAgent", e), _satellite.track("floatingChat") }
-  </script><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe>
-  <script>_satellite["_runScript5"](function (event, target, Promise) {
-      var allEventData = event && event.event && event.event.eventModel ? event.event.eventModel : _satellite.getVar("DL - allEventData - event", event), dataLayerModel = event && event.event && event.event.dataLayerModel ? event.event.dataLayerModel : {}, marketingData = dataLayerModel && dataLayerModel.marketing_data ? dataLayerModel.marketing_data : _satellite.getVar("DL - marketing_data - model"), eventName = allEventData && allEventData.event ? allEventData.event : _satellite.getVar("DL - event_name - event", event), eventID = _satellite.getVar("General - Get Event - ID"), currency = _satellite.getVar("Currency Code"); poc_gtag("event", "page_view", { allEventData: JSON.stringify(allEventData), marketing_data: JSON.stringify(marketingData), event_id: eventID, currency: currency, send_to: _satellite.getVar("GA4 Measurement ID") }), eddlDataLayer.push({ marketing_data: void 0 }), _satellite.setVar("General - Event - ID", void 0);
-    });</script>
-  <script src="https://resources.digital-cloud-west.medallia.com/wdcwest/468861/onsite/embed.js" type="text/javascript"
-    async=""></script>
-  <script>_satellite["_runScript6"](function (event, target, Promise) {
-      var allEventData = event && event.event && event.event.eventModel ? event.event.eventModel : _satellite.getVar("DL - allEventData - event", event), dataLayerModel = event && event.event && event.event.dataLayerModel ? event.event.dataLayerModel : {}, marketingData = dataLayerModel && dataLayerModel.marketing_data ? dataLayerModel.marketing_data : _satellite.getVar("DL - marketing_data - model"), eventName = allEventData && allEventData.event ? allEventData.event : _satellite.getVar("DL - event_name - event", event), eventID = _satellite.getVar("General - Get Event - ID"), ecommerceObject = allEventData.ecommerce || { items: [] }; allEventData && allEventData.custom_values && allEventData.custom_values.ecommerce && (ecommerceObject = allEventData.custom_values.ecommerce); for (var currency = ecommerceObject.currency || _satellite.getVar("Currency Code"), items = ecommerceObject.items || [], totalValue = 0, i = 0; i < items.length; i++) { var price = items[i].price || 0, quantity = items[i].quantity || 1; items[i].price && (totalValue = parseFloat(price) * parseFloat(quantity)) } poc_gtag("event", eventName, { allEventData: JSON.stringify(allEventData), marketing_data: JSON.stringify(marketingData), items: items, currency: currency, value: totalValue, event_id: eventID, send_to: _satellite.getVar("GA4 Measurement ID") }), eddlDataLayer.push({ marketing_data: void 0 }), _satellite.setVar("General - Event - ID", void 0);
-    });</script>
-  <script type="text/javascript" async=""
-    src="https://resources.digital-cloud-west.medallia.com/wdcwest/468861/onsite/generic1776410398743.js"
-    charset="UTF-8"></script>
-  <script>_satellite["_runScript7"](function (event, target, Promise) {
-      !function () { "use strict"; function t(o) { if (!o) throw new Error("No options passed to Waypoint constructor"); if (!o.element) throw new Error("No element option passed to Waypoint constructor"); if (!o.handler) throw new Error("No handler option passed to Waypoint constructor"); this.key = "waypoint-" + e, this.options = t.Adapter.extend({}, t.defaults, o), this.element = this.options.element, this.adapter = new t.Adapter(this.element), this.callback = o.handler, this.axis = this.options.horizontal ? "horizontal" : "vertical", this.enabled = this.options.enabled, this.triggerPoint = null, this.group = t.Group.findOrCreate({ name: this.options.group, axis: this.axis }), this.context = t.Context.findOrCreateByElement(this.options.context), t.offsetAliases[this.options.offset] && (this.options.offset = t.offsetAliases[this.options.offset]), this.group.add(this), this.context.add(this), i[this.key] = this, e += 1 } var e = 0, i = {}; t.prototype.queueTrigger = function (t) { this.group.queueTrigger(this, t) }, t.prototype.trigger = function (t) { this.enabled && this.callback && this.callback.apply(this, t) }, t.prototype.destroy = function () { this.context.remove(this), this.group.remove(this), delete i[this.key] }, t.prototype.disable = function () { return this.enabled = !1, this }, t.prototype.enable = function () { return this.context.refresh(), this.enabled = !0, this }, t.prototype.next = function () { return this.group.next(this) }, t.prototype.previous = function () { return this.group.previous(this) }, t.invokeAll = function (t) { var e = []; for (var o in i) e.push(i[o]); for (var n = 0, r = e.length; r > n; n++)e[n][t]() }, t.destroyAll = function () { t.invokeAll("destroy") }, t.disableAll = function () { t.invokeAll("disable") }, t.enableAll = function () { t.invokeAll("enable") }, t.refreshAll = function () { t.Context.refreshAll() }, t.viewportHeight = function () { return window.innerHeight || document.documentElement.clientHeight }, t.viewportWidth = function () { return document.documentElement.clientWidth }, t.adapters = [], t.defaults = { context: window, continuous: !0, enabled: !0, group: "default", horizontal: !1, offset: 0 }, t.offsetAliases = { "bottom-in-view": function () { return this.context.innerHeight() - this.adapter.outerHeight() }, "right-in-view": function () { return this.context.innerWidth() - this.adapter.outerWidth() } }, window.Waypoint = t }(), function () { "use strict"; function t(t) { window.setTimeout(t, 1e3 / 60) } function e(t) { this.element = t, this.Adapter = n.Adapter, this.adapter = new this.Adapter(t), this.key = "waypoint-context-" + i, this.didScroll = !1, this.didResize = !1, this.oldScroll = { x: this.adapter.scrollLeft(), y: this.adapter.scrollTop() }, this.waypoints = { vertical: {}, horizontal: {} }, t.waypointContextKey = this.key, o[t.waypointContextKey] = this, i += 1, this.createThrottledScrollHandler(), this.createThrottledResizeHandler() } var i = 0, o = {}, n = window.Waypoint, r = window.onload; e.prototype.add = function (t) { var e = t.options.horizontal ? "horizontal" : "vertical"; this.waypoints[e][t.key] = t, this.refresh() }, e.prototype.checkEmpty = function () { var t = this.Adapter.isEmptyObject(this.waypoints.horizontal), e = this.Adapter.isEmptyObject(this.waypoints.vertical); t && e && (this.adapter.off(".waypoints"), delete o[this.key]) }, e.prototype.createThrottledResizeHandler = function () { function t() { e.handleResize(), e.didResize = !1 } var e = this; this.adapter.on("resize.waypoints", (function () { e.didResize || (e.didResize = !0, n.requestAnimationFrame(t)) })) }, e.prototype.createThrottledScrollHandler = function () { function t() { e.handleScroll(), e.didScroll = !1 } var e = this; this.adapter.on("scroll.waypoints", (function () { (!e.didScroll || n.isTouch) && (e.didScroll = !0, n.requestAnimationFrame(t)) })) }, e.prototype.handleResize = function () { n.Context.refreshAll() }, e.prototype.handleScroll = function () { var t = {}, e = { horizontal: { newScroll: this.adapter.scrollLeft(), oldScroll: this.oldScroll.x, forward: "right", backward: "left" }, vertical: { newScroll: this.adapter.scrollTop(), oldScroll: this.oldScroll.y, forward: "down", backward: "up" } }; for (var i in e) { var o = e[i], n = o.newScroll > o.oldScroll ? o.forward : o.backward; for (var r in this.waypoints[i]) { var s = this.waypoints[i][r], a = o.oldScroll < s.triggerPoint, l = o.newScroll >= s.triggerPoint; (a && l || !a && !l) && (s.queueTrigger(n), t[s.group.id] = s.group) } } for (var h in t) t[h].flushTriggers(); this.oldScroll = { x: e.horizontal.newScroll, y: e.vertical.newScroll } }, e.prototype.innerHeight = function () { return this.element == this.element.window ? n.viewportHeight() : this.adapter.innerHeight() }, e.prototype.remove = function (t) { delete this.waypoints[t.axis][t.key], this.checkEmpty() }, e.prototype.innerWidth = function () { return this.element == this.element.window ? n.viewportWidth() : this.adapter.innerWidth() }, e.prototype.destroy = function () { var t = []; for (var e in this.waypoints) for (var i in this.waypoints[e]) t.push(this.waypoints[e][i]); for (var o = 0, n = t.length; n > o; o++)t[o].destroy() }, e.prototype.refresh = function () { var t, e = this.element == this.element.window, i = e ? void 0 : this.adapter.offset(), o = {}; for (var r in this.handleScroll(), t = { horizontal: { contextOffset: e ? 0 : i.left, contextScroll: e ? 0 : this.oldScroll.x, contextDimension: this.innerWidth(), oldScroll: this.oldScroll.x, forward: "right", backward: "left", offsetProp: "left" }, vertical: { contextOffset: e ? 0 : i.top, contextScroll: e ? 0 : this.oldScroll.y, contextDimension: this.innerHeight(), oldScroll: this.oldScroll.y, forward: "down", backward: "up", offsetProp: "top" } }) { var s = t[r]; for (var a in this.waypoints[r]) { var l, h, p, c, u = this.waypoints[r][a], d = u.options.offset, f = u.triggerPoint, w = 0, y = null == f; u.element !== u.element.window && (w = u.adapter.offset()[s.offsetProp]), "function" == typeof d ? d = d.apply(u) : "string" == typeof d && (d = parseFloat(d), u.options.offset.indexOf("%") > -1 && (d = Math.ceil(s.contextDimension * d / 100))), l = s.contextScroll - s.contextOffset, u.triggerPoint = w + l - d, h = f < s.oldScroll, p = u.triggerPoint >= s.oldScroll, c = !h && !p, !y && (h && p) ? (u.queueTrigger(s.backward), o[u.group.id] = u.group) : (!y && c || y && s.oldScroll >= u.triggerPoint) && (u.queueTrigger(s.forward), o[u.group.id] = u.group) } } return n.requestAnimationFrame((function () { for (var t in o) o[t].flushTriggers() })), this }, e.findOrCreateByElement = function (t) { return e.findByElement(t) || new e(t) }, e.refreshAll = function () { for (var t in o) o[t].refresh() }, e.findByElement = function (t) { return o[t.waypointContextKey] }, window.onload = function () { r && r(), e.refreshAll() }, n.requestAnimationFrame = function (e) { (window.requestAnimationFrame || window.mozRequestAnimationFrame || window.webkitRequestAnimationFrame || t).call(window, e) }, n.Context = e }(), function () { "use strict"; function t(t, e) { return t.triggerPoint - e.triggerPoint } function e(t, e) { return e.triggerPoint - t.triggerPoint } function i(t) { this.name = t.name, this.axis = t.axis, this.id = this.name + "-" + this.axis, this.waypoints = [], this.clearTriggerQueues(), o[this.axis][this.name] = this } var o = { vertical: {}, horizontal: {} }, n = window.Waypoint; i.prototype.add = function (t) { this.waypoints.push(t) }, i.prototype.clearTriggerQueues = function () { this.triggerQueues = { up: [], down: [], left: [], right: [] } }, i.prototype.flushTriggers = function () { for (var i in this.triggerQueues) { var o = this.triggerQueues[i], n = "up" === i || "left" === i; o.sort(n ? e : t); for (var r = 0, s = o.length; s > r; r += 1) { var a = o[r]; (a.options.continuous || r === o.length - 1) && a.trigger([i]) } } this.clearTriggerQueues() }, i.prototype.next = function (e) { this.waypoints.sort(t); var i = n.Adapter.inArray(e, this.waypoints); return i === this.waypoints.length - 1 ? null : this.waypoints[i + 1] }, i.prototype.previous = function (e) { this.waypoints.sort(t); var i = n.Adapter.inArray(e, this.waypoints); return i ? this.waypoints[i - 1] : null }, i.prototype.queueTrigger = function (t, e) { this.triggerQueues[e].push(t) }, i.prototype.remove = function (t) { var e = n.Adapter.inArray(t, this.waypoints); e > -1 && this.waypoints.splice(e, 1) }, i.prototype.first = function () { return this.waypoints[0] }, i.prototype.last = function () { return this.waypoints[this.waypoints.length - 1] }, i.findOrCreate = function (t) { return o[t.axis][t.name] || new i(t) }, n.Group = i }(), function () { "use strict"; function t(t) { this.$element = e(t) } var e = window.jQuery, i = window.Waypoint; e.each(["innerHeight", "innerWidth", "off", "offset", "on", "outerHeight", "outerWidth", "scrollLeft", "scrollTop"], (function (e, i) { t.prototype[i] = function () { var t = Array.prototype.slice.call(arguments); return this.$element[i].apply(this.$element, t) } })), e.each(["extend", "inArray", "isEmptyObject"], (function (i, o) { t[o] = e[o] })), i.adapters.push({ name: "jquery", Adapter: t }), i.Adapter = t }(), function () { "use strict"; function t(t) { return function () { var i = [], o = arguments[0]; return t.isFunction(arguments[0]) && ((o = t.extend({}, arguments[1])).handler = arguments[0]), this.each((function () { var n = t.extend({}, o, { element: this }); "string" == typeof n.context && (n.context = t(this).closest(n.context)[0]), i.push(new e(n)) })), i } } var e = window.Waypoint; window.jQuery && (window.jQuery.fn.waypoint = t(window.jQuery)), window.Zepto && (window.Zepto.fn.waypoint = t(window.Zepto)) }();
-    });</script>
-  <script>_satellite["_runScript8"](function (event, target, Promise) {
-      window.tagLayer = window.tagLayer || [], window.tagLayer.push({ deployment: "auto", data: event, argument: { id: "10005181", country: "samsungpakistan" } });
-    });</script>
-  <script>_satellite["_runScript9"](function (event, target, Promise) {
-      function setCJCookie(e, t = 45) { const a = new URL(window.location.href), o = new URLSearchParams(a.search).get(e); var i = "not-defined"; if (o && (i = o), !getCJCookie("cje") || o) { const e = new Date; e.setTime(e.getTime() + 24 * t * 60 * 60 * 1e3); let a = "expires=" + e.toUTCString(); document.cookie = "cje=" + i + ";" + a + ";domain=.samsung.com;Secure;path=/" } } function getCJCookie(e = "cje") { let t = e + "=", a = document.cookie.split(";"); for (let e = 0; e < a.length; e++) { let o = a[e]; for (; " " == o.charAt(0);)o = o.substring(1); if (0 == o.indexOf(t)) return o.substring(t.length, o.length) } return "" } window.cj || (window.cj = {}), window.cjOrderCount || (window.cjOrderCount = 0); let entID = "1594321", actrkID = "504434", tagID = "1201033469139"; if ("shop order confirmation" === digitalData.page.pageInfo.pageTrack && digitalData.ecommerce.transactionId && "" !== digitalData.ecommerce.transactionId.trim()) { let e = []; digitalData.ecommerce.transactionProducts.forEach((function (t) { e.push({ unitPrice: t.modelPrice, itemId: t.modelCode, quantity: t.modelUnit, discount: ((t.modelPrice - t.modelRevenue) * t.modelUnit).toFixed(2) }) })), cj.order = { enterpriseId: entID, pageType: "conversionConfirmation", orderId: digitalData.ecommerce.transactionId, actionTrackerId: actrkID, currency: digitalData.page.pageInfo.currencyCode, amount: digitalData.ecommerce.transactionTotal, coupon: digitalData.ecommerce.transactionVoucherCode ? digitalData.ecommerce.transactionVoucherCode.replaceAll(";", ",") : "", cjeventOrder: getCJCookie(), items: e }, window.cjOrderCount++ } else { let e = { home: "homepage", "shop cart": "cart", "product detail": "productDetail", "flagship pdp": "productDetail", aisearch: "searchResults" }; cj.sitePage = { enterpriseId: entID, pageType: e[digitalData.page.pageInfo.pageTrack] || "category" } } var initCjTagScript = function (e) { if (window.cjOrderCount > 1) return !1; var t, a, o, i; t="" + e + "/tag.js", o = "script", (i = (a = document).createElement(o)).src = t, i.type = "text/java" + o, i.async = !0, i.id = "cjapitag", (t = a.getElementsByTagName(o)[0]).parentNode.insertBefore(i, t) }; initCjTagScript(tagID);
-    });</script>
-  <script>_satellite["_runScript10"](function (event, target, Promise) {
-      window.tagLayer = window.tagLayer || [], window.tagLayer.push({ deployment: "auto", data: event, argument: { id: "545d6e93-a700-41dd-9ae4-69f812f462c9" } });
-    });</script>
-  <script>_satellite["_runScript11"](function (event, target, Promise) {
-      window.tagLayer = window.tagLayer || [], window.tagLayer.push({ deployment: "auto", data: event, argument: { id: "DC-9855140", sendTo: { pageView: "DC-9855140/samsung/pclan0+standard", productPage: "DC-9855140/samsung/pclan0+standard", addToCart: "DC-9855140/samsung/pclan0+standard", adressDelivery: "DC-9855140/samsung/pclan0+standard", payment: "DC-9855140/samsung/pclan0+standard", purchase: "DC-9855140/samsung/pclan0+standard" } } });
-    });</script>
-  <script>
-    var percentTracking, pageTrack = _satellite.getVar("Page Track"); _satellite._scrollTracker = { callback: function () { try { var a = _satellite._scrollTracker, e = document.documentElement, t = document.body, r = "scrollTop", c = "scrollHeight", i = 0, n = !1; percentTracking = percentTracking || {}, i = Math.round((e[r] || t[r]) / ((e[c] || t[c]) - e.clientHeight) * 100); var l = digitalData.page.pageInfo.siteCode, g = l ? window.location.pathname.replace(`/${l}`, "") : window.location.pathname, p = [/\/smartphones\/galaxy-s(?:2[6-9]|[3-9][0-9])-ultra\/$/, /\/smartphones\/galaxy-s(?:2[6-9]|[3-9][0-9])\/$/, /\/smartphones\/galaxy-s(?:2[6-9]|[3-9][0-9])-edge\/$/, /\/smartphones\/galaxy-z-flip(?:[8-9]|[1-9][0-9])\/$/, /\/smartphones\/galaxy-z-fold(?:[8-9]|[1-9][0-9])\/$/, /\/smartphones\/galaxy-z-flip(?:[8-9]|[1-9][0-9])-fe\/$/], h = [/\/smartphones\/galaxy-s25-ultra\/$/, /\/smartphones\/galaxy-s25\/$/, /\/smartphones\/galaxy-s25-edge\/$/, /\/smartphones\/galaxy-z-flip7\/$/, /\/smartphones\/galaxy-z-fold7\/$/, /\/smartphones\/galaxy-z-flip7-fe\/$/], k = [/\/audio-sound\/galaxy-buds\/galaxy-buds[4-9]-pro-[^\/]+\/$/], T = [/\/watches\/galaxy-watch\/galaxy-watch-ultra-/, /\/watches\/galaxy-watch\/galaxy-watch(?:[0-9]|[1-9][0-9])-/, /\/watches\/galaxy-watch\/galaxy-watch-classic-/, /\/watches\/galaxy-watch\/galaxy-watch(?:[0-9]|[1-9][0-9])-classic-/].some((a => a.test(g))) && "galaxy watch" == digitalData.product.pim_subtype_name, o = k.some((a => a.test(g))) && "galaxy buds" == digitalData.product.pim_subtype_name; h.some((a => a.test(g))) || T ? (n = i >= 3 && !this.percentTracking[3] ? 3 : n, n = i >= 5 && !this.percentTracking[5] ? 5 : n, n = i >= 10 && !this.percentTracking[10] ? 10 : n, n = i >= 20 && !this.percentTracking[20] ? 20 : n, n = i >= 30 && !this.percentTracking[30] ? 30 : n, n = i >= 40 && !this.percentTracking[40] ? 40 : n, n = i >= 50 && !this.percentTracking[50] ? 50 : n, n = i >= 60 && !this.percentTracking[60] ? 60 : n, n = i >= 70 && !this.percentTracking[70] ? 70 : n, n = i >= 80 && !this.percentTracking[80] ? 80 : n, n = i >= 90 && !this.percentTracking[90] ? 90 : n, n = i >= 100 && !this.percentTracking[100] ? 100 : n) : p.some((a => a.test(g))) || o ? (n = i >= 3 && !this.percentTracking[3] ? 3 : n, n = i >= 5 && !this.percentTracking[5] ? 5 : n, n = i >= 10 && !this.percentTracking[10] ? 10 : n, n = i >= 15 && !this.percentTracking[15] ? 15 : n, n = i >= 20 && !this.percentTracking[20] ? 20 : n, n = i >= 25 && !this.percentTracking[25] ? 25 : n, n = i >= 30 && !this.percentTracking[30] ? 30 : n, n = i >= 35 && !this.percentTracking[35] ? 35 : n, n = i >= 40 && !this.percentTracking[40] ? 40 : n, n = i >= 45 && !this.percentTracking[45] ? 45 : n, n = i >= 50 && !this.percentTracking[50] ? 50 : n, n = i >= 55 && !this.percentTracking[55] ? 55 : n, n = i >= 60 && !this.percentTracking[60] ? 60 : n, n = i >= 65 && !this.percentTracking[65] ? 65 : n, n = i >= 70 && !this.percentTracking[70] ? 70 : n, n = i >= 75 && !this.percentTracking[75] ? 75 : n, n = i >= 80 && !this.percentTracking[80] ? 80 : n, n = i >= 85 && !this.percentTracking[85] ? 85 : n, n = i >= 90 && !this.percentTracking[90] ? 90 : n, n = i >= 95 && !this.percentTracking[95] ? 95 : n, n = i >= 100 && !this.percentTracking[100] ? 100 : n) : (n = i >= 25 && !this.percentTracking[25] ? 25 : n, n = i >= 50 && !this.percentTracking[50] ? 50 : n, n = i >= 75 && !this.percentTracking[75] ? 75 : n, n = i >= 100 && !this.percentTracking[100] ? 100 : n), n && (percentTracking[n] = !0, a.percentTracking = n, "product detail" == digitalData.page.pageInfo.pageTrack || "flagship pdp" == digitalData.page.pageInfo.pageTrack || "business product detail" == pageTrack || "business flagship pdp" == pageTrack || "business product detail" == pageTrack ? (s.pageURL.indexOf("/buy/") < 0 && s.pageURL.indexOf("/buy1/") < 0 && s.pageURL.indexOf("/buy2/") < 0 && s.pageURL.indexOf("/buy3/") < 0 && s.pageURL.indexOf("/shop/") < 0 && !_satellite.getVar("Page Name").endsWith(":buy") || 100 == _satellite._scrollTracker.percentTracking) && (_satellite.setVar("scrollTrack", "scroll:" + _satellite._scrollTracker.percentTracking), _satellite.track("scroll_percent")) : 100 == _satellite._scrollTracker.percentTracking && (_satellite.setVar("scrollTrack", "scroll:" + _satellite._scrollTracker.percentTracking), _satellite.track("scroll_percent"))) } catch (a) { } } }; try { _satellite._scrollTracker.interval = window.setInterval(_satellite._scrollTracker.callback, 250) } catch (a) { }
-  </script>
-  <script>_satellite["_runScript12"](function (event, target, Promise) {
-      function updateCommonTrackingVars() { s.eVar1 = _satellite.getVar("Site Code"), s.eVar2 = _satellite.getVar("2Depth"), s.eVar3 = _satellite.getVar("3Depth"), s.eVar4 = _satellite.getVar("4Depth"), s.eVar5 = _satellite.getVar("5Depth"), s.eVar6 = _satellite.getVar("Page Track"), s.eVar8 = _satellite.getVar("Product Category"), s.eVar18 = _satellite.getVar("Site Section"), s.eVar39 = _satellite.getVar("Page URL"), s.eVar40 = _satellite.getVar("Page Name"), s.eVar92 = _satellite.getVar("URL without Parameter") } function swipeDetect(e, t) { var a, r, n, i, s, l, g = e, o = 50, c = 5e3, V = 2e3, u = t || function () { }; g.addEventListener("touchstart", (function (e) { var t = e.changedTouches[0]; a = "none", distance = 0, r = t.pageX, n = t.pageY, l = (new Date).getTime() }), { passive: !0 }), g.addEventListener("touchmove", (function () { }), { passive: !0 }), g.addEventListener("touchend", (function (e) { var t = e.changedTouches[0]; i = t.pageX - r, s = t.pageY - n, (new Date).getTime() - l <= V && (Math.abs(i) >= o && Math.abs(s) <= c ? a = i < 0 ? "left" : "right" : Math.abs(s) >= o && Math.abs(i) <= c && (a = s < 0 ? "up" : "down")), u(a) }), { passive: !0 }) } s.linkTrackVars += ",eVar1,eVar2,eVar3,eVar4,eVar5,eVar6,eVar8,eVar18,eVar39,eVar40,eVar92"; var pageTrack = _satellite.getVar("Page Track"); s.linkTrackVars += ",prop26", s.linkTrackEvents = "event5", s.events = "event5"; var siteCode = digitalData.page.pageInfo.siteCode, siteCodeArray = ["sa", "ae_ar", "eg", "il", "iran", "ps", "sa"], swipeTrigger = document.querySelectorAll('[an-tr*="swipe"]').forEach((function (e) { swipeDetect(e, (function (t) { var a, r = ""; if (-1 !== siteCodeArray.indexOf(siteCode) ? (a = "right", r = "left") : (a = "left", r = "right"), "home" == pageTrack && t == a && null != e.nextElementSibling || "home" == pageTrack && t == r && null != e.previousElementSibling) { var n = t == a ? e.nextElementSibling.getAttribute("an-tr") : e.previousElementSibling.getAttribute("an-tr"), i = t == a ? e.nextElementSibling.getAttribute("an-ca") : e.previousElementSibling.getAttribute("an-ca"), l = t == a ? e.nextElementSibling.getAttribute("an-ac") : e.previousElementSibling.getAttribute("an-ac"), g = t == a ? e.nextElementSibling.getAttribute("an-la") : e.previousElementSibling.getAttribute("an-la"); console.log(t), updateCommonTrackingVars(), s.prop26 = g; var o = ""; if (void 0 !== s.events && null !== s.events && "" !== s.events) for (var c = s.events.split(","), V = 0; V < c.length; V++)void 0 !== c[V] && "undefined" !== c[V] && o.indexOf(c[V]) < 0 && (o += c[V] + ","); var u = ""; if (void 0 !== s.linkTrackVars && null !== s.linkTrackVars && "" !== s.linkTrackVars) for (var p = s.linkTrackVars.split(","), v = 0; v < p.length; v++) { var d = s[p[v]]; void 0 !== d && "undefined" !== d && "" !== d && u.indexOf(p[v]) < 0 && (u += p[v] + ",") } var m = n + "|" + i + "|" + l + "|" + g + "|" + (o = o.replace(/event/g, "e")) + "|" + (u = u.replace(/eVar/g, "v").replace(/prop/g, "p")); _satellite.customValues = { "an-tr": n, "an-ca": i, an_ac: l, an_la: g, rule_name: event.$rule.name }, s.tl(this, "o", m), _satellite.track("common_track"), s.clearVars() } })) }));
-    });</script>
-  <script>_satellite["_runScript13"](function (event, target, Promise) {
-      window.tagLayer = window.tagLayer || [], window.tagLayer.push({ deployment: "auto", data: event, argument: { id: "nz26q" } }), function () { var a = document.createElement("script"), t = "c3NzYW1zdW5nNG1zdGdsb2JhbGRldg==", e = window.s; a.type = "text/javascript", a.async = !0, a.path = btoa(e.account) === t ? "sdk.ins.js" : "sdk.prd.js", a.async = !0, a.rand = window.rand || a.path, a.src = "https://storage.googleapis.com/media-tagging/adservices/pR_QCO-pkEBEN7Jr8AC/" + a.rand; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(a, n) }(window);
-    });</script>
-  <script>_satellite["_runScript14"](function (event, target, Promise) {
-      setTimeout((function () { var e, t = _satellite.getVar("Currency Code"), a = "N", r = _satellite.getVar("Product Model Name").toUpperCase(), i = _satellite.getVar("Product Model Code").toUpperCase(), l = _satellite.getVar("Product Display Name"), p = ""; "product detail" == _satellite.getVar("Page Track") ? (e = $(".cost-box__cta a").attr("data-modelprice") ? $(".cost-box__cta a").attr("data-modelprice") : $(".pd-buying-price__new-price").attr("data-promotionprice")) && "0.0" != e && (e = e.replace(/[^-\.0-9]/g, ""), p = Number.parseFloat(e).toPrecision().toString().replace(/[^-\.0-9]/g, "")) : "flagship pdp" == _satellite.getVar("Page Track") && (p = _satellite.getVar("Product Model Price")); _satellite.getVar("PIM Product SubType"); var c = _satellite.getVar("Product PVI Type Name") + "/" + _satellite.getVar("Product PVI Subtype Name"), g = r.split(",").length, o = r.split(","), s = i.split(","), d = ""; l && (d = l.replace(/&#34;/g, '"').split(";")); for (var n = [], u = 0, _ = 0; _ < g; _++) { var m = {}, P = {}; if (m.name = o[_], m.id = s[_], d.length > 1 ? m.dimension9 = d[_].replace(/^\,/g, "") : m.dimension9 = l, "product detail" != digitalData.page.pageInfo.pageTrack && "flagship pdp" != digitalData.page.pageInfo.pageTrack || (m.brand = _satellite.getVar("PIM Product SubType")), p) { var y = p.split(","); y[_] = "EUR" == t || "RON" == t || "Y" == a ? y[_].replace(/\./gi, "").replace(/#/gi, ".").replace(/\.$/g, "") : y[_].replace(/#/gi, ""), m.price = y[_] } m.category = c, m.quantity = 1, P.item_id = s[_], d[_] && (P.item_name = d[_].replace(/^\,/g, "")), m.price || (m.price = ""), P.quantity = 1, P.price = m.price, P.item_category = _satellite.getVar("Product PVI Type Name"), P.item_category2 = _satellite.getVar("Product PVI Subtype Name"), P.item_category3 = _satellite.getVar("PIM Product SubType"), u += parseInt(m.price), n.push(P) } u || (u = ""); var V = { name: "view_item", parameters: { currency: t, value: u, content_group: "shopapp detail", items: n } }; _satellite.logger.info("NSC triggerAnalytics>>" + JSON.stringify(V)), isWebView && shopAppUtilInstance.triggerAnalytics(V) }), 2500);
-    });</script>
-  <script>_satellite["_runScript15"](function (event, target, Promise) {
-      !function (e, t, a, n, i, r, d) { e.fbq || (i = e.fbq = function () { i.callMethod ? i.callMethod.apply(i, arguments) : i.queue.push(arguments) }, e._fbq || (e._fbq = i), i.push = i, i.loaded = !0, i.version = "2.0", i.queue = [], (r = t.createElement(a)).async = !0, r.src = n, (d = t.getElementsByTagName(a)[0]).parentNode.insertBefore(r, d)) }(window, document, "script", "https://connect.facebook.net/en_US/fbevents.js"); var uniqueEventID = _satellite.getVar("General - Unique Event ID"), sitecode = _satellite.getVar("Site Code"), eventId = _satellite.getVar("General - Get Event - ID"), currencyCode = _satellite.getVar("Currency Code"), pageType = digitalData.page.pageInfo.pageTrack; fbq("init", "482024727631312"), fbq("track", "PageView"), eddlDataLayer.push({ event: "marketing_event_meta", marketing_data: { facebook: { event_name: "PageView", event_id: uniqueEventID, site_code: sitecode } } }), eddlDataLayer.push({ marketing_data: void 0 });
-    });</script>
-  <script>_satellite["_runScript16"](function (event, target, Promise) {
-      !function () { if (window._uxa = window._uxa || [], "undefined" == typeof CS_CONF) { window._uxa.push(["setPath", window.location.pathname + window.location.hash.replace("#", "?__")]); var a = document.createElement("script"); a.type = "text/javascript", a.async = !0, a.src = "//t.contentsquare.net/uxa/977f9a82566fb.js", document.getElementsByTagName("head")[0].appendChild(a) } else window._uxa.push(["trackPageview", window.location.pathname + window.location.hash.replace("#", "?__")]) }();
-    });</script>
-  <script>_satellite["_runScript17"](function (event, target, Promise) {
-      window.sprChatSettings = window.sprChatSettings || {}, window.sprChatSettings = { appId: "60925c5400498836b785ad6b_app_930540", scope: "CONVERSATION", landingScreen: "LAST_CONVERSATION", sessionOrigin: "samsung.com" }, function () { var t = window, n = t.sprChat, e = n && !!n.loaded, a = document, s = function () { s.m(arguments) }; s.q = [], s.m = function (t) { s.q.push(t) }, t.sprChat = e ? n : s; var i = function () { var n = a.createElement("script"); n.type = "text/javascript", n.async = !0, n.src = "https://prod-live-chat.sprinklr.com/api/livechat/handshake/widget/" + t.sprChatSettings.appId, n.onerror = function () { t.sprChat.loaded = !1 }, n.onload = function () { t.sprChat.loaded = !0 }; var e = a.getElementsByTagName("script")[0]; e.parentNode.insertBefore(n, e) }; "function" == typeof n ? e ? n("update", t.sprChatSettings) : i() : "loading" !== a.readyState ? i() : a.addEventListener("DOMContentLoaded", i) }();
-    });</script>
-  <script>_satellite["_runScript18"](function (event, target, Promise) {
-      var uniqueEventID = _satellite.getVar("General - Unique Event ID"), sitecode = _satellite.getVar("Site Code"), eventId = _satellite.getVar("General - Get Event - ID"), currencyCode = _satellite.getVar("Currency Code"), pageType = digitalData.page.pageInfo.pageTrack; let modelCode = digitalData.product.model_code, modelName = digitalData.product.model_name, productId = null != modelCode && "" !== modelCode ? modelCode : modelName; fbq("track", "ViewContent", { content_ids: [productId], content_type: "product" }, { eventID: uniqueEventID }), eddlDataLayer.push({ event: "marketing_event_meta", marketing_data: { facebook: { event_name: "ViewContent", event_id: uniqueEventID, site_code: sitecode } }, custom_values: { ecommerce: { items: [{ item_id: productId, name: digitalData.product.displayName, category: digitalData.product.pvi_subtype_name }] } } }), eddlDataLayer.push({ marketing_data: void 0 });
-    });</script><cs-native-frame-holder hidden=""></cs-native-frame-holder>
-  <script>_satellite["_runScript19"](function (event, target, Promise) {
-      var allEventData = event && event.event && event.event.eventModel ? event.event.eventModel : _satellite.getVar("DL - allEventData - event", event), dataLayerModel = event && event.event && event.event.dataLayerModel ? event.event.dataLayerModel : {}, marketingData = dataLayerModel && dataLayerModel.marketing_data ? dataLayerModel.marketing_data : _satellite.getVar("DL - marketing_data - model"), eventName = allEventData && allEventData.event ? allEventData.event : _satellite.getVar("DL - event_name - event", event), eventID = _satellite.getVar("General - Get Event - ID"); "marketing_event" == eventName && (eventID = _satellite.getVar("General - Get Marketing Event - ID")), -1 != eventName.indexOf("marketing_event") ? poc_gtag("event", eventName, { allEventData: JSON.stringify(allEventData), marketing_data: JSON.stringify(marketingData), event_id: eventID, currency: _satellite.getVar("Currency Code"), send_to: _satellite.getVar("GA4 Measurement ID"), transport_url: "https://marketing.event-tracking.samsung.com" }) : poc_gtag("event", eventName, { allEventData: JSON.stringify(allEventData), marketing_data: JSON.stringify(marketingData), event_id: eventID, currency: _satellite.getVar("Currency Code"), send_to: _satellite.getVar("GA4 Measurement ID") }), eddlDataLayer.push({ marketing_data: void 0 }), "marketing_event" == eventName && (eventID = _satellite.setVar("General - Get Marketing Event - ID", void 0)), _satellite.setVar("General - Event - ID", void 0);
-    });</script><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe>
-  <script>_satellite["_runScript20"](function (event, target, Promise) {
-      var allEventData = event && event.event && event.event.eventModel ? event.event.eventModel : _satellite.getVar("DL - allEventData - event", event), dataLayerModel = event && event.event && event.event.dataLayerModel ? event.event.dataLayerModel : {}, marketingData = dataLayerModel && dataLayerModel.marketing_data ? dataLayerModel.marketing_data : _satellite.getVar("DL - marketing_data - model"), eventName = allEventData && allEventData.event ? allEventData.event : _satellite.getVar("DL - event_name - event", event), eventID = _satellite.getVar("General - Get Event - ID"); "marketing_event" == eventName && (eventID = _satellite.getVar("General - Get Marketing Event - ID")), -1 != eventName.indexOf("marketing_event") ? poc_gtag("event", eventName, { allEventData: JSON.stringify(allEventData), marketing_data: JSON.stringify(marketingData), event_id: eventID, currency: _satellite.getVar("Currency Code"), send_to: _satellite.getVar("GA4 Measurement ID"), transport_url: "https://marketing.event-tracking.samsung.com" }) : poc_gtag("event", eventName, { allEventData: JSON.stringify(allEventData), marketing_data: JSON.stringify(marketingData), event_id: eventID, currency: _satellite.getVar("Currency Code"), send_to: _satellite.getVar("GA4 Measurement ID") }), eddlDataLayer.push({ marketing_data: void 0 }), "marketing_event" == eventName && (eventID = _satellite.setVar("General - Get Marketing Event - ID", void 0)), _satellite.setVar("General - Event - ID", void 0);
-    });</script><iframe id="insider-worker" src="https://samsungpakistan.api.useinsider.com/worker-new.html"
-    style="display: none;"></iframe><iframe id="spr-live-chat-frame" name="spr-live-chat-frame"
-    title="Sprinklr live chat"
-    style="visibility: hidden; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; position: absolute; top: 0px; left: 0px; height: 0px; width: 0px;"></iframe>
-  <style id="ins-free-style" innerhtml=""></style>
-  <div classname="ins-ghost textads banner-ads banner_ads ad-unit ad-zone ad-space adsbox"
-    class="ins-ghost textads banner-ads banner_ads ad-unit ad-zone ad-space adsbox"
-    style="width: 0px !important; height: 1px !important; position: absolute !important; left: calc(-100vw) !important; top: calc(-100vh) !important;">
-  </div><iframe src="https://live-chat-static.sprinklr.com/chat/assets/html/crossOriginCrossSiteStorage.html"
-    id="spr-live-chat-session-storage" style="display:none"></iframe>
-  <div id="spr-lc-announcements" aria-live="assertive"
-    style="width: 0px; height: 0px; margin: 0px; padding: 0px; overflow: hidden;"></div>
-  <div id="spr-live-chat-app" class="spr-lc-light" style="width: 0px; height: 0px;"><audio src=""
-      data-testid="callPickedByAgentNotifAudio" preload="none"></audio><audio src="" loop="" data-testid="callAudio"
-      preload="none"></audio>
-    <div class="spr-chat__proactive-box spr-live-chat-frame css-1bpkeuc eonj1wj2"><iframe allowfullscreen=""
-        title="Proactive Prompt" name="spr-chat__proactive-frame" aria-label="Proactive Prompt"
-        class="eonj1wj4 css-yto1cu eg7gxbd0"></iframe></div>
-    <div class="css-wwrw1t eonj1wj0"></div>
-    <div class="css-fc9dy6 ezg1tqb0">
-      <div data-testid="triggerContainer" class="css-1xdhyk6 eg0frzz3">
-        <div class="spr-chat__trigger-box spr-live-chat-frame css-8z1qm3 eg0frzz4"><button id="spr-chat__trigger-button"
-            aria-label="Open chat " class="css-j1f869 eg0frzz6" data-di-id="#spr-chat__trigger-button"></button><iframe
-            allowfullscreen="" title="Live chat" aria-label="Live chat" name="spr-chat__trigger-frame" tabindex="-1"
-            class="eg0frzz5 css-tkuqt3 eg7gxbd0"></iframe></div>
-      </div>
-      <div
-        class="spr-chat__notification-container css-79elbk e5qlxka3 spr-chat-proactive-box-anim-appear-done spr-chat-proactive-box-anim-enter-done">
-      </div>
-    </div>
-  </div>
-  <div id="spr-live-prompt-app" style="width: 0px; height: 0px;"></div>
-</body>
+  </body>
 
 </html>
