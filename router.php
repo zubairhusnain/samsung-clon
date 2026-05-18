@@ -2,6 +2,8 @@
 declare(strict_types=1);
 
 require_once __DIR__ . '/base-url.php';
+require_once __DIR__ . '/includes/cw-remote-asset.php';
+require_once __DIR__ . '/includes/cw-asset-resolve.php';
 
 $uri = $_SERVER['REQUEST_URI'] ?? '/';
 $path = parse_url($uri, PHP_URL_PATH);
@@ -100,23 +102,92 @@ if (str_starts_with($path, '/v6/')) {
     exit;
 }
 
-if (str_starts_with($path, '/etc.clientlibs/') || str_starts_with($path, '/assets/')) {
+if ($path === '/sw.js') {
+    $sw = __DIR__ . '/sw.js';
+    if (is_file($sw)) {
+        header('Content-Type: application/javascript; charset=utf-8');
+        header('Cache-Control: no-store');
+        readfile($sw);
+        exit;
+    }
+}
+
+if (str_starts_with($path, '/aemapi/')) {
     $localFs = __DIR__ . $path;
     if (is_file($localFs)) {
-        $contentType = '';
+        $contentType = 'application/json; charset=utf-8';
         if (function_exists('mime_content_type')) {
             $mt = mime_content_type($localFs);
-            if (is_string($mt)) {
+            if (is_string($mt) && $mt !== '') {
                 $contentType = $mt;
             }
         }
-        if ($contentType !== '') {
-            header('Content-Type: ' . $contentType);
-        }
-        header('Cache-Control: public, max-age=31536000');
+        header('Content-Type: ' . $contentType);
+        header('Cache-Control: public, max-age=3600');
         readfile($localFs);
         exit;
     }
+    http_response_code(404);
+    exit;
+}
+
+if (str_starts_with($path, '/content/')) {
+    if (str_contains($path, '..')) {
+        http_response_code(400);
+        exit;
+    }
+
+    if (cw_serve_resolved_asset($path)) {
+        exit;
+    }
+
+    $suffix = $query !== '' ? ('?' . $query) : '';
+    $origins = [
+        'https://images.samsung.com',
+        'https://www.samsung.com',
+    ];
+    foreach ($origins as $origin) {
+        $remoteUrl = $origin . $path . $suffix;
+        $ch = curl_init($remoteUrl);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+        curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 10);
+        curl_setopt($ch, CURLOPT_TIMEOUT, 45);
+        curl_setopt($ch, CURLOPT_USERAGENT, 'copy-website-local');
+        $data = curl_exec($ch);
+        $httpCode = (int)curl_getinfo($ch, CURLINFO_HTTP_CODE);
+        $contentType = (string)curl_getinfo($ch, CURLINFO_CONTENT_TYPE);
+        curl_close($ch);
+        if (is_string($data) && $data !== '' && $httpCode >= 200 && $httpCode < 300) {
+            $dir = dirname($localFs);
+            if (!is_dir($dir)) {
+                @mkdir($dir, 0775, true);
+            }
+            if (is_dir($dir) && is_writable($dir)) {
+                @file_put_contents($localFs, $data);
+            }
+            if ($contentType !== '') {
+                header('Content-Type: ' . $contentType);
+            }
+            header('Cache-Control: no-store');
+            echo $data;
+            exit;
+        }
+    }
+    http_response_code(404);
+    exit;
+}
+
+if (str_starts_with($path, '/copy-website/')) {
+    $path = substr($path, strlen('/copy-website'));
+}
+
+if (str_starts_with($path, '/etc.clientlibs/') || str_starts_with($path, '/assets/')) {
+    if (cw_remote_asset_serve($path)) {
+        exit;
+    }
+    http_response_code(404);
+    exit;
 }
 
 if (str_starts_with($path, '/is/image/') || str_starts_with($path, '/is/content/')) {

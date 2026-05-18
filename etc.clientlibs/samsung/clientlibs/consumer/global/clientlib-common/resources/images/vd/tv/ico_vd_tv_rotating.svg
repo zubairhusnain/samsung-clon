@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        mask: url(#mask);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-linejoin: round;
+      }
+    </style>
+    <mask id="mask" x="12.76" y="18.53" width="3.2" height="2.72" maskUnits="userSpaceOnUse">
+      <g id="path-4-inside-1_4213_4338" data-name="path-4-inside-1 4213 4338">
+        <path class="cls-2" d="M14.96,19.53h-1.2v.72h1.2v-.72Z"/>
+      </g>
+    </mask>
+  </defs>
+  <path class="cls-3" d="M15.75,3.75h-7.25v15.83h7.25V3.75Z"/>
+  <path class="cls-3" d="M8.58,20.01l-.08.24v-.43h.08v.19Z"/>
+  <path class="cls-3" d="M15.75,20.25l-.08-.24v-.19h.08v.43Z"/>
+  <path d="M14.96,19.53h-1.2v.72h1.2v-.72Z"/>
+  <g class="cls-1">
+    <path d="M13.76,19.53v-1h-1v1h1ZM14.96,19.53h1v-1h-1v1ZM14.96,20.25v1h1v-1h-1ZM13.76,20.25h-1v1h1v-1ZM13.76,20.53h1.2v-2h-1.2v2ZM13.96,19.53v.72h2v-.72h-2ZM14.96,19.25h-1.2v2h1.2v-2ZM14.76,20.25v-.72h-2v.72h2Z"/>
+  </g>
+  <path class="cls-3" d="M8.5,16.51h7.25"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg id="ic_kitchen_24x24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="사각형_12" data-name="사각형 12" width="24" height="24" fill="none"/>
+  <g id="kitchen_24x24" transform="translate(0 0.25)">
+    <path id="패스_16" data-name="패스 16" d="M17.538,3.75H6.25A.25.25,0,0,0,6,4V20.153a.25.25,0,0,0,.25.25H17.538a.25.25,0,0,0,.25-.25V4A.25.25,0,0,0,17.538,3.75Z" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_17" data-name="패스 17" d="M12.99,6.75H10.8A.276.276,0,0,0,10.5,7v9.5a.276.276,0,0,0,.3.249H12.99a.276.276,0,0,0,.3-.249V7A.276.276,0,0,0,12.99,6.75Z" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_18" data-name="패스 18" d="M11.934,3.75V20.358" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_19" data-name="패스 19" d="M6,13.828H17.788" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

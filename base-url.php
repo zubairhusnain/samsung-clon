@@ -1,5 +1,8 @@
 <?php
 declare(strict_types=1);
+
+require_once __DIR__ . '/includes/cw-asset-resolve.php';
+
 $baseUrl = 'http://localhost/samsung-clon';
 if (!defined('CW_BASE_URL')) {
     $override = getenv('CW_BASE_URL');
@@ -89,69 +92,40 @@ function cw_rewrite_asset_urls_in_html(string $html): string
             setInterval(setValues, 100);
         })();</script>';
     }
+    if (!str_contains($html, 'id="cw-asset-root"')) {
+        $headInsert .= '<script id="cw-asset-root">window.__CW_ASSET_ROOT=' . json_encode($base) . ';</script>';
+    }
     if (!str_contains($html, 'id="cw-stubs"')) {
         $headInsert .= '<script id="cw-stubs">(function(){try{' .
-            'window.google=window.google||{};' .
-            'window.google.maps=window.google.maps||{};' .
-            'window.google.maps.places=window.google.maps.places||{};' .
-            'window.google.maps.places.Autocomplete=function(){};' .
-            'window.google.maps.places.Autocomplete.prototype.addListener=function(){};' .
-            'window.google.maps.places.Autocomplete.prototype.setComponentRestrictions=function(){};' .
-            'window.google.maps.places.Autocomplete.prototype.setBounds=function(){};' .
-            'window.google.maps.places.Autocomplete.prototype.setFields=function(){};' .
-            'window.google.maps.places.Autocomplete.prototype.getPlace=function(){return {};};' .
-            'window.google.maps.Map=function(){};' .
-            'window.google.maps.Map.prototype.addListener=function(){};' .
-            'window.google.maps.Map.prototype.setCenter=function(){};' .
-            'window.google.maps.Map.prototype.setZoom=function(){};' .
-            'window.google.maps.Map.prototype.panTo=function(){};' .
-            'window.google.maps.Marker=function(){};' .
-            'window.google.maps.Marker.prototype.addListener=function(){};' .
-            'window.google.maps.Marker.prototype.setMap=function(){};' .
-            'window.google.maps.Marker.prototype.setPosition=function(){};' .
-            'window.google.maps.InfoWindow=function(){};' .
-            'window.google.maps.InfoWindow.prototype.addListener=function(){};' .
-            'window.google.maps.InfoWindow.prototype.open=function(){};' .
-            'window.google.maps.InfoWindow.prototype.setContent=function(){};' .
-            'window.google.maps.Geocoder=function(){};' .
-            'window.google.maps.Geocoder.prototype.geocode=function(request, callback){callback([], "OK");};' .
-            'window.google.maps.LatLng=function(){};' .
-            'window.google.maps.LatLngBounds=function(){};' .
-            'window.google.maps.LatLngBounds.prototype.extend=function(){};' .
-            'window.google.maps.LatLngBounds.prototype.contains=function(){return false;};' .
-            'window.google.maps.Size=function(){};' .
-            'window.google.maps.Point=function(){};' .
-            'window.google.maps.MarkerImage=function(){};' .
-            'window.google.maps.DirectionsService=function(){};' .
-            'window.google.maps.DirectionsService.prototype.route=function(request, callback){callback({}, "OK");};' .
-            'window.google.maps.DirectionsRenderer=function(){};' .
-            'window.google.maps.DirectionsRenderer.prototype.setMap=function(){};' .
-            'window.google.maps.DirectionsRenderer.prototype.setDirections=function(){};' .
+            'var R=window.__CW_ASSET_ROOT||"";' .
+            'function fixRoot(u){if(typeof u!=="string")return u;if(/^\\/(etc\\.clientlibs|assets|is\\/|content\\/|aemapi)\\//.test(u))return R+u;if(u.indexOf("http://localhost/etc.clientlibs/")===0)return u.replace("http://localhost/etc.clientlibs/",R+"/etc.clientlibs/");if(u.indexOf("http://localhost/assets/")===0)return u.replace("http://localhost/assets/",R+"/assets/");if(u.indexOf("http://localhost/is/")===0)return u.replace("http://localhost/is/",R+"/is/");if(u.indexOf("http://localhost/content/")===0)return u.replace("http://localhost/content/",R+"/content/");return u;}' .
+            'function patchSetter(proto,prop){var d=Object.getOwnPropertyDescriptor(proto,prop);if(!d||!d.set)return;var s=d.set;d.set=function(v){return s.call(this,fixRoot(v));};}' .
+            'patchSetter(HTMLImageElement.prototype,"src");' .
+            'patchSetter(HTMLLinkElement.prototype,"href");' .
+            'patchSetter(HTMLScriptElement.prototype,"src");' .
+            'var _open=XMLHttpRequest.prototype.open;XMLHttpRequest.prototype.open=function(m,u){arguments[1]=fixRoot(u);return _open.apply(this,arguments);};' .
+            'var _fetch=window.fetch;window.fetch=function(i,n){var u=typeof i==="string"?i:(i&&i.url?i.url:"");if(typeof u==="string"&&(u.indexOf("api-recommender.bigdata.samsung.com")!==-1||u.indexOf("smetrics.samsung.com")!==-1)){return Promise.resolve({ok:true,json:function(){return Promise.resolve({});},text:function(){return Promise.resolve("{}");}});}if(typeof i==="string"){i=fixRoot(i);}else if(i&&i.url){try{i=new Request(fixRoot(i.url),i);}catch(e){}}return _fetch.call(this,i,n);};' .
             'window._satellite=window._satellite||{};' .
             'window._satellite.getVar=window._satellite.getVar||function(){return "";};' .
             'window._satellite.setVar=window._satellite.setVar||function(){};' .
             'window._satellite.track=window._satellite.track||function(){};' .
-            'window._satellite.__registerScript=function(){};' .
             'window._satellite.pageBottom=function(){};' .
             'window._satellite.pageTop=function(){};' .
-            'for(var i=0;i<=200;i++){var k="_runScript"+i;window._satellite[k]=window._satellite[k]||function(cb){try{if(typeof cb==="function"){cb({},null,Promise);}}catch(e){}};}' .
-            'window.dataLayer=window.dataLayer||[];' .
-            'window.gtag=window.gtag||function(){window.dataLayer.push(arguments);};' .
-            'window.poc_gtag=window.poc_gtag||function(){};' .
-            'window.fbq=window.fbq||function(){(window.fbq.q=window.fbq.q||[]).push(arguments);};' .
-            'window._fbq=window._fbq||window.fbq;' .
-            'window.__beusablerumclient__=window.__beusablerumclient__||{};' .
-            'window.KAMPYLE_ONSITE_SDK=window.KAMPYLE_ONSITE_SDK||{};' .
             'window.MODAL_DIALOGS=window.MODAL_DIALOGS||{};' .
             'window.eddlDataLayer=window.eddlDataLayer||[];' .
             'window.digitalData=window.digitalData||{};' .
-            'window.eddl=window.eddl||{};' .
-            'window.eddl.push=function(){};' .
             'window.siteCode=window.siteCode||"";' .
-            'function isBlockedUrl(url){if(typeof url!=="string")return false;var lc=url.toLowerCase();return lc.indexOf("samsung.com/chat")!==-1||lc.indexOf("/chat/api")!==-1;}' .
-            'var _XHR=window.XMLHttpRequest;window.XMLHttpRequest=function(){var x=new _XHR();var _open=x.open;x.open=function(){var url=arguments[1];if(isBlockedUrl(url)){return;}return _open.apply(x,arguments);};return x;};' .
-            'var _fetch=window.fetch;window.fetch=function(){var url=arguments[0];if(typeof url==="string"&&isBlockedUrl(url)){return new Promise(function(resolve){resolve({ok:true,json:function(){return new Promise(function(r){r({});});},text:function(){return new Promise(function(r){r("");});}});});}else if(url&&url.url&&isBlockedUrl(url.url)){return new Promise(function(resolve){resolve({ok:true,json:function(){return new Promise(function(r){r({});});},text:function(){return new Promise(function(r){r("");});}});});}return _fetch.apply(window,arguments);};' .
             '}catch(e){}})();</script>';
+    }
+    if (!str_contains($html, 'id="cw-hydrate-media"')) {
+        $headInsert .= '<script id="cw-hydrate-media">(function(){function h(){try{' .
+            'document.querySelectorAll("img[data-src],img[data-desktop-src],img[data-mobile-src],video[data-src],source[data-src]").forEach(function(el){' .
+            '["data-src","data-desktop-src","data-mobile-src"].forEach(function(a){var v=el.getAttribute(a);if(v&&!el.getAttribute("src")){el.setAttribute("src",v);}});' .
+            'if(el.tagName==="VIDEO"&&el.getAttribute("data-src")&&!el.getAttribute("src")){el.setAttribute("src",el.getAttribute("data-src"));}' .
+            '});' .
+            '}catch(e){}}' .
+            'if(document.readyState==="loading"){document.addEventListener("DOMContentLoaded",h);}else{h();}' .
+            'setTimeout(h,400);setTimeout(h,1200);})();</script>';
     }
     if (!str_contains($html, 'id="cw-hide-cookie"')) {
         $headInsert .= '<style id="cw-hide-cookie">' .
@@ -182,6 +156,12 @@ function cw_rewrite_asset_urls_in_html(string $html): string
     if ($headInsert !== '') {
         $html = cw_inject_after_head_open($html, $headInsert);
     }
+
+    $html = preg_replace(
+        '~<script\b[^>]*\bsrc=(["\'])(?://|https?://)?maps\.googleapis\.com[^>]*>\s*</script>~is',
+        '',
+        $html
+    ) ?? $html;
 
     if (str_contains($html, $base)) {
         $html = str_replace($base, $base, $html);
@@ -228,49 +208,25 @@ function cw_rewrite_asset_urls_in_html(string $html): string
         $html
     ) ?? $html;
 
-    $html = preg_replace('~(["\'(])/(etc\.clientlibs|aemapi|assets|iam|is)/~', '$1' . $base . '/$2/', $html) ?? $html;
-    $html = preg_replace('~(["\'(])(?:\.\./)+(etc\.clientlibs|aemapi|assets|iam|is)/~', '$1' . $base . '/$2/', $html) ?? $html;
+    $html = preg_replace('~(["\'(])/(etc\.clientlibs|aemapi|assets|iam|is|content)/~', '$1' . $base . '/$2/', $html) ?? $html;
+    $html = preg_replace('~(["\'(])(?:\.\./)+(etc\.clientlibs|aemapi|assets|iam|is|content)/~', '$1' . $base . '/$2/', $html) ?? $html;
+
+    $html = preg_replace_callback(
+        '~(["\'])(/content/samsung/assets/[^"\']+)~',
+        static function (array $m) use ($base): string {
+            $url = preg_replace('/(&quot;|&#0?38;).*$/', '', $m[2]) ?? $m[2];
+            $resolved = cw_resolve_public_asset_path($url);
+            if ($resolved === null) {
+                return $m[0];
+            }
+            return $m[1] . $base . $resolved . $m[1];
+        },
+        $html
+    ) ?? $html;
 
     $html = str_replace($base . '/image/', $base . '/is/image/', $html);
     $html = preg_replace('~(["\'])(?:https?:)?//searchapi\.samsung\.com/v6/~i', '$1' . $base . '/v6/', $html);
 
-    $html = preg_replace(
-        '~<script[^>]*fbevents\.js[^>]*>.*?</script>~is',
-        '',
-        $html
-    ) ?? $html;
-    $html = preg_replace(
-        '~<script[^>]*connect\.facebook\.net[^>]*>.*?</script>~is',
-        '',
-        $html
-    ) ?? $html;
-    $html = preg_replace(
-        '~<script[^>]*fb\.facebook\.net[^>]*>.*?</script>~is',
-        '',
-        $html
-    ) ?? $html;
-    $html = preg_replace(
-        '~<noscript[^>]*>.*?facebook.*?</noscript>~is',
-        '',
-        $html
-    ) ?? $html;
-    
-    $html = preg_replace(
-        '~<script[^>]*live-chat[^>]*>.*?</script>~is',
-        '',
-        $html
-    ) ?? $html;
-    $html = preg_replace(
-        '~<script[^>]*samsung\.com/chat[^>]*>.*?</script>~is',
-        '',
-        $html
-    ) ?? $html;
-    $html = preg_replace(
-        '~<script[^>]*sdk\.prd\.js[^>]*>.*?</script>~is',
-        '',
-        $html
-    ) ?? $html;
-    
     $html = preg_replace_callback(
         '~(https?:)?//([a-z0-9.-]+)(/[^\s"\'<>]+)~i',
         static function (array $m) use ($base): string {
@@ -376,7 +332,7 @@ function cw_rewrite_asset_urls_in_html(string $html): string
     ) ?? $html;
 
     $html = preg_replace(
-        '~\b(href|src|action)=(["\'])/(?!/)(?!etc\.clientlibs/|aemapi/|assets/|iam/|is/)([^"\']*)\2~i',
+        '~\b(href|src|action)=(["\'])/(?!/)(?!etc\.clientlibs/|aemapi/|assets/|iam/|is/|content/)([^"\']*)\2~i',
         '$1=$2' . $base . '/$3$2',
         $html
     ) ?? $html;
@@ -430,7 +386,6 @@ function cw_rewrite_asset_urls_in_html(string $html): string
                 }
                 if (contentWrap && contentWrap.innerHTML.trim().length > 0) {
                     savedProductHTML = contentWrap.innerHTML;
-                    console.log("Saved product list");
                 }
             }
             
@@ -450,7 +405,6 @@ function cw_rewrite_asset_urls_in_html(string $html): string
                 
                 if (contentWrap && savedProductHTML) {
                     contentWrap.innerHTML = savedProductHTML;
-                    console.log("Locked product list");
                 }
             }
             

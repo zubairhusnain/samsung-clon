@@ -1,3 +1,17 @@
+img.image__preview,
+img[data-desktop-src].image__preview,
+img[data-mobile-src].image__preview,
+.lazy-load img.image__preview {
+    opacity: 0 !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+}
+img.image__main,
+img[data-desktop-src].image__main,
+img[data-mobile-src].image__main {
+    opacity: 1 !important;
+    filter: none !important;
+}
 #spr-live-chat-app{
     display:none !important;
 }

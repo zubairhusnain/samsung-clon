@@ -1,0 +1,17 @@
+<svg id="ic_movies_shows_24x24" data-name="ic_movies&amp;shows_24x24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="사각형_20" data-name="사각형 20" width="24" height="24" fill="none"/>
+  <g id="dynamic-movie_24x24" transform="translate(0.1 0.211)">
+    <path id="패스_36" data-name="패스 36" d="M20.132,5H3.755a.255.255,0,0,0-.255.255V18.282a.254.254,0,0,0,.255.254H20.132a.255.255,0,0,0,.255-.254V5.255A.255.255,0,0,0,20.132,5Z" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_37" data-name="패스 37" d="M5.445,5V18.58" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_38" data-name="패스 38" d="M18.441,5V18.58" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_39" data-name="패스 39" d="M14.27,11.485,10.142,9.1a.255.255,0,0,0-.382.221v4.768a.255.255,0,0,0,.382.221l4.129-2.385A.253.253,0,0,0,14.27,11.485Z" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_40" data-name="패스 40" d="M18.441,7.709h1.945" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_41" data-name="패스 41" d="M3.5,7.709H5.445" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_42" data-name="패스 42" d="M18.441,10.414h1.945" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_43" data-name="패스 43" d="M3.5,10.414H5.445" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_44" data-name="패스 44" d="M18.441,13.123h1.945" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_45" data-name="패스 45" d="M3.5,13.123H5.445" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_46" data-name="패스 46" d="M18.441,15.831h1.945" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_47" data-name="패스 47" d="M3.5,15.831H5.445" fill="none" stroke="#757575" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

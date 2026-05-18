@@ -5,19 +5,19 @@
     <head>
     
     <!-- PWA - manifest
-    <link rel="manifest" href="/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
+    <link rel="manifest" href="/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
      -->
     <!-- PWA - Browser Compatible
-    <script async src="/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
+    <script async src="/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
      -->
     <!-- <meta name="theme-color" content="#0c4da2"> -->
     <!-- Add to home screen for Safari on iOS -->
     <!-- <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="apple-mobile-web-app-title" content="Samsung Shop">
-    <link rel="apple-touch-icon" href="/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/icon/pwa_icon_192x192.png"> -->
+    <link rel="apple-touch-icon" href="/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/icon/pwa_icon_192x192.png"> -->
     <!-- Add to home screen for Windows -->
-    <!-- <meta name="msapplication-TileImage" content="/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/icon/pwa_icon_192x192.png">
+    <!-- <meta name="msapplication-TileImage" content="/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/icon/pwa_icon_192x192.png">
     <meta name="msapplication-TileColor" content="#000000"> -->
     
     
@@ -30,13 +30,13 @@
     <!--  
     일단 preload는 가이드에 언급된것이 
 
-        /copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux2.min.js
-        /copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.js
+        /samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux2.min.js
+        /samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.js
         두가지 입니다. 
         
         PF한정 추가 
-        /copy-website/etc.clientlibs/samsung/components/content/consumer/global/product/pd-g-product-finder-ux2/clientlibs/site.min.js
-        /copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-pf-ux2/compact.min.js
+        /samsung-clon/etc.clientlibs/samsung/components/content/consumer/global/product/pd-g-product-finder-ux2/clientlibs/site.min.js
+        /samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-pf-ux2/compact.min.js
 
     -->
     
@@ -127,9 +127,9 @@
       <meta property="keywords" content="Samsung, Samsung Electronics, Samsung Smartphones, Samsung TVs, Samsung Home Appliances"/>
       
       
-	<link rel="icon" type="image/png" href="/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/Favicon.png" sizes="96x96"/>
-	<link rel="shortcut icon" href="/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/Favicon.png"/>
-	<link rel="apple-touch-icon" href="/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/app_ico.png" sizes="144x144"/>
+	<link rel="icon" type="image/png" href="/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/Favicon.png" sizes="96x96"/>
+	<link rel="shortcut icon" href="/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/Favicon.png"/>
+	<link rel="apple-touch-icon" href="/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/app_ico.png" sizes="144x144"/>
 	
 	
 	
@@ -142,7 +142,7 @@
     <!-- css 위치 변경 1) fonts.css  2) local.css 3) clientlib 카테고리 (230317) -->
     
     
-<link rel="stylesheet" href="/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/sites/global/css/fonts.min.b044099f83e7f412097f7d677f78166c.css" type="text/css">
+<link rel="stylesheet" href="/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/sites/global/css/fonts.min.b044099f83e7f412097f7d677f78166c.css" type="text/css">
 
 
 
@@ -162,7 +162,7 @@
             
                 
     
-<link type="text/css" rel="preload" href="/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.1dd1d47f040029bab499de380db9b346.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><link type="text/css" rel="preload" href="/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux25.min.e6a951def9419a5699483a55807d80c3.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link type="text/css" rel="preload" href="/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.1dd1d47f040029bab499de380db9b346.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><link type="text/css" rel="preload" href="/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux25.min.e6a951def9419a5699483a55807d80c3.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 
 
             
@@ -185,7 +185,7 @@
 	
 		
     
-<link type="text/css" rel="preload" href="/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-static-us/compact.min.6464e52d5824a3b3500e00538e5eaad5.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><link type="text/css" rel="preload" href="/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-home-v2/compact.min.6464e52d5824a3b3500e00538e5eaad5.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link type="text/css" rel="preload" href="/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-static-us/compact.min.6464e52d5824a3b3500e00538e5eaad5.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><link type="text/css" rel="preload" href="/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-home-v2/compact.min.6464e52d5824a3b3500e00538e5eaad5.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 
 
 	
@@ -206,19 +206,19 @@
 
     
     
-        <link type="text/css" rel="preload" href="/copy-website/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-hero-kv-home/clientlibs/site.min.172f408f8929c1d8bc757ced1e7b72c0.css" as="style" onload="this.onload=null;this.rel='stylesheet'"/>
+        <link type="text/css" rel="preload" href="/samsung-clon/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-hero-kv-home/clientlibs/site.min.172f408f8929c1d8bc757ced1e7b72c0.css" as="style" onload="this.onload=null;this.rel='stylesheet'"/>
     
-        <link type="text/css" rel="preload" href="/copy-website/etc.clientlibs/samsung/components/content/consumer/global/function/fn-g-personalization/clientlibs/site.min.d41d8cd98f00b204e9800998ecf8427e.css" as="style" onload="this.onload=null;this.rel='stylesheet'"/>
+        <link type="text/css" rel="preload" href="/samsung-clon/etc.clientlibs/samsung/components/content/consumer/global/function/fn-g-personalization/clientlibs/site.min.d41d8cd98f00b204e9800998ecf8427e.css" as="style" onload="this.onload=null;this.rel='stylesheet'"/>
     
-        <link type="text/css" rel="preload" href="/copy-website/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-feature-kv/clientlibs/site.min.e4937076924cda72e594926a375b62aa.css" as="style" onload="this.onload=null;this.rel='stylesheet'"/>
+        <link type="text/css" rel="preload" href="/samsung-clon/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-feature-kv/clientlibs/site.min.e4937076924cda72e594926a375b62aa.css" as="style" onload="this.onload=null;this.rel='stylesheet'"/>
     
-        <link type="text/css" rel="preload" href="/copy-website/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-feature-cards/clientlibs/site.min.80ca88cacd90bd8aa8da9ee8cd25be59.css" as="style" onload="this.onload=null;this.rel='stylesheet'"/>
+        <link type="text/css" rel="preload" href="/samsung-clon/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-feature-cards/clientlibs/site.min.80ca88cacd90bd8aa8da9ee8cd25be59.css" as="style" onload="this.onload=null;this.rel='stylesheet'"/>
     
-        <link type="text/css" rel="preload" href="/copy-website/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-recommended-product-carousel/clientlibs/site.min.bb9fc7ffd36e0804118701044f0b9fb9.css" as="style" onload="this.onload=null;this.rel='stylesheet'"/>
+        <link type="text/css" rel="preload" href="/samsung-clon/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-recommended-product-carousel/clientlibs/site.min.bb9fc7ffd36e0804118701044f0b9fb9.css" as="style" onload="this.onload=null;this.rel='stylesheet'"/>
     
-        <link type="text/css" rel="preload" href="/copy-website/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-explore-carousel/clientlibs/site.min.2f3f72667d6f73781369fcf3508bb4b3.css" as="style" onload="this.onload=null;this.rel='stylesheet'"/>
+        <link type="text/css" rel="preload" href="/samsung-clon/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-explore-carousel/clientlibs/site.min.2f3f72667d6f73781369fcf3508bb4b3.css" as="style" onload="this.onload=null;this.rel='stylesheet'"/>
     
-        <link type="text/css" rel="preload" href="/copy-website/etc.clientlibs/samsung/components/content/consumer/global/common/cm-g-text-editor/clientlibs/site.min.e3b5808df4236015b90cd59d0dbe152f.css" as="style" onload="this.onload=null;this.rel='stylesheet'"/>
+        <link type="text/css" rel="preload" href="/samsung-clon/etc.clientlibs/samsung/components/content/consumer/global/common/cm-g-text-editor/clientlibs/site.min.e3b5808df4236015b90cd59d0dbe152f.css" as="style" onload="this.onload=null;this.rel='stylesheet'"/>
     
     
     
@@ -435,10 +435,10 @@ var digitalData = {
 		    </div>
 		</section>
 	
-	<!-- <script type="text/javascript" src="/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/js/crypto-js.min.js"></script> -->
+	<!-- <script type="text/javascript" src="/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/js/crypto-js.min.js"></script> -->
 	
     
-<script src="/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/global/js/crypto-js.min.6fa2276cf659f30cabde72a6fc452171.js"></script>
+<script src="/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/global/js/crypto-js.min.6fa2276cf659f30cabde72a6fc452171.js"></script>
 
 
 
@@ -2762,7 +2762,7 @@ var digitalData = {
       <input type="hidden" name="client_id" value="s51wzytwmf"/>
       <input type="hidden" name="locale" id="locale" value=""/>
       <input type="hidden" name="countryCode" value="PK"/>
-      <input type="hidden" name="redirect_uri" id="redirect_uri" value="/copy-website/aemapi/v6/data-login/afterLogin.pk.json"/>
+      <input type="hidden" name="redirect_uri" id="redirect_uri" value="/samsung-clon/aemapi/v6/data-login/afterLogin.pk.json"/>
       <input type="hidden" name="state" id="signInState" value=""/>
       <input type="hidden" name="goBackURL" id="signInGoBackURL" value=""/>
       <input type="hidden" name="scope" id="scope" value=""/>
@@ -2771,7 +2771,7 @@ var digitalData = {
     <form id="signOutForm" name="signOutForm" method="get" action="https://account.samsung.com/accounts/v1/DCGLPK/signOutGate">
       <input type="hidden" name="client_id" value="s51wzytwmf"/>
       <input type="hidden" name="state" id="signOutState" value=""/>
-      <input type="hidden" name="signOutURL" id="signOutURL" value="/copy-website/aemapi/v6/data-login/afterLogout.pk.json"/>
+      <input type="hidden" name="signOutURL" id="signOutURL" value="/samsung-clon/aemapi/v6/data-login/afterLogout.pk.json"/>
     </form>
     <!-- 회원가입 폼 -->
     <form id="joinForm" name="joinForm" method="post" action="https://account.samsung.com/membership/">
@@ -2781,11 +2781,11 @@ var digitalData = {
       <input type="hidden" name="domain" value=""/>
       <input type="hidden" name="countryCode" value="PK"/>
       <input type="hidden" name="languageCode" value="en"/>
-      <input type="hidden" name="registURL" id="joinRegistURL" value="/copy-website/aemapi/v6/data-login/afterLogin.pk.json"/>
+      <input type="hidden" name="registURL" id="joinRegistURL" value="/samsung-clon/aemapi/v6/data-login/afterLogin.pk.json"/>
       <input type="hidden" name="returnURL" id="joinReturnURL"/>
       <input type="hidden" name="goBackURL" id="joinGoBackURL" value=""/>
       <input type="hidden" name="ssoType" value="ENC_TK"/>
-      <input type="hidden" name="emailActivationURL" id="joinEmailActivationURL" value="/copy-website/aemapi/v6/data-login/emailActivationURL.pk.json"/>
+      <input type="hidden" name="emailActivationURL" id="joinEmailActivationURL" value="/samsung-clon/aemapi/v6/data-login/emailActivationURL.pk.json"/>
     </form>
     <!-- Find Email 폼 -->
     <form id="findAccountForm" name="findAccountForm" method="post" action="https://account.samsung.com/membership/">
@@ -2829,7 +2829,7 @@ var digitalData = {
     <input type="hidden" name="countryCode" id="countryCode" value="PK"/>
     <input type="hidden" name="languageCode" id="languageCode" value="en"/>
     <input type="hidden" name="loginAccountServiceId" id="loginAccountServiceId" value="s51wzytwmf"/>
-    <input type="hidden" name="emailActivationURL" id="emailActivationURL" value="/copy-website/aemapi/v6/data-login/emailActivationURL.pk.json"/>
+    <input type="hidden" name="emailActivationURL" id="emailActivationURL" value="/samsung-clon/aemapi/v6/data-login/emailActivationURL.pk.json"/>
     <input type="hidden" name="shopIntegrationFlag" id="shopIntegrationFlag" value="Hybris"/>
     <input type="hidden" name="tieredPriceUseYn" id="tieredPriceUseYn"/>
     <input type="hidden" name="mySamsungRewardsTierType" id="mySamsungRewardsTierType"/>
@@ -4977,8 +4977,8 @@ var digitalData = {
 
 				
     
-<script src="/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.407b108c60433f00a6b1a0e8f272a2c1.js"></script>
-<script src="/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux25.min.172c7e8f7944347bd914a84f57505c13.js"></script>
+<script src="/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.407b108c60433f00a6b1a0e8f272a2c1.js"></script>
+<script src="/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux25.min.172c7e8f7944347bd914a84f57505c13.js"></script>
 
 
 
@@ -4990,11 +4990,11 @@ var digitalData = {
 	
 	
 	<!-- <sly data-sly-test="false">
-		<script type="text/javascript" src='/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/resources/au/js/au.js'></script>
+		<script type="text/javascript" src='/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/resources/au/js/au.js'></script>
 	</sly> -->
 	
 	<!--[if lt IE 9]>
-	<script src="/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
+	<script src="/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
 	<![endif]-->
 	<!--[if lte IE 9]>
 	<script type='text/javascript' src='../remote/cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>
@@ -5061,7 +5061,7 @@ var digitalData = {
 		
 			
     
-<script type="text/javascript" src="/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-static-us/compact.min.2ff971de98c5742095d62b62dd7d0435.js" async></script><script type="text/javascript" src="/copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-home-v2/compact.min.2ff971de98c5742095d62b62dd7d0435.js" async></script>
+<script type="text/javascript" src="/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-static-us/compact.min.2ff971de98c5742095d62b62dd7d0435.js" async></script><script type="text/javascript" src="/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-home-v2/compact.min.2ff971de98c5742095d62b62dd7d0435.js" async></script>
 
 
 		
@@ -5070,19 +5070,19 @@ var digitalData = {
 
 
 	
-		<script src="/copy-website/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-hero-kv-home/clientlibs/site.min.1c9a0aae958e478199dc22f247e117a7.js" async></script>
+		<script src="/samsung-clon/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-hero-kv-home/clientlibs/site.min.1c9a0aae958e478199dc22f247e117a7.js" async></script>
 	
-		<script src="/copy-website/etc.clientlibs/samsung/components/content/consumer/global/function/fn-g-personalization/clientlibs/site.min.2e7d516855f2cc7d6763dd5902dc234b.js" async></script>
+		<script src="/samsung-clon/etc.clientlibs/samsung/components/content/consumer/global/function/fn-g-personalization/clientlibs/site.min.2e7d516855f2cc7d6763dd5902dc234b.js" async></script>
 	
-		<script src="/copy-website/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-feature-kv/clientlibs/site.min.0668c8f30db5c717417007868df7650a.js" async></script>
+		<script src="/samsung-clon/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-feature-kv/clientlibs/site.min.0668c8f30db5c717417007868df7650a.js" async></script>
 	
-		<script src="/copy-website/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-feature-cards/clientlibs/site.min.4fa2b42d27c1317dcd94a1b59b64f009.js" async></script>
+		<script src="/samsung-clon/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-feature-cards/clientlibs/site.min.4fa2b42d27c1317dcd94a1b59b64f009.js" async></script>
 	
-		<script src="/copy-website/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-recommended-product-carousel/clientlibs/site.min.8420d198b6b2976a0d9f71b403891d74.js" async></script>
+		<script src="/samsung-clon/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-recommended-product-carousel/clientlibs/site.min.8420d198b6b2976a0d9f71b403891d74.js" async></script>
 	
-		<script src="/copy-website/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-explore-carousel/clientlibs/site.min.d29337f00ad051c2b2016989d140f546.js" async></script>
+		<script src="/samsung-clon/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-explore-carousel/clientlibs/site.min.d29337f00ad051c2b2016989d140f546.js" async></script>
 	
-		<script src="/copy-website/etc.clientlibs/samsung/components/content/consumer/global/common/cm-g-text-editor/clientlibs/site.min.39d2becaa643a887167e8d8a74b92c29.js" async></script>
+		<script src="/samsung-clon/etc.clientlibs/samsung/components/content/consumer/global/common/cm-g-text-editor/clientlibs/site.min.39d2becaa643a887167e8d8a74b92c29.js" async></script>
 	
 	
     

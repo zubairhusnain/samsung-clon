@@ -202,36 +202,36 @@ a:focus,button:focus,input:focus,select:focus,textarea:focus{-webkit-box-shadow:
 @media only screen and (max-width:534px){.recaptcha-popup-resizing{position:fixed !important;top:0 !important;left:auto !important;right:0 !important;z-index:2000000000}
 .recaptcha-popup-resizing .g-recaptcha-bubble-arrow{display:none}
 }
-.badge{display:inline-block;width:30px;height:14px;background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-a3.svg') no-repeat;background-size:auto 100%}
+.badge{display:inline-block;width:30px;height:14px;background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-a3.svg') no-repeat;background-size:auto 100%}
 .badge__grade--with-text{display:block;margin:0 !important;width:100% !important;height:100% !important}
-.badge--grade-triple-a-plus{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-a3.svg') no-repeat;background-size:auto 100%}
-.badge--grade-triple-a-plus .badge__grade--with-text{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-a3.svg') no-repeat;background-size:auto 100%}
-.badge--grade-double-a-plus{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-a2.svg') no-repeat;background-size:auto 100%}
-.badge--grade-double-a-plus .badge__grade--with-text{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-a2.svg') no-repeat;background-size:auto 100%}
-.badge--grade-a-plus{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-a1.svg') no-repeat;background-size:auto 100%}
-.badge--grade-a-plus .badge__grade--with-text{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-a1.svg') no-repeat;background-size:auto 100%}
-.badge--grade-a{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-a.svg') no-repeat;background-size:auto 100%}
-.badge--grade-a .badge__grade--with-text{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-a.svg') no-repeat;background-size:auto 100%}
-.badge--grade-b{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-b.svg') no-repeat;background-size:auto 100%}
-.badge--grade-b .badge__grade--with-text{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-b.svg') no-repeat;background-size:auto 100%}
-.badge--grade-c{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-c.svg') no-repeat;background-size:auto 100%}
-.badge--grade-c .badge__grade--with-text{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-c.svg') no-repeat;background-size:auto 100%}
-.badge--grade-d{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-d.svg') no-repeat;background-size:auto 100%}
-.badge--grade-d .badge__grade--with-text{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-d.svg') no-repeat;background-size:auto 100%}
-.badge.s-first-level{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-a3.svg') no-repeat;background-size:auto 100%}
-.badge .s-grade-a-plus3{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-a3.svg') no-repeat;background-size:auto 100%}
-.badge.s-second-level{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-a2.svg') no-repeat;background-size:auto 100%}
-.badge .s-grade-a-plus2{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-a2.svg') no-repeat;background-size:auto 100%}
-.badge.s-third-level{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-a1.svg') no-repeat;background-size:auto 100%}
-.badge .s-grade-a-plus{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-a1.svg') no-repeat;background-size:auto 100%}
-.badge.s-fourth-level{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-a.svg') no-repeat;background-size:auto 100%}
-.badge .s-grade-a{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-a.svg') no-repeat;background-size:auto 100%}
-.badge.s-fifth-level{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-b.svg') no-repeat;background-size:auto 100%}
-.badge .s-grade-b{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-b.svg') no-repeat;background-size:auto 100%}
-.badge.s-sixth-level{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-c.svg') no-repeat;background-size:auto 100%}
-.badge .s-grade-c{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-c.svg') no-repeat;background-size:auto 100%}
-.badge.s-seventh-level{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-d.svg') no-repeat;background-size:auto 100%}
-.badge .s-grade-d{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-d.svg') no-repeat;background-size:auto 100%}
+.badge--grade-triple-a-plus{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-a3.svg') no-repeat;background-size:auto 100%}
+.badge--grade-triple-a-plus .badge__grade--with-text{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-a3.svg') no-repeat;background-size:auto 100%}
+.badge--grade-double-a-plus{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-a2.svg') no-repeat;background-size:auto 100%}
+.badge--grade-double-a-plus .badge__grade--with-text{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-a2.svg') no-repeat;background-size:auto 100%}
+.badge--grade-a-plus{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-a1.svg') no-repeat;background-size:auto 100%}
+.badge--grade-a-plus .badge__grade--with-text{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-a1.svg') no-repeat;background-size:auto 100%}
+.badge--grade-a{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-a.svg') no-repeat;background-size:auto 100%}
+.badge--grade-a .badge__grade--with-text{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-a.svg') no-repeat;background-size:auto 100%}
+.badge--grade-b{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-b.svg') no-repeat;background-size:auto 100%}
+.badge--grade-b .badge__grade--with-text{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-b.svg') no-repeat;background-size:auto 100%}
+.badge--grade-c{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-c.svg') no-repeat;background-size:auto 100%}
+.badge--grade-c .badge__grade--with-text{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-c.svg') no-repeat;background-size:auto 100%}
+.badge--grade-d{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-d.svg') no-repeat;background-size:auto 100%}
+.badge--grade-d .badge__grade--with-text{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-d.svg') no-repeat;background-size:auto 100%}
+.badge.s-first-level{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-a3.svg') no-repeat;background-size:auto 100%}
+.badge .s-grade-a-plus3{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-a3.svg') no-repeat;background-size:auto 100%}
+.badge.s-second-level{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-a2.svg') no-repeat;background-size:auto 100%}
+.badge .s-grade-a-plus2{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-a2.svg') no-repeat;background-size:auto 100%}
+.badge.s-third-level{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-a1.svg') no-repeat;background-size:auto 100%}
+.badge .s-grade-a-plus{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-a1.svg') no-repeat;background-size:auto 100%}
+.badge.s-fourth-level{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-a.svg') no-repeat;background-size:auto 100%}
+.badge .s-grade-a{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-a.svg') no-repeat;background-size:auto 100%}
+.badge.s-fifth-level{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-b.svg') no-repeat;background-size:auto 100%}
+.badge .s-grade-b{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-b.svg') no-repeat;background-size:auto 100%}
+.badge.s-sixth-level{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-c.svg') no-repeat;background-size:auto 100%}
+.badge .s-grade-c{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-c.svg') no-repeat;background-size:auto 100%}
+.badge.s-seventh-level{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-d.svg') no-repeat;background-size:auto 100%}
+.badge .s-grade-d{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-d.svg') no-repeat;background-size:auto 100%}
 @media only screen and (min-width:768px) and (max-width:1440px){.badge{width:2.08333333vw;height:.97222222vw}
 }
 @media only screen and (max-width:767px){.badge{width:8.33333333vw;height:3.88888889vw}
@@ -239,13 +239,13 @@ a:focus,button:focus,input:focus,select:focus,textarea:focus{-webkit-box-shadow:
 .badge-energy-label{display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}
 .badge-energy-label__text{display:inline-block;font-size:12px;line-height:1.33;color:#000;font-weight:bold;margin-right:4px}
 .badge-energy-label__badge{display:inline-block;width:44px;height:24px;font-size:0;background-size:100% 100%;background-position:center center;background-repeat:no-repeat}
-.badge-energy-label__badge--a{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-label-type2-a.svg')}
-.badge-energy-label__badge--b{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-label-type2-b.svg')}
-.badge-energy-label__badge--c{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-label-type2-c.svg')}
-.badge-energy-label__badge--d{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-label-type2-d.svg')}
-.badge-energy-label__badge--e{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-label-type2-e.svg')}
-.badge-energy-label__badge--f{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-label-type2-f.svg')}
-.badge-energy-label__badge--g{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-label-type2-g.svg')}
+.badge-energy-label__badge--a{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-label-type2-a.svg')}
+.badge-energy-label__badge--b{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-label-type2-b.svg')}
+.badge-energy-label__badge--c{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-label-type2-c.svg')}
+.badge-energy-label__badge--d{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-label-type2-d.svg')}
+.badge-energy-label__badge--e{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-label-type2-e.svg')}
+.badge-energy-label__badge--f{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-label-type2-f.svg')}
+.badge-energy-label__badge--g{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-label-type2-g.svg')}
 .bg-black .badge-energy-label__text,.bg-dark-gray .badge-energy-label__text{color:#fff}
 @media only screen and (min-width:768px) and (max-width:1440px){.badge-energy-label__text{font-size:.83333333vw;margin-right:.27777778vw}
 .badge-energy-label__badge{width:3.05555556vw;height:1.66666667vw}
@@ -335,24 +335,24 @@ a:focus,button:focus,input:focus,select:focus,textarea:focus{-webkit-box-shadow:
 100%{visibility:hidden;-webkit-transform:scaleX(0);transform:scaleX(0)}
 }
 .charger-icon{display:inline-block;width:96px;height:96px;font-size:0;background-size:100% 100%;background-position:center center;background-repeat:no-repeat;-webkit-box-sizing:border-box;box-sizing:border-box}
-.charger-icon--default{background-image:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger.svg)}
-.charger-icon--not{background-image:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-not.svg)}
-.charger-icon--5-5{background-image:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-5-5.svg)}
-.charger-icon--21-25{background-image:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-21-25.svg)}
-.charger-icon--21-45{background-image:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-21-45.svg)}
-.charger-icon--25-45{background-image:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-25-45.svg)}
-.charger-icon--10-15-usb-pd{background-image:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-10-15-usb-pd.svg)}
-.charger-icon--10-25-usb-pd{background-image:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-10-25-usb-pd.svg)}
-.charger-icon--10-45-usb-pd{background-image:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-10-45-usb-pd.svg)}
-.charger-icon--10-60-usb-pd{background-image:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-10-60-usb-pd.svg)}
-.charger-icon--15-15-usb-pd{background-image:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-15-15-usb-pd.svg)}
-.charger-icon--15-25-usb-pd{background-image:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-15-25-usb-pd.svg)}
-.charger-icon--15-45-usb-pd{background-image:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-15-45-usb-pd.svg)}
-.charger-icon--20-45-usb-pd{background-image:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-20-45-usb-pd.svg)}
-.charger-icon--40-45-usb-pd{background-image:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-40-45-usb-pd.svg)}
-.charger-icon--60-65-usb-pd{background-image:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-60-65-usb-pd.svg)}
-.charger-icon--95-100-usb-pd{background-image:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-95-100-usb-pd.svg)}
-.charger-icon--135-140-usb-pd{background-image:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-135-140-usb-pd.svg)}
+.charger-icon--default{background-image:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger.svg)}
+.charger-icon--not{background-image:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-not.svg)}
+.charger-icon--5-5{background-image:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-5-5.svg)}
+.charger-icon--21-25{background-image:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-21-25.svg)}
+.charger-icon--21-45{background-image:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-21-45.svg)}
+.charger-icon--25-45{background-image:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-25-45.svg)}
+.charger-icon--10-15-usb-pd{background-image:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-10-15-usb-pd.svg)}
+.charger-icon--10-25-usb-pd{background-image:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-10-25-usb-pd.svg)}
+.charger-icon--10-45-usb-pd{background-image:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-10-45-usb-pd.svg)}
+.charger-icon--10-60-usb-pd{background-image:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-10-60-usb-pd.svg)}
+.charger-icon--15-15-usb-pd{background-image:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-15-15-usb-pd.svg)}
+.charger-icon--15-25-usb-pd{background-image:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-15-25-usb-pd.svg)}
+.charger-icon--15-45-usb-pd{background-image:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-15-45-usb-pd.svg)}
+.charger-icon--20-45-usb-pd{background-image:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-20-45-usb-pd.svg)}
+.charger-icon--40-45-usb-pd{background-image:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-40-45-usb-pd.svg)}
+.charger-icon--60-65-usb-pd{background-image:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-60-65-usb-pd.svg)}
+.charger-icon--95-100-usb-pd{background-image:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-95-100-usb-pd.svg)}
+.charger-icon--135-140-usb-pd{background-image:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-charger-135-140-usb-pd.svg)}
 .chip{font-family:'SamsungOne',arial,sans-serif}
 .chip *{-webkit-box-sizing:border-box;box-sizing:border-box}
 .chip__action--large{height:48px;padding:12px 24px;border-radius:24px;font-size:18px;line-height:1.33;white-space:nowrap}
@@ -365,26 +365,26 @@ a:focus,button:focus,input:focus,select:focus,textarea:focus{-webkit-box-shadow:
 .chip__action--dark-disabled{background-color:rgba(0,0,0,0.3);border-color:rgba(255,255,255,0.3);color:#757575;pointer-events:none}
 .chip__action--dark-selected{border-color:#2189ff;font-weight:700}
 .chip__selected{position:relative;height:64px;padding:0 64px 0 24px;font-size:24px;line-height:1.33;font-weight:700;-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.2);box-shadow:0 1px 3px rgba(0,0,0,0.2);border-radius:32px;white-space:nowrap}
-.chip__selected:after{content:"";position:absolute;right:24px;width:24px;height:24px;top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%);background-repeat:no-repeat;background-size:100%;background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-white.svg')}
+.chip__selected:after{content:"";position:absolute;right:24px;width:24px;height:24px;top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%);background-repeat:no-repeat;background-size:100%;background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-white.svg')}
 .chip__selected--light{background-color:#000;color:#fff}
 .chip__selected--light-disabled{background-color:#ddd;color:#aaa;pointer-events:none}
-.chip__selected--light-disabled:after{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-white-disabled.svg')}
+.chip__selected--light-disabled:after{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-white-disabled.svg')}
 .chip__selected--dark{background-color:#fff;color:#000}
-.chip__selected--dark:after{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-black.svg')}
+.chip__selected--dark:after{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-black.svg')}
 .chip__selected--dark-disabled{background-color:#555;color:#8f8f8f;pointer-events:none}
-.chip__selected--dark-disabled:after{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-black-disabled.svg')}
+.chip__selected--dark-disabled:after{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-black-disabled.svg')}
 @media only screen and (min-width:1440px){.chip__action--light:hover,.chip__action--light:focus{background-color:rgba(0,0,0,0.05);border-color:rgba(0,0,0,0.15)}
 .chip__action--light-selected:hover,.chip__action--light-selected:focus{background-color:rgba(0,0,0,0.05);border-color:#2189ff}
 .chip__action--dark:hover,.chip__action--dark:focus{background-color:rgba(255,255,255,0.15);border-color:rgba(255,255,255,0.3)}
 .chip__action--dark-selected:hover,.chip__action--dark-selected:focus{background-color:rgba(255,255,255,0.15);border-color:#2189ff}
 .chip__selected--light:hover,.chip__selected--light:focus{background-color:#555;color:#eee}
-.chip__selected--light:hover:after,.chip__selected--light:focus:after{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-white-hover.svg')}
+.chip__selected--light:hover:after,.chip__selected--light:focus:after{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-white-hover.svg')}
 .chip__selected--light-disabled:hover,.chip__selected--light-disabled:focus{background-color:#ddd;color:#aaa;pointer-events:none}
-.chip__selected--light-disabled:hover:after,.chip__selected--light-disabled:focus:after{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-white-hover-disabled.svg')}
+.chip__selected--light-disabled:hover:after,.chip__selected--light-disabled:focus:after{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-white-hover-disabled.svg')}
 .chip__selected--dark:hover,.chip__selected--dark:focus{background-color:#ddd;color:#313131}
-.chip__selected--dark:hover:after,.chip__selected--dark:focus:after{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-black-hover.svg')}
+.chip__selected--dark:hover:after,.chip__selected--dark:focus:after{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-black-hover.svg')}
 .chip__selected--dark-disabled:hover,.chip__selected--dark-disabled:focus{background-color:#555;color:#8f8f8f;pointer-events:none}
-.chip__selected--dark-disabled:hover:after,.chip__selected--dark-disabled:focus:after{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-black-disabled.svg')}
+.chip__selected--dark-disabled:hover:after,.chip__selected--dark-disabled:focus:after{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-black-disabled.svg')}
 }
 @media only screen and (min-width:768px) and (max-width:1440px){.chip__action--large{height:3.33333333vw;padding:0vw 1.66666667vw;border-radius:1.66666667vw;font-size:1.25vw}
 .chip__action--medium{height:2.22222222vw;padding:.55555556vw 1.11111111vw;border-radius:1.66666667vw;font-size:.83333333vw}
@@ -396,13 +396,13 @@ a:focus,button:focus,input:focus,select:focus,textarea:focus{-webkit-box-shadow:
 .chip__selected{height:4.44444444vw;padding:0vw 4.44444444vw 0vw 1.66666667vw;font-size:1.66666667vw;border-radius:2.22222222vw}
 .chip__selected:after{right:1.66666667vw;width:1.66666667vw;height:1.66666667vw}
 .chip__selected--light:hover,.chip__selected--light:focus{background-color:#555;color:#eee}
-.chip__selected--light:hover:after,.chip__selected--light:focus:after{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-white-hover.svg')}
+.chip__selected--light:hover:after,.chip__selected--light:focus:after{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-white-hover.svg')}
 .chip__selected--light-disabled:hover,.chip__selected--light-disabled:focus{background-color:#ddd;color:#aaa;pointer-events:none}
-.chip__selected--light-disabled:hover:after,.chip__selected--light-disabled:focus:after{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-white-hover-disabled.svg')}
+.chip__selected--light-disabled:hover:after,.chip__selected--light-disabled:focus:after{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-white-hover-disabled.svg')}
 .chip__selected--dark:hover,.chip__selected--dark:focus{background-color:#ddd;color:#313131}
-.chip__selected--dark:hover:after,.chip__selected--dark:focus:after{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-black-hover.svg')}
+.chip__selected--dark:hover:after,.chip__selected--dark:focus:after{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-black-hover.svg')}
 .chip__selected--dark-disabled:hover,.chip__selected--dark-disabled:focus{background-color:#555;color:#8f8f8f;pointer-events:none}
-.chip__selected--dark-disabled:hover:after,.chip__selected--dark-disabled:focus:after{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-black-disabled.svg')}
+.chip__selected--dark-disabled:hover:after,.chip__selected--dark-disabled:focus:after{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/style-guide-icon-close-bold-black-disabled.svg')}
 }
 @media only screen and (max-width:767px){.chip__action--large{height:8.33333333vw;padding:2.22222222vw 4.44444444vw;border-radius:4.44444444vw;font-size:2.77777778vw}
 .chip__action--medium{height:8.33333333vw;padding:2.22222222vw 4.44444444vw;border-radius:4.44444444vw;font-size:2.77777778vw}
@@ -418,45 +418,45 @@ a:focus,button:focus,input:focus,select:focus,textarea:focus{-webkit-box-shadow:
 .cta--contained.cta--black:not(:has(.icon)):not([target="_blank"]):hover,.cta--contained.cta--black:not(:has(.icon)):not([target="_blank"]):focus{border-color:#000 !important;color:#000 !important;background-color:#fff !important}
 .cta--contained.cta--black.cta--disabled{color:#fff !important;background-color:#000 !important;cursor:default !important;opacity:.2 !important}
 .cta--contained.cta--black.cta--disabled:hover,.cta--contained.cta--black.cta--disabled:focus{color:#fff !important;background-color:#000 !important}
-.cta--contained.cta--black[target="_blank"]:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-white.svg') !important}
+.cta--contained.cta--black[target="_blank"]:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-white.svg') !important}
 .cta--contained.cta--white{border-color:transparent !important;color:#000 !important;background-color:#fff !important}
 .cta--contained.cta--white:active{opacity:.7 !important}
 .cta--contained.cta--white:not(:has(.icon)):not([target="_blank"]):hover,.cta--contained.cta--white:not(:has(.icon)):not([target="_blank"]):focus{border-color:#fff !important;color:#fff !important;background-color:#000 !important}
 .cta--contained.cta--white.cta--disabled{color:#000 !important;background-color:#fff !important;cursor:default !important;opacity:.2 !important}
 .cta--contained.cta--white.cta--disabled:hover,.cta--contained.cta--white.cta--disabled:focus{color:#000 !important;background-color:#fff !important}
-.cta--contained.cta--white[target="_blank"]:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-black.svg') !important}
+.cta--contained.cta--white[target="_blank"]:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-black.svg') !important}
 .cta--contained.cta--emphasis{border-color:#2189ff !important;color:#fff !important;background-color:#2189ff !important}
 .cta--contained.cta--emphasis:active{opacity:.7 !important}
 .cta--contained.cta--emphasis:not(:has(.icon)):not([target="_blank"]):hover,.cta--contained.cta--emphasis:not(:has(.icon)):not([target="_blank"]):focus{color:#006bea !important;background-color:#fff !important}
 .cta--contained.cta--emphasis.cta--disabled{border-color:#2189ff !important;color:#fff !important;background-color:#2189ff !important;cursor:default !important;text-shadow:none !important;opacity:.2 !important}
 .cta--contained.cta--emphasis.cta--disabled:hover,.cta--contained.cta--emphasis.cta--disabled:focus{border-color:#2189ff !important;color:#fff !important;background-color:#2189ff !important}
-.cta--contained.cta--emphasis[target="_blank"]:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-white.svg') !important}
+.cta--contained.cta--emphasis[target="_blank"]:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-white.svg') !important}
 .cta--outlined{padding:9px 23px 10px 23px;border-radius:20px;border-width:1px;border-style:solid}
 .cta--outlined.cta--black{color:#000 !important;background-color:transparent !important;border-color:#000 !important}
 .cta--outlined.cta--black:active{opacity:.7 !important}
 .cta--outlined.cta--black:not(:has(.icon)):not([target="_blank"]):hover,.cta--outlined.cta--black:not(:has(.icon)):not([target="_blank"]):focus{color:#fff !important;background-color:#000 !important}
 .cta--outlined.cta--black.cta--disabled{color:#ddd !important;border-color:#ddd !important;cursor:default !important}
 .cta--outlined.cta--black.cta--disabled:hover,.cta--outlined.cta--black.cta--disabled:focus{color:#ddd !important;background-color:transparent !important;border-color:#ddd !important}
-.cta--outlined.cta--black[target="_blank"]:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-black.svg') !important}
-.cta--outlined.cta--black[target="_blank"].cta--disabled:before,.cta--outlined.cta--black[target="_blank"].cta--disabled:hover:before,.cta--outlined.cta--black[target="_blank"].cta--disabled:focus:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-gray-dim.svg') !important}
+.cta--outlined.cta--black[target="_blank"]:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-black.svg') !important}
+.cta--outlined.cta--black[target="_blank"].cta--disabled:before,.cta--outlined.cta--black[target="_blank"].cta--disabled:hover:before,.cta--outlined.cta--black[target="_blank"].cta--disabled:focus:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-gray-dim.svg') !important}
 .cta--outlined.cta--white{color:#fff !important;background-color:transparent !important;border-color:#fff !important}
 .cta--outlined.cta--white:active{opacity:.7 !important}
 .cta--outlined.cta--white:not(:has(.icon)):not([target="_blank"]):hover,.cta--outlined.cta--white:not(:has(.icon)):not([target="_blank"]):focus{color:#000 !important;background-color:#fff !important}
 .cta--outlined.cta--white.cta--disabled{color:#555 !important;border-color:#555 !important;cursor:default !important}
 .cta--outlined.cta--white.cta--disabled:hover,.cta--outlined.cta--white.cta--disabled:focus{color:#555 !important;background-color:transparent !important;border-color:#555 !important}
-.cta--outlined.cta--white[target="_blank"]:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-white.svg') !important}
-.cta--outlined.cta--white[target="_blank"].cta--disabled:before,.cta--outlined.cta--white[target="_blank"].cta--disabled:hover:before,.cta--outlined.cta--white[target="_blank"].cta--disabled:focus:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-gray.svg') !important}
+.cta--outlined.cta--white[target="_blank"]:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-white.svg') !important}
+.cta--outlined.cta--white[target="_blank"].cta--disabled:before,.cta--outlined.cta--white[target="_blank"].cta--disabled:hover:before,.cta--outlined.cta--white[target="_blank"].cta--disabled:focus:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-gray.svg') !important}
 .cta--underline{padding:10px 0 11px 0}
 .cta--underline:after{content:' ';position:absolute;left:0;right:0;bottom:8px;height:2px;background-color:currentColor}
 .cta--underline:hover:after,.cta--underline:focus:after{-webkit-animation:cta-underline-animation .2s both;animation:cta-underline-animation .2s both;-webkit-animation-timing-function:cubic-bezier(0.4,0,0.2,1);animation-timing-function:cubic-bezier(0.4,0,0.2,1);-webkit-animation-delay:.1s;animation-delay:.1s}
 .cta--underline.cta--black{color:#000 !important}
 .cta--underline.cta--black.cta--disabled{color:#ddd !important;cursor:default !important}
-.cta--underline.cta--black[target="_blank"]:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-black.svg') !important}
-.cta--underline.cta--black[target="_blank"].cta--disabled:before,.cta--underline.cta--black[target="_blank"].cta--disabled:hover:before,.cta--underline.cta--black[target="_blank"].cta--disabled:focus:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-gray-dim.svg') !important}
+.cta--underline.cta--black[target="_blank"]:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-black.svg') !important}
+.cta--underline.cta--black[target="_blank"].cta--disabled:before,.cta--underline.cta--black[target="_blank"].cta--disabled:hover:before,.cta--underline.cta--black[target="_blank"].cta--disabled:focus:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-gray-dim.svg') !important}
 .cta--underline.cta--white{color:#fff !important}
 .cta--underline.cta--white.cta--disabled{color:#555 !important;cursor:default !important}
-.cta--underline.cta--white[target="_blank"]:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-white.svg') !important}
-.cta--underline.cta--white[target="_blank"].cta--disabled:before,.cta--underline.cta--white[target="_blank"].cta--disabled:hover:before,.cta--underline.cta--white[target="_blank"].cta--disabled:focus:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-gray.svg') !important}
+.cta--underline.cta--white[target="_blank"]:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-white.svg') !important}
+.cta--underline.cta--white[target="_blank"].cta--disabled:before,.cta--underline.cta--white[target="_blank"].cta--disabled:hover:before,.cta--underline.cta--white[target="_blank"].cta--disabled:focus:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-gray.svg') !important}
 .cta--underline-v2{padding:10px 0 11px 0}
 .cta--underline-v2:after{content:' ';position:absolute;left:0;right:0;bottom:8px;height:1px;background-color:currentColor}
 .cta--underline-v2:hover:after,.cta--underline-v2:focus:after{-webkit-animation:cta-underline-on-animation .35s cubic-bezier(0.35,0,0.36,1) .2s;animation:cta-underline-on-animation .35s cubic-bezier(0.35,0,0.36,1) .2s}
@@ -467,12 +467,12 @@ a:focus,button:focus,input:focus,select:focus,textarea:focus{-webkit-box-shadow:
 .cta--underline-v2.cta--dense:after{bottom:4px}
 .cta--underline-v2.cta--black{color:#000 !important}
 .cta--underline-v2.cta--black.cta--disabled{color:#ddd !important;cursor:default !important}
-.cta--underline-v2.cta--black[target="_blank"]:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-black.svg') !important}
-.cta--underline-v2.cta--black[target="_blank"].cta--disabled:before,.cta--underline-v2.cta--black[target="_blank"].cta--disabled:hover:before,.cta--underline-v2.cta--black[target="_blank"].cta--disabled:focus:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-gray-dim.svg') !important}
+.cta--underline-v2.cta--black[target="_blank"]:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-black.svg') !important}
+.cta--underline-v2.cta--black[target="_blank"].cta--disabled:before,.cta--underline-v2.cta--black[target="_blank"].cta--disabled:hover:before,.cta--underline-v2.cta--black[target="_blank"].cta--disabled:focus:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-gray-dim.svg') !important}
 .cta--underline-v2.cta--white{color:#fff !important}
 .cta--underline-v2.cta--white.cta--disabled{color:#555 !important;cursor:default !important}
-.cta--underline-v2.cta--white[target="_blank"]:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-white.svg') !important}
-.cta--underline-v2.cta--white[target="_blank"].cta--disabled:before,.cta--underline-v2.cta--white[target="_blank"].cta--disabled:hover:before,.cta--underline-v2.cta--white[target="_blank"].cta--disabled:focus:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-gray.svg') !important}
+.cta--underline-v2.cta--white[target="_blank"]:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-white.svg') !important}
+.cta--underline-v2.cta--white[target="_blank"].cta--disabled:before,.cta--underline-v2.cta--white[target="_blank"].cta--disabled:hover:before,.cta--underline-v2.cta--white[target="_blank"].cta--disabled:focus:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-gray.svg') !important}
 .cta--label.cta--black{color:#000 !important}
 .cta--label.cta--black:hover,.cta--label.cta--black:focus{color:#555 !important}
 .cta--label.cta--black.cta--disabled{color:#ddd !important;cursor:default !important}
@@ -531,18 +531,18 @@ a:focus,button:focus,input:focus,select:focus,textarea:focus{-webkit-box-shadow:
 .bg-black .cta--contained:not(:has(.icon)):not([target="_blank"]):hover,.bg-dark-gray .cta--contained:not(:has(.icon)):not([target="_blank"]):hover,.bg-black .cta--contained:not(:has(.icon)):not([target="_blank"]):focus,.bg-dark-gray .cta--contained:not(:has(.icon)):not([target="_blank"]):focus{border-color:#fff;color:#fff;background-color:#000}
 .bg-black .cta--contained.cta--disabled,.bg-dark-gray .cta--contained.cta--disabled{color:#000;background-color:#fff;cursor:default;opacity:.2}
 .bg-black .cta--contained.cta--disabled:hover,.bg-dark-gray .cta--contained.cta--disabled:hover,.bg-black .cta--contained.cta--disabled:focus,.bg-dark-gray .cta--contained.cta--disabled:focus{color:#000;background-color:#fff}
-.bg-black .cta--contained[target="_blank"]:before,.bg-dark-gray .cta--contained[target="_blank"]:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-black.svg')}
+.bg-black .cta--contained[target="_blank"]:before,.bg-dark-gray .cta--contained[target="_blank"]:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-black.svg')}
 .bg-black .cta--outlined,.bg-dark-gray .cta--outlined{color:#fff;background-color:transparent;border-color:#fff}
 .bg-black .cta--outlined:active,.bg-dark-gray .cta--outlined:active{opacity:.7}
 .bg-black .cta--outlined:not(:has(.icon)):not([target="_blank"]):hover,.bg-dark-gray .cta--outlined:not(:has(.icon)):not([target="_blank"]):hover,.bg-black .cta--outlined:not(:has(.icon)):not([target="_blank"]):focus,.bg-dark-gray .cta--outlined:not(:has(.icon)):not([target="_blank"]):focus{color:#000;background-color:#fff}
 .bg-black .cta--outlined.cta--disabled,.bg-dark-gray .cta--outlined.cta--disabled{color:#555;border-color:#555;cursor:default}
 .bg-black .cta--outlined.cta--disabled:hover,.bg-dark-gray .cta--outlined.cta--disabled:hover,.bg-black .cta--outlined.cta--disabled:focus,.bg-dark-gray .cta--outlined.cta--disabled:focus{color:#555;background-color:transparent;border-color:#555}
-.bg-black .cta--outlined[target="_blank"]:before,.bg-dark-gray .cta--outlined[target="_blank"]:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-white.svg')}
-.bg-black .cta--outlined[target="_blank"].cta--disabled:before,.bg-dark-gray .cta--outlined[target="_blank"].cta--disabled:before,.bg-black .cta--outlined[target="_blank"].cta--disabled:hover:before,.bg-dark-gray .cta--outlined[target="_blank"].cta--disabled:hover:before,.bg-black .cta--outlined[target="_blank"].cta--disabled:focus:before,.bg-dark-gray .cta--outlined[target="_blank"].cta--disabled:focus:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-gray.svg')}
+.bg-black .cta--outlined[target="_blank"]:before,.bg-dark-gray .cta--outlined[target="_blank"]:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-white.svg')}
+.bg-black .cta--outlined[target="_blank"].cta--disabled:before,.bg-dark-gray .cta--outlined[target="_blank"].cta--disabled:before,.bg-black .cta--outlined[target="_blank"].cta--disabled:hover:before,.bg-dark-gray .cta--outlined[target="_blank"].cta--disabled:hover:before,.bg-black .cta--outlined[target="_blank"].cta--disabled:focus:before,.bg-dark-gray .cta--outlined[target="_blank"].cta--disabled:focus:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-gray.svg')}
 .bg-black .cta--underline,.bg-dark-gray .cta--underline{color:#fff}
 .bg-black .cta--underline.cta--disabled,.bg-dark-gray .cta--underline.cta--disabled{color:#555;cursor:default}
-.bg-black .cta--underline[target="_blank"]:before,.bg-dark-gray .cta--underline[target="_blank"]:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-white.svg')}
-.bg-black .cta--underline[target="_blank"].cta--disabled:before,.bg-dark-gray .cta--underline[target="_blank"].cta--disabled:before,.bg-black .cta--underline[target="_blank"].cta--disabled:hover:before,.bg-dark-gray .cta--underline[target="_blank"].cta--disabled:hover:before,.bg-black .cta--underline[target="_blank"].cta--disabled:focus:before,.bg-dark-gray .cta--underline[target="_blank"].cta--disabled:focus:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-gray.svg')}
+.bg-black .cta--underline[target="_blank"]:before,.bg-dark-gray .cta--underline[target="_blank"]:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-white.svg')}
+.bg-black .cta--underline[target="_blank"].cta--disabled:before,.bg-dark-gray .cta--underline[target="_blank"].cta--disabled:before,.bg-black .cta--underline[target="_blank"].cta--disabled:hover:before,.bg-dark-gray .cta--underline[target="_blank"].cta--disabled:hover:before,.bg-black .cta--underline[target="_blank"].cta--disabled:focus:before,.bg-dark-gray .cta--underline[target="_blank"].cta--disabled:focus:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-gray.svg')}
 .bg-black .cta--label,.bg-dark-gray .cta--label{color:#fff}
 .bg-black .cta--label:hover,.bg-dark-gray .cta--label:hover,.bg-black .cta--label:focus,.bg-dark-gray .cta--label:focus{color:#ddd}
 .bg-black .cta--label.cta--disabled,.bg-dark-gray .cta--label.cta--disabled{color:#555;cursor:default}
@@ -552,18 +552,18 @@ a:focus,button:focus,input:focus,select:focus,textarea:focus{-webkit-box-shadow:
 .bg-white .cta--contained:not(:has(.icon)):not([target="_blank"]):hover,.bg-light-gray .cta--contained:not(:has(.icon)):not([target="_blank"]):hover,.bg-transparent .cta--contained:not(:has(.icon)):not([target="_blank"]):hover,.bg-white .cta--contained:not(:has(.icon)):not([target="_blank"]):focus,.bg-light-gray .cta--contained:not(:has(.icon)):not([target="_blank"]):focus,.bg-transparent .cta--contained:not(:has(.icon)):not([target="_blank"]):focus{border-color:#000;color:#000;background-color:#fff}
 .bg-white .cta--contained.cta--disabled,.bg-light-gray .cta--contained.cta--disabled,.bg-transparent .cta--contained.cta--disabled{color:#fff;background-color:#000;cursor:default;opacity:.2}
 .bg-white .cta--contained.cta--disabled:hover,.bg-light-gray .cta--contained.cta--disabled:hover,.bg-transparent .cta--contained.cta--disabled:hover,.bg-white .cta--contained.cta--disabled:focus,.bg-light-gray .cta--contained.cta--disabled:focus,.bg-transparent .cta--contained.cta--disabled:focus{color:#fff;background-color:#000}
-.bg-white .cta--contained[target="_blank"]:before,.bg-light-gray .cta--contained[target="_blank"]:before,.bg-transparent .cta--contained[target="_blank"]:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-white.svg')}
+.bg-white .cta--contained[target="_blank"]:before,.bg-light-gray .cta--contained[target="_blank"]:before,.bg-transparent .cta--contained[target="_blank"]:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-white.svg')}
 .bg-white .cta--outlined,.bg-light-gray .cta--outlined,.bg-transparent .cta--outlined{color:#000;background-color:transparent;border-color:#000}
 .bg-white .cta--outlined:active,.bg-light-gray .cta--outlined:active,.bg-transparent .cta--outlined:active{opacity:.7}
 .bg-white .cta--outlined:not(:has(.icon)):not([target="_blank"]):hover,.bg-light-gray .cta--outlined:not(:has(.icon)):not([target="_blank"]):hover,.bg-transparent .cta--outlined:not(:has(.icon)):not([target="_blank"]):hover,.bg-white .cta--outlined:not(:has(.icon)):not([target="_blank"]):focus,.bg-light-gray .cta--outlined:not(:has(.icon)):not([target="_blank"]):focus,.bg-transparent .cta--outlined:not(:has(.icon)):not([target="_blank"]):focus{color:#fff;background-color:#000}
 .bg-white .cta--outlined.cta--disabled,.bg-light-gray .cta--outlined.cta--disabled,.bg-transparent .cta--outlined.cta--disabled{color:#ddd;border-color:#ddd;cursor:default}
 .bg-white .cta--outlined.cta--disabled:hover,.bg-light-gray .cta--outlined.cta--disabled:hover,.bg-transparent .cta--outlined.cta--disabled:hover,.bg-white .cta--outlined.cta--disabled:focus,.bg-light-gray .cta--outlined.cta--disabled:focus,.bg-transparent .cta--outlined.cta--disabled:focus{color:#ddd;background-color:transparent;border-color:#ddd}
-.bg-white .cta--outlined[target="_blank"]:before,.bg-light-gray .cta--outlined[target="_blank"]:before,.bg-transparent .cta--outlined[target="_blank"]:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-black.svg')}
-.bg-white .cta--outlined[target="_blank"].cta--disabled:before,.bg-light-gray .cta--outlined[target="_blank"].cta--disabled:before,.bg-transparent .cta--outlined[target="_blank"].cta--disabled:before,.bg-white .cta--outlined[target="_blank"].cta--disabled:hover:before,.bg-light-gray .cta--outlined[target="_blank"].cta--disabled:hover:before,.bg-transparent .cta--outlined[target="_blank"].cta--disabled:hover:before,.bg-white .cta--outlined[target="_blank"].cta--disabled:focus:before,.bg-light-gray .cta--outlined[target="_blank"].cta--disabled:focus:before,.bg-transparent .cta--outlined[target="_blank"].cta--disabled:focus:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-gray-dim.svg')}
+.bg-white .cta--outlined[target="_blank"]:before,.bg-light-gray .cta--outlined[target="_blank"]:before,.bg-transparent .cta--outlined[target="_blank"]:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-black.svg')}
+.bg-white .cta--outlined[target="_blank"].cta--disabled:before,.bg-light-gray .cta--outlined[target="_blank"].cta--disabled:before,.bg-transparent .cta--outlined[target="_blank"].cta--disabled:before,.bg-white .cta--outlined[target="_blank"].cta--disabled:hover:before,.bg-light-gray .cta--outlined[target="_blank"].cta--disabled:hover:before,.bg-transparent .cta--outlined[target="_blank"].cta--disabled:hover:before,.bg-white .cta--outlined[target="_blank"].cta--disabled:focus:before,.bg-light-gray .cta--outlined[target="_blank"].cta--disabled:focus:before,.bg-transparent .cta--outlined[target="_blank"].cta--disabled:focus:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-gray-dim.svg')}
 .bg-white .cta--underline,.bg-light-gray .cta--underline,.bg-transparent .cta--underline{color:#000}
 .bg-white .cta--underline.cta--disabled,.bg-light-gray .cta--underline.cta--disabled,.bg-transparent .cta--underline.cta--disabled{color:#ddd;cursor:default}
-.bg-white .cta--underline[target="_blank"]:before,.bg-light-gray .cta--underline[target="_blank"]:before,.bg-transparent .cta--underline[target="_blank"]:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-black.svg')}
-.bg-white .cta--underline[target="_blank"].cta--disabled:before,.bg-light-gray .cta--underline[target="_blank"].cta--disabled:before,.bg-transparent .cta--underline[target="_blank"].cta--disabled:before,.bg-white .cta--underline[target="_blank"].cta--disabled:hover:before,.bg-light-gray .cta--underline[target="_blank"].cta--disabled:hover:before,.bg-transparent .cta--underline[target="_blank"].cta--disabled:hover:before,.bg-white .cta--underline[target="_blank"].cta--disabled:focus:before,.bg-light-gray .cta--underline[target="_blank"].cta--disabled:focus:before,.bg-transparent .cta--underline[target="_blank"].cta--disabled:focus:before{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-gray-dim.svg')}
+.bg-white .cta--underline[target="_blank"]:before,.bg-light-gray .cta--underline[target="_blank"]:before,.bg-transparent .cta--underline[target="_blank"]:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-black.svg')}
+.bg-white .cta--underline[target="_blank"].cta--disabled:before,.bg-light-gray .cta--underline[target="_blank"].cta--disabled:before,.bg-transparent .cta--underline[target="_blank"].cta--disabled:before,.bg-white .cta--underline[target="_blank"].cta--disabled:hover:before,.bg-light-gray .cta--underline[target="_blank"].cta--disabled:hover:before,.bg-transparent .cta--underline[target="_blank"].cta--disabled:hover:before,.bg-white .cta--underline[target="_blank"].cta--disabled:focus:before,.bg-light-gray .cta--underline[target="_blank"].cta--disabled:focus:before,.bg-transparent .cta--underline[target="_blank"].cta--disabled:focus:before{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-new-window-gray-dim.svg')}
 .bg-white .cta--label,.bg-light-gray .cta--label,.bg-transparent .cta--label{color:#000}
 .bg-white .cta--label:hover,.bg-light-gray .cta--label:hover,.bg-transparent .cta--label:hover,.bg-white .cta--label:focus,.bg-light-gray .cta--label:focus,.bg-transparent .cta--label:focus{color:#555}
 .bg-white .cta--label.cta--disabled,.bg-light-gray .cta--label.cta--disabled,.bg-transparent .cta--label.cta--disabled{color:#ddd;cursor:default}
@@ -688,8 +688,8 @@ to{left:0;right:0}
 .bg-black .dropdown__cta{border-color:#313131;background:#313131;color:#fff}
 .selected .dropdown__cta{background:transparent !important}
 .disabled .dropdown__cta{opacity:.3;cursor:default;pointer-events:none}
-.dropdown__cta:after{content:'';display:block;position:absolute;top:50%;right:16px;width:24px;height:24px;background:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-selectbox-black.svg) no-repeat 50% 50%;background-size:100% 100%;-webkit-transform:translateY(-50%);transform:translateY(-50%);opacity:.81}
-.bg-black .dropdown__cta:after{background-image:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-selectbox-white.svg)}
+.dropdown__cta:after{content:'';display:block;position:absolute;top:50%;right:16px;width:24px;height:24px;background:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-selectbox-black.svg) no-repeat 50% 50%;background-size:100% 100%;-webkit-transform:translateY(-50%);transform:translateY(-50%);opacity:.81}
+.bg-black .dropdown__cta:after{background-image:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-selectbox-white.svg)}
 .dropdown__cta:hover,.dropdown__cta:focus,.dropdown__cta:active{border-color:#ddd;background:#ddd}
 .dropdown__cta:hover:after,.dropdown__cta:focus:after,.dropdown__cta:active:after{opacity:1}
 .bg-black .dropdown__cta:hover,.bg-black .dropdown__cta:focus,.bg-black .dropdown__cta:active{border-color:#555;background:#555}
@@ -709,7 +709,7 @@ to{left:0;right:0}
 .dropdown__option a:hover,.dropdown__option a:focus,.dropdown__option a:active{background:#ddd}
 .bg-black .dropdown__option a:hover,.bg-black .dropdown__option a:focus,.bg-black .dropdown__option a:active{background:#555}
 .dropdown__option a.active{padding-right:44px;font-weight:bold}
-.dropdown__option a.active:after{content:'';display:block;position:absolute;top:50%;right:16px;width:24px;height:24px;background:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-selectbox-check.svg) no-repeat;background-size:100% auto;-webkit-transform:translateY(-50%);transform:translateY(-50%)}
+.dropdown__option a.active:after{content:'';display:block;position:absolute;top:50%;right:16px;width:24px;height:24px;background:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-selectbox-check.svg) no-repeat;background-size:100% auto;-webkit-transform:translateY(-50%);transform:translateY(-50%)}
 .dropdown__option a.disabled{opacity:.3;cursor:default;pointer-events:none}
 @media only screen and (min-width:768px) and (max-width:1440px){.dropdown{min-width:10.27777778vw;max-width:45vw}
 .dropdown__cta{height:2.77777778vw;padding:0vw 2.98611111vw 0vw 1.59722222vw;border-radius:1.38888889vw;font-size:.97222222vw;line-height:2.63888889vw}
@@ -752,24 +752,24 @@ to{left:0;right:0}
 .checkbox-radio{display:inline-block;position:relative;overflow:hidden;font-size:0;font-weight:400;color:#000}
 .checkbox-radio__label{width:100%;cursor:pointer;font-size:0}
 .checkbox-radio__label-text{line-height:24px;display:inline-block;-webkit-box-sizing:border-box;box-sizing:border-box;color:#363636;font-size:14px;vertical-align:top}
-.checkbox-radio__label-text:before{content:"";width:24px;height:24px;margin-right:18px;background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_check_radio_a.svg');background-size:100%;display:inline-block;-webkit-box-sizing:border-box;box-sizing:border-box;vertical-align:top}
+.checkbox-radio__label-text:before{content:"";width:24px;height:24px;margin-right:18px;background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_check_radio_a.svg');background-size:100%;display:inline-block;-webkit-box-sizing:border-box;box-sizing:border-box;vertical-align:top}
 .bg-black .checkbox-radio__label-text{color:#fff}
 input[type='radio']:checked ~ .checkbox-radio__label .checkbox-radio__label-text,input[type='checkbox']:checked ~ .checkbox-radio__label .checkbox-radio__label-text{font-weight:700}
 input[type='radio']:focus ~ .checkbox-radio__label .checkbox-radio__label-text:before,input[type='checkbox']:focus ~ .checkbox-radio__label .checkbox-radio__label-text:before{outline:2px dashed #000;outline-offset:-2px}
-input[type='checkbox']:checked ~ .checkbox-radio__label .checkbox-radio__label-text:before{border:0;background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_check_b.svg');background-size:100%;-webkit-animation:checkbox-radio-animation .2s cubic-bezier(0.33,0,0.3,1);animation:checkbox-radio-animation .2s cubic-bezier(0.33,0,0.3,1)}
-input[type='radio']:checked ~ .checkbox-radio__label .checkbox-radio__label-text:before{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_radio_b.svg');background-size:100%;-webkit-animation:checkbox-radio-animation .2s cubic-bezier(0.33,0,0.3,1);animation:checkbox-radio-animation .2s cubic-bezier(0.33,0,0.3,1)}
+input[type='checkbox']:checked ~ .checkbox-radio__label .checkbox-radio__label-text:before{border:0;background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_check_b.svg');background-size:100%;-webkit-animation:checkbox-radio-animation .2s cubic-bezier(0.33,0,0.3,1);animation:checkbox-radio-animation .2s cubic-bezier(0.33,0,0.3,1)}
+input[type='radio']:checked ~ .checkbox-radio__label .checkbox-radio__label-text:before{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_radio_b.svg');background-size:100%;-webkit-animation:checkbox-radio-animation .2s cubic-bezier(0.33,0,0.3,1);animation:checkbox-radio-animation .2s cubic-bezier(0.33,0,0.3,1)}
 input[type='radio']:disabled ~ .checkbox-radio__label .checkbox-radio__label-text,input[type='checkbox']:disabled ~ .checkbox-radio__label .checkbox-radio__label-text{color:#8f8f8f}
-input[type='radio']:disabled ~ .checkbox-radio__label .checkbox-radio__label-text:before,input[type='checkbox']:disabled ~ .checkbox-radio__label .checkbox-radio__label-text:before{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_check_radio_disabled.svg');background-size:100%;-webkit-animation:none;animation:none}
+input[type='radio']:disabled ~ .checkbox-radio__label .checkbox-radio__label-text:before,input[type='checkbox']:disabled ~ .checkbox-radio__label .checkbox-radio__label-text:before{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_check_radio_disabled.svg');background-size:100%;-webkit-animation:none;animation:none}
 input[type='radio'][readonly] ~ .checkbox-radio__label .checkbox-radio__label-text{font-weight:700}
-input[type='radio'][readonly] ~ .checkbox-radio__label .checkbox-radio__label-text:before{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_radio_b.svg');background-size:100%;-webkit-animation:none;animation:none}
+input[type='radio'][readonly] ~ .checkbox-radio__label .checkbox-radio__label-text:before{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_radio_b.svg');background-size:100%;-webkit-animation:none;animation:none}
 input[type='checkbox'][readonly] ~ .checkbox-radio__label .checkbox-radio__label-text{font-weight:700}
-input[type='checkbox'][readonly] ~ .checkbox-radio__label .checkbox-radio__label-text:before{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_check_b.svg');background-size:100%;-webkit-animation:none;animation:none}
+input[type='checkbox'][readonly] ~ .checkbox-radio__label .checkbox-radio__label-text:before{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_check_b.svg');background-size:100%;-webkit-animation:none;animation:none}
 input[type='radio'][readonly] ~ .checkbox-radio__label,input[type='checkbox'][readonly] ~ .checkbox-radio__label,input[type='radio']:disabled ~ .checkbox-radio__label,input[type='checkbox']:disabled ~ .checkbox-radio__label{cursor:auto}
-.bg-black input[type='checkbox']:checked ~ .checkbox-radio__label .checkbox-radio__label-text:before{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_check_b.svg');background-size:100%;-webkit-animation:checkbox-radio-animation .2s cubic-bezier(0.33,0,0.3,1);animation:checkbox-radio-animation .2s cubic-bezier(0.33,0,0.3,1)}
-.bg-black input[type='radio']:checked ~ .checkbox-radio__label .checkbox-radio__label-text:before{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_radio_b.svg');background-size:100%;-webkit-animation:checkbox-radio-animation .2s cubic-bezier(0.33,0,0.3,1);animation:checkbox-radio-animation .2s cubic-bezier(0.33,0,0.3,1)}
-.bg-black .checkbox-radio input[type='radio']:disabled ~ .checkbox-radio__label .checkbox-radio__label-text:before,.bg-black .checkbox-radio input[type='checkbox']:disabled ~ .checkbox-radio__label .checkbox-radio__label-text:before{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_check_radio_disabled.svg');background-size:100%}
-.bg-black .checkbox-radio input[type='radio'][readonly] ~ .checkbox-radio__label .checkbox-radio__label-text:before{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_radio_b.svg');background-size:100%;-webkit-animation:none;animation:none}
-.bg-black .checkbox-radio input[type='checkbox'][readonly] ~ .checkbox-radio__label .checkbox-radio__label-text:before{background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_check_b.svg');background-size:100%;-webkit-animation:none;animation:none}
+.bg-black input[type='checkbox']:checked ~ .checkbox-radio__label .checkbox-radio__label-text:before{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_check_b.svg');background-size:100%;-webkit-animation:checkbox-radio-animation .2s cubic-bezier(0.33,0,0.3,1);animation:checkbox-radio-animation .2s cubic-bezier(0.33,0,0.3,1)}
+.bg-black input[type='radio']:checked ~ .checkbox-radio__label .checkbox-radio__label-text:before{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_radio_b.svg');background-size:100%;-webkit-animation:checkbox-radio-animation .2s cubic-bezier(0.33,0,0.3,1);animation:checkbox-radio-animation .2s cubic-bezier(0.33,0,0.3,1)}
+.bg-black .checkbox-radio input[type='radio']:disabled ~ .checkbox-radio__label .checkbox-radio__label-text:before,.bg-black .checkbox-radio input[type='checkbox']:disabled ~ .checkbox-radio__label .checkbox-radio__label-text:before{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_check_radio_disabled.svg');background-size:100%}
+.bg-black .checkbox-radio input[type='radio'][readonly] ~ .checkbox-radio__label .checkbox-radio__label-text:before{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_radio_b.svg');background-size:100%;-webkit-animation:none;animation:none}
+.bg-black .checkbox-radio input[type='checkbox'][readonly] ~ .checkbox-radio__label .checkbox-radio__label-text:before{background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_check_b.svg');background-size:100%;-webkit-animation:none;animation:none}
 @media only screen and (min-width:768px) and (max-width:1440px){.checkbox-radio__label-text{line-height:1.66666667vw;font-size:.97222222vw}
 .checkbox-radio__label-text:before{width:1.66666667vw;height:1.66666667vw;margin-right:1.25vw}
 }
@@ -1657,7 +1657,7 @@ input[type='radio']:disabled:checked ~ .radio-v3__label .radio-v3__label-box-cir
 .option-selector-v2__color-text .option-selector-v2__color-name span .option-selector-v2__color-name--mo{display:block}
 .option-selector-v2__color-tooltip{margin-top:1.11111111vw;padding-block:1.94444444vw;padding-inline-start:1.94444444vw;padding-inline-end:7.77777778vw;border-radius:1.66666667vw}
 .option-selector-v2__color-tooltip-text{font-size:3.33333333vw}
-.option-selector-v2__color-tooltip-close{display:block;position:absolute;top:1.94444444vw;right:1.94444444vw;width:3.33333333vw;height:3.33333333vw;background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-svg-close.svg') no-repeat 50% .5%}
+.option-selector-v2__color-tooltip-close{display:block;position:absolute;top:1.94444444vw;right:1.94444444vw;width:3.33333333vw;height:3.33333333vw;background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-svg-close.svg') no-repeat 50% .5%}
 .option-selector-v2__size{height:7.77777778vw;padding:0vw 2.22222222vw;border-radius:7.77777778vw}
 .option-selector-v2__size-text{font-size:3.33333333vw}
 .option-selector-v2__size:focus:before{border-radius:7.77777778vw}
@@ -1709,7 +1709,7 @@ input[type='radio']:disabled:checked ~ .radio-v3__label .radio-v3__label-box-cir
 .option-selector-v3__color{width:8.88888889vw;height:8.88888889vw}
 .option-selector-v3__color-tooltip{margin-top:1.11111111vw;padding-block:1.94444444vw;padding-inline-start:1.94444444vw;padding-inline-end:7.77777778vw;border-radius:1.66666667vw}
 .option-selector-v3__color-tooltip-text{font-size:3.33333333vw}
-.option-selector-v3__color-tooltip-close{display:block;position:absolute;top:1.94444444vw;right:1.94444444vw;width:3.33333333vw;height:3.33333333vw;background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-svg-close.svg') no-repeat 50% .5%}
+.option-selector-v3__color-tooltip-close{display:block;position:absolute;top:1.94444444vw;right:1.94444444vw;width:3.33333333vw;height:3.33333333vw;background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-svg-close.svg') no-repeat 50% .5%}
 .option-selector-v3__color-text .option-selector-v3__color-name{font-size:3.33333333vw;line-height:4.44444444vw;margin-bottom:2.22222222vw}
 .option-selector-v3__color-text .option-selector-v3__color-name span .option-selector-v3__color-name--pc{display:none}
 .option-selector-v3__color-text .option-selector-v3__color-name span .option-selector-v3__color-name--mo{display:block}
@@ -1856,13 +1856,13 @@ input[type='radio']:disabled:checked ~ .radio-v3__label .radio-v3__label-box-cir
 .circular-progress__a,.circular-progress__b{position:absolute;top:0;left:0;width:100%;height:100%;background-position:center;background-repeat:no-repeat;background-size:100% 100%}
 .circular-progress__a{-webkit-animation:moveCircleA 1.6s infinite cubic-bezier(0,0,1,1);animation:moveCircleA 1.6s infinite cubic-bezier(0,0,1,1)}
 .circular-progress__b{-webkit-animation:moveCircleB 1.6s infinite cubic-bezier(0,0,1,1);animation:moveCircleB 1.6s infinite cubic-bezier(0,0,1,1)}
-.circular-progress--light-bg .circular-progress__a,.circular-progress--light-bg .circular-progress__b{background-image:url("../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/circle-progress-light-bg-desktop.png")}
-.circular-progress--dark-bg .circular-progress__a,.circular-progress--dark-bg .circular-progress__b{background-image:url("../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/circle-progress-dark-bg-desktop.png")}
+.circular-progress--light-bg .circular-progress__a,.circular-progress--light-bg .circular-progress__b{background-image:url("../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/circle-progress-light-bg-desktop.png")}
+.circular-progress--dark-bg .circular-progress__a,.circular-progress--dark-bg .circular-progress__b{background-image:url("../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/circle-progress-dark-bg-desktop.png")}
 @media only screen and (min-width:768px) and (max-width:1440px){.circular-progress{width:5vw;height:5vw}
 }
 @media only screen and (max-width:767px){.circular-progress{width:13.33333333vw;height:13.33333333vw}
-.circular-progress--light-bg .circular-progress__a,.circular-progress--light-bg .circular-progress__b{background-image:url("../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/circle-progress-light-bg-mobile.png")}
-.circular-progress--dark-bg .circular-progress__a,.circular-progress--dark-bg .circular-progress__b{background-image:url("../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/circle-progress-dark-bg-mobile.png")}
+.circular-progress--light-bg .circular-progress__a,.circular-progress--light-bg .circular-progress__b{background-image:url("../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/circle-progress-light-bg-mobile.png")}
+.circular-progress--dark-bg .circular-progress__a,.circular-progress--dark-bg .circular-progress__b{background-image:url("../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/circle-progress-dark-bg-mobile.png")}
 }
 @-webkit-keyframes moveCircleA{from{-webkit-transform:rotate(0);transform:rotate(0)}
 to{-webkit-transform:rotate(720deg);transform:rotate(720deg)}
@@ -1994,21 +1994,21 @@ to{-webkit-transform:scale(0);transform:scale(0)}
 .rating__star-item{position:relative;width:16px;height:16px;margin-right:4px}
 .rating__star-item:last-of-type{margin-right:0}
 .rating__star-empty,.rating__star-filled{width:100%;height:100%;background-repeat:no-repeat;background-size:cover}
-.rating__star-empty{display:inline-block;background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-rating-star-empty-grayscale-bb.svg')}
-.rating__star-filled{position:absolute;top:0;left:0;background-position:left top;background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-rating-star-filled.svg')}
+.rating__star-empty{display:inline-block;background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-rating-star-empty-grayscale-bb.svg')}
+.rating__star-filled{position:absolute;top:0;left:0;background-position:left top;background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-rating-star-filled.svg')}
 .rating__review-count{margin-left:5px}
 .rating__point,.rating__review-count{display:inline-block;font-weight:bold;font-size:14px}
 .rating.rating--dense .rating__inner{height:16px}
 .rating.rating--dense .rating__star-item{width:12px;height:12px}
 .rating.rating--dense .rating__point,.rating.rating--dense .rating__review-count{font-weight:normal;font-size:12px}
 .rating.rating--empty .rating__inner{color:#757575}
-.rating.rating--empty .rating__star-empty{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-rating-star-empty-grayscale-dd.svg')}
+.rating.rating--empty .rating__star-empty{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-rating-star-empty-grayscale-dd.svg')}
 .bg-black .rating{color:#555}
-.bg-black .rating__star-filled{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-rating-star-filled-ff.svg')}
-.bg-black .rating .rating__star-empty{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-rating-star-empty-grayscale-75.svg')}
+.bg-black .rating__star-filled{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-rating-star-filled-ff.svg')}
+.bg-black .rating .rating__star-empty{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-rating-star-empty-grayscale-75.svg')}
 .bg-black .rating .rating__inner{color:#fff}
 .bg-black .rating.rating--empty .rating__inner{color:#555}
-.bg-black .rating.rating--empty .rating__star-empty{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-rating-star-empty-grayscale-55.svg')}
+.bg-black .rating.rating--empty .rating__star-empty{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-rating-star-empty-grayscale-55.svg')}
 @media only screen and (min-width:768px) and (max-width:1440px){.rating__inner{height:1.38888889vw}
 .rating__star-list{margin-right:.55555556vw}
 .rating__star-item{width:1.11111111vw;height:1.11111111vw;margin-right:.27777778vw}
@@ -2370,9 +2370,9 @@ to{-webkit-transform:scale(0);transform:scale(0)}
 .gnb__logo-icon{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;width:120px;height:32px}
 .gnb__logo-icon svg{width:104px;height:16px}
 .gnb__logo[class*="gnb__logo--"]:after{content:'';display:block;position:absolute;top:50%;left:0;width:120px;height:32px;background:#fff no-repeat 50% 50%;background-size:120px 32px;-webkit-transform:translateY(-50%);transform:translateY(-50%)}
-.gnb__logo[class*="gnb__logo--"].gnb__logo--christmas:after{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/christmas-samsung-logo-desktop.gif');background-position:50% 35%;background-size:104px 20px}
-.gnb__logo[class*="gnb__logo--"].gnb__logo--valentine:after{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/valentine-samsung-logo-desktop.gif')}
-.gnb__logo[class*="gnb__logo--"].gnb__logo--event:after{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/gnb-desktop-120x32.gif')}
+.gnb__logo[class*="gnb__logo--"].gnb__logo--christmas:after{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/christmas-samsung-logo-desktop.gif');background-position:50% 35%;background-size:104px 20px}
+.gnb__logo[class*="gnb__logo--"].gnb__logo--valentine:after{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/valentine-samsung-logo-desktop.gif')}
+.gnb__logo[class*="gnb__logo--"].gnb__logo--event:after{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/gnb-desktop-120x32.gif')}
 .gnb__main{float:left;margin-left:64px;font-size:0}
 .gnb__depth1{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;height:80px;line-height:1.33}
 .gnb__depth1-menu{vertical-align:middle}
@@ -2485,9 +2485,9 @@ to{-webkit-transform:scale(0);transform:scale(0)}
 .gnb__mobile-dimmed{display:none}
 .gnb .checkbox-radio ~ .checkbox-radio{margin-top:10px}
 .gnb .check_text{display:block;position:relative;min-height:24px;padding:4px 0 2px 42px;color:#363636;font-size:14px;line-height:1.33}
-.gnb .check_text:before{content:"";display:block;position:absolute;left:0;top:0;width:24px;height:24px;background:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_check_radio_a.svg) no-repeat;background-size:100% auto}
+.gnb .check_text:before{content:"";display:block;position:absolute;left:0;top:0;width:24px;height:24px;background:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_check_radio_a.svg) no-repeat;background-size:100% auto}
 .gnb input[type='checkbox']:checked ~ .check_text{font-weight:bold}
-.gnb input[type='checkbox']:checked ~ .check_text:before{background-image:url(../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_check_b.svg)}
+.gnb input[type='checkbox']:checked ~ .check_text:before{background-image:url(../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_check_b.svg)}
 .gnb .check_txt{padding:0 0 0 42px;font-size:14px;line-height:1.33}
 .gnb .gnb__depth1 .gnb-api--mobile-only{display:none}
 .gnb .gnb__depth2 .gnb-api--mobile-only{display:none}
@@ -2681,9 +2681,9 @@ to{-webkit-transform:scale(0);transform:scale(0)}
 }
 @media only screen and (max-width:1279px) and screen and (-ms-high-contrast:active),only screen and (max-width:1279px) and (-ms-high-contrast:none){.gnb .gnb__nav{display:inline-block;width:100%;-webkit-transform:translateZ(2000px);transform:translateZ(2000px)}
 }
-@media only screen and (max-width:767px){.gnb__logo--christmas:after{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/christmas-samsung-logo-mobile.gif')}
-.gnb__logo--valentine:after{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/valentine-samsung-logo-mobile.gif')}
-.gnb__logo--event:after{background-image:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/gnb-mobile-240x64.gif')}
+@media only screen and (max-width:767px){.gnb__logo--christmas:after{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/christmas-samsung-logo-mobile.gif')}
+.gnb__logo--valentine:after{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/valentine-samsung-logo-mobile.gif')}
+.gnb__logo--event:after{background-image:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/gnb-mobile-240x64.gif')}
 .gnb .layer-popup__inner{min-width:86.66666667vw;padding:6.66666667vw;border-radius:5.55555556vw}
 .gnb .layer-popup__title{margin:0vw 7.77777778vw 4.44444444vw 0vw;font-size:6.11111111vw}
 .gnb .layer-popup__contents{font-size:3.88888889vw}
@@ -3065,7 +3065,7 @@ to{-webkit-transform:scale(0);transform:scale(0)}
 }
 .footer .footer-back-to-top{height:56px;margin:0 auto;max-width:1440px;background-color:#fff;border-bottom:1px solid #ccc;text-align:right}
 .footer .footer-back-to-top__cta{position:relative;font-family:'SamsungOne',arial,sans-serif;font-size:14px;font-weight:400;line-height:1.33;color:#000;display:inline-block;padding:18px 25px 19px 25px;text-align:right}
-.footer .footer-back-to-top__cta::after{display:inline-block;width:16px;height:16px;background:url('../../../../../copy-website/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-regular-navigation-close-up.svg');background-size:100% 100%;background-repeat:no-repeat;vertical-align:middle;content:'';margin-left:5px}
+.footer .footer-back-to-top__cta::after{display:inline-block;width:16px;height:16px;background:url('../../../../../samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-regular-navigation-close-up.svg');background-size:100% 100%;background-repeat:no-repeat;vertical-align:middle;content:'';margin-left:5px}
 @media only screen and (min-width:768px) and (max-width:1440px){.footer .footer-back-to-top{height:3.88888889vw}
 .footer .footer-back-to-top__cta{font-size:.97222222vw;padding:1.25vw 1.73611111vw 1.31944444vw 1.73611111vw}
 .footer .footer-back-to-top__cta::after{width:1.11111111vw;height:1.11111111vw;margin-left:.34722222vw}

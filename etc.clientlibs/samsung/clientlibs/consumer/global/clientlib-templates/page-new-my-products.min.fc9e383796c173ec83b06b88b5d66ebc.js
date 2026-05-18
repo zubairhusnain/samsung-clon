@@ -194,7 +194,7 @@
   const observer = new MutationObserver(observerCallback);
   observer.observe(targetEl, observeOptions);
   
-  window.sg.common.icon.load('/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/svg-sprite-retention.svg');
+  window.sg.common.icon.load('/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/svg-sprite-retention.svg');
 })();
 
 ;
@@ -2712,7 +2712,7 @@ function initCta(ctaEl) {
   </ul>
   `;
   
-  const defaultImage = "/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon_non-image-164x164.svg";
+  const defaultImage = "/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon_non-image-164x164.svg";
 
   let clearHtml = () => {
 	  $productInfoArea.html(emptyProductInfoHtml);
@@ -2947,8 +2947,8 @@ function initCta(ctaEl) {
             <p class="js-scheduled-text"><span>${APPOINTMENT_SCHEDULED}</span>:</p>
         </div>`;
 	
-	const pcDummy = "/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon_non-image-164x164.svg";
-	const moDummy = "/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon_non-image-164x164.svg";
+	const pcDummy = "/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon_non-image-164x164.svg";
+	const moDummy = "/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon_non-image-164x164.svg";
 
 	const util = {
 		isNotEmpty : function( value ) {
@@ -23484,7 +23484,7 @@ function valPostalLenType2H3(checkVal){
 				map: map,
 				label : { color: '#fff', fontWeight: 'bold', fontSize: '14px', text: (index + 1).toString() },
 				icon : {
-		    	    url: "/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-pin-other.svg", 
+		    	    url: "/samsung-clon/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-pin-other.svg", 
 		    	    scaledSize: new google.maps.Size(40, 40),
                     labelOrigin: new google.maps.Point(20, 15)
 				},

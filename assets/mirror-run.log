@@ -1,0 +1,45 @@
+Collecting asset paths from local pages and bundles...
+Found 5899 downloadable asset path(s)
+[1/5899] /aemapi/v6/data-login/afterLogin.ae.json
+[25/5899] /assets/images/1440x810_VD_desktop_EN-617ed71cb6.jpg
+[50/5899] /assets/images/GNB-L1_Menu_Galaxy-Accessories_88x88-bf3e412c4e.png
+[75/5899] /assets/images/GNB_Buds4-Pro_88x88-753b1a4e0a.png
+[100/5899] /assets/images/GNB_TV-AV_L1_05_88x88-f630f9ab48.png
+[125/5899] /assets/images/Home_Explore_Thumbnail1_MO_560x560-e06add28f6.jpg
+[150/5899] /assets/images/color_mint.png
+[175/5899] /assets/images/galaxy-buds4-pro-design-01-c0cdb2f761.jpg
+[200/5899] /assets/images/galaxy-buds4-pro-design-white-tb-4589a3ec09.jpg
+[225/5899] /assets/images/galaxy-buds4-pro-highlight-01-tb-e11c4867b9.jpg
+[250/5899] /assets/images/galaxy-buds4-pro-sound-clearcall-7f17741189.jpg
+[275/5899] /assets/images/galaxy-s26-features-ai-overview-start-lowband-mo.jpg
+[300/5899] /assets/images/galaxy-s26-features-colors-sky-blue.jpg
+[325/5899] /assets/images/galaxy-s26-features-kv-mo-532c3a9076.jpg
+[350/5899] /assets/images/galaxy-s26-features-storage.jpg
+[375/5899] /assets/images/galaxy-s26-plus-features-colors-viewer-initial-black.jpg
+[400/5899] /assets/images/galaxy-watch8-band-fabric-band-tb-red-mo-7a3ace981e.jpg
+[425/5899] /assets/images/galaxy-watch8-customization-hybrid-band-2565c0d2a3.jpg
+[450/5899] /assets/images/galaxy-watch8-design-dynamic-lug-start-tb-mo-6ece703810.jpg
+[475/5899] /assets/images/galaxy-watch8-exercise-personalized-hr-zone-mo-f7547fabc5.jpg
+[500/5899] /assets/images/galaxy-watch8-health-care-ecg-detailed-21d7921d56.jpg
+[525/5899] /assets/images/galaxy-watch8-hw-innovation-3nm-detailed-end-tb-0dc65b7d8a.jpg
+[550/5899] /assets/images/galaxy-watch8-mental-health-mindfulness-end-tb-mo-a0af1356d8.jpg
+[575/5899] /assets/images/galaxy-watch8-sleep-coaching-267c5f7dc4.jpg
+[600/5899] /assets/images/icon-outlink-white.svg
+[625/5899] /assets/images/in_the_box_silverShadow_MO.jpg
+[650/5899] /assets/images/pk-galaxy-s25-fe-sm-s731-sm-s731bdbvpkd-thumb-548713584-7ac040ff60.png
+[675/5899] /assets/images/product_color_icyBlue_PC.png
+[700/5899] /assets/images/wm-gnb-88x88px-6f46e9767a.png
+[725/5899] /assets/remote/www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-a.svg
+[750/5899] /assets/remote/www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/form_check_radio_a.svg
+[775/5899] /assets/videos/galaxy-buds4-pro-highlight-05-mo.mp4
+[800/5899] /assets/videos/galaxy-watch8-innovation-3000nits-mo.mp4
+Traceback (most recent call last):
+  File "/Applications/XAMPP/xamppfiles/htdocs/samsung-clon/scripts/mirror-assets.py", line 291, in <module>
+    raise SystemExit(main())
+  File "/Applications/XAMPP/xamppfiles/htdocs/samsung-clon/scripts/mirror-assets.py", line 270, in main
+    success, detail = download(path)
+  File "/Applications/XAMPP/xamppfiles/htdocs/samsung-clon/scripts/mirror-assets.py", line 171, in download
+    local_fs.parent.mkdir(parents=True, exist_ok=True)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/pathlib.py", line 1313, in mkdir
+    self._accessor.mkdir(self, mode)
+NotADirectoryError: [Errno 20] Not a directory: '/Applications/XAMPP/xamppfiles/htdocs/samsung-clon/content/dam/samsung/pk/innovation_campus/images/2024_assets'

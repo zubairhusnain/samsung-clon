@@ -1,0 +1,15 @@
+<svg id="ic_tv-design_24x24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_502" data-name="사각형 502" width="17.12" height="14.36" transform="translate(-1 -1)" fill="none" stroke="#757575" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_513" data-name="그룹 513" transform="translate(4.5 5.801)">
+    <g id="그룹_512" data-name="그룹 512" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <rect id="사각형_501" data-name="사각형 501" width="14.407" height="8.988" transform="translate(0.357 0.356)" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="선_29" data-name="선 29" y2="2.66" transform="translate(7.56 9.344)" fill="none" stroke="#757575" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="선_30" data-name="선 30" x2="6.888" transform="translate(4.136 12.004)" fill="none" stroke="#757575" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+  <rect id="사각형_503" data-name="사각형 503" width="24" height="24" fill="none"/>
+</svg>
