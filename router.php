@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+@ini_set('memory_limit', '256M');
+@ini_set('max_execution_time', '120');
+
+require_once __DIR__ . '/includes/cw-php-polyfill.php';
 require_once __DIR__ . '/base-url.php';
 require_once __DIR__ . '/includes/cw-remote-asset.php';
 require_once __DIR__ . '/includes/cw-asset-resolve.php';
@@ -52,14 +56,16 @@ if (preg_match('~^/\d+/pageInfo$~', $path)) {
 }
 
 if (str_starts_with($path, '/v6/')) {
-    error_log("router.php: path=$path, query=$query");
     if (str_contains($path, '..')) {
         http_response_code(400);
         exit;
     }
+    if (!function_exists('curl_init')) {
+        http_response_code(503);
+        exit;
+    }
     $suffix = $query !== '' ? ('?' . $query) : '';
     $remoteUrl = 'https://searchapi.samsung.com' . $path . $suffix;
-    error_log("router.php: remoteUrl=$remoteUrl");
     $httpCode = 0;
     $sentType = false;
     $contentType = '';
@@ -390,10 +396,8 @@ if (str_starts_with($path, '/is/image/') || str_starts_with($path, '/is/content/
 if (is_string($pagesReal) && str_starts_with($path, '/pages/') && str_ends_with($path, '.php')) {
     $candidate = realpath(__DIR__ . $path);
     if (is_string($candidate) && str_starts_with($candidate, $pagesReal . DIRECTORY_SEPARATOR) && is_file($candidate)) {
-        ob_start();
+        cw_start_asset_url_rewrite();
         include $candidate;
-        $html = (string)ob_get_clean();
-        echo cw_rewrite_asset_urls_in_html($html);
         exit;
     }
 }
@@ -401,10 +405,8 @@ if (is_string($pagesReal) && str_starts_with($path, '/pages/') && str_ends_with(
 if (str_ends_with($path, '.php') && !str_contains($path, '/pages/')) {
     $candidate = realpath(__DIR__ . $path);
     if (is_string($rootReal) && is_string($candidate) && str_starts_with($candidate, $rootReal . DIRECTORY_SEPARATOR) && is_file($candidate)) {
-        ob_start();
+        cw_start_asset_url_rewrite();
         include $candidate;
-        $html = (string)ob_get_clean();
-        echo cw_rewrite_asset_urls_in_html($html);
         exit;
     }
 }
@@ -426,10 +428,8 @@ if (!is_file($target)) {
         header('Location: ' . CW_BASE_URL . '/no-page/?from=' . rawurlencode($from), true, 302);
         exit;
     }
-    $target = __DIR__ . '/plan.php';
+    $target = __DIR__ . '/pages/no-page/index.php';
 }
 
-ob_start();
+cw_start_asset_url_rewrite();
 include $target;
-$html = (string)ob_get_clean();
-echo cw_rewrite_asset_urls_in_html($html);
