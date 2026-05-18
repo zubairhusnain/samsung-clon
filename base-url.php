@@ -2,6 +2,71 @@
 declare(strict_types=1);
 
 require_once __DIR__ . '/includes/cw-asset-resolve.php';
+require_once __DIR__ . '/includes/cw-sanitize-html.php';
+
+/**
+ * URL path prefix for this install (e.g. "/samsung-clon" locally, "" at domain docroot).
+ */
+function cw_install_base_path(): string
+{
+    static $path = null;
+    if ($path !== null) {
+        return $path;
+    }
+
+    $override = getenv('CW_BASE_PATH');
+    if (is_string($override)) {
+        if ($override === '' || $override === '/') {
+            $path = '';
+        } else {
+            $path = str_starts_with($override, '/') ? $override : '/' . $override;
+        }
+        return $path;
+    }
+
+    $docRoot = $_SERVER['DOCUMENT_ROOT'] ?? '';
+    if ($docRoot !== '') {
+        $root = realpath($docRoot);
+        $here = realpath(__DIR__);
+        if ($root !== false && $here !== false && $root === $here) {
+            $path = '';
+            return $path;
+        }
+    }
+
+    $folder = basename(__DIR__);
+    if (in_array($folder, ['public_html', 'www', 'httpdocs', 'htdocs', 'html', 'web'], true)) {
+        $path = '';
+        return $path;
+    }
+
+    $path = '/' . $folder;
+    return $path;
+}
+
+/** Strip install prefix and legacy /public_html from a request path. */
+function cw_normalize_request_path(string $path): string
+{
+    $base = cw_install_base_path();
+    if ($base !== '') {
+        if ($path === $base) {
+            $path = '/';
+        } elseif (str_starts_with($path, $base . '/')) {
+            $path = substr($path, strlen($base));
+        }
+    }
+
+    if ($path === '/public_html') {
+        $path = '/';
+    } elseif (str_starts_with($path, '/public_html/')) {
+        $path = substr($path, strlen('/public_html'));
+        if ($path === '') {
+            $path = '/';
+        }
+    }
+
+    return $path;
+}
 
 $baseUrl = 'http://localhost/samsung-clon';
 if (!defined('CW_BASE_URL')) {
@@ -12,8 +77,7 @@ if (!defined('CW_BASE_URL')) {
         $isHttps = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') || (($_SERVER['SERVER_PORT'] ?? '') === '443');
         $scheme = $isHttps ? 'https' : 'http';
         $host = (string)$_SERVER['HTTP_HOST'];
-        $basePath = '/' . basename(__DIR__);
-        $base = $scheme . '://' . $host . $basePath;
+        $base = $scheme . '://' . $host . cw_install_base_path();
     } else {
         $base = $baseUrl;
     }
@@ -45,12 +109,7 @@ function cw_rewrite_asset_urls_in_html(string $html): string
     if (!is_string($path) || $path === '') {
         $path = '/';
     }
-    $baseDir = '/' . basename(__DIR__);
-    if (str_starts_with($path, $baseDir . '/')) {
-        $path = substr($path, strlen($baseDir));
-    } elseif ($path === $baseDir) {
-        $path = '/';
-    }
+    $path = cw_normalize_request_path($path);
     if (str_starts_with($path, '/pk/')) {
         $path = substr($path, 3);
     } elseif ($path === '/pk' || $path === '/pk/') {
@@ -98,23 +157,21 @@ function cw_rewrite_asset_urls_in_html(string $html): string
     if (!str_contains($html, 'id="cw-stubs"')) {
         $headInsert .= '<script id="cw-stubs">(function(){try{' .
             'var R=window.__CW_ASSET_ROOT||"";' .
-            'function fixRoot(u){if(typeof u!=="string")return u;if(/^\\/(etc\\.clientlibs|assets|is\\/|content\\/|aemapi)\\//.test(u))return R+u;if(u.indexOf("http://localhost/etc.clientlibs/")===0)return u.replace("http://localhost/etc.clientlibs/",R+"/etc.clientlibs/");if(u.indexOf("http://localhost/assets/")===0)return u.replace("http://localhost/assets/",R+"/assets/");if(u.indexOf("http://localhost/is/")===0)return u.replace("http://localhost/is/",R+"/is/");if(u.indexOf("http://localhost/content/")===0)return u.replace("http://localhost/content/",R+"/content/");return u;}' .
-            'function patchSetter(proto,prop){var d=Object.getOwnPropertyDescriptor(proto,prop);if(!d||!d.set)return;var s=d.set;d.set=function(v){return s.call(this,fixRoot(v));};}' .
-            'patchSetter(HTMLImageElement.prototype,"src");' .
-            'patchSetter(HTMLLinkElement.prototype,"href");' .
-            'patchSetter(HTMLScriptElement.prototype,"src");' .
-            'var _open=XMLHttpRequest.prototype.open;XMLHttpRequest.prototype.open=function(m,u){arguments[1]=fixRoot(u);return _open.apply(this,arguments);};' .
-            'var _fetch=window.fetch;window.fetch=function(i,n){var u=typeof i==="string"?i:(i&&i.url?i.url:"");if(typeof u==="string"&&(u.indexOf("api-recommender.bigdata.samsung.com")!==-1||u.indexOf("smetrics.samsung.com")!==-1)){return Promise.resolve({ok:true,json:function(){return Promise.resolve({});},text:function(){return Promise.resolve("{}");}});}if(typeof i==="string"){i=fixRoot(i);}else if(i&&i.url){try{i=new Request(fixRoot(i.url),i);}catch(e){}}return _fetch.call(this,i,n);};' .
-            'window._satellite=window._satellite||{};' .
-            'window._satellite.getVar=window._satellite.getVar||function(){return "";};' .
-            'window._satellite.setVar=window._satellite.setVar||function(){};' .
-            'window._satellite.track=window._satellite.track||function(){};' .
-            'window._satellite.pageBottom=function(){};' .
-            'window._satellite.pageTop=function(){};' .
-            'window.MODAL_DIALOGS=window.MODAL_DIALOGS||{};' .
-            'window.eddlDataLayer=window.eddlDataLayer||[];' .
-            'window.digitalData=window.digitalData||{};' .
-            'window.siteCode=window.siteCode||"";' .
+            'function blocked(u){if(typeof u!=="string")return false;var x=u.toLowerCase();return/pageinfo$|front\\/b2c\\//i.test(u)||x.indexOf("facebook")!==-1||x.indexOf("googletagmanager")!==-1||x.indexOf("useinsider")!==-1||x.indexOf("sprinklr")!==-1||x.indexOf("livechat")!==-1||x.indexOf("media-tagging")!==-1||x.indexOf("smetrics")!==-1||x.indexOf("adobedtm")!==-1||x.indexOf("go-mpulse")!==-1||x.indexOf("decibelinsight")!==-1||x.indexOf("kampyle")!==-1||x.indexOf("beusable")!==-1||x.indexOf("api-recommender")!==-1;}' .
+            'function fixRoot(u){if(typeof u!=="string")return u;if(blocked(u))return"about:blank";if(/^\\/(etc\\.clientlibs|assets|is\\/|content\\/|aemapi)\\//.test(u))return R+u;if(u.indexOf("http://localhost/etc.clientlibs/")===0)return u.replace("http://localhost/etc.clientlibs/",R+"/etc.clientlibs/");if(u.indexOf("http://localhost/assets/")===0)return u.replace("http://localhost/assets/",R+"/assets/");if(u.indexOf("http://localhost/is/")===0)return u.replace("http://localhost/is/",R+"/is/");if(u.indexOf("http://localhost/content/")===0)return u.replace("http://localhost/content/",R+"/content/");return u;}' .
+            'function patchSetter(proto,prop){var d=Object.getOwnPropertyDescriptor(proto,prop);if(!d||!d.set)return;var s=d.set;d.set=function(v){if(prop==="src"&&blocked(v))return;return s.call(this,fixRoot(v));};}' .
+            'patchSetter(HTMLImageElement.prototype,"src");patchSetter(HTMLLinkElement.prototype,"href");patchSetter(HTMLScriptElement.prototype,"src");' .
+            'var _open=XMLHttpRequest.prototype.open;XMLHttpRequest.prototype.open=function(m,u){if(blocked(u))u="about:blank";else arguments[1]=fixRoot(u);return _open.apply(this,arguments);};' .
+            'var emptyJson=function(){return Promise.resolve({ok:true,status:200,json:function(){return Promise.resolve({});},text:function(){return Promise.resolve("{}");}});};' .
+            'var _fetch=window.fetch;window.fetch=function(i,n){var u=typeof i==="string"?i:(i&&i.url?i.url:"");if(blocked(u))return emptyJson();if(typeof i==="string"){i=fixRoot(i);}else if(i&&i.url){try{i=new Request(fixRoot(i.url),i);}catch(e){}}return _fetch.call(this,i,n);};' .
+            'window._satellite=window._satellite||{};var _rs=function(cb){try{if(typeof cb==="function")cb({},{},window.Promise||{resolve:function(){}});}catch(e){}};for(var i=1;i<=20;i++){(function(n){window._satellite["_runScript"+n]=_rs;})(i);}' .
+            'window._satellite.getVar=window._satellite.getVar||function(){return "";};window._satellite.setVar=window._satellite.setVar||function(){};window._satellite.track=window._satellite.track||function(){};window._satellite.pageBottom=function(){};window._satellite.pageTop=function(){};' .
+            'window.fbq=window.fbq||function(){};window.fbq.queue=window.fbq.queue||[];window.fbq.loaded=true;window._fbq=window._fbq||window.fbq;' .
+            'window.__beusablerumclient__=window.__beusablerumclient__||{load:function(){}};' .
+            'window.dataLayer=window.dataLayer||[];window.gtag=window.gtag||function(){window.dataLayer.push(arguments);};' .
+            'window.tagLayer=window.tagLayer||[];window.cj=window.cj||{};window.MODAL_DIALOGS=window.MODAL_DIALOGS||{};window.KAMPYLE_ONSITE_SDK=window.KAMPYLE_ONSITE_SDK||{};' .
+            'window.KAMPYLE_UTILS=window.KAMPYLE_UTILS||{setNestedPropertyValue:function(){}};window.KAMPYLE_DATA=window.KAMPYLE_DATA||{};window.KAMPYLE_FUNC=window.KAMPYLE_FUNC||{};window.MDIGITAL=window.MDIGITAL||{};' .
+            'window.eddlDataLayer=window.eddlDataLayer||[];window.digitalData=window.digitalData||{};window.siteCode=window.siteCode||"";window.BOOMR=window.BOOMR||{page_ready:function(){}};' .
             '}catch(e){}})();</script>';
     }
     if (!str_contains($html, 'id="cw-hydrate-media"')) {
@@ -370,6 +427,8 @@ function cw_rewrite_asset_urls_in_html(string $html): string
 
     $quotedBase = preg_quote($base, '~');
     $html = preg_replace('~' . $quotedBase . '/pk(?=/|\?|#|["\'\s])~', $base, $html) ?? $html;
+
+    $html = cw_sanitize_html($html);
 
     $html = preg_replace(
         '~</body>~i',
