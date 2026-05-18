@@ -33,6 +33,7 @@ function cw_inject_after_head_open(string $html, string $insertion): string
     return substr($html, 0, $gt + 1) . $insertion . substr($html, $gt + 1);
 }
 
+
 function cw_rewrite_asset_urls_in_html(string $html): string
 {
     $base = CW_BASE_URL;
@@ -187,6 +188,11 @@ function cw_rewrite_asset_urls_in_html(string $html): string
     }
     $html = preg_replace(
         '~\b(href|src|action)=(["\'])(?:https?:)?//www\.samsung\.com/pk/?([^"\']*)\2~i',
+        '$1=$2' . $base . '/$3$2',
+        $html
+    ) ?? $html;
+    $html = preg_replace(
+        '~\b(href|action)=(["\'])//www\.samsung\.com/pk/?([^"\']*)\2~i',
         '$1=$2' . $base . '/$3$2',
         $html
     ) ?? $html;
