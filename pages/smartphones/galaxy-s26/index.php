@@ -4,34 +4,16 @@
   data-js-focus-visible="" style="scroll-padding-top: 99px;" data-di-loaded="1">
 
 <head>
-  <!-- PWA - manifest
-  <link rel="manifest" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/pk.json">
-   -->
-  <!-- PWA - Browser Compatible
-  <script async src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
-   -->
+
   <!-- <meta name="theme-color" content="#0c4da2"> -->
-  <!-- Add to home screen for Safari on iOS -->
-  <!-- <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <meta name="apple-mobile-web-app-title" content="Samsung Shop">
-    <link rel="apple-touch-icon" href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/icon/pwa_icon_192x192.png"> -->
-  <!-- Add to home screen for Windows -->
-  <!-- <meta name="msapplication-TileImage" content="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/icon/pwa_icon_192x192.png">
-    <meta name="msapplication-TileColor" content="#000000"> -->
 
   <link rel="preconnect" href="https://images.samsung.com">
-
-  <!-- Load clientLibs required when initializing Authoring: head.html override required to be added! -->
-
-  <!-- Load clientLibs required when initializing Authoring: head.html override required to be added! -->
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
   <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
-  <!-- SEO -->
 
   <title>Samsung Galaxy S26 with Galaxy AI | Samsung Pakistan</title>
 
@@ -131,11 +113,7 @@
   <link rel="stylesheet"
     href="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/navigation/nv-g-breadcrumb/clientlibs/site.min.01c1e7bc1eb1645deacabd158fc75f0f.css"
     type="text/css">
-
-  
-  
-  
-  <script type="text/javascript">
+<script type="text/javascript">
     var winhref = window.location.href.replace("/content/samsung", "").replace(".html", "/");
     if (winhref.indexOf("?") > 0) {
       winhref = winhref.substring(0, winhref.indexOf("?"));
@@ -198,36 +176,21 @@
         "prodView": ""
       }
     }
-  </script>
-  <script type="text/javascript">
+  </script><script type="text/javascript">
     //lastModified parameter 관련 파일 정보
     var __fileData__ = __fileData__ || {};
     __fileData__ = { "svg-sprite.svg": "20260423143946", "svg-sprite-retention.svg": "20260421132723" };
     if (window.__fileData__ == null) {
       window.__fileData__ = __fileData__;
     }
-  </script>
-
-  <script type="text/javascript">
+  </script><script type="text/javascript">
     digitalData.page.pageInfo.pageTrack = "flagship pdp";
   </script>
-
-  
-
-  
-
-  
-
   <!-- ugcGallary -->
 
   <!-- false -->
-
-  
-  <script>!function () { function o(n, i) { if (n && i) for (var r in i) i.hasOwnProperty(r) && (void 0 === n[r] ? n[r] = i[r] : n[r].constructor === Object && i[r].constructor === Object ? o(n[r], i[r]) : n[r] = i[r]) } try { var n = decodeURIComponent("%7B%20%22request_client_hints%22%3A%20true%20%7D"); if (n.length > 0 && window.JSON && "function" == typeof window.JSON.parse) { var i = JSON.parse(n); void 0 !== window.BOOMR_config ? o(window.BOOMR_config, i) : window.BOOMR_config = i } } catch (r) { window.console && "function" == typeof window.console.error && console.error("mPulse: Could not parse configuration", r) } }();</script>
-  
-  <script type="application/ld+json"
-    id="bv-jsonld-reviews-data">{"review":[{"dateCreated":"2026-03-17T14:51:23.000+00:00","datePublished":"2026-04-27T12:24:26.000+00:00","headline":"Great Features v worst features","reviewBody":"God Father of Display and Performance . \nBeast of display, i have never seen such a amazing display in any phone. \nI am Big fan of Samsung Plus models but they make me upsat in Camera, they haven't improved it, atleast they can do is To make apperatur large.","reviewRating":{"@type":"Rating","ratingValue":5,"bestRating":5},"author":{"@type":"Person","name":"Sajjad Ali"},"image":[],"video":[]},{"dateCreated":"2026-04-10T05:22:39.000+00:00","datePublished":"2026-04-13T00:48:32.000+00:00","headline":"Amazing Phone, Bad Battery","reviewBody":"The battery is very poor on S26 base model. It barely gives me 3 hours screen on time. My S22 used to give me 2 hours, considering it's 4 years newer and brand new, 3 hours is quite bad. The camera is not that much different either, apart from AI, no major difference in picture quality. The display is amazing, way better than older galaxy phones. It is amazingly fast in terms of processing, i am however having a little issue of heat even though it has the new vapor chamber.","reviewRating":{"@type":"Rating","ratingValue":4,"bestRating":5},"author":{"@type":"Person","name":"WildAssassin69"},"image":[],"video":[]}],"@id":"https://www.samsung.com/pk/smartphones/galaxy-s26/","@context":"https://schema.org"}</script>
-  <style>
+<script>!function () { function o(n, i) { if (n && i) for (var r in i) i.hasOwnProperty(r) && (void 0 === n[r] ? n[r] = i[r] : n[r].constructor === Object && i[r].constructor === Object ? o(n[r], i[r]) : n[r] = i[r]) } try { var n = decodeURIComponent("%7B%20%22request_client_hints%22%3A%20true%20%7D"); if (n.length > 0 && window.JSON && "function" == typeof window.JSON.parse) { var i = JSON.parse(n); void 0 !== window.BOOMR_config ? o(window.BOOMR_config, i) : window.BOOMR_config = i } } catch (r) { window.console && "function" == typeof window.console.error && console.error("mPulse: Could not parse configuration", r) } }();</script><script type="application/ld+json"
+    id="bv-jsonld-reviews-data">{"review":[{"dateCreated":"2026-03-17T14:51:23.000+00:00","datePublished":"2026-04-27T12:24:26.000+00:00","headline":"Great Features v worst features","reviewBody":"God Father of Display and Performance . \nBeast of display, i have never seen such a amazing display in any phone. \nI am Big fan of Samsung Plus models but they make me upsat in Camera, they haven't improved it, atleast they can do is To make apperatur large.","reviewRating":{"@type":"Rating","ratingValue":5,"bestRating":5},"author":{"@type":"Person","name":"Sajjad Ali"},"image":[],"video":[]},{"dateCreated":"2026-04-10T05:22:39.000+00:00","datePublished":"2026-04-13T00:48:32.000+00:00","headline":"Amazing Phone, Bad Battery","reviewBody":"The battery is very poor on S26 base model. It barely gives me 3 hours screen on time. My S22 used to give me 2 hours, considering it's 4 years newer and brand new, 3 hours is quite bad. The camera is not that much different either, apart from AI, no major difference in picture quality. The display is amazing, way better than older galaxy phones. It is amazingly fast in terms of processing, i am however having a little issue of heat even though it has the new vapor chamber.","reviewRating":{"@type":"Rating","ratingValue":4,"bestRating":5},"author":{"@type":"Person","name":"WildAssassin69"},"image":[],"video":[]}],"@id":"https://www.samsung.com/pk/smartphones/galaxy-s26/","@context":"https://schema.org"}</script><style>
     .coRjPr {
       padding: 0px;
       margin: 0px 10px;
@@ -2350,8 +2313,7 @@
         background-position: calc(100% + 250px) center;
       }
     }
-  </style>
-  <style>
+  </style><style>
     .coRjPr {
       padding: 0px;
       margin: 0px 10px;
@@ -4474,8 +4436,7 @@
         background-position: calc(100% + 250px) center;
       }
     }
-  </style>
-  <style>
+  </style><style>
     .coRjPr {
       padding: 0px;
       margin: 0px 10px;
@@ -6758,8 +6719,7 @@
         background-position: calc(100% + 250px) center;
       }
     }
-  </style>
-  <style>
+  </style><style>
     .coRjPr {
       padding: 0px;
       margin: 0px 10px;
@@ -9071,8 +9031,7 @@
         background-position: calc(100% + 250px) center;
       }
     }
-  </style>
-  <style>
+  </style><style>
     .coRjPr {
       padding: 0px;
       margin: 0px 10px;
@@ -11467,32 +11426,7 @@
     #desc-section{
       display:none !important;
     }
-  </style>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <style data-emotion="css-global"></style>
-  <style data-emotion="css-global"></style>
-  <style data-emotion="css-global"></style>
-  <style data-emotion="css"></style>
+  </style><style data-emotion="css-global"></style><style data-emotion="css-global"></style><style data-emotion="css-global"></style><style data-emotion="css"></style>
 </head>
 
 <body><svg xmlns="" xmlns:xlink="" aria-hidden="true"
@@ -11541,7 +11475,7 @@
       </path>
     </symbol>
     <symbol id="answer" viewBox="0 0 56 56" xml:space="preserve" xmlns="">
-      <style>
+<style>
         .aist0 {
           fill: #333
         }
@@ -11678,7 +11612,7 @@
     </symbol>
     <symbol viewBox="0 0 16 16" id="block-two-deselected" xmlns="">
       <defs>
-        <style>
+<style>
           .axcls-2 {
             fill: #aaa
           }
@@ -11822,7 +11756,7 @@
       </path>
     </symbol>
     <symbol id="cancel-regular" viewBox="0 0 96 96" xml:space="preserve" xmlns="">
-      <style>
+<style>
         .btst0 {
           fill: none
         }
@@ -11950,7 +11884,7 @@
       </path>
     </symbol>
     <symbol id="community-light" viewBox="0 0 96 96" xml:space="preserve" xmlns="">
-      <style></style>
+<style></style>
       <path
         d="M85 8.3H39.1c-3.8 0-7 3.1-7 7v14.2H11c-3.8 0-7 3.1-7 7v31.7c0 3.8 3.1 7 7 7h2.2V86c0 .7.4 1.3 1 1.6.2.1.4.1.6.1.4 0 .9-.2 1.2-.5l12-12.1h28.8c3.8 0 7-3.1 7-7V53.9H68L79.9 66c.3.3.8.5 1.2.5.2 0 .4 0 .6-.1.6-.3 1-.9 1-1.6V53.9H85c3.8 0 7-3.1 7-7V15.3c0-3.9-3.1-7-7-7zM60.8 68.1c0 2.2-1.8 4-4 4h-30L16.2 82.8V74c0-1-.8-1.9-1.9-1.9H11c-2.2 0-4-1.8-4-4V36.5c0-2.2 1.8-4 4-4h21.2v14.4c0 3.8 3.1 7 7 7h21.7v14.2zM89 46.9c0 2.2-1.8 4-4 4h-3.3c-1 0-1.9.8-1.9 1.9v8.9L69.2 50.9H39.1c-2.2 0-4-1.8-4-4V15.3c0-2.2 1.8-4 4-4H85c2.2 0 4 1.8 4 4v31.6z">
       </path>
@@ -12078,7 +12012,7 @@
     </symbol>
     <symbol id="dishwasher-regular" viewBox="0 0 60 60" xmlns="">
       <defs>
-        <style>
+<style>
           .decls-1 {
             fill: none;
             stroke: #12100b;
@@ -12408,7 +12342,7 @@
       </path>
     </symbol>
     <symbol id="gift-light" viewBox="0 0 60 60" xml:space="preserve" xmlns="">
-      <style>
+<style>
         .fast1,
         .fast2 {
           fill: none;
@@ -12530,7 +12464,7 @@
       </path>
     </symbol>
     <symbol viewBox="0 0 60 60" id="icon-air-solution" xmlns="">
-      <style>
+<style>
         .fqst0 {
           display: none
         }
@@ -12620,7 +12554,7 @@
       </g>
     </symbol>
     <symbol viewBox="0 0 60 60" id="icon-computing" xmlns="">
-      <style>
+<style>
         .fust0 {
           display: none
         }
@@ -12701,7 +12635,7 @@
       </g>
     </symbol>
     <symbol viewBox="0 0 60 60" id="icon-home-appliances" xmlns="">
-      <style>
+<style>
         .fxst0 {
           display: none
         }
@@ -12756,7 +12690,7 @@
       </path>
     </symbol>
     <symbol viewBox="0 0 60 60" id="icon-laundry" xmlns="">
-      <style>
+<style>
         .gast0 {
           display: none
         }
@@ -12826,7 +12760,7 @@
       </g>
     </symbol>
     <symbol viewBox="0 0 60 60" id="icon-mobile" xmlns="">
-      <style>
+<style>
         .gdst0 {
           display: none
         }
@@ -12980,7 +12914,7 @@
     </symbol>
     <symbol viewBox="0 0 20 20" id="icon-sim-regular" xmlns="">
       <defs>
-        <style>
+<style>
           .gmcls-1,
           .gmcls-3 {
             fill: none;
@@ -13061,7 +12995,7 @@
       </g>
     </symbol>
     <symbol id="icon-smartphone" viewBox="0 0 167.2 323.2" xml:space="preserve" xmlns="">
-      <style>
+<style>
         .gqst0 {
           fill: none;
           stroke: #000;
@@ -13079,7 +13013,7 @@
     </symbol>
     <symbol id="icon-smartphone-crack" viewBox="0 0 167.25 323.25" xml:space="preserve"
       xmlns="">
-      <style>
+<style>
         .grst0 {
           fill: none;
           stroke: #000;
@@ -13097,7 +13031,7 @@
       <path d="M118.32 23.44L66.13 91.13l37 11-57 35 37 30-42 52 55-55-31-28 68-33-48-19 63-60"></path>
     </symbol>
     <symbol id="icon-smartphone-touch" viewBox="0 0 68 68" xml:space="preserve" xmlns="">
-      <style></style>
+<style></style>
       <defs>
         <path id="gsSVGID_1_" d="M0 0h68v68H0z"></path>
       </defs>
@@ -13119,7 +13053,7 @@
       </g>
     </symbol>
     <symbol viewBox="0 0 60 60" id="icon-smartphones" xmlns="">
-      <style>
+<style>
         .gtst0 {
           display: none
         }
@@ -13150,7 +13084,7 @@
       </g>
     </symbol>
     <symbol viewBox="0 0 60 60" id="icon-smartphones-tablets" xmlns="">
-      <style>
+<style>
         .gust0 {
           display: none
         }
@@ -13228,7 +13162,7 @@
       </g>
     </symbol>
     <symbol id="icon-tablet" viewBox="0 0 219.2 307.2" xml:space="preserve" xmlns="">
-      <style>
+<style>
         .gzst0 {
           fill: none;
           stroke: #000;
@@ -13245,7 +13179,7 @@
       <circle cx="109.6" cy="12.6" r="5.5"></circle>
     </symbol>
     <symbol id="icon-tablet-crack" viewBox="0 0 219.25 307.25" xml:space="preserve" xmlns="">
-      <style>
+<style>
         .hast0 {
           fill: none;
           stroke: #000;
@@ -13263,7 +13197,7 @@
       <path d="M165.12 24.12L112.93 91.8l37 11-57 35 37 30-42 52 55-55-31-28 68-33-48-19 63-60"></path>
     </symbol>
     <symbol viewBox="0 0 60 60" id="icon-tv-av" xmlns="">
-      <style>
+<style>
         .hbst0 {
           display: none
         }
@@ -13350,7 +13284,7 @@
       </g>
     </symbol>
     <symbol viewBox="0 0 60 60" id="icon-wearable" xmlns="">
-      <style>
+<style>
         .hest0 {
           display: none
         }
@@ -13474,7 +13408,7 @@
       </g>
     </symbol>
     <symbol viewBox="0 0 60 60" id="laptop-light" xmlns="">
-      <style>
+<style>
         .hrst0 {
           display: none
         }
@@ -14083,7 +14017,7 @@
       </path>
     </symbol>
     <symbol viewBox="0 0 60 60" id="refrigerators-normal" xmlns="">
-      <style>
+<style>
         .lfst0 {
           display: none
         }
@@ -14350,7 +14284,7 @@
     </symbol>
     <symbol viewBox="0 0 96 96" id="shipping-trade-up" xmlns="">
       <defs>
-        <style>
+<style>
           .mmcls-2,
           .mmcls-3 {
             fill: none;
@@ -14409,7 +14343,7 @@
     </symbol>
     <symbol id="show-shadow" viewBox="0 0 36 36" xmlns="">
       <defs>
-        <style>
+<style>
           .mscls-1 {
             fill: none
           }
@@ -14750,7 +14684,7 @@
       </g>
     </symbol>
     <symbol id="survey-i" viewBox="0 0 450 578" xml:space="preserve" xmlns="">
-      <style>
+<style>
         .nsst0 {
           fill: none
         }
@@ -14864,7 +14798,7 @@
       </path>
     </symbol>
     <symbol id="twitter-bold" viewBox="0 0 48 48" xml:space="preserve" xmlns="">
-      <style>
+<style>
         .ohst0 {
           fill: none
         }
@@ -15085,10 +15019,10 @@
     </symbol>
   </svg>
 
-  <!-- 
+  <!--
   ## PWA ##
   <sly data-sly-test="true">
-    <script>
+<script>
       if('serviceWorker' in navigator) {
         navigator.serviceWorker.register('/sw.js')
         .then(function(registration) {
@@ -15102,8 +15036,7 @@
       }); 
     </script>
   </sly> -->
-
-  <script>
+<script>
     var isInIframe = (window.location != window.top.location);
     var isNotDotcom = (window.location.href.indexOf('samsung.com') < 0);
     var isTopNotDotcom = (window.top.location.href.indexOf('samsung.com') < 0);
@@ -15117,7 +15050,6 @@
       }
     }
   </script>
-
   <div id="wrap">
     <!-- 공통  hidden input 시작-->
     <!-- typeAheadDomain 기존 search/ -> 붙이던 부분 삭제함 필요시 search/를 붙여서 사용-->
@@ -15169,13 +15101,9 @@
       </div>
     </section>
 
-    <!-- <script type="text/javascript" src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/js/crypto-js.min.js"></script> -->
-
-    <script
-      src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/global/js/crypto-js.min.6fa2276cf659f30cabde72a6fc452171.js"></script>
-
-    <script type="text/javascript" src="<?php echo CW_BASE_URL; ?>/assets/js/account-internal.min.js"></script>
-
+    <!--<script type="text/javascript" src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/js/crypto-js.min.js"></script> -->
+<script
+      src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/global/js/crypto-js.min.6fa2276cf659f30cabde72a6fc452171.js"></script><script type="text/javascript" src="<?php echo CW_BASE_URL; ?>/assets/js/account-internal.min.js"></script>
     <header id="header" role="banner">
       <!--googleoff: all-->
       <div class="skip-bar">
@@ -15257,9 +15185,7 @@
             </a>
 
             <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
-              
 
-              
                 <svg class="icon" focusable="false" aria-hidden="true" width="96" height="96" viewBox="0 0 96 96"
                   data-di-res-id="fd545a34-97dd695e" data-di-rand="1778922890642">
                   <path
@@ -15267,8 +15193,6 @@
                     transform="translate(-0.5 0.5)"></path>
                 </svg>
               </span>
-
-              
 
               <button class="nv00-gnb-v4__utility nv00-gnb-v4__utility-hamburger" data-js-action="hamburger"
                 aria-expanded="false" aria-haspopup="true" an-tr="nv00_gnb-flagship pdp-gnb open / close-navigation2"
@@ -15292,7 +15216,7 @@
                   <use xlink:href="#previous-regular" href="#previous-regular"></use>
                 </svg>
               </button>
-              
+
             </div>
 
             <div class="nv00-gnb-v4__container-inner">
@@ -15339,8 +15263,6 @@
                       <div class="nv00-gnb-v4__l1-menu-list" role="menu" aria-label="shop menu">
 
                         <!-- TV&AV Do Not Contain L2 Start -->
-
-                        
 
                         <!-- TV&AV Do Not Contain L2 End -->
 
@@ -15404,8 +15326,6 @@
 
                         <!-- TV&AV Do Not Contain L2 Start -->
 
-                        
-
                         <!-- TV&AV Do Not Contain L2 End -->
 
                         <!-- TV&AV Include L2 Start -->
@@ -15441,8 +15361,6 @@
 
                         <!-- TV&AV Do Not Contain L2 Start -->
 
-                        
-
                         <!-- TV&AV Do Not Contain L2 End -->
 
                         <!-- TV&AV Include L2 Start -->
@@ -15450,8 +15368,6 @@
                         <!-- TV&AV Include L2 End -->
 
                         <!-- TV&AV Do Not Contain L2 Start -->
-
-                        
 
                         <!-- TV&AV Do Not Contain L2 End -->
 
@@ -17021,13 +16937,9 @@
                             aria-label="Contact">
                             <div class="nv00-gnb-v4__l2-menu-container-inner" data-js-action="accordionInner">
 
-                              
-
                               <a class="nv00-gnb-v4__l2-menu-link" href="<?php echo CW_BASE_URL; ?>/support/contact/"
                                 role="menuitem" an-tr="nv00_gnb-flagship pdp-text l2-navigation2" an-ca="navigation"
-                                an-ac="gnb" an-la="support:contact:call" data-di-id="di-id-544a230a-937bfe07">Call</a>
-
-                              
+                                an-ac="gnb" an-la="support:contact:call" data-di-id="di-id-544a230a-937bfe07">Contact Us</a>
 
                               <a class="nv00-gnb-v4__l2-menu-link" href="<?php echo CW_BASE_URL; ?>/sign-language/"
                                 role="menuitem" an-tr="nv00_gnb-flagship pdp-text l2-navigation2" an-ca="navigation"
@@ -17068,10 +16980,6 @@
                                 an-la="support:repairs and warranty:service locator"
                                 data-di-id="di-id-50d560c1-197f42d1">Service Center</a>
 
-                              
-
-                              
-
                               <a class="nv00-gnb-v4__l2-menu-link"
                                 href="<?php echo CW_BASE_URL; ?>/support/repair-price/" role="menuitem"
                                 an-tr="nv00_gnb-flagship pdp-text l2-navigation2" an-ca="navigation" an-ac="gnb"
@@ -17100,7 +17008,6 @@
                                 an-ac="gnb" an-la="support:additional support:news and alerts"
                                 data-di-id="di-id-6ed954c-535846f4">News &amp; Alerts</a>
 
-                              
                             </div>
                           </div>
                         </div>
@@ -17196,6 +17103,15 @@
 
                 <!-- Type E Support End -->
                 <!-- Non-Type Right Menu Start -->
+        <li class="nv00-gnb-v4__l0-menu">
+            <div class="nv00-gnb-v4__l0-menu-title">
+
+                <a class="nv00-gnb-v4__l0-menu-link" href="<?php echo CW_BASE_URL; ?>/support/contact/" data-js-action="l0MenuBtn" role="menuitem" an-tr="nv00_gnb-flagship pdp-banner-navigation2" an-ca="navigation" an-ac="gnb" an-la="L0_11_contact" aria-label="Contact Us" data-di-id="di-id-cw-contact-header">
+                    Contact
+                </a>
+            </div>
+        </li>
+
                 <li class="nv00-gnb-v4__l0-menu">
                   <div class="nv00-gnb-v4__l0-menu-title">
 
@@ -17212,7 +17128,7 @@
               </ul>
 
               </div>
-                
+
                   </div>
                 </div>
 
@@ -17233,13 +17149,11 @@
       </div>
       <div class="nv00-gnb-v4__dim"></div>
 
-      
       <!-- SA 로그아웃호출 폼 -->
-      
+
       <!-- 회원가입 폼 -->
-      
+
       <!-- Find Email 폼 -->
-      
 
       <!-- Account Modify Form -->
       <form id="accountModifyForm" name="accountModifyForm" method="post"
@@ -17596,7 +17510,7 @@
               <div class="static-content aem-GridColumn aem-GridColumn--default--12">
 
                 <!-- include raw codes -->
-                <script>
+<script>
                   var FLAGSHIP_PROD_NAME = "galaxy-s26";
                   var FLAGSHIP_PAGE_NAME = "features";
                   var COUNTRY_SHOP_STATUS = "";
@@ -17637,7 +17551,7 @@
                   href="../../../samsung/resources/global/galaxy-s26/common/css/common.min.css">
                 <link rel="stylesheet" type="text/css"
                   href="../../../samsung/resources/global/galaxy-s26/common/viewer/css/style.css">
-                <style>
+<style>
                   .color_yb .common-body01,
                   .color_yb .common-body01 strong,
                   .color_yb .common-body02,
@@ -42584,8 +42498,7 @@
                       width: auto;
                     }
                   }
-                </style>
-                <style data-gro-local-css="">
+                </style><style data-gro-local-css="">
                   @media screen and (min-width: 768px) {
                     .features-common-compare__selectbox {
                       margin: 0 auto;
@@ -42698,7 +42611,7 @@
                 <!-- // 1. Header Contents -->
                 <!-- 2. Body Contents -->
                 <div id="contents" class="flagship-contents features is-dotcom is-english">
-                  <script>
+<script>
                     const LOCAL_VARI = {
                       selected: "Selected",
                       slide: "Slide",
@@ -48038,7 +47951,7 @@
                           <p class="common-body02">
                             <span class="common-text">Experience the <strong>latest Galaxy AI features</strong> and One
                               UI in the <strong>Try Galaxy app or at trygalaxy.com.</strong></span>
-                            
+
                             </span>
                           </p>
                           <div class="features-switch-to-galaxy__item-image">
@@ -48228,7 +48141,7 @@
                             <span class="common-text"><strong>Experience secure, efficient browsing with Galaxy
                                 AI,</strong> seamless Mobile-PC connectivity and intelligent features.</span>
                           </p>
-                          
+
                           </span>
                         </div>
                         <div class="features-samsung-browser__image">
@@ -49591,7 +49504,7 @@
                         </ul>
                       </div>
                     </div>
-                    <script type="application/ld+json">
+<script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@type": "FAQPage",
@@ -49831,8 +49744,7 @@
                               <div class="features-reviews-out__bv" id="bvoutSummary" data-bv-show="reviews"
                                 data-bv-productid="SM-S942BZVOPKD" data-bv-ready="true" aria-hidden="true"
                                 tabindex="-1"></div>
-                              
-                              
+
                             </div>
                           </div>
                         </div>
@@ -49843,7 +49755,7 @@
                   <div class="features-bottom-banner">
                     <div class="common-inner">
                       <div class="features-bottom-banner__item-wrap">
-                        <script type="application/ld+json">
+<script type="application/ld+json">
           {
             "@context": "https://schema.org/",
             "@type": "3DModel",
@@ -49948,7 +49860,7 @@
                     data-di-id="#arLink"><img
                       src="<?php echo CW_BASE_URL; ?>/samsung/resources/global/galaxy-s26/common/images/blank.gif"
                       alt=""></a>
-                  <script>
+<script>
                     (function () {
                       var arButton = document.querySelector("#arLink");
                       var event = searchParam("event") ? searchParam("event").toLowerCase() : null;
@@ -50715,8 +50627,7 @@
                     </div>
                   </div>
                   <!-- Schema -->
-
-                  <script type="application/ld+json">
+<script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Product",
@@ -50782,9 +50693,7 @@
         "@id": "https://www.samsung.com/pk/smartphones/galaxy-s26/#webpage"
       }
     }
-  </script>
-
-                  <script type="application/ld+json">
+  </script><script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Quotation",
@@ -50800,8 +50709,7 @@
       },
       "inLanguage": "en-PK"
     }
-  </script>
-                  <script type="application/ld+json">
+  </script><script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Quotation",
@@ -50817,9 +50725,7 @@
       },
       "inLanguage": "en-PK"
     }
-  </script>
-
-                  <script type="application/ld+json">
+  </script><script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "VideoObject",
@@ -50840,7 +50746,7 @@
     }
   </script>
                   <div>
-                    <script type="application/ld+json">
+<script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@type": "VideoObject",
@@ -50863,7 +50769,7 @@
                   </div>
 
                   <div>
-                    <script type="application/ld+json">
+<script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@type": "VideoObject",
@@ -50884,8 +50790,7 @@
       }
     </script>
                   </div>
-
-                  <script type="application/ld+json">
+<script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "VideoObject",
@@ -50906,7 +50811,7 @@
     }
   </script>
                   <div>
-                    <script type="application/ld+json">
+<script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@type": "VideoObject",
@@ -50928,7 +50833,7 @@
     </script>
                   </div>
                   <div>
-                    <script type="application/ld+json">
+<script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@type": "VideoObject",
@@ -50950,7 +50855,7 @@
     </script>
                   </div>
                   <div>
-                    <script type="application/ld+json">
+<script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@type": "VideoObject",
@@ -51120,17 +51025,14 @@
                   </div>
                   <!-- // 2. Body Contents -->
                   <!-- 3. Javascript -->
-                  <script
-                    src="<?php echo CW_BASE_URL; ?>/samsung/resources/global/galaxy-s26/common/js/common.min.js"></script>
-                  <script
-                    src="<?php echo CW_BASE_URL; ?>/samsung/resources/global/galaxy-s26/common/viewer/js/main.js"></script>
-                  <script>
+<script
+                    src="<?php echo CW_BASE_URL; ?>/samsung/resources/global/galaxy-s26/common/js/common.min.js"></script><script
+                    src="<?php echo CW_BASE_URL; ?>/samsung/resources/global/galaxy-s26/common/viewer/js/main.js"></script><script>
                     LOCAL_VARI.viewer = {
                       loadingText: "Loading...",
                       altText: "A 3D device simulation of Galaxy S26 plus that rotates. Showing the main screen with the main screen camera, the back of the device and its rear cameras, side keys and side button.",
                     };
-                  </script>
-                  <script>
+                  </script><script>
                     (function (win, doc, callback) {
                       "use strict";
                       function detach() {
@@ -58661,10 +58563,8 @@
 
                   </ul>
                 </div>
-
-                <script type="application/ld+json" data-type="seo" data-object-type="BreadcrumbList"
+<script type="application/ld+json" data-type="seo" data-object-type="BreadcrumbList"
                   data-id="75c1d161-e93a-4cc1-b7df-e6d96b2405cf">{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.samsung.com/pk/smartphones/galaxy-s26/#breadcrumb","itemListElement":[{"@type":"ListItem","name":"Home","item":"https://www.samsung.com/pk/","position":1},{"@type":"ListItem","name":"Mobile","item":"https://www.samsung.com/pk/mobile/","position":2},{"@type":"ListItem","name":"Smartphones","item":"https://www.samsung.com/pk/smartphones/","position":3},{"@type":"ListItem","name":"Galaxy S26 | S26+","item":"","position":4}]}</script>
-
               </nav>
 
             </div>
@@ -58944,10 +58844,6 @@
 
                   </li>
 
-                  
-
-                  
-
                   <li class="footer-category__item" role="listitem">
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/support/repair-price/"
@@ -58957,8 +58853,6 @@
 
                   </li>
 
-                  
-
                   <li class="footer-category__item" role="listitem">
 
                     <a class="footer-category__link" href="<?php echo CW_BASE_URL; ?>/support/contact/"
@@ -58966,8 +58860,6 @@
                       aria-label="Call Call" an-as="" data-di-id="di-id-52ca4ab0-ea615fe5">Call</a>
 
                   </li>
-
-                  
 
                   <li class="footer-category__item" role="listitem">
 
@@ -58997,14 +58889,6 @@
               </a>
               <div class="footer-category__list-wrap">
                 <ul class="footer-category__list" role="list">
-
-                  
-
-                  
-
-                  
-
-                  
 
                 </ul>
               </div>
@@ -59066,10 +58950,6 @@
 
                   </li>
 
-                  
-
-                  
-
                 </ul>
               </div>
             </div>
@@ -59129,8 +59009,6 @@
 
                   </li>
 
-                  
-
                   <li class="footer-category__item" role="listitem">
 
                     <a class="footer-category__link new-window" href="<?php echo CW_BASE_URL; ?>/news/" target="_blank"
@@ -59138,7 +59016,7 @@
                       aria-label="Newsroom Newsroom : Open in a New Window" an-as=""
                       data-di-id="di-id-805176bb-cf811b79">
                       Newsroom
-                      
+
                     </a>
 
                   </li>
@@ -59152,8 +59030,6 @@
                     </a>
 
                   </li>
-
-                  
 
                   <li class="footer-category__item" role="listitem">
 
@@ -59230,12 +59106,11 @@
 
                 <li class="footer-terms__item" role="listitem">
 
-                  
                 </li>
 
               </ul>
             </div>
-            
+
           </div>
 
         </div>
@@ -59250,21 +59125,18 @@
       </svg>
     </button>
     <!--googleon: all-->
-
-    <script
-      src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.407b108c60433f00a6b1a0e8f272a2c1.js"></script>
-    <script
+<script
+      src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.407b108c60433f00a6b1a0e8f272a2c1.js"></script><script
       src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux25.min.172c7e8f7944347bd914a84f57505c13.js"></script>
-
     <!-- <sly data-sly-test="false">
-    <script type="text/javascript" src='<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/resources/au/js/au.js'></script>
+<script type="text/javascript" src='<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/resources/au/js/au.js'></script>
   </sly> -->
 
     <!--[if lt IE 9]>
-  <script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
+<script src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/ie9/html5.js"></script>
   <![endif]-->
     <!--[if lte IE 9]>
-  <script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>
   <![endif]-->
 
     <!-- whereToBuyComponentYn=[N] -->
@@ -60076,30 +59948,18 @@
         </div>
       </div>
     </section>
-
-    <script type="text/javascript"
+<script type="text/javascript"
       src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-flagship/compact.min.abefc3eb13223fd0577b59dadaf0925a.js"
-      async=""></script>
-
-    <script type="text/javascript"
+      async=""></script><script type="text/javascript"
       src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/product-popup/pd-g-register-product-popup/clientlibs/site.min.b824af03acb4e31aa31d33a2c2cd2e7b.js"
-      async=""></script>
-
-    <script type="text/javascript"
+      async=""></script><script type="text/javascript"
       src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/epp/common/ep-cm-g-barcode-scanner-popup/clientlibs/site.min.88306b852289a614c4cd5bb5f639dcaa.js"
-      async=""></script>
-
-    <script
+      async=""></script><script
       src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/product/pd-g-floating-nav/clientlibs/site.min.02ee45e8d1cfbc8350659cb54ce295a5.js"
-      async=""></script>
-
-    <script
+      async=""></script><script
       src="<?php echo CW_BASE_URL; ?>/etc.clientlibs/samsung/components/content/consumer/global/function/fn-g-personalization/clientlibs/site.min.d41d8cd98f00b204e9800998ecf8427e.css"
-      async=""></script>
-
-    <script type="application/ld+json" data-type="seo" data-object-type="WebPage"
+      async=""></script><script type="application/ld+json" data-type="seo" data-object-type="WebPage"
       data-id="bfe934b1-2d25-4c78-90df-3ea6541a61be">{"@context":"https://schema.org","@type":["WebPage","ItemPage"],"name":"Samsung Galaxy S26 with Galaxy AI | Samsung Pakistan","@id":"https://www.samsung.com/pk/smartphones/galaxy-s26/#webpage","description":"Discover Samsung Galaxy S26 and get 30% off on the S26 Magnet Case in Samsung Pakistan\u0026#39;s AI Week offers. Now only Rs. 356,999. Experience Galaxy AI.\r\n","url":"https://www.samsung.com/pk/smartphones/galaxy-s26/","primaryImageOfPage":"<?php echo CW_BASE_URL; ?>/assets/images/galaxy-s26-share-image.jpg","mainEntity":{"@id":"https://www.samsung.com/pk/smartphones/galaxy-s26/"},"about":{"@id":"http://www.samsung.com/pk/smartphones/galaxy-s26/buy/"}}</script>
-
   </body>
 
 </html>

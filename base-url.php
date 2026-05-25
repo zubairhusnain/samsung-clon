@@ -101,7 +101,6 @@ function cw_inject_after_head_open(string $html, string $insertion): string
     return substr($html, 0, $gt + 1) . $insertion . substr($html, $gt + 1);
 }
 
-
 function cw_rewrite_asset_urls_in_html(string $html): string
 {
     $base = CW_BASE_URL;
@@ -434,7 +433,7 @@ function cw_rewrite_asset_urls_in_html(string $html): string
     $html = preg_replace(
         '~</body>~i',
         '
-    <script>
+<script>
         (function() {
             var savedProductHTML = "";
             var contentWrap = null;
